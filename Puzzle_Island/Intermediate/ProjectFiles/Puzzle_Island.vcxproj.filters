@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\Puzzle_Island.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{46A78A37-BDEF-46F8-970C-91E3D512BD38}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Puzzle_Island.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\Puzzle_IslandEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{174CF1E2-4967-4AC6-A525-DDDF3E9E2207}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\Puzzle_Island">
+			<UniqueIdentifier>{9D3201AA-DE33-4EE6-8FC8-27E0AB8725E2}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Puzzle_Island\Puzzle_Island.Build.cs">
+			<Filter>Source\Puzzle_Island</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\Puzzle_Island\Puzzle_Island.cpp">
+			<Filter>Source\Puzzle_Island</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Puzzle_Island\Puzzle_Island.h">
+			<Filter>Source\Puzzle_Island</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Puzzle_Island\Puzzle_IslandCharacter.cpp">
+			<Filter>Source\Puzzle_Island</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Puzzle_Island\Puzzle_IslandCharacter.h">
+			<Filter>Source\Puzzle_Island</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Puzzle_Island\Puzzle_IslandGameMode.cpp">
+			<Filter>Source\Puzzle_Island</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Puzzle_Island\Puzzle_IslandGameMode.h">
+			<Filter>Source\Puzzle_Island</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
