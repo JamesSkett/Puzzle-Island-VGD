@@ -4,7 +4,7 @@
 	<ItemGroup>
 		<None Include="..\..\Puzzle_Island.uproject" />
 		<Filter Include="Source">
-			<UniqueIdentifier>{46A78A37-BDEF-46F8-970C-91E3D512BD38}</UniqueIdentifier>
+			<UniqueIdentifier>{FE78B568-AF31-4B69-95D5-54E7D13B60DE}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\Puzzle_Island.Target.cs">
 			<Filter>Source</Filter>
@@ -13,7 +13,7 @@
 			<Filter>Source</Filter>
 		</None >
 		<Filter Include="Config">
-			<UniqueIdentifier>{174CF1E2-4967-4AC6-A525-DDDF3E9E2207}</UniqueIdentifier>
+			<UniqueIdentifier>{ED94DDCC-150B-425F-802B-B7B149457D9A}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Config\DefaultEditor.ini">
 			<Filter>Config</Filter>
@@ -31,7 +31,7 @@
 			<Filter>Config</Filter>
 		</None >
 		<Filter Include="Source\Puzzle_Island">
-			<UniqueIdentifier>{9D3201AA-DE33-4EE6-8FC8-27E0AB8725E2}</UniqueIdentifier>
+			<UniqueIdentifier>{BC35D52F-A564-420E-BE29-26A0ECE69809}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\Puzzle_Island\Puzzle_Island.Build.cs">
 			<Filter>Source\Puzzle_Island</Filter>

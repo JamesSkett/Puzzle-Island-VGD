@@ -84,7 +84,7 @@
 		</ProjectConfiguration>
 	</ItemGroup>
 	<PropertyGroup Label="Globals">
-		<ProjectGuid>{E941ECC6-F9C1-423C-8168-2CA39B855805}</ProjectGuid>
+		<ProjectGuid>{190563D1-9D89-47A7-A742-79C5EE81055D}</ProjectGuid>
 		<Keyword>MakeFileProj</Keyword>
 		<RootNamespace>Puzzle_Island</RootNamespace>
        <PlatformToolset>v140</PlatformToolset>
