@@ -69,3 +69,5 @@ Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 Puzzle_Island/Saved/AutoScreenshot\.png
+
+Puzzle_Island/Saved/Autosaves/
