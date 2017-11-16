@@ -1,9 +1,9 @@
 ------------------
 System Information
 ------------------
-      Time of this report: 11/16/2017, 11:14:18
-             Machine name: W65141
-               Machine Id: {B3C63ADA-4746-4C17-A9DA-FE0405DD187A}
+      Time of this report: 11/16/2017, 12:21:48
+             Machine name: W65142
+               Machine Id: {FAAE8A57-4486-4B25-A77B-F80FD8EB7A10}
          Operating System: Windows 10 Education 64-bit (10.0, Build 15063) (15063.rs2_release.170317-1834)
                  Language: English (Regional Setting: English)
       System Manufacturer: Alienware
@@ -12,7 +12,7 @@ System Information
                 Processor: Intel(R) Core(TM) i7-4820K CPU @ 3.70GHz (8 CPUs), ~3.7GHz
                    Memory: 16384MB RAM
       Available OS Memory: 16302MB RAM
-                Page File: 8220MB used, 10514MB available
+                Page File: 6349MB used, 12384MB available
               Windows Dir: C:\windows
           DirectX Version: DirectX 12
       DX Setup Parameters: Not found
@@ -59,8 +59,8 @@ Driver Problem Code: Unknown
       Shared Memory: 8151 MB
        Current Mode: 1920 x 1200 (32 bit) (59Hz)
        Monitor Name: Generic PnP Monitor
-      Monitor Model: DELL U2412M
-         Monitor Id: DELA07A
+      Monitor Model: HP LP2465
+         Monitor Id: HWP2676
         Native Mode: 1920 x 1200(p) (59.950Hz)
         Output Type: DVI
         Driver Name: C:\windows\System32\DriverStore\FileRepository\nv_desktop_ref4i.inf_amd64_ded2c0db75cf859b\nvldumdx.dll,C:\windows\System32\DriverStore\FileRepository\nv_desktop_ref4i.inf_amd64_ded2c0db75cf859b\nvldumdx.dll,C:\windows\System32\DriverStore\FileRepository\nv_desktop_ref4i.inf_amd64_ded2c0db75cf859b\nvldumdx.dll,C:\windows\System32\DriverStore\FileRepository\nv_desktop_ref4i.inf_amd64_ded2c0db75cf859b\nvldumdx.dll
@@ -368,7 +368,7 @@ PS/2 Devices
 Disk & DVD/CD-ROM Drives
 ------------------------
       Drive: C:
- Free Space: 709.2 GB
+ Free Space: 707.6 GB
 Total Space: 943.8 GB
 File System: NTFS
       Model: ST1000DX001-1NS162
@@ -1217,158 +1217,25 @@ Diagnostics
 
 Windows Error Reporting:
 +++ WER0 +++:
-Fault bucket 120810916837, type 4
-Event Name: APPCRASH
+Fault bucket 2232942832876411074, type 5
+Event Name: WindowsUpdateFailure3
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: LogonUI.exe
-P2: 10.0.15063.0
-P3: ccf07184
-P4: StackHash12_8fa
-P5: 0.0.0.0
-P6: 00000000
-P7: 8007000e
-P8: 0
-P9: 
-P10: 
+P1: 10.0.15063.726
+P2: 8024000b
+P3: 5E147C1D-44C9-4170-B5FE-59204EE6AB0D
+P4: Download
+P5: 200
+P6: 0
+P7: 0
+P8: Windows Defender Antivirus (77BDAF73-B396-481F-9042-AD358843EC24)
+P9: {9482F4B4-E343-43B6-B170-9A65BC822C77}
+P10: 0
 
 
 +++ WER1 +++:
-Fault bucket , type 0
-Event Name: APPCRASH
-Response: Not available
-Cab Id: 0
-
-Problem signature:
-P1: LogonUI.exe
-P2: 10.0.15063.0
-P3: ccf07184
-P4: StackHash12_8fa
-P5: 0.0.0.0
-P6: 00000000
-P7: 8007000e
-P8: 0
-P9: 
-P10: 
-
-
-+++ WER2 +++:
-Fault bucket , type 0
-Event Name: LiveKernelEvent
-Response: Not available
-Cab Id: 0
-
-Problem signature:
-P1: 144
-P2: 1009
-P3: ffffc781bda59970
-P4: 0
-P5: 0
-P6: 10_0_15063
-P7: 0_0
-P8: 256_1
-P9: 
-P10: 
-
-
-+++ WER3 +++:
-Fault bucket , type 0
-Event Name: LiveKernelEvent
-Response: Not available
-Cab Id: 0
-
-Problem signature:
-P1: 144
-P2: 100b
-P3: ffffc781bc59f970
-P4: 0
-P5: 0
-P6: 10_0_15063
-P7: 0_0
-P8: 256_1
-P9: 
-P10: 
-
-
-+++ WER4 +++:
-Fault bucket , type 0
-Event Name: LiveKernelEvent
-Response: Not available
-Cab Id: 0
-
-Problem signature:
-P1: 144
-P2: 100d
-P3: ffffc781bc59f970
-P4: 0
-P5: 0
-P6: 10_0_15063
-P7: 0_0
-P8: 256_1
-P9: 
-P10: 
-
-
-+++ WER5 +++:
-Fault bucket , type 0
-Event Name: LiveKernelEvent
-Response: Not available
-Cab Id: 0
-
-Problem signature:
-P1: 144
-P2: 1009
-P3: ffffc781bda59970
-P4: 0
-P5: 0
-P6: 10_0_15063
-P7: 0_0
-P8: 256_1
-P9: 
-P10: 
-
-
-+++ WER6 +++:
-Fault bucket , type 0
-Event Name: LiveKernelEvent
-Response: Not available
-Cab Id: 0
-
-Problem signature:
-P1: 144
-P2: 100b
-P3: ffffc781bc59f970
-P4: 0
-P5: 0
-P6: 10_0_15063
-P7: 0_0
-P8: 256_1
-P9: 
-P10: 
-
-
-+++ WER7 +++:
-Fault bucket , type 0
-Event Name: LiveKernelEvent
-Response: Not available
-Cab Id: 0
-
-Problem signature:
-P1: 144
-P2: 100d
-P3: ffffc781bc59f970
-P4: 0
-P5: 0
-P6: 10_0_15063
-P7: 0_0
-P8: 256_1
-P9: 
-P10: 
-
-
-+++ WER8 +++:
 Fault bucket 127930299139, type 5
 Event Name: MpTelemetry
 Response: Not available
@@ -1387,7 +1254,45 @@ P9:
 P10: 
 
 
-+++ WER9 +++:
++++ WER2 +++:
+Fault bucket , type 0
+Event Name: WindowsUpdateFailure3
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: 10.0.15063.726
+P2: 8024000b
+P3: 5E147C1D-44C9-4170-B5FE-59204EE6AB0D
+P4: Download
+P5: 200
+P6: 0
+P7: 0
+P8: Windows Defender Antivirus (77BDAF73-B396-481F-9042-AD358843EC24)
+P9: {9482F4B4-E343-43B6-B170-9A65BC822C77}
+P10: 0
+
+
++++ WER3 +++:
+Fault bucket , type 0
+Event Name: WindowsUpdateFailure3
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: 10.0.15063.726
+P2: 8024000b
+P3: 5E147C1D-44C9-4170-B5FE-59204EE6AB0D
+P4: Download
+P5: 200
+P6: 0
+P7: 0
+P8: Windows Defender Antivirus (77BDAF73-B396-481F-9042-AD358843EC24)
+P9: {9482F4B4-E343-43B6-B170-9A65BC822C77}
+P10: 0
+
+
++++ WER4 +++:
 Fault bucket 127930299099, type 5
 Event Name: MpTelemetry
 Response: Not available
@@ -1404,5 +1309,100 @@ P7: unspecified
 P8: 
 P9: 
 P10: 
+
+
++++ WER5 +++:
+Fault bucket , type 0
+Event Name: MpTelemetry
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: unspecified
+P2: HardeningTelemetry
+P3: HardeningTelemetryDisableAS
+P4: 4.11.15063.447
+P5: unspecified
+P6: unspecified
+P7: unspecified
+P8: 
+P9: 
+P10: 
+
+
++++ WER6 +++:
+Fault bucket , type 0
+Event Name: MpTelemetry
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: unspecified
+P2: HardeningTelemetry
+P3: HardeningTelemetryDisableAV
+P4: 4.11.15063.447
+P5: unspecified
+P6: unspecified
+P7: unspecified
+P8: 
+P9: 
+P10: 
+
+
++++ WER7 +++:
+Fault bucket 1335116399133204576, type 5
+Event Name: WindowsUpdateFailure3
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: 10.0.15063.674
+P2: 80070643
+P3: 42F64C19-E8FB-4DE0-A8CD-961185E98450
+P4: Install
+P5: 200
+P6: 0
+P7: 80004004
+P8: Windows Defender Antivirus (77BDAF73-B396-481F-9042-AD358843EC24)
+P9: {9482F4B4-E343-43B6-B170-9A65BC822C77}
+P10: 0
+
+
++++ WER8 +++:
+Fault bucket , type 0
+Event Name: WindowsUpdateFailure3
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: 10.0.15063.674
+P2: 80070643
+P3: 42F64C19-E8FB-4DE0-A8CD-961185E98450
+P4: Install
+P5: 200
+P6: 0
+P7: 80004004
+P8: Windows Defender Antivirus (77BDAF73-B396-481F-9042-AD358843EC24)
+P9: {9482F4B4-E343-43B6-B170-9A65BC822C77}
+P10: 0
+
+
++++ WER9 +++:
+Fault bucket , type 0
+Event Name: WindowsUpdateFailure3
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: 10.0.15063.674
+P2: 80070643
+P3: 42F64C19-E8FB-4DE0-A8CD-961185E98450
+P4: Install
+P5: 200
+P6: 0
+P7: 80004004
+P8: Windows Defender Antivirus (77BDAF73-B396-481F-9042-AD358843EC24)
+P9: {9482F4B4-E343-43B6-B170-9A65BC822C77}
+P10: 0
 
 
