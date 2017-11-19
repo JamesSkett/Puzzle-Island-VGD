@@ -1,0 +1,538 @@
+﻿Log file open, 11/19/17 12:03:28
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Puzzle_Island
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1339110374) SRandInit(-1339110374).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.207478
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.11.19-12.03.30:840][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.19-12.03.30:840][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.11.19-12.03.30:852][  0]LogInit: Computer: JAKUBSIEWNIAK
+[2017.11.19-12.03.30:852][  0]LogInit: User: Jakub
+[2017.11.19-12.03.30:852][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.11.19-12.03.30:852][  0]LogInit: High frequency timer resolution =2.435768 MHz
+[2017.11.19-12.03.30:852][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2017.11.19-12.03.30:852][  0]LogMemory: Platform Memory Stats for Windows
+[2017.11.19-12.03.30:852][  0]LogMemory: Process Physical Memory: 279.41 MB used, 279.41 MB peak
+[2017.11.19-12.03.30:852][  0]LogMemory: Process Virtual Memory: 282.40 MB used, 282.40 MB peak
+[2017.11.19-12.03.30:852][  0]LogMemory: Physical Memory: 7717.50 MB used,  24966.93 MB free, 32684.42 MB total
+[2017.11.19-12.03.30:852][  0]LogMemory: Virtual Memory: 667.70 MB used,  24966.93 MB free, 134217728.00 MB total
+[2017.11.19-12.03.31:127][  0]LogInit: Using OS detected language (en-GB).
+[2017.11.19-12.03.31:127][  0]LogInit: Using OS detected locale (en-GB).
+[2017.11.19-12.03.31:132][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2017.11.19-12.03.32:165][  0]LogD3D11RHI: D3D11 adapters:
+[2017.11.19-12.03.32:221][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 880M' (Feature Level 11_0)
+[2017.11.19-12.03.32:221][  0]LogD3D11RHI:       8154/0/16342 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.11.19-12.03.32:227][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2017.11.19-12.03.32:227][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.11.19-12.03.32:229][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.11.19-12.03.32:229][  0]LogD3D11RHI:       0/0/16342 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.11.19-12.03.32:229][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.11.19-12.03.32:236][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.11.19-12.03.32:236][  0]LogD3D11RHI:     GPU DeviceId: 0x1198 (for the marketing name, search the web for "GPU Device Id")
+[2017.11.19-12.03.32:236][  0]LogWindows: EnumDisplayDevices:
+[2017.11.19-12.03.32:236][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2017.11.19-12.03.32:236][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2017.11.19-12.03.32:236][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2017.11.19-12.03.32:237][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.11.19-12.03.32:237][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 880M
+[2017.11.19-12.03.32:237][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.11.19-12.03.32:237][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.11.19-12.03.32:237][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.11.19-12.03.32:277][  0]LogD3D11RHI: Async texture creation enabled
+[2017.11.19-12.03.32:288][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.11.19-12.03.32:289][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Intermediate/Shaders/WorkingDirectory/11912/).
+[2017.11.19-12.03.32:289][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jakub/AppData/Local/Temp/UnrealShaderWorkingDir/7158C3AA4455305313DD35ABF9F7A8E8/'.
+[2017.11.19-12.03.32:289][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.11.19-12.03.33:724][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.11.19-12.03.33:804][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.11.19-12.03.33:877][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.11.19-12.03.33:951][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.11.19-12.03.34:035][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.11.19-12.03.34:111][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.11.19-12.03.34:198][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.11.19-12.03.34:283][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.11.19-12.03.34:355][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.11.19-12.03.34:435][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.11.19-12.03.34:517][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.11.19-12.03.34:594][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.11.19-12.03.34:669][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.11.19-12.03.34:743][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.11.19-12.03.34:828][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.11.19-12.03.34:984][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.11.19-12.03.34:984][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.11.19-12.03.35:053][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.11.19-12.03.35:186][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.11.19-12.03.35:231][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.11.19-12.03.35:313][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.11.19-12.03.35:395][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.11.19-12.03.35:474][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.11.19-12.03.35:547][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.11.19-12.03.35:547][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.11.19-12.03.36:298][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.11.19-12.03.36:410][  0]LogDerivedDataCache: Loaded boot cache 0.11s 93MB C:/Users/Jakub/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.11.19-12.03.36:410][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jakub/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.11.19-12.03.36:410][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.11.19-12.03.36:410][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.11.19-12.03.36:410][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.11.19-12.03.36:410][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.11.19-12.03.36:430][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.11.19-12.03.36:443][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jakub/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.11.19-12.03.36:456][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.11.19-12.03.36:457][  0]LogSlate: Using Freetype 2.6.0
+[2017.11.19-12.03.36:458][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.19-12.03.36:458][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.19-12.03.36:829][  0]LogAssetRegistry: FAssetRegistry took 0.0273 seconds to start up
+[2017.11.19-12.03.37:006][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.19-12.03.37:243][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.11.19-12.03.37:851][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.11.19-12.03.37:941][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.11.19-12.03.37:941][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.11.19-12.03.37:941][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.11.19-12.03.37:941][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.11.19-12.03.37:941][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.11.19-12.03.38:442][  0]LogNetVersion: Puzzle_Island , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3939646741)
+[2017.11.19-12.03.38:761][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.070407 seconds
+[2017.11.19-12.03.38:769][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.11.19-12.03.38:769][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2017.11.19-12.03.38:769][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.11.19-12.03.38:852][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.11.19-12.03.42:979][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.11.19-12.03.43:038][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.11.19-12.03.44:301][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.11.19-12.03.45:035][  0]SourceControl: Source control is disabled
+[2017.11.19-12.03.45:035][  0]SourceControl: Source control is disabled
+[2017.11.19-12.03.45:126][  0]SourceControl: Source control is disabled
+[2017.11.19-12.03.45:216][  0]SourceControl: Source control is disabled
+[2017.11.19-12.03.46:211][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.11.19-12.03.46:717][  0]LogOcInput: OculusInput pre-init called
+[2017.11.19-12.03.47:159][  0]LogEngine: Initializing Engine...
+[2017.11.19-12.03.47:162][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.11.19-12.03.47:455][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.11.19-12.03.47:455][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.11.19-12.03.47:687][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.11.19-12.03.47:698][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.19-12.03.47:762][  0]LogInit: FAudioDevice initialized.
+[2017.11.19-12.03.47:864][  0]LogDerivedDataCache: Saved boot cache 0.10s 93MB C:/Users/Jakub/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.11.19-12.03.47:877][  0]LogInit: Texture streaming: Enabled
+[2017.11.19-12.03.48:048][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.11.19-12.03.48:420][  0]LogInit: Transaction tracking system initialized
+[2017.11.19-12.03.48:934][  0]BlueprintLog: New page: Editor Load
+[2017.11.19-12.03.50:421][  0]LocalizationService: Localization service is disabled
+[2017.11.19-12.03.51:676][  0]LogConsoleResponse: Display: 
+[2017.11.19-12.03.51:955][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.11.19-12.03.51:955][  0]LogCook: Display: Mobile HDR setting 1
+[2017.11.19-12.03.51:956][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.11.19-12.03.52:888][  0]LogFileCache: Scanning file cache for directory 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/' took 0.01s
+[2017.11.19-12.03.53:819][  0]SourceControl: Source control is disabled
+[2017.11.19-12.03.53:819][  0]Cmd: MAP LOAD FILE="D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.19-12.03.53:820][  0]LightingResults: New page: Lighting Build
+[2017.11.19-12.03.53:889][  0]MapCheck: New page: Map Check
+[2017.11.19-12.03.53:889][  0]LightingResults: New page: Lighting Build
+[2017.11.19-12.03.54:119][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.19-12.03.54:131][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.19-12.03.54:159][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.19-12.03.54:289][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 129.643ms to complete.
+[2017.11.19-12.03.54:289][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.471
+[2017.11.19-12.03.54:465][  0]LogCollectionManager: Loaded 0 collections in 0.002498 seconds
+[2017.11.19-12.03.54:579][  0]LogFileCache: Scanning file cache for directory 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Collections/' took 0.01s
+[2017.11.19-12.03.54:579][  0]LogFileCache: Scanning file cache for directory 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Developers/Jakub/Collections/' took 0.01s
+[2017.11.19-12.03.54:579][  0]LogFileCache: Scanning file cache for directory 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Collections/' took 0.01s
+[2017.11.19-12.03.54:579][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.11.19-12.03.54:592][  0]LogContentBrowser: Native class hierarchy populated in 0.0129 seconds. Added 2388 classes and 502 folders.
+[2017.11.19-12.03.54:697][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0024 seconds. Added 0 classes and 0 folders.
+[2017.11.19-12.03.54:773][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0023 seconds. Added 0 classes and 0 folders.
+[2017.11.19-12.03.54:851][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0024 seconds. Added 1 classes and 2 folders.
+[2017.11.19-12.03.55:024][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0022 seconds. Added 1 classes and 2 folders.
+[2017.11.19-12.03.55:024][  0]LogLoad: (Engine Initialization) Total time: 27.77 seconds
+[2017.11.19-12.03.55:024][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.11.19-12.03.55:025][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.11.19-12.03.55:025][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.11.19-12.03.55:036][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.19-12.03.55:056][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.11.19-12.03.55:058][  0]LogSlate: Took 0.000428 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.19-12.03.55:060][  0]LogSlate: Took 0.000349 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.11.19-12.03.55:067][  0]LogSlate: Took 0.000362 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.11.19-12.03.55:194][  0]LogSlate: Took 0.000347 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.19-12.03.55:233][  1]LogAssetRegistry: Asset discovery search completed in 18.4257 seconds
+[2017.11.19-12.03.55:236][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.11.19-12.03.55:236][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000073 seconds (updated 0 objects)
+[2017.11.19-12.03.55:275][  2]LogRenderer: Reallocating scene render targets to support 804x360 Format 10 NumSamples 1 (Frame:1).
+[2017.11.19-12.03.56:053][ 52]LogSlate: Took 0.000405 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.19-12.04.02:835][710]LogRenderer: Reallocating scene render targets to support 1168x600 Format 10 NumSamples 1 (Frame:702).
+[2017.11.19-12.04.05:280][950]LogSlate: Took 0.000283 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.19-12.04.05:800][950]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0026 seconds. Added 113 classes and 0 folders.
+[2017.11.19-12.04.06:704][950]LogSlate: Took 0.000369 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.11.19-12.04.06:817][951]LogSlate: Took 0.000458 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.11.19-12.04.54:427][913]LogSlate: Took 0.000402 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2017.11.19-12.13.55:569][133]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap' took 0.155
+[2017.11.19-12.13.55:576][133]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2017.11.19-12.13.55:672][133]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2017.11.19-12.13.55:672][133]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter]
+[2017.11.19-12.13.56:061][133]LogSavePackage: Save=374.07ms
+[2017.11.19-12.13.56:061][133]LogSavePackage: Moving 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/ThirdPersonCharacter_Auto1D87EA8B14CF38456B38C4497831C7575.tmp' to 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter_Auto1.uasset'
+[2017.11.19-12.13.56:065][133]LogSavePackage: Display: Finished SavePackage D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter_Auto1.uasset
+[2017.11.19-12.13.56:065][133]LogFileHelpers: Auto-saving content packages took 0.492
+[2017.11.19-12.16.01:622][303]LogTemp: Dropped DashDirection on Category Dash
+[2017.11.19-12.16.04:164][430]LogTemp: Dropped DashReady on Category Dash
+[2017.11.19-12.16.07:171][587]LogTemp: Dropped DashVector on Category Dash
+[2017.11.19-12.18.27:895][975]LogEditorTransaction: Undo Delete current selection
+[2017.11.19-12.22.52:707][ 42]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.11.19-12.22.52:725][ 42]LogClass: Warning: Type mismatch in DashDirection of ThirdPersonCharacter_C - Previous (FloatProperty) Current(NameProperty) for package:  FObjectReader
+[2017.11.19-12.23.05:165][575]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.19-12.23.05:223][575]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-12.23.05:223][575]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.19-12.23.05:223][575]PIE: New page: PIE session: ThirdPersonExampleMap (19 Nov 2017 12:23:05)
+[2017.11.19-12.23.05:223][575]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.11.19-12.23.05:250][575]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026147s)
+[2017.11.19-12.23.05:251][575]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.19-12.23.05:251][575]LogPlayLevel: PIE: World Init took: (0.001548s)
+[2017.11.19-12.23.05:252][575]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.028189s)
+[2017.11.19-12.23.05:299][575]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.19-12.23.05:339][575]LogInit: FAudioDevice initialized.
+[2017.11.19-12.23.05:383][575]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.19-12.23.05:389][575]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.11.19-12.23.05
+[2017.11.19-12.23.05:389][575]LogWorld: Bringing up level for play took: 0.003859
+[2017.11.19-12.23.05:490][575]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0025 seconds. Added 11 classes and 0 folders.
+[2017.11.19-12.23.05:491][575]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.524
+[2017.11.19-12.23.05:492][575]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-12.23.26:382][918]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-12.23.26:425][918]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-12.23.36:476][538]LogSavePackage: Save=80.83ms
+[2017.11.19-12.23.36:476][538]LogSavePackage: Moving 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/ThirdPersonCharacter9CDEE78641B7A9129A157BBD75BE2076.tmp' to 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.11.19-12.23.36:485][538]LogSavePackage: Display: Finished SavePackage D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset
+[2017.11.19-12.23.36:836][557]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.11.19-12.23.40:784][671]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.19-12.23.40:808][671]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-12.23.40:808][671]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.19-12.23.40:808][671]PIE: New page: PIE session: ThirdPersonExampleMap (19 Nov 2017 12:23:40)
+[2017.11.19-12.23.40:808][671]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.11.19-12.23.40:836][671]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027948s)
+[2017.11.19-12.23.40:837][671]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.19-12.23.40:838][671]LogPlayLevel: PIE: World Init took: (0.001227s)
+[2017.11.19-12.23.40:838][671]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.029569s)
+[2017.11.19-12.23.40:875][671]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.19-12.23.40:904][671]LogInit: FAudioDevice initialized.
+[2017.11.19-12.23.40:938][671]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.19-12.23.40:941][671]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.11.19-12.23.40
+[2017.11.19-12.23.40:942][671]LogWorld: Bringing up level for play took: 0.002746
+[2017.11.19-12.23.40:943][671]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.024
+[2017.11.19-12.23.40:943][671]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-12.23.46:114][ 10]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-12.23.46:158][ 10]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-12.23.50:751][302]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.11.19-12.23.51:428][309]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.11.19-12.23.52:517][342]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.11.19-12.23.54:764][452]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.19-12.23.54:787][452]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-12.23.54:787][452]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.19-12.23.54:787][452]PIE: New page: PIE session: ThirdPersonExampleMap (19 Nov 2017 12:23:54)
+[2017.11.19-12.23.54:787][452]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.11.19-12.23.54:810][452]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022560s)
+[2017.11.19-12.23.54:811][452]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.19-12.23.54:811][452]LogPlayLevel: PIE: World Init took: (0.001343s)
+[2017.11.19-12.23.54:811][452]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.024337s)
+[2017.11.19-12.23.54:849][452]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.19-12.23.54:881][452]LogInit: FAudioDevice initialized.
+[2017.11.19-12.23.54:912][452]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.19-12.23.54:915][452]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.11.19-12.23.54
+[2017.11.19-12.23.54:915][452]LogWorld: Bringing up level for play took: 0.002501
+[2017.11.19-12.23.54:916][452]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.051
+[2017.11.19-12.23.54:917][452]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-12.24.12:297][621]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-12.24.12:341][621]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-12.26.00:461][348]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.11.19-12.26.01:851][395]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.19-12.26.01:876][395]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-12.26.01:876][395]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.19-12.26.01:876][395]PIE: New page: PIE session: ThirdPersonExampleMap (19 Nov 2017 12:26:01)
+[2017.11.19-12.26.01:877][395]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.11.19-12.26.01:907][395]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029946s)
+[2017.11.19-12.26.01:907][395]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.19-12.26.01:908][395]LogPlayLevel: PIE: World Init took: (0.001092s)
+[2017.11.19-12.26.01:908][395]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.031445s)
+[2017.11.19-12.26.01:950][395]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.19-12.26.01:982][395]LogInit: FAudioDevice initialized.
+[2017.11.19-12.26.02:019][395]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.19-12.26.02:023][395]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.11.19-12.26.02
+[2017.11.19-12.26.02:023][395]LogWorld: Bringing up level for play took: 0.002909
+[2017.11.19-12.26.02:024][395]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.057
+[2017.11.19-12.26.02:025][395]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-12.26.06:640][700]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-12.26.06:685][700]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-12.26.41:254][660]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.19-12.26.41:269][660]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-12.26.41:269][660]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.11.19-12.26.41:276][660]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2017.11.19-12.26.41:798][660]LogPlayLevel: PlayLevel: Blueprint regeneration took 529 ms (1 blueprints)
+[2017.11.19-12.26.41:798][660]PIE: New page: PIE session: ThirdPersonExampleMap (19 Nov 2017 12:26:41)
+[2017.11.19-12.26.41:798][660]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.11.19-12.26.41:822][660]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024055s)
+[2017.11.19-12.26.41:824][660]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.19-12.26.41:824][660]LogPlayLevel: PIE: World Init took: (0.001269s)
+[2017.11.19-12.26.41:824][660]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.025723s)
+[2017.11.19-12.26.41:858][660]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.19-12.26.41:888][660]LogInit: FAudioDevice initialized.
+[2017.11.19-12.26.41:922][660]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.19-12.26.41:925][660]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.11.19-12.26.41
+[2017.11.19-12.26.41:925][660]LogWorld: Bringing up level for play took: 0.002860
+[2017.11.19-12.26.41:927][660]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.96
+[2017.11.19-12.26.41:927][660]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-12.26.56:742][470]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-12.26.56:779][470]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-12.26.59:626][576]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.19-12.26.59:655][576]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-12.26.59:655][576]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.19-12.26.59:656][576]PIE: New page: PIE session: ThirdPersonExampleMap (19 Nov 2017 12:26:59)
+[2017.11.19-12.26.59:656][576]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.11.19-12.26.59:686][576]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029667s)
+[2017.11.19-12.26.59:687][576]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.19-12.26.59:687][576]LogPlayLevel: PIE: World Init took: (0.001039s)
+[2017.11.19-12.26.59:687][576]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.031090s)
+[2017.11.19-12.26.59:724][576]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.19-12.26.59:756][576]LogInit: FAudioDevice initialized.
+[2017.11.19-12.26.59:791][576]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.19-12.26.59:794][576]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.11.19-12.26.59
+[2017.11.19-12.26.59:794][576]LogWorld: Bringing up level for play took: 0.002796
+[2017.11.19-12.26.59:796][576]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.828
+[2017.11.19-12.26.59:796][576]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-12.27.01:208][645]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-12.27.01:249][645]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-12.27.03:264][776]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.11.19-12.27.03:825][804]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.19-12.27.03:839][804]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-12.27.03:840][804]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.19-12.27.03:840][804]PIE: New page: PIE session: ThirdPersonExampleMap (19 Nov 2017 12:27:03)
+[2017.11.19-12.27.03:840][804]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.11.19-12.27.03:868][804]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027948s)
+[2017.11.19-12.27.03:869][804]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.19-12.27.03:869][804]LogPlayLevel: PIE: World Init took: (0.001153s)
+[2017.11.19-12.27.03:869][804]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.029466s)
+[2017.11.19-12.27.03:903][804]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.19-12.27.03:932][804]LogInit: FAudioDevice initialized.
+[2017.11.19-12.27.03:972][804]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.19-12.27.03:976][804]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.11.19-12.27.03
+[2017.11.19-12.27.03:977][804]LogWorld: Bringing up level for play took: 0.003365
+[2017.11.19-12.27.03:978][804]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.011
+[2017.11.19-12.27.03:979][804]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-12.27.24:213][898]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-12.27.24:285][898]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-12.28.06:591][917]LogSavePackage: Save=88.16ms
+[2017.11.19-12.28.06:591][917]LogSavePackage: Moving 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/ThirdPersonExampleMap_Auto24C3164224D38F4120A7E1BAF298BD724.tmp' to 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Autosaves/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2017.11.19-12.28.06:598][917]LogSavePackage: Display: Finished SavePackage D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Autosaves/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_Auto2.umap
+[2017.11.19-12.28.06:602][917]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap' took 0.138
+[2017.11.19-12.28.06:602][917]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.138
+[2017.11.19-12.28.06:605][917]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2017.11.19-12.28.06:660][917]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2017.11.19-12.28.06:660][917]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter]
+[2017.11.19-12.28.06:749][917]LogSavePackage: Save=84.27ms
+[2017.11.19-12.28.06:749][917]LogSavePackage: Moving 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/ThirdPersonCharacter_Auto284414BE945DADF9DF723C7986F143B15.tmp' to 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter_Auto2.uasset'
+[2017.11.19-12.28.06:754][917]LogSavePackage: Display: Finished SavePackage D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter_Auto2.uasset
+[2017.11.19-12.28.06:754][917]LogFileHelpers: Auto-saving content packages took 0.150
+[2017.11.19-12.32.36:612][ 62]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.11.19-12.32.37:663][ 78]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.19-12.32.37:691][ 78]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-12.32.37:691][ 78]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.19-12.32.37:692][ 78]PIE: New page: PIE session: ThirdPersonExampleMap (19 Nov 2017 12:32:37)
+[2017.11.19-12.32.37:692][ 78]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.11.19-12.32.37:720][ 78]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027717s)
+[2017.11.19-12.32.37:721][ 78]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.19-12.32.37:721][ 78]LogPlayLevel: PIE: World Init took: (0.001622s)
+[2017.11.19-12.32.37:722][ 78]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.029830s)
+[2017.11.19-12.32.37:761][ 78]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.19-12.32.37:795][ 78]LogInit: FAudioDevice initialized.
+[2017.11.19-12.32.37:829][ 78]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.19-12.32.37:832][ 78]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.11.19-12.32.37
+[2017.11.19-12.32.37:832][ 78]LogWorld: Bringing up level for play took: 0.002568
+[2017.11.19-12.32.37:834][ 78]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.866
+[2017.11.19-12.32.37:834][ 78]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-12.32.45:851][547]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-12.32.45:915][547]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-12.32.47:287][607]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.19-12.32.47:302][607]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-12.32.47:302][607]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.19-12.32.47:302][607]PIE: New page: PIE session: ThirdPersonExampleMap (19 Nov 2017 12:32:47)
+[2017.11.19-12.32.47:302][607]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.11.19-12.32.47:325][607]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022667s)
+[2017.11.19-12.32.47:326][607]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.19-12.32.47:326][607]LogPlayLevel: PIE: World Init took: (0.000998s)
+[2017.11.19-12.32.47:326][607]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.024006s)
+[2017.11.19-12.32.47:365][607]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.19-12.32.47:403][607]LogInit: FAudioDevice initialized.
+[2017.11.19-12.32.47:439][607]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.19-12.32.47:443][607]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.11.19-12.32.47
+[2017.11.19-12.32.47:444][607]LogWorld: Bringing up level for play took: 0.003469
+[2017.11.19-12.32.47:445][607]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.478
+[2017.11.19-12.32.47:446][607]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-12.32.51:093][814]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-12.32.51:160][814]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-12.32.52:293][864]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.19-12.32.52:310][864]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-12.32.52:310][864]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.19-12.32.52:310][864]PIE: New page: PIE session: ThirdPersonExampleMap (19 Nov 2017 12:32:52)
+[2017.11.19-12.32.52:310][864]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.11.19-12.32.52:335][864]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024511s)
+[2017.11.19-12.32.52:336][864]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.19-12.32.52:336][864]LogPlayLevel: PIE: World Init took: (0.001143s)
+[2017.11.19-12.32.52:336][864]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.026086s)
+[2017.11.19-12.32.52:373][864]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.19-12.32.52:404][864]LogInit: FAudioDevice initialized.
+[2017.11.19-12.32.52:444][864]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.19-12.32.52:447][864]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.11.19-12.32.52
+[2017.11.19-12.32.52:447][864]LogWorld: Bringing up level for play took: 0.002662
+[2017.11.19-12.32.52:448][864]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.519
+[2017.11.19-12.32.52:448][864]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-12.35.04:657][881]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-12.35.04:728][881]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-12.40.02:078][222]LogClass: Warning: Type mismatch in DashCooldown of SKEL_ThirdPersonCharacter_C - Previous (BoolProperty) Current(FloatProperty) for package:  FObjectReader
+[2017.11.19-12.41.32:532][892]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.11.19-12.41.32:557][892]LogClass: Warning: Type mismatch in DashCooldown of ThirdPersonCharacter_C - Previous (BoolProperty) Current(FloatProperty) for package:  FObjectReader
+[2017.11.19-12.41.32:558][892]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Can't parse default value 'True' for  <None> . Property: DashCooldown.
+[2017.11.19-12.41.33:272][892]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [2286.01] Compile of ThirdPersonCharacter successful, but with 1 Warning(s) [in 739 ms] (/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2017.11.19-12.42.33:126][659]LogSavePackage: Save=95.33ms
+[2017.11.19-12.42.33:126][659]LogSavePackage: Moving 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/ThirdPersonExampleMap_Auto382CBC6684272CC5F1E79CB8AA26FEF85.tmp' to 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Autosaves/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2017.11.19-12.42.33:129][659]LogSavePackage: Display: Finished SavePackage D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Autosaves/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_Auto3.umap
+[2017.11.19-12.42.33:132][659]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap' took 0.143
+[2017.11.19-12.42.33:132][659]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.143
+[2017.11.19-12.42.33:135][659]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2017.11.19-12.42.33:186][659]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2017.11.19-12.42.33:186][659]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter]
+[2017.11.19-12.42.33:284][659]LogSavePackage: Save=91.54ms
+[2017.11.19-12.42.33:284][659]LogSavePackage: Moving 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/ThirdPersonCharacter_Auto38D4DA4454F80FC7A1F610E8DBCF141B4.tmp' to 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter_Auto3.uasset'
+[2017.11.19-12.42.33:287][659]LogSavePackage: Display: Finished SavePackage D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter_Auto3.uasset
+[2017.11.19-12.42.33:287][659]LogFileHelpers: Auto-saving content packages took 0.154
+[2017.11.19-12.44.39:331][439]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.11.19-12.44.42:128][567]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.19-12.44.42:155][567]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-12.44.42:155][567]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.19-12.44.42:155][567]PIE: New page: PIE session: ThirdPersonExampleMap (19 Nov 2017 12:44:42)
+[2017.11.19-12.44.42:155][567]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.11.19-12.44.42:178][567]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022774s)
+[2017.11.19-12.44.42:179][567]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.19-12.44.42:180][567]LogPlayLevel: PIE: World Init took: (0.001258s)
+[2017.11.19-12.44.42:180][567]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.024503s)
+[2017.11.19-12.44.42:214][567]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.19-12.44.42:243][567]LogInit: FAudioDevice initialized.
+[2017.11.19-12.44.42:276][567]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.19-12.44.42:279][567]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.11.19-12.44.42
+[2017.11.19-12.44.42:280][567]LogWorld: Bringing up level for play took: 0.002869
+[2017.11.19-12.44.42:281][567]PIE: Play in editor start time for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.686
+[2017.11.19-12.44.42:281][567]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-12.45.16:824][258]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-12.45.16:888][258]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.11.19-12.46.33:004][781]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.11.19-12.47.11:078][125]LogSavePackage: Save=91.69ms
+[2017.11.19-12.47.11:078][125]LogSavePackage: Moving 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/ThirdPersonCharacterA7E97B334259E65494D8EEBF8039169F.tmp' to 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.11.19-12.47.11:085][125]LogSavePackage: Display: Finished SavePackage D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset
+[2017.11.19-12.47.15:088][342]LogSavePackage: Save=93.93ms
+[2017.11.19-12.47.15:088][342]LogSavePackage: Moving 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/ThirdPersonExampleMap5872EFEE4884F5A03FB5A3856202AECF.tmp' to 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2017.11.19-12.47.15:090][342]LogFileManager: Warning: DeleteFile was unable to delete 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap', retrying in .5s...
+[2017.11.19-12.47.15:592][342]LogFileManager: Warning: DeleteFile recovered during retry!
+[2017.11.19-12.47.15:604][342]LogSavePackage: Display: Finished SavePackage D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap
+[2017.11.19-12.47.15:633][342]LogSlate: Took 0.000319 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
