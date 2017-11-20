@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿Log file open, 11/19/17 11:23:47
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
@@ -551,3 +552,1227 @@ LogInit: Object subsystem initialized
 [2017.11.19-11.24.45:493][733]LogModuleManager: Shutting down and abandoning module PakFile (2)
 [2017.11.19-11.24.45:496][733]LogExit: Exiting.
 [2017.11.19-11.24.45:505][733]Log file closed, 11/19/17 11:24:45
+=======
+﻿Log file open, 11/20/17 15:13:42
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Puzzle_Island
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-482096676) SRandInit(-482096676).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 3.281221
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: D:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.11.20-15.13.44:438][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.20-15.13.44:438][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.11.20-15.13.44:566][  0]LogInit: Computer: DESKTOP-Q670LKS
+[2017.11.20-15.13.44:566][  0]LogInit: User: James
+[2017.11.20-15.13.44:566][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.11.20-15.13.44:566][  0]LogInit: High frequency timer resolution =3.320331 MHz
+[2017.11.20-15.13.44:566][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2017.11.20-15.13.44:566][  0]LogMemory: Platform Memory Stats for Windows
+[2017.11.20-15.13.44:566][  0]LogMemory: Process Physical Memory: 278.82 MB used, 278.82 MB peak
+[2017.11.20-15.13.44:566][  0]LogMemory: Process Virtual Memory: 282.25 MB used, 282.25 MB peak
+[2017.11.20-15.13.44:566][  0]LogMemory: Physical Memory: 4285.77 MB used,  12042.16 MB free, 16327.93 MB total
+[2017.11.20-15.13.44:566][  0]LogMemory: Virtual Memory: 676.34 MB used,  12042.16 MB free, 134217728.00 MB total
+[2017.11.20-15.13.45:534][  0]LogInit: Using OS detected language (en-US).
+[2017.11.20-15.13.45:534][  0]LogInit: Using OS detected locale (en-GB).
+[2017.11.20-15.13.45:737][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.11.20-15.13.49:862][  0]LogD3D11RHI: D3D11 adapters:
+[2017.11.20-15.13.49:936][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 760' (Feature Level 11_0)
+[2017.11.20-15.13.49:936][  0]LogD3D11RHI:       2017/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2017.11.20-15.13.49:937][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.11.20-15.13.49:937][  0]LogD3D11RHI:       0/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.11.20-15.13.49:937][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.11.20-15.13.49:947][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.11.20-15.13.49:947][  0]LogD3D11RHI:     GPU DeviceId: 0x1187 (for the marketing name, search the web for "GPU Device Id")
+[2017.11.20-15.13.49:947][  0]LogWindows: EnumDisplayDevices:
+[2017.11.20-15.13.49:947][  0]LogWindows:    0. 'NVIDIA GeForce GTX 760' (P:0 D:1)
+[2017.11.20-15.13.49:947][  0]LogWindows:    1. 'NVIDIA GeForce GTX 760' (P:0 D:1)
+[2017.11.20-15.13.49:948][  0]LogWindows:    2. 'NVIDIA GeForce GTX 760' (P:1 D:1)
+[2017.11.20-15.13.49:948][  0]LogWindows:    3. 'NVIDIA GeForce GTX 760' (P:0 D:0)
+[2017.11.20-15.13.49:948][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.11.20-15.13.49:948][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 760
+[2017.11.20-15.13.49:948][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2017.11.20-15.13.49:948][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2017.11.20-15.13.49:948][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.11.20-15.13.49:973][  0]LogD3D11RHI: Async texture creation enabled
+[2017.11.20-15.13.50:292][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2017.11.20-15.13.50:499][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Intermediate/Shaders/WorkingDirectory/6180/).
+[2017.11.20-15.13.50:499][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/James/AppData/Local/Temp/UnrealShaderWorkingDir/B6D2BDF14C461B6BFE5A2A834900A01A/'.
+[2017.11.20-15.13.50:514][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.11.20-15.13.54:801][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.11.20-15.13.54:837][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.11.20-15.13.54:874][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.11.20-15.13.54:911][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.11.20-15.13.54:984][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.11.20-15.13.55:020][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.11.20-15.13.55:058][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.11.20-15.13.55:093][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.11.20-15.13.55:124][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.11.20-15.13.55:183][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.11.20-15.13.55:217][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.11.20-15.13.55:253][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.11.20-15.13.55:289][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.11.20-15.13.55:325][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.11.20-15.13.55:360][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.11.20-15.13.55:432][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.11.20-15.13.55:432][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.11.20-15.13.55:458][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.11.20-15.13.55:653][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.11.20-15.13.55:693][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.11.20-15.13.55:730][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.11.20-15.13.55:766][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.11.20-15.13.55:801][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.11.20-15.13.55:864][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.11.20-15.13.55:864][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.11.20-15.13.57:023][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.11.20-15.13.57:588][  0]LogDerivedDataCache: Loaded boot cache 0.57s 93MB C:/Users/James/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.11.20-15.13.57:588][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/James/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.11.20-15.13.57:588][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.11.20-15.13.57:588][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.11.20-15.13.57:588][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.11.20-15.13.57:588][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.11.20-15.13.57:710][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.11.20-15.13.57:722][  0]LogDerivedDataCache: Using Local data cache path C:/Users/James/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.11.20-15.13.57:762][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.11.20-15.13.57:812][  0]LogSlate: Using Freetype 2.6.0
+[2017.11.20-15.13.57:920][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.20-15.13.57:932][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.20-15.14.05:200][  0]LogAssetRegistry: FAssetRegistry took 0.0362 seconds to start up
+[2017.11.20-15.14.06:061][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.20-15.14.10:545][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.11.20-15.14.11:190][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.11.20-15.14.11:239][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.11.20-15.14.11:249][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.11.20-15.14.11:249][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.11.20-15.14.11:249][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.11.20-15.14.11:249][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.11.20-15.14.13:930][  0]LogNetVersion: Puzzle_Island , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3939646741)
+[2017.11.20-15.14.15:109][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.076093 seconds
+[2017.11.20-15.14.15:127][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.11.20-15.14.15:127][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2017.11.20-15.14.15:127][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.11.20-15.14.15:180][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.11.20-15.14.26:406][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.11.20-15.14.26:456][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.11.20-15.14.29:051][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.11.20-15.14.29:663][  0]SourceControl: Source control is disabled
+[2017.11.20-15.14.29:663][  0]SourceControl: Source control is disabled
+[2017.11.20-15.14.29:748][  0]SourceControl: Source control is disabled
+[2017.11.20-15.14.29:790][  0]SourceControl: Source control is disabled
+[2017.11.20-15.14.30:518][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.11.20-15.14.30:702][  0]LogOcInput: OculusInput pre-init called
+[2017.11.20-15.14.31:198][  0]LogEngine: Initializing Engine...
+[2017.11.20-15.14.31:241][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.11.20-15.14.31:895][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.11.20-15.14.31:895][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.11.20-15.14.32:324][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.11.20-15.14.32:486][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.20-15.14.32:501][  0]LogInit: FAudioDevice initialized.
+[2017.11.20-15.14.32:638][  0]LogDerivedDataCache: Saved boot cache 0.14s 93MB C:/Users/James/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.11.20-15.14.32:647][  0]LogInit: Texture streaming: Enabled
+[2017.11.20-15.14.32:792][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.11.20-15.14.33:201][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.20-15.14.33:386][  0]LogInit: Transaction tracking system initialized
+[2017.11.20-15.14.34:734][  0]BlueprintLog: New page: Editor Load
+[2017.11.20-15.14.37:621][  0]LocalizationService: Localization service is disabled
+[2017.11.20-15.14.39:530][  0]LogConsoleResponse: Display: 
+[2017.11.20-15.14.42:525][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/' took 0.01s
+[2017.11.20-15.14.42:525][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.11.20-15.14.42:525][  0]LogCook: Display: Mobile HDR setting 1
+[2017.11.20-15.14.42:647][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.11.20-15.14.46:060][  0]SourceControl: Source control is disabled
+[2017.11.20-15.14.46:360][  0]Cmd: MAP LOAD FILE="../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.20-15.14.46:404][  0]LightingResults: New page: Lighting Build
+[2017.11.20-15.14.46:599][  0]MapCheck: New page: Map Check
+[2017.11.20-15.14.46:599][  0]LightingResults: New page: Lighting Build
+[2017.11.20-15.14.50:628][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.20-15.14.51:370][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.20-15.14.51:425][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.20-15.14.51:464][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 38.703ms to complete.
+[2017.11.20-15.14.51:464][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 5.129
+[2017.11.20-15.14.53:443][  0]LogCollectionManager: Loaded 0 collections in 0.000827 seconds
+[2017.11.20-15.14.53:813][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Collections/' took 0.01s
+[2017.11.20-15.14.53:813][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Developers/James/Collections/' took 0.01s
+[2017.11.20-15.14.53:813][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Collections/' took 0.01s
+[2017.11.20-15.14.53:813][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.11.20-15.14.53:885][  0]LogContentBrowser: Native class hierarchy populated in 0.0479 seconds. Added 2388 classes and 502 folders.
+[2017.11.20-15.14.54:082][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0723 seconds. Added 0 classes and 0 folders.
+[2017.11.20-15.14.57:607][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0013 seconds. Added 0 classes and 0 folders.
+[2017.11.20-15.14.58:018][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0014 seconds. Added 1 classes and 2 folders.
+[2017.11.20-15.15.00:315][  0]LogSlate: Took 0.042292 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.20-15.15.00:495][  0]LogSlate: Took 0.147966 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.11.20-15.15.00:744][  0]LogSlate: Took 0.046128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.11.20-15.15.02:032][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2017.11.20-15.15.04:243][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0014 seconds. Added 1 classes and 2 folders.
+[2017.11.20-15.15.04:243][  0]LogLoad: (Engine Initialization) Total time: 91.67 seconds
+[2017.11.20-15.15.04:243][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.11.20-15.15.04:243][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.11.20-15.15.04:243][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.11.20-15.15.04:560][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.11.20-15.15.04:983][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/' took 0.50s
+[2017.11.20-15.15.05:274][  4]LogAssetRegistry: Asset discovery search completed in 60.0962 seconds
+[2017.11.20-15.15.05:276][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.11.20-15.15.05:276][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000057 seconds (updated 0 objects)
+[2017.11.20-15.15.09:091][157]LogSlate: Took 0.009876 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.20-15.22.34:299][690]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.20-15.22.34:844][690]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.20-15.22.34:906][690]Cmd: MAP LOAD FILE="../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Maps/Puzzle_Island.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.20-15.22.34:906][690]LightingResults: New page: Lighting Build
+[2017.11.20-15.22.34:906][690]LoadErrors: New page: Loading map: Puzzle_Island.umap
+[2017.11.20-15.22.34:925][690]MapCheck: New page: Map Check
+[2017.11.20-15.22.34:925][690]LightingResults: New page: Lighting Build
+[2017.11.20-15.22.35:916][690]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.20-15.22.35:984][690]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.20-15.22.36:027][690]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 42.704ms to complete.
+[2017.11.20-15.22.36:027][690]LogFileHelpers: Loading map 'Puzzle_Island' took 1.127
+[2017.11.20-15.22.36:028][690]LogSlate: Took 0.000121 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.20-15.22.53:549][103]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.20-15.22.56:198][103]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.20-15.22.56:279][103]PIE: New page: PIE session: Puzzle_Island (20 Nov 2017 15:22:56)
+[2017.11.20-15.22.56:279][103]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.20-15.22.56:311][103]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032825s)
+[2017.11.20-15.22.56:312][103]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.20-15.22.56:312][103]LogPlayLevel: PIE: World Init took: (0.000700s)
+[2017.11.20-15.22.56:312][103]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.033839s)
+[2017.11.20-15.22.56:328][103]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.20-15.22.56:339][103]LogInit: FAudioDevice initialized.
+[2017.11.20-15.22.56:440][103]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.20-15.22.56:460][103]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.20-15.22.56
+[2017.11.20-15.22.56:466][103]LogWorld: Bringing up level for play took: 0.008451
+[2017.11.20-15.22.56:515][103]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.11.20-15.22.56:567][103]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0018 seconds. Added 11 classes and 0 folders.
+[2017.11.20-15.22.56:594][103]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 0.005
+[2017.11.20-15.23.18:304][652]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.11.20-15.23.20:906][854]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2017.11.20-15.23.25:398][316]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.20-15.23.25:399][316]PIE: New page: PIE session: Puzzle_Island (20 Nov 2017 15:23:25)
+[2017.11.20-15.23.25:399][316]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.20-15.23.25:409][316]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009934s)
+[2017.11.20-15.23.25:409][316]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.20-15.23.25:410][316]LogPlayLevel: PIE: World Init took: (0.001007s)
+[2017.11.20-15.23.25:410][316]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.011174s)
+[2017.11.20-15.23.25:425][316]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.20-15.23.25:435][316]LogInit: FAudioDevice initialized.
+[2017.11.20-15.23.25:493][316]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.20-15.23.25:496][316]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.20-15.23.25
+[2017.11.20-15.23.25:496][316]LogWorld: Bringing up level for play took: 0.002366
+[2017.11.20-15.23.25:514][316]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 0.925
+[2017.11.20-15.23.47:509][795]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2017.11.20-15.24.08:386][ 60]Cmd: TRANSACTION UNDO
+[2017.11.20-15.24.08:386][ 60]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2017.11.20-15.24.08:565][ 60]LogSlate: Took 0.000187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.20-15.24.24:589][749]Cmd: TRANSACTION UNDO
+[2017.11.20-15.24.24:589][749]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2017.11.20-15.24.24:635][749]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2017.11.20-15.24.24:739][750]Cmd: TRANSACTION UNDO
+[2017.11.20-15.24.24:739][750]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2017.11.20-15.24.24:784][750]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2017.11.20-15.24.24:873][751]Cmd: TRANSACTION UNDO
+[2017.11.20-15.24.24:873][751]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2017.11.20-15.24.24:919][751]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2017.11.20-15.24.25:074][758]Cmd: TRANSACTION UNDO
+[2017.11.20-15.24.25:074][758]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2017.11.20-15.24.25:116][758]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2017.11.20-15.24.25:215][759]Cmd: TRANSACTION UNDO
+[2017.11.20-15.24.25:215][759]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2017.11.20-15.24.25:256][759]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2017.11.20-15.24.25:534][783]Cmd: TRANSACTION UNDO
+[2017.11.20-15.24.25:534][783]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2017.11.20-15.24.25:575][783]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2017.11.20-15.24.25:946][820]Cmd: TRANSACTION UNDO
+[2017.11.20-15.24.25:946][820]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2017.11.20-15.24.32:936][553]Cmd: TRANSACTION UNDO
+[2017.11.20-15.24.32:936][553]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2017.11.20-15.24.47:026][ 41]Cmd: TRANSACTION UNDO
+[2017.11.20-15.24.47:026][ 41]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2017.11.20-15.24.47:066][ 41]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2017.11.20-15.25.18:296][419]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2017.11.20-15.25.22:251][791]Cmd: SELECT NONE
+[2017.11.20-15.27.13:061][328]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2017.11.20-15.27.13:124][329]LogMaterial: Missing cached shader map for material Material_1, compiling. 
+[2017.11.20-15.27.29:805][881]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0015 seconds. Added 1 classes and 0 folders.
+[2017.11.20-15.27.29:821][881]LogMaterial: Missing cached shader map for material F_Water, compiling. 
+[2017.11.20-15.27.30:037][881]LogMaterial: Missing cached shader map for material F_Water, compiling. 
+[2017.11.20-15.27.30:057][881]LogMaterial: Missing cached shader map for material F_Water, compiling. 
+[2017.11.20-15.27.30:110][881]LogSlate: Took 0.009658 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.11.20-15.27.35:139][224]MaterialEditorStats: Base pass shader: 78 instructions
+[2017.11.20-15.27.35:139][224]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.20-15.27.35:139][224]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.20-15.27.46:680][235]LogMaterial: Missing cached shader map for material F_Water, compiling. 
+[2017.11.20-15.27.46:704][235]LogMaterial: Missing cached shader map for material F_Water, compiling. 
+[2017.11.20-15.27.56:834][ 73]MaterialEditorStats: Base pass shader: 44 instructions
+[2017.11.20-15.27.56:835][ 73]MaterialEditorStats: Vertex shader: 122 instructions
+[2017.11.20-15.27.56:835][ 73]MaterialEditorStats: Texture samplers: 4/16
+[2017.11.20-15.28.00:439][391]LogMaterial: Missing cached shader map for material F_Water, compiling. 
+[2017.11.20-15.28.00:454][391]LogMaterial: Missing cached shader map for material F_Water, compiling. 
+[2017.11.20-15.28.04:788][725]LogMaterial: Missing cached shader map for material F_Water, compiling. 
+[2017.11.20-15.28.04:804][725]LogMaterial: Missing cached shader map for material F_Water, compiling. 
+[2017.11.20-15.28.13:654][441]LogMaterial: Missing cached shader map for material F_Water, compiling. 
+[2017.11.20-15.28.13:672][441]LogMaterial: Missing cached shader map for material F_Water, compiling. 
+[2017.11.20-15.28.24:369][302]LogMaterial: Missing cached shader map for material F_Water, compiling. 
+[2017.11.20-15.28.24:405][302]LogMaterial: Missing cached shader map for material F_Water, compiling. 
+[2017.11.20-15.28.26:539][472]LogMaterial: Missing cached shader map for material F_Water, compiling. 
+[2017.11.20-15.28.26:566][472]LogMaterial: Missing cached shader map for material F_Water, compiling. 
+[2017.11.20-15.28.55:898][969]MaterialEditorStats: Base pass shader: 404 instructions
+[2017.11.20-15.28.55:898][969]MaterialEditorStats: Vertex shader: 121 instructions
+[2017.11.20-15.28.55:898][969]MaterialEditorStats: Texture samplers: 10/16
+[2017.11.20-15.31.51:940][248]LogActorFactory: Actor Factory created Cube
+[2017.11.20-15.31.57:219][778]LogActorFactory: Actor Factory created Cube
+[2017.11.20-15.32.00:608][ 47]LogSlate: Took 0.020963 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.11.20-15.32.14:348][251]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.11.20-15.32.14:690][279]Cmd: DELETE
+[2017.11.20-15.32.14:690][279]Cmd: ACTOR DELETE
+[2017.11.20-15.32.14:714][279]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.20-15.32.14:723][279]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2017.11.20-15.32.16:026][415]LogActorFactory: Actor Factory created Plane
+[2017.11.20-15.32.17:296][541]LogActorFactory: Actor Factory created Plane
+[2017.11.20-15.33.14:346][454]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2017.11.20-15.33.16:056][563]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.20-15.33.16:057][563]PIE: New page: PIE session: Puzzle_Island (20 Nov 2017 15:33:16)
+[2017.11.20-15.33.16:057][563]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.20-15.33.16:067][563]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010361s)
+[2017.11.20-15.33.16:068][563]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.20-15.33.16:068][563]LogPlayLevel: PIE: World Init took: (0.000851s)
+[2017.11.20-15.33.16:068][563]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.011472s)
+[2017.11.20-15.33.16:084][563]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.20-15.33.16:094][563]LogInit: FAudioDevice initialized.
+[2017.11.20-15.33.16:129][563]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.20-15.33.16:131][563]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.20-15.33.16
+[2017.11.20-15.33.16:132][563]LogWorld: Bringing up level for play took: 0.002245
+[2017.11.20-15.33.16:134][563]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island -0.455
+[2017.11.20-15.33.42:388][196]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2017.11.20-15.34.17:223][319]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2017.11.20-15.34.37:091][  2]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.11.20-15.34.37:916][ 74]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2017.11.20-15.34.39:232][167]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.20-15.34.39:232][167]PIE: New page: PIE session: Puzzle_Island (20 Nov 2017 15:34:39)
+[2017.11.20-15.34.39:232][167]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.20-15.34.39:242][167]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009662s)
+[2017.11.20-15.34.39:242][167]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.20-15.34.39:242][167]LogPlayLevel: PIE: World Init took: (0.000831s)
+[2017.11.20-15.34.39:243][167]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.010730s)
+[2017.11.20-15.34.39:259][167]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.20-15.34.39:268][167]LogInit: FAudioDevice initialized.
+[2017.11.20-15.34.39:299][167]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.20-15.34.39:301][167]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.20-15.34.39
+[2017.11.20-15.34.39:301][167]LogWorld: Bringing up level for play took: 0.002525
+[2017.11.20-15.34.39:304][167]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 0.715
+[2017.11.20-15.34.56:803][ 67]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2017.11.20-15.35.09:971][192]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2017.11.20-15.35.46:053][538]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2017.11.20-15.35.46:229][552]Cmd: DELETE
+[2017.11.20-15.35.46:229][552]Cmd: ACTOR DELETE
+[2017.11.20-15.35.46:229][552]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.20-15.35.46:240][552]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2017.11.20-15.36.09:470][536]LogMaterial: Missing cached shader map for material F_Water, compiling. 
+[2017.11.20-15.36.09:492][536]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.11.20-15.36.10:686][629]LogMaterial: Missing cached shader map for material F_Water, compiling. 
+[2017.11.20-15.36.10:708][629]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2017.11.20-15.36.30:330][497]MaterialEditorStats: Base pass shader: 404 instructions
+[2017.11.20-15.36.30:331][497]MaterialEditorStats: Vertex shader: 121 instructions
+[2017.11.20-15.36.30:331][497]MaterialEditorStats: Texture samplers: 10/16
+[2017.11.20-15.36.44:756][723]LogMaterial: Missing cached shader map for material F_Water, compiling. 
+[2017.11.20-15.36.44:778][723]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.20-15.36.44:786][723]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.20-15.36.44:821][723]LogMaterial: Missing cached shader map for material F_Water, compiling. 
+[2017.11.20-15.36.47:494][933]LogMaterial: Missing cached shader map for material F_Water, compiling. 
+[2017.11.20-15.36.47:515][933]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2017.11.20-15.36.47:522][933]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2017.11.20-15.36.47:558][933]LogMaterial: Missing cached shader map for material F_Water, compiling. 
+[2017.11.20-15.37.09:032][676]LogMaterial: Missing cached shader map for material F_Water, compiling. 
+[2017.11.20-15.37.09:061][676]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.20-15.37.15:683][209]LogMaterial: Missing cached shader map for material F_Water, compiling. 
+[2017.11.20-15.37.15:715][209]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.20-15.37.26:402][ 83]LogMaterial: Missing cached shader map for material F_Water, compiling. 
+[2017.11.20-15.37.26:433][ 83]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.20-15.37.37:807][996]LogMaterial: Missing cached shader map for material F_Water, compiling. 
+[2017.11.20-15.37.37:835][996]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.20-15.37.47:123][751]LogMaterial: Missing cached shader map for material F_Water, compiling. 
+[2017.11.20-15.37.47:153][751]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2017.11.20-15.37.53:598][273]LogMaterial: Missing cached shader map for material F_Water, compiling. 
+[2017.11.20-15.37.53:624][273]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2017.11.20-15.38.03:818][ 95]LogMaterial: Missing cached shader map for material F_Water, compiling. 
+[2017.11.20-15.38.03:847][ 95]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2017.11.20-15.38.09:470][548]LogMaterial: Missing cached shader map for material F_Water, compiling. 
+[2017.11.20-15.38.09:498][548]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2017.11.20-15.38.30:329][242]LogMaterial: Missing cached shader map for material F_Water, compiling. 
+[2017.11.20-15.38.34:335][573]LogMaterial: Missing cached shader map for material F_Water, compiling. 
+[2017.11.20-15.38.42:728][304]LogMaterial: Missing cached shader map for material F_Water, compiling. 
+[2017.11.20-15.38.44:909][486]LogMaterial: Missing cached shader map for material F_Water, compiling. 
+[2017.11.20-15.39.08:980][438]LogMaterial: Missing cached shader map for material F_Water, compiling. 
+[2017.11.20-15.39.14:074][869]LogMaterial: Missing cached shader map for material F_Water, compiling. 
+[2017.11.20-15.39.14:106][869]LogMaterial: Missing cached shader map for material F_Water, compiling. 
+[2017.11.20-15.39.25:992][847]LogMaterial: Missing cached shader map for material F_Water, compiling. 
+[2017.11.20-15.39.31:117][276]LogMaterial: Missing cached shader map for material F_Water, compiling. 
+[2017.11.20-15.39.34:827][577]LogMaterial: Missing cached shader map for material F_Water, compiling. 
+[2017.11.20-15.39.51:487][962]LogMaterial: Missing cached shader map for material F_Water, compiling. 
+[2017.11.20-15.40.02:350][885]LogMaterial: Missing cached shader map for material F_Water, compiling. 
+[2017.11.20-15.40.04:023][ 23]LogMaterial: Missing cached shader map for material F_Water, compiling. 
+[2017.11.20-15.40.04:054][ 23]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2017.11.20-15.40.05:841][167]LogMaterial: Missing cached shader map for material F_Water, compiling. 
+[2017.11.20-15.40.05:868][167]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.20-15.40.19:256][269]LogMaterial: Missing cached shader map for material F_Water, compiling. 
+[2017.11.20-15.40.21:047][414]LogMaterial: Missing cached shader map for material F_Water, compiling. 
+[2017.11.20-15.40.21:079][414]LogMaterial: Missing cached shader map for material F_Water, compiling. 
+[2017.11.20-15.40.30:974][229]LogMaterial: Missing cached shader map for material F_Water, compiling. 
+[2017.11.20-15.40.34:215][497]LogMaterial: Missing cached shader map for material F_Water, compiling. 
+[2017.11.20-15.41.02:016][831]MaterialEditorStats: Base pass shader: 404 instructions
+[2017.11.20-15.41.02:016][831]MaterialEditorStats: Vertex shader: 121 instructions
+[2017.11.20-15.41.02:016][831]MaterialEditorStats: Texture samplers: 10/16
+[2017.11.20-15.41.02:945][833]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2017.11.20-15.41.03:312][833]LogSavePackage: Save=499.97ms
+[2017.11.20-15.41.03:312][833]LogSavePackage: Moving '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Puzzle_Island_Auto1C00B701E40F45111FBA9F3BA0DBE4520.tmp' to '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Autosaves/Game/Maps/Puzzle_Island_Auto1.umap'
+[2017.11.20-15.41.03:323][833]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Autosaves/Game/Maps/Puzzle_Island_Auto1.umap
+[2017.11.20-15.41.03:329][833]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Puzzle_Island' took 0.581
+[2017.11.20-15.41.03:329][833]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.581
+[2017.11.20-15.41.03:330][833]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/F_Water] ([1] browsable assets)...
+[2017.11.20-15.41.03:363][833]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/F_Water.F_Water]
+[2017.11.20-15.41.03:363][833]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/F_Water]
+[2017.11.20-15.41.03:415][833]LogSavePackage: Save=49.48ms
+[2017.11.20-15.41.03:415][833]LogSavePackage: Moving '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/F_Water_Auto17CCB03064D76AA964DAAD6BA2C30A4BA.tmp' to '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Autosaves/Game/Materials/F_Water_Auto1.uasset'
+[2017.11.20-15.41.03:417][833]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Autosaves/Game/Materials/F_Water_Auto1.uasset
+[2017.11.20-15.41.03:417][833]LogFileHelpers: Auto-saving content packages took 0.087
+[2017.11.20-15.44.23:938][637]LogMaterial: Missing cached shader map for material F_Water, compiling. 
+[2017.11.20-15.44.39:231][101]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'MaterialGraphNode_14.MaterialExpressionScalarParameter_1')'
+[2017.11.20-15.44.39:231][101]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'MaterialGraphNode_15.MaterialExpressionMultiply_0')'
+[2017.11.20-15.44.39:231][101]LogLinker: Can't find file '/Engine/Transient'
+[2017.11.20-15.44.39:232][101]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.44.39:232][101]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.44.39:232][101]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.44.39:233][101]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.44.39:233][101]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'MaterialGraphNode_17.MaterialExpressionTextureSample_1',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2017.11.20-15.44.39:233][101]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'MaterialGraphNode_16.MaterialExpressionTextureSample_0',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2017.11.20-15.44.39:233][101]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.44.39:234][101]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'MaterialGraphNode_46.MaterialExpressionScalarParameter_2')'
+[2017.11.20-15.44.39:234][101]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'MaterialGraphNode_47.MaterialExpressionScalarParameter_3')'
+[2017.11.20-15.44.39:234][101]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.44.39:234][101]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionAppendVector'MaterialGraphNode_36.MaterialExpressionAppendVector_0')'
+[2017.11.20-15.44.39:234][101]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'MaterialGraphNode_42.MaterialExpressionScalarParameter_13')'
+[2017.11.20-15.44.39:235][101]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.44.39:235][101]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.44.39:236][101]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.44.39:236][101]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.44.39:236][101]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'MaterialGraphNode_13.MaterialExpressionScalarParameter_0')'
+[2017.11.20-15.44.39:237][101]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.44.39:237][101]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionVectorParameter'MaterialGraphNode_9.MaterialExpressionVectorParameter_0',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2017.11.20-15.44.39:237][101]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionVectorParameter'MaterialGraphNode_10.MaterialExpressionVectorParameter_1',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2017.11.20-15.44.39:237][101]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionFresnel'MaterialGraphNode_11.MaterialExpressionFresnel_0')'
+[2017.11.20-15.44.39:238][101]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.44.39:238][101]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.44.39:238][101]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.44.39:239][101]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionLinearInterpolate'MaterialGraphNode_12.MaterialExpressionLinearInterpolate_0')'
+[2017.11.20-15.44.39:239][101]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionDepthFade'MaterialGraphNode_5.MaterialExpressionDepthFade_1')'
+[2017.11.20-15.44.39:239][101]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.44.39:239][101]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'MaterialGraphNode_19.MaterialExpressionMultiply_6')'
+[2017.11.20-15.44.39:240][101]LogLinker: Can't find file '/Game/T_Water_Ripple_Directional_Noise'
+[2017.11.20-15.44.39:240][101]LogLinker: Can't find file '/Game/T_Water_Ripple_Directional_Noise'
+[2017.11.20-15.44.39:240][101]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpressionTextureBase:Texture: unresolved reference to 'Texture2D'/Game/T_Water_Ripple_Directional_Noise.T_Water_Ripple_Directional_Noise''
+[2017.11.20-15.44.39:240][101]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.44.39:241][101]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'MaterialGraphNode_18.MaterialExpressionMultiply_5')'
+[2017.11.20-15.44.39:241][101]LogLinker: Can't find file '/Game/T_Water_01_N'
+[2017.11.20-15.44.39:241][101]LogLinker: Can't find file '/Game/T_Water_01_N'
+[2017.11.20-15.44.39:241][101]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpressionTextureBase:Texture: unresolved reference to 'Texture2D'/Game/T_Water_01_N.T_Water_01_N''
+[2017.11.20-15.44.39:242][101]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.44.39:242][101]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionPanner'MaterialGraphNode_23.MaterialExpressionPanner_1')'
+[2017.11.20-15.44.39:242][101]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'MaterialGraphNode_26.MaterialExpressionScalarParameter_9')'
+[2017.11.20-15.44.39:243][101]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.44.39:243][101]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionPanner'MaterialGraphNode_24.MaterialExpressionPanner_2')'
+[2017.11.20-15.44.39:243][101]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'MaterialGraphNode_27.MaterialExpressionScalarParameter_10')'
+[2017.11.20-15.44.39:243][101]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.44.39:243][101]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionWorldPosition'MaterialGraphNode_22.MaterialExpressionWorldPosition_0')'
+[2017.11.20-15.44.39:244][101]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'MaterialGraphNode_25.MaterialExpressionScalarParameter_8')'
+[2017.11.20-15.44.39:244][101]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.44.39:244][101]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionDivide'MaterialGraphNode_20.MaterialExpressionDivide_0')'
+[2017.11.20-15.44.39:244][101]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.44.39:245][101]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.44.39:245][101]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionComponentMask'MaterialGraphNode_21.MaterialExpressionComponentMask_0')'
+[2017.11.20-15.44.39:245][101]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTime'MaterialGraphNode_53.MaterialExpressionTime_1')'
+[2017.11.20-15.44.39:245][101]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'MaterialGraphNode_52.MaterialExpressionScalarParameter_21')'
+[2017.11.20-15.44.39:245][101]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.44.39:246][101]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionComponentMask'MaterialGraphNode_21.MaterialExpressionComponentMask_0')'
+[2017.11.20-15.44.39:246][101]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTime'MaterialGraphNode_53.MaterialExpressionTime_1')'
+[2017.11.20-15.44.39:246][101]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'MaterialGraphNode_51.MaterialExpressionScalarParameter_20')'
+[2017.11.20-15.44.39:246][101]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.44.39:247][101]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.44.39:247][101]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.44.39:247][101]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.44.39:248][101]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTime'MaterialGraphNode_38.MaterialExpressionTime_0')'
+[2017.11.20-15.44.39:248][101]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'MaterialGraphNode_40.MaterialExpressionScalarParameter_11')'
+[2017.11.20-15.44.39:248][101]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.44.39:248][101]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'MaterialGraphNode_28.MaterialExpressionMultiply_7')'
+[2017.11.20-15.44.39:248][101]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionComponentMask'MaterialGraphNode_44.MaterialExpressionComponentMask_1')'
+[2017.11.20-15.44.39:249][101]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.44.39:249][101]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'MaterialGraphNode_28.MaterialExpressionMultiply_7')'
+[2017.11.20-15.44.39:249][101]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionComponentMask'MaterialGraphNode_45.MaterialExpressionComponentMask_2')'
+[2017.11.20-15.44.39:249][101]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.44.39:250][101]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstantBiasScale'MaterialGraphNode_35.MaterialExpressionConstantBiasScale_1')'
+[2017.11.20-15.44.39:250][101]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstantBiasScale'MaterialGraphNode_34.MaterialExpressionConstantBiasScale_0')'
+[2017.11.20-15.44.39:250][101]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.44.39:250][101]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionAdd'MaterialGraphNode_29.MaterialExpressionAdd_1')'
+[2017.11.20-15.44.39:251][101]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.44.39:251][101]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionAdd'MaterialGraphNode_30.MaterialExpressionAdd_2')'
+[2017.11.20-15.44.39:251][101]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.44.39:251][101]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionSine'MaterialGraphNode_33.MaterialExpressionSine_1')'
+[2017.11.20-15.44.39:252][101]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.44.39:252][101]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionSine'MaterialGraphNode_32.MaterialExpressionSine_0')'
+[2017.11.20-15.44.39:252][101]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.44.39:252][101]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant2Vector'MaterialGraphNode_37.MaterialExpressionConstant2Vector_0')'
+[2017.11.20-15.44.39:253][101]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionAdd'MaterialGraphNode_31.MaterialExpressionAdd_3')'
+[2017.11.20-15.44.39:253][101]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.44.39:253][101]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.44.39:254][101]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.44.39:254][101]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.44.39:254][101]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.44.39:255][101]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.44.39:255][101]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.44.39:255][101]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionWorldPosition'MaterialGraphNode_39.MaterialExpressionWorldPosition_1')'
+[2017.11.20-15.44.39:255][101]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'MaterialGraphNode_41.MaterialExpressionScalarParameter_12')'
+[2017.11.20-15.44.39:255][101]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.44.39:256][101]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionDivide'MaterialGraphNode_43.MaterialExpressionDivide_1')'
+[2017.11.20-15.44.39:256][101]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.44.39:256][101]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionDivide'MaterialGraphNode_43.MaterialExpressionDivide_1')'
+[2017.11.20-15.44.39:256][101]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.44.39:257][101]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.44.39:257][101]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.44.39:258][101]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.44.39:258][101]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.44.39:258][101]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.44.39:259][101]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.44.39:259][101]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.44.39:259][101]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.44.39:260][101]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.44.39:260][101]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.44.39:260][101]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.44.39:261][101]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.44.39:261][101]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.44.39:262][101]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.44.39:262][101]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'MaterialGraphNode_49.MaterialExpressionConstant_0')'
+[2017.11.20-15.44.39:262][101]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'MaterialGraphNode_48.MaterialExpressionScalarParameter_18')'
+[2017.11.20-15.44.39:262][101]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionFresnel'MaterialGraphNode_50.MaterialExpressionFresnel_2')'
+[2017.11.20-15.44.39:262][101]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.44.39:318][101]LogMaterial: Missing cached shader map for material F_Water, compiling. 
+[2017.11.20-15.44.39:341][101]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDepthFade_1, compiling. 
+[2017.11.20-15.44.39:342][101]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.11.20-15.44.39:346][101]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2017.11.20-15.44.39:351][101]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.20-15.44.39:352][101]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.11.20-15.44.53:166][989]LogEditorTransaction: Undo Move Nodes
+[2017.11.20-15.44.53:179][989]LogMaterial: Missing cached shader map for material F_Water, compiling. 
+[2017.11.20-15.44.53:207][989]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDepthFade_1, compiling. 
+[2017.11.20-15.44.53:233][989]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.11.20-15.44.53:264][989]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2017.11.20-15.44.53:293][989]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.20-15.44.53:319][989]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.11.20-15.44.53:750][  5]LogEditorTransaction: Undo Material Editor: Paste
+[2017.11.20-15.44.53:756][  5]LogMaterial: Missing cached shader map for material F_Water, compiling. 
+[2017.11.20-15.44.53:782][  5]LogMaterial: Missing cached shader map for material F_Water, compiling. 
+[2017.11.20-15.45.06:141][750]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.F_Water:MaterialGraph_0.MaterialGraphNode_0 or MaterialGraphNode /Engine/Transient.F_Water:MaterialGraph_0.MaterialGraphNode_0
+[2017.11.20-15.45.06:141][750]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.F_Water:MaterialGraph_0.MaterialGraphNode_1 or MaterialGraphNode /Engine/Transient.F_Water:MaterialGraph_0.MaterialGraphNode_1
+[2017.11.20-15.45.06:141][750]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.F_Water:MaterialGraph_0.MaterialGraphNode_2 or MaterialGraphNode /Engine/Transient.F_Water:MaterialGraph_0.MaterialGraphNode_2
+[2017.11.20-15.45.06:141][750]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.F_Water:MaterialGraph_0.MaterialGraphNode_3 or MaterialGraphNode /Engine/Transient.F_Water:MaterialGraph_0.MaterialGraphNode_3
+[2017.11.20-15.45.06:141][750]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.F_Water:MaterialGraph_0.MaterialGraphNode_4 or MaterialGraphNode /Engine/Transient.F_Water:MaterialGraph_0.MaterialGraphNode_4
+[2017.11.20-15.45.06:141][750]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.F_Water:MaterialGraph_0.MaterialGraphNode_5 or MaterialGraphNode /Engine/Transient.F_Water:MaterialGraph_0.MaterialGraphNode_5
+[2017.11.20-15.45.06:141][750]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.F_Water:MaterialGraph_0.MaterialGraphNode_6 or MaterialGraphNode /Engine/Transient.F_Water:MaterialGraph_0.MaterialGraphNode_6
+[2017.11.20-15.45.06:141][750]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.F_Water:MaterialGraph_0.MaterialGraphNode_7 or MaterialGraphNode /Engine/Transient.F_Water:MaterialGraph_0.MaterialGraphNode_7
+[2017.11.20-15.45.06:142][750]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.F_Water:MaterialGraph_0.MaterialGraphNode_8 or MaterialGraphNode /Engine/Transient.F_Water:MaterialGraph_0.MaterialGraphNode_8
+[2017.11.20-15.45.06:142][750]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.F_Water:MaterialGraph_0.MaterialGraphNode_9 or MaterialGraphNode /Engine/Transient.F_Water:MaterialGraph_0.MaterialGraphNode_9
+[2017.11.20-15.45.06:142][750]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.F_Water:MaterialGraph_0.MaterialGraphNode_10 or MaterialGraphNode /Engine/Transient.F_Water:MaterialGraph_0.MaterialGraphNode_10
+[2017.11.20-15.45.06:144][750]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'MaterialGraphNode_14.MaterialExpressionScalarParameter_1')'
+[2017.11.20-15.45.06:144][750]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'MaterialGraphNode_15.MaterialExpressionMultiply_0')'
+[2017.11.20-15.45.06:144][750]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.45.06:145][750]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.45.06:145][750]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.45.06:146][750]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.45.06:146][750]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'MaterialGraphNode_17.MaterialExpressionTextureSample_1',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2017.11.20-15.45.06:146][750]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'MaterialGraphNode_16.MaterialExpressionTextureSample_0',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2017.11.20-15.45.06:146][750]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.45.06:146][750]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'MaterialGraphNode_46.MaterialExpressionScalarParameter_2')'
+[2017.11.20-15.45.06:147][750]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'MaterialGraphNode_47.MaterialExpressionScalarParameter_3')'
+[2017.11.20-15.45.06:147][750]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.45.06:147][750]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionAppendVector'MaterialGraphNode_36.MaterialExpressionAppendVector_0')'
+[2017.11.20-15.45.06:147][750]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'MaterialGraphNode_42.MaterialExpressionScalarParameter_13')'
+[2017.11.20-15.45.06:147][750]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.45.06:148][750]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.45.06:148][750]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'MaterialGraphNode_49.MaterialExpressionConstant_0')'
+[2017.11.20-15.45.06:148][750]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'MaterialGraphNode_48.MaterialExpressionScalarParameter_18')'
+[2017.11.20-15.45.06:148][750]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionFresnel'MaterialGraphNode_50.MaterialExpressionFresnel_2')'
+[2017.11.20-15.45.06:149][750]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.45.06:149][750]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.45.06:150][750]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.45.06:150][750]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'MaterialGraphNode_13.MaterialExpressionScalarParameter_0')'
+[2017.11.20-15.45.06:151][750]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.45.06:151][750]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionVectorParameter'MaterialGraphNode_9.MaterialExpressionVectorParameter_0',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2017.11.20-15.45.06:151][750]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionVectorParameter'MaterialGraphNode_10.MaterialExpressionVectorParameter_1',Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2017.11.20-15.45.06:151][750]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionFresnel'MaterialGraphNode_11.MaterialExpressionFresnel_0')'
+[2017.11.20-15.45.06:151][750]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.45.06:152][750]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.45.06:152][750]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.45.06:152][750]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionLinearInterpolate'MaterialGraphNode_12.MaterialExpressionLinearInterpolate_0')'
+[2017.11.20-15.45.06:153][750]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionDepthFade'MaterialGraphNode_5.MaterialExpressionDepthFade_1')'
+[2017.11.20-15.45.06:153][750]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.45.06:153][750]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'MaterialGraphNode_19.MaterialExpressionMultiply_6')'
+[2017.11.20-15.45.06:153][750]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpressionTextureBase:Texture: unresolved reference to 'Texture2D'/Game/T_Water_Ripple_Directional_Noise.T_Water_Ripple_Directional_Noise''
+[2017.11.20-15.45.06:153][750]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.45.06:154][750]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'MaterialGraphNode_18.MaterialExpressionMultiply_5')'
+[2017.11.20-15.45.06:154][750]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpressionTextureBase:Texture: unresolved reference to 'Texture2D'/Game/T_Water_01_N.T_Water_01_N''
+[2017.11.20-15.45.06:154][750]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.45.06:155][750]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionPanner'MaterialGraphNode_23.MaterialExpressionPanner_1')'
+[2017.11.20-15.45.06:155][750]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'MaterialGraphNode_26.MaterialExpressionScalarParameter_9')'
+[2017.11.20-15.45.06:155][750]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.45.06:155][750]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionPanner'MaterialGraphNode_24.MaterialExpressionPanner_2')'
+[2017.11.20-15.45.06:156][750]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'MaterialGraphNode_27.MaterialExpressionScalarParameter_10')'
+[2017.11.20-15.45.06:156][750]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.45.06:156][750]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionWorldPosition'MaterialGraphNode_22.MaterialExpressionWorldPosition_0')'
+[2017.11.20-15.45.06:156][750]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'MaterialGraphNode_25.MaterialExpressionScalarParameter_8')'
+[2017.11.20-15.45.06:156][750]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.45.06:157][750]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionDivide'MaterialGraphNode_20.MaterialExpressionDivide_0')'
+[2017.11.20-15.45.06:157][750]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.45.06:157][750]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.45.06:158][750]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionComponentMask'MaterialGraphNode_21.MaterialExpressionComponentMask_0')'
+[2017.11.20-15.45.06:158][750]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTime'MaterialGraphNode_53.MaterialExpressionTime_1')'
+[2017.11.20-15.45.06:158][750]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'MaterialGraphNode_52.MaterialExpressionScalarParameter_21')'
+[2017.11.20-15.45.06:158][750]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.45.06:158][750]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionComponentMask'MaterialGraphNode_21.MaterialExpressionComponentMask_0')'
+[2017.11.20-15.45.06:158][750]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTime'MaterialGraphNode_53.MaterialExpressionTime_1')'
+[2017.11.20-15.45.06:159][750]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'MaterialGraphNode_51.MaterialExpressionScalarParameter_20')'
+[2017.11.20-15.45.06:159][750]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.45.06:159][750]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.45.06:160][750]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.45.06:160][750]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.45.06:160][750]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTime'MaterialGraphNode_38.MaterialExpressionTime_0')'
+[2017.11.20-15.45.06:160][750]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'MaterialGraphNode_40.MaterialExpressionScalarParameter_11')'
+[2017.11.20-15.45.06:161][750]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.45.06:161][750]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'MaterialGraphNode_28.MaterialExpressionMultiply_7')'
+[2017.11.20-15.45.06:161][750]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionComponentMask'MaterialGraphNode_44.MaterialExpressionComponentMask_1')'
+[2017.11.20-15.45.06:161][750]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.45.06:162][750]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMultiply'MaterialGraphNode_28.MaterialExpressionMultiply_7')'
+[2017.11.20-15.45.06:162][750]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionComponentMask'MaterialGraphNode_45.MaterialExpressionComponentMask_2')'
+[2017.11.20-15.45.06:162][750]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.45.06:162][750]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstantBiasScale'MaterialGraphNode_35.MaterialExpressionConstantBiasScale_1')'
+[2017.11.20-15.45.06:163][750]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstantBiasScale'MaterialGraphNode_34.MaterialExpressionConstantBiasScale_0')'
+[2017.11.20-15.45.06:163][750]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.45.06:163][750]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionAdd'MaterialGraphNode_29.MaterialExpressionAdd_1')'
+[2017.11.20-15.45.06:163][750]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.45.06:164][750]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionAdd'MaterialGraphNode_30.MaterialExpressionAdd_2')'
+[2017.11.20-15.45.06:164][750]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.45.06:164][750]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionSine'MaterialGraphNode_33.MaterialExpressionSine_1')'
+[2017.11.20-15.45.06:164][750]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.45.06:165][750]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionSine'MaterialGraphNode_32.MaterialExpressionSine_0')'
+[2017.11.20-15.45.06:165][750]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.45.06:165][750]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant2Vector'MaterialGraphNode_37.MaterialExpressionConstant2Vector_0')'
+[2017.11.20-15.45.06:165][750]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionAdd'MaterialGraphNode_31.MaterialExpressionAdd_3')'
+[2017.11.20-15.45.06:165][750]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.45.06:166][750]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.45.06:166][750]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.45.06:167][750]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.45.06:167][750]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.45.06:167][750]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.45.06:168][750]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.45.06:168][750]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionWorldPosition'MaterialGraphNode_39.MaterialExpressionWorldPosition_1')'
+[2017.11.20-15.45.06:168][750]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionScalarParameter'MaterialGraphNode_41.MaterialExpressionScalarParameter_12')'
+[2017.11.20-15.45.06:168][750]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.45.06:169][750]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionDivide'MaterialGraphNode_43.MaterialExpressionDivide_1')'
+[2017.11.20-15.45.06:169][750]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.45.06:169][750]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionDivide'MaterialGraphNode_43.MaterialExpressionDivide_1')'
+[2017.11.20-15.45.06:169][750]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.45.06:170][750]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.45.06:170][750]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.45.06:170][750]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.45.06:171][750]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.45.06:171][750]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.45.06:172][750]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.45.06:172][750]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.45.06:172][750]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.45.06:173][750]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.45.06:173][750]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.45.06:173][750]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.45.06:174][750]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.45.06:174][750]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.45.06:174][750]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to 'PreviewMaterial'/Engine/Transient.M_Water_Master''
+[2017.11.20-15.45.06:230][750]LogMaterial: Missing cached shader map for material F_Water, compiling. 
+[2017.11.20-15.45.06:331][750]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDepthFade_1, compiling. 
+[2017.11.20-15.45.06:332][750]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2017.11.20-15.45.06:336][750]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_5, compiling. 
+[2017.11.20-15.45.06:340][750]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.20-15.45.06:342][750]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.11.20-15.45.22:342][426]LogMaterial: Missing cached shader map for material F_Water, compiling. 
+[2017.11.20-15.45.22:367][426]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.20-15.45.22:395][426]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.11.20-15.45.29:882][899]LogMaterial: Missing cached shader map for material F_Water, compiling. 
+[2017.11.20-15.45.29:910][899]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDepthFade_1, compiling. 
+[2017.11.20-15.45.40:980][767]LogMaterial: Missing cached shader map for material F_Water, compiling. 
+[2017.11.20-15.45.53:659][251]LogMaterial: Missing cached shader map for material F_Water, compiling. 
+[2017.11.20-15.45.55:904][419]LogMaterial: Missing cached shader map for material F_Water, compiling. 
+[2017.11.20-15.46.02:041][654]LogMaterial: Missing cached shader map for material F_Water, compiling. 
+[2017.11.20-15.46.05:152][871]LogMaterial: Missing cached shader map for material F_Water, compiling. 
+[2017.11.20-15.46.10:380][261]LogMaterial: Missing cached shader map for material F_Water, compiling. 
+[2017.11.20-15.46.21:205][624]LogMaterial: Missing cached shader map for material F_Water, compiling. 
+[2017.11.20-15.46.21:206][624]LogMaterial: Warning: Failed to compile Material /Engine/Transient.F_Water for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.20-15.46.21:206][624]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.20-15.46.21:207][624]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2017.11.20-15.48.10:963][310]LogActorFactory: Actor Factory created Plane
+[2017.11.20-15.48.11:701][396]LogActorFactory: Actor Factory created Plane
+[2017.11.20-15.48.54:339][425]LogLinker: Warning: Can't find file '/Game/M_Water_Master'
+[2017.11.20-15.48.54:339][425]LogLinker: Warning: Can't find file for asset '/Game/M_Water_Master' while loading ../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Materials/M_Water_Master_Inst.uasset.
+[2017.11.20-15.48.54:339][425]LoadErrors: Error: /Game/Materials/M_Water_Master_Inst : Can't find file for asset. /Game/M_Water_Master
+[2017.11.20-15.48.54:339][425]LogLinker: Warning: Can't find file '/Game/M_Water_Master'
+[2017.11.20-15.48.54:340][425]LogLinker: Warning: Can't find file for asset '/Game/M_Water_Master' while loading ../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Materials/M_Water_Master_Inst.uasset.
+[2017.11.20-15.48.54:340][425]LogLinker: Warning: Can't find file '/Game/M_Water_Master'
+[2017.11.20-15.48.54:340][425]LoadErrors: Failed to load /Game/M_Water_Master.M_Water_Master Referenced by M_Water_Master_Inst
+[2017.11.20-15.48.54:340][425]LogLinker: Warning: Can't find file for asset '/Game/M_Water_Master' while loading NULL.
+[2017.11.20-15.49.05:286][421]LogMaterial: Missing cached shader map for material M_Water_Master, compiling. 
+[2017.11.20-15.49.05:287][421]LogMaterial: Warning: Failed to compile Material /Game/Materials/M_Water_Master.M_Water_Master for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.20-15.49.05:287][421]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.20-15.49.06:806][541]LogRenderer: Reallocating scene render targets to support 1392x924 Format 10 NumSamples 1 (Frame:1).
+[2017.11.20-15.49.12:156][997]LogMaterial: Missing cached shader map for material M_Simple, compiling. 
+[2017.11.20-15.49.12:250][997]LogMaterial: Missing cached shader map for material M_Simple, compiling. 
+[2017.11.20-15.49.12:264][997]LogMaterial: Missing cached shader map for material M_Simple, compiling. 
+[2017.11.20-15.49.12:302][997]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.11.20-15.49.15:490][208]LogMaterial: Missing cached shader map for material M_Water_Master, compiling. 
+[2017.11.20-15.49.15:490][208]LogMaterial: Warning: Failed to compile Material /Engine/Transient.M_Water_Master for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.20-15.49.15:490][208]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.20-15.49.15:572][208]LogMaterial: Missing cached shader map for material M_Water_Master, compiling. 
+[2017.11.20-15.49.15:573][208]LogMaterial: Warning: Failed to compile Material /Engine/Transient.M_Water_Master for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.20-15.49.15:573][208]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.20-15.49.15:577][208]LogMaterial: Missing cached shader map for material M_Water_Master, compiling. 
+[2017.11.20-15.49.15:578][208]LogMaterial: Warning: Failed to compile Material /Engine/Transient.M_Water_Master for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.20-15.49.15:578][208]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.20-15.49.15:608][208]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDepthFade_1, compiling. 
+[2017.11.20-15.49.15:610][208]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.20-15.49.15:614][208]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2017.11.20-15.49.15:618][208]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.20-15.49.15:619][208]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.11.20-15.49.15:621][208]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2017.11.20-15.50.14:002][793]LogMaterial: Missing cached shader map for material M_Water_Master, compiling. 
+[2017.11.20-15.50.14:003][793]LogMaterial: Warning: Failed to compile Material /Engine/Transient.M_Water_Master for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.20-15.50.14:003][793]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.20-15.50.14:008][793]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.11.20-15.50.22:320][ 68]LogMaterial: Missing cached shader map for material M_Water_Master, compiling. 
+[2017.11.20-15.50.22:355][ 68]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.20-15.51.05:084][441]LogMaterialEditor: Saving and Compiling material M_Water_Master
+[2017.11.20-15.51.05:611][441]LogMaterial: Missing cached shader map for material M_Water_Master, compiling. 
+[2017.11.20-15.51.05:697][441]LogMaterial: Missing cached shader map for material M_Water_Master, compiling. 
+[2017.11.20-15.51.05:791][441]LogMaterial: Missing cached shader map for material M_Water_Master, compiling. 
+[2017.11.20-15.51.05:887][441]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Water_Master, compiling. 
+[2017.11.20-15.51.31:018][441]TextureStreamingBuild: Display: Compiling optional shaders took 25.163 seconds.
+[2017.11.20-15.51.54:198][441]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Water_Master" FILE="../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Materials/M_Water_Master.uasset" SILENT=true
+[2017.11.20-15.51.54:266][441]LogSavePackage: Save=58.40ms
+[2017.11.20-15.51.54:266][441]LogSavePackage: Moving '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/M_Water_MasterCFA78CF04A5832515C3ACF847AD5E512.tmp' to '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Materials/M_Water_Master.uasset'
+[2017.11.20-15.51.54:270][441]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Materials/M_Water_Master.uasset
+[2017.11.20-15.51.54:274][441]MaterialEditorStats: Base pass shader: 455 instructions
+[2017.11.20-15.51.54:274][441]MaterialEditorStats: Vertex shader: 37 instructions
+[2017.11.20-15.51.54:274][441]MaterialEditorStats: Texture samplers: 13/16
+[2017.11.20-15.51.54:544][442]LogSavePackage: Save=165.75ms
+[2017.11.20-15.51.54:544][442]LogSavePackage: Moving '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Puzzle_Island_Auto292C303EA45C7EFBB0D87B8A0FD924007.tmp' to '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Autosaves/Game/Maps/Puzzle_Island_Auto2.umap'
+[2017.11.20-15.51.54:546][442]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Autosaves/Game/Maps/Puzzle_Island_Auto2.umap
+[2017.11.20-15.51.54:550][442]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Puzzle_Island' took 0.190
+[2017.11.20-15.51.54:550][442]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.190
+[2017.11.20-15.52.07:265][507]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2017.11.20-15.52.08:846][630]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.20-15.52.08:846][630]PIE: New page: PIE session: Puzzle_Island (20 Nov 2017 15:52:08)
+[2017.11.20-15.52.08:846][630]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.20-15.52.08:856][630]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009552s)
+[2017.11.20-15.52.08:857][630]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.20-15.52.08:857][630]LogPlayLevel: PIE: World Init took: (0.000843s)
+[2017.11.20-15.52.08:857][630]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.010632s)
+[2017.11.20-15.52.08:874][630]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.20-15.52.08:883][630]LogInit: FAudioDevice initialized.
+[2017.11.20-15.52.08:918][630]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.20-15.52.08:920][630]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.20-15.52.08
+[2017.11.20-15.52.08:921][630]LogWorld: Bringing up level for play took: 0.002229
+[2017.11.20-15.52.08:923][630]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 0.334
+[2017.11.20-15.52.42:488][521]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.11.20-15.53.03:244][669]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2017.11.20-15.53.10:338][477]Cmd: TRANSACTION UNDO
+[2017.11.20-15.53.10:338][477]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2017.11.20-15.53.10:360][477]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2017.11.20-15.53.58:131][696]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2017.11.20-15.54.06:269][454]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2017.11.20-15.54.07:588][582]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.11.20-15.54.08:068][631]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2017.11.20-15.54.09:695][760]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.20-15.54.09:695][760]PIE: New page: PIE session: Puzzle_Island (20 Nov 2017 15:54:09)
+[2017.11.20-15.54.09:695][760]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.20-15.54.09:705][760]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009776s)
+[2017.11.20-15.54.09:706][760]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.20-15.54.09:706][760]LogPlayLevel: PIE: World Init took: (0.000855s)
+[2017.11.20-15.54.09:706][760]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.010916s)
+[2017.11.20-15.54.09:721][760]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.20-15.54.09:731][760]LogInit: FAudioDevice initialized.
+[2017.11.20-15.54.09:766][760]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.20-15.54.09:768][760]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.20-15.54.09
+[2017.11.20-15.54.09:769][760]LogWorld: Bringing up level for play took: 0.002427
+[2017.11.20-15.54.09:771][760]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island -0.818
+[2017.11.20-15.54.25:410][576]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.20-15.54.25:525][576]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.20-15.54.25:555][576]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.20-15.54.25:605][576]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDepthFade_1, compiling. 
+[2017.11.20-15.54.25:607][576]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.20-15.54.25:610][576]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2017.11.20-15.54.25:614][576]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.20-15.54.25:619][576]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.11.20-15.54.46:625][675]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.20-15.54.52:332][971]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.20-15.54.59:549][359]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.20-15.54.59:615][361]LogMaterialEditor: Applying material M_Water_Master
+[2017.11.20-15.55.00:095][361]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.20-15.55.00:180][361]LogMaterial: Missing cached shader map for material M_Water_Master, compiling. 
+[2017.11.20-15.55.00:271][361]LogMaterial: Missing cached shader map for material M_Water_Master, compiling. 
+[2017.11.20-15.55.00:343][361]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Water_Master, compiling. 
+[2017.11.20-15.55.14:512][361]TextureStreamingBuild: Display: Compiling optional shaders took 14.177 seconds.
+[2017.11.20-15.56.06:224][509]MaterialEditorStats: Base pass shader: 455 instructions
+[2017.11.20-15.56.06:224][509]MaterialEditorStats: Vertex shader: 37 instructions
+[2017.11.20-15.56.06:224][509]MaterialEditorStats: Texture samplers: 13/16
+[2017.11.20-15.56.32:744][669]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.20-15.56.36:235][869]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.20-15.56.36:315][872]LogMaterialEditor: Applying material M_Water_Master
+[2017.11.20-15.56.36:781][872]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.20-15.56.36:866][872]LogMaterial: Missing cached shader map for material M_Water_Master, compiling. 
+[2017.11.20-15.56.36:951][872]LogMaterial: Missing cached shader map for material M_Water_Master, compiling. 
+[2017.11.20-15.56.37:018][872]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Water_Master, compiling. 
+[2017.11.20-15.56.49:982][872]TextureStreamingBuild: Display: Compiling optional shaders took 12.971 seconds.
+[2017.11.20-15.57.49:560][204]MaterialEditorStats: Base pass shader: 455 instructions
+[2017.11.20-15.57.49:561][204]MaterialEditorStats: Vertex shader: 37 instructions
+[2017.11.20-15.57.49:561][204]MaterialEditorStats: Texture samplers: 13/16
+[2017.11.20-16.02.34:278][859]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2017.11.20-16.02.34:620][859]LogSavePackage: Save=364.58ms
+[2017.11.20-16.02.34:620][859]LogSavePackage: Moving '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Puzzle_Island_Auto3A1CE39094A6C8DFB5A8C90ADD7C7F6D4.tmp' to '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Autosaves/Game/Maps/Puzzle_Island_Auto3.umap'
+[2017.11.20-16.02.34:655][859]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Autosaves/Game/Maps/Puzzle_Island_Auto3.umap
+[2017.11.20-16.02.34:658][859]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Puzzle_Island' took 0.634
+[2017.11.20-16.02.34:658][859]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.634
+[2017.11.20-16.02.34:659][859]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/M_Water_Master] ([1] browsable assets)...
+[2017.11.20-16.02.34:672][859]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/M_Water_Master.M_Water_Master]
+[2017.11.20-16.02.34:672][859]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/M_Water_Master]
+[2017.11.20-16.02.34:709][859]LogSavePackage: Save=29.83ms
+[2017.11.20-16.02.34:709][859]LogSavePackage: Moving '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/M_Water_Master_Auto32810705349F464563FC4F8AD2CBB4C02.tmp' to '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Autosaves/Game/Materials/M_Water_Master_Auto3.uasset'
+[2017.11.20-16.02.34:711][859]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Autosaves/Game/Materials/M_Water_Master_Auto3.uasset
+[2017.11.20-16.02.34:711][859]LogFileHelpers: Auto-saving content packages took 0.052
+[2017.11.20-16.04.29:469][377]LogSavePackage: Save=163.63ms
+[2017.11.20-16.04.29:469][377]LogSavePackage: Moving '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Puzzle_IslandB9EC2B8B42094A9AA58C22B24C7F03FD.tmp' to '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Maps/Puzzle_Island.umap'
+[2017.11.20-16.04.29:476][377]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Maps/Puzzle_Island.umap
+[2017.11.20-16.04.29:516][377]LogFileHelpers: Saving map 'Puzzle_Island' took 0.272
+[2017.11.20-16.04.29:533][377]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/F_Water" FILE="../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Materials/F_Water.uasset" SILENT=true
+[2017.11.20-16.04.29:553][377]LogSavePackage: Save=17.43ms
+[2017.11.20-16.04.29:553][377]LogSavePackage: Moving '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/F_Water86352E7141C2969A85307B9292E63360.tmp' to '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Materials/F_Water.uasset'
+[2017.11.20-16.04.29:559][377]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Materials/F_Water.uasset
+[2017.11.20-16.04.29:561][377]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Water_Master" FILE="../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Materials/M_Water_Master.uasset" SILENT=true
+[2017.11.20-16.04.29:586][377]LogSavePackage: Save=21.34ms
+[2017.11.20-16.04.29:586][377]LogSavePackage: Moving '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/M_Water_MasterD3C014AF41971D4E3A1295AE805709A4.tmp' to '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Materials/M_Water_Master.uasset'
+[2017.11.20-16.04.29:594][377]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Materials/M_Water_Master.uasset
+[2017.11.20-16.15.10:850][341]Cmd: TRANSACTION UNDO
+[2017.11.20-16.15.10:850][341]LogEditorTransaction: Undo Edit B
+[2017.11.20-16.15.10:884][341]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.20-16.15.13:428][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/MI_Landscape" FILE="../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Materials/MI_Landscape.uasset" SILENT=true
+[2017.11.20-16.15.13:446][522]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MI_Landscape, compiling. 
+[2017.11.20-16.15.26:161][522]TextureStreamingBuild: Display: Compiling optional shaders took 12.718 seconds.
+[2017.11.20-16.15.26:199][522]LogSavePackage: Save=18.02ms
+[2017.11.20-16.15.26:199][522]LogSavePackage: Moving '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/MI_Landscape5AE804C9494DA49236872D87B86E7BB2.tmp' to '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Materials/MI_Landscape.uasset'
+[2017.11.20-16.15.26:203][522]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Materials/MI_Landscape.uasset
+[2017.11.20-16.15.27:650][616]MaterialEditorStats: Base pass shader: 455 instructions
+[2017.11.20-16.15.27:650][616]MaterialEditorStats: Vertex shader: 37 instructions
+[2017.11.20-16.15.27:651][616]MaterialEditorStats: Texture samplers: 13/16
+[2017.11.20-16.15.31:683][738]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.20-16.15.31:766][738]LogMaterial: Missing cached shader map for material M_Water_Master, compiling. 
+[2017.11.20-16.15.31:848][738]LogMaterial: Missing cached shader map for material M_Water_Master, compiling. 
+[2017.11.20-16.15.31:917][738]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Water_Master, compiling. 
+[2017.11.20-16.15.43:404][738]TextureStreamingBuild: Display: Compiling optional shaders took 11.495 seconds.
+[2017.11.20-16.17.55:055][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Water_Master" FILE="../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Materials/M_Water_Master.uasset" SILENT=true
+[2017.11.20-16.17.55:094][808]LogSavePackage: Save=31.32ms
+[2017.11.20-16.17.55:094][808]LogSavePackage: Moving '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/M_Water_Master2E083A0A46C6D21A6C07FDA3C8857B21.tmp' to '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Materials/M_Water_Master.uasset'
+[2017.11.20-16.17.55:099][808]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Materials/M_Water_Master.uasset
+[2017.11.20-16.17.55:400][809]Cmd: QUIT_EDITOR
+[2017.11.20-16.17.55:731][809]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.20-16.17.55:746][809]LogExit: Preparing to exit.
+[2017.11.20-16.17.56:417][809]LogDirectoryWatcher: A directory notification for 'D:/Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/' was aborted.
+[2017.11.20-16.17.56:489][809]LogExit: Editor shut down
+[2017.11.20-16.17.56:519][809]LogExit: Transaction tracking system shut down
+[2017.11.20-16.17.56:737][809]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.11.20-16.17.56:738][809]LogDirectoryWatcher: A directory notification for '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/' was aborted.
+[2017.11.20-16.17.56:738][809]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.11.20-16.17.56:738][809]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.11.20-16.17.56:738][809]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.11.20-16.17.56:817][809]LogExit: Object subsystem successfully closed.
+[2017.11.20-16.17.56:834][809]LogD3D11RHI: Shutdown
+[2017.11.20-16.17.56:834][809]LogD3D11RHI: CleanupD3DDevice
+[2017.11.20-16.17.56:839][809]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.11.20-16.17.56:846][809]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (538)
+[2017.11.20-16.17.56:846][809]LogModuleManager: Shutting down and abandoning module MaterialEditor (536)
+[2017.11.20-16.17.56:847][809]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (534)
+[2017.11.20-16.17.56:847][809]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (532)
+[2017.11.20-16.17.56:847][809]LogModuleManager: Shutting down and abandoning module SceneOutliner (530)
+[2017.11.20-16.17.56:847][809]LogModuleManager: Shutting down and abandoning module AddContentDialog (528)
+[2017.11.20-16.17.56:847][809]LogDirectoryWatcher: A directory notification for 'D:/Program Files/Epic Games/UE_4.17/FeaturePacks/' was aborted.
+[2017.11.20-16.17.56:851][809]LogModuleManager: Shutting down and abandoning module WidgetCarousel (527)
+[2017.11.20-16.17.56:851][809]LogModuleManager: Shutting down and abandoning module EditorWidgets (524)
+[2017.11.20-16.17.56:851][809]LogModuleManager: Shutting down and abandoning module CollectionManager (522)
+[2017.11.20-16.17.56:852][809]LogDirectoryWatcher: A directory notification for 'D:/Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Collections/' was aborted.
+[2017.11.20-16.17.56:852][809]LogDirectoryWatcher: A directory notification for 'D:/Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Developers/James/Collections/' was aborted.
+[2017.11.20-16.17.56:852][809]LogDirectoryWatcher: A directory notification for 'D:/Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Collections/' was aborted.
+[2017.11.20-16.17.56:852][809]LogModuleManager: Shutting down and abandoning module StatsViewer (520)
+[2017.11.20-16.17.56:852][809]LogModuleManager: Shutting down and abandoning module FoliageEdit (518)
+[2017.11.20-16.17.56:852][809]LogModuleManager: Shutting down and abandoning module LandscapeEditor (516)
+[2017.11.20-16.17.56:852][809]LogModuleManager: Shutting down and abandoning module MeshPaintMode (514)
+[2017.11.20-16.17.56:852][809]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (512)
+[2017.11.20-16.17.56:852][809]LogModuleManager: Shutting down and abandoning module ActorPickerMode (510)
+[2017.11.20-16.17.56:852][809]LogModuleManager: Shutting down and abandoning module GeometryMode (508)
+[2017.11.20-16.17.56:852][809]LogModuleManager: Shutting down and abandoning module TextureAlignMode (506)
+[2017.11.20-16.17.56:852][809]LogModuleManager: Shutting down and abandoning module BspMode (504)
+[2017.11.20-16.17.56:852][809]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (502)
+[2017.11.20-16.17.56:852][809]LogModuleManager: Shutting down and abandoning module HardwareSurvey (500)
+[2017.11.20-16.17.56:852][809]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (498)
+[2017.11.20-16.17.56:852][809]LogModuleManager: Shutting down and abandoning module AutomationWorker (496)
+[2017.11.20-16.17.56:852][809]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (494)
+[2017.11.20-16.17.56:852][809]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (492)
+[2017.11.20-16.17.56:852][809]LogModuleManager: Shutting down and abandoning module PlacementMode (491)
+[2017.11.20-16.17.56:852][809]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (488)
+[2017.11.20-16.17.56:852][809]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (486)
+[2017.11.20-16.17.56:852][809]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (484)
+[2017.11.20-16.17.56:852][809]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (482)
+[2017.11.20-16.17.56:852][809]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (480)
+[2017.11.20-16.17.56:852][809]LogModuleManager: Shutting down and abandoning module Media (479)
+[2017.11.20-16.17.56:852][809]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (476)
+[2017.11.20-16.17.56:852][809]LogModuleManager: Shutting down and abandoning module CharacterAI (474)
+[2017.11.20-16.17.56:852][809]LogModuleManager: Shutting down and abandoning module AudioCapture (472)
+[2017.11.20-16.17.56:852][809]LogModuleManager: Shutting down and abandoning module SequenceRecorder (471)
+[2017.11.20-16.17.56:852][809]LogModuleManager: Shutting down and abandoning module SmartSnapping (468)
+[2017.11.20-16.17.56:852][809]LogModuleManager: Shutting down and abandoning module SessionServices (466)
+[2017.11.20-16.17.56:852][809]LogModuleManager: Shutting down and abandoning module ViewportSnapping (464)
+[2017.11.20-16.17.56:852][809]LogModuleManager: Shutting down and abandoning module ViewportInteraction (462)
+[2017.11.20-16.17.56:852][809]LogModuleManager: Shutting down and abandoning module ClothPainter (460)
+[2017.11.20-16.17.56:852][809]LogModuleManager: Shutting down and abandoning module LogVisualizer (458)
+[2017.11.20-16.17.56:853][809]LogModuleManager: Shutting down and abandoning module IntroTutorials (456)
+[2017.11.20-16.17.56:853][809]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (455)
+[2017.11.20-16.17.56:853][809]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (452)
+[2017.11.20-16.17.56:853][809]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (450)
+[2017.11.20-16.17.56:853][809]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (448)
+[2017.11.20-16.17.56:853][809]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (447)
+[2017.11.20-16.17.57:727][809]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (444)
+[2017.11.20-16.17.57:727][809]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (442)
+[2017.11.20-16.17.57:727][809]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (440)
+[2017.11.20-16.17.57:727][809]LogModuleManager: Shutting down and abandoning module InputBindingEditor (438)
+[2017.11.20-16.17.57:727][809]LogModuleManager: Shutting down and abandoning module MergeActors (436)
+[2017.11.20-16.17.57:727][809]LogModuleManager: Shutting down and abandoning module SizeMap (434)
+[2017.11.20-16.17.57:727][809]LogModuleManager: Shutting down and abandoning module TreeMap (432)
+[2017.11.20-16.17.57:727][809]LogModuleManager: Shutting down and abandoning module ReferenceViewer (430)
+[2017.11.20-16.17.57:727][809]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (428)
+[2017.11.20-16.17.57:727][809]LogModuleManager: Shutting down and abandoning module LocalizationService (427)
+[2017.11.20-16.17.57:727][809]LogModuleManager: Shutting down and abandoning module HardwareTargeting (424)
+[2017.11.20-16.17.57:727][809]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (422)
+[2017.11.20-16.17.57:728][809]LogModuleManager: Shutting down and abandoning module UndoHistory (420)
+[2017.11.20-16.17.57:728][809]LogModuleManager: Shutting down and abandoning module XmlParser (418)
+[2017.11.20-16.17.57:728][809]LogModuleManager: Shutting down and abandoning module Blutility (416)
+[2017.11.20-16.17.57:728][809]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (414)
+[2017.11.20-16.17.57:728][809]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (413)
+[2017.11.20-16.17.57:728][809]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (410)
+[2017.11.20-16.17.57:728][809]LogModuleManager: Shutting down and abandoning module SettingsEditor (408)
+[2017.11.20-16.17.57:728][809]LogModuleManager: Shutting down and abandoning module ProjectLauncher (406)
+[2017.11.20-16.17.57:728][809]LogModuleManager: Shutting down and abandoning module SessionFrontend (404)
+[2017.11.20-16.17.57:728][809]LogModuleManager: Shutting down and abandoning module ProfilerClient (402)
+[2017.11.20-16.17.57:728][809]LogModuleManager: Shutting down and abandoning module DeviceManager (400)
+[2017.11.20-16.17.57:728][809]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (399)
+[2017.11.20-16.17.57:782][809]LogModuleManager: Shutting down and abandoning module AutomationController (396)
+[2017.11.20-16.17.57:782][809]LogModuleManager: Shutting down and abandoning module AutomationWindow (394)
+[2017.11.20-16.17.57:782][809]LogModuleManager: Shutting down and abandoning module Layers (392)
+[2017.11.20-16.17.57:782][809]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (390)
+[2017.11.20-16.17.57:782][809]LogModuleManager: Shutting down and abandoning module DetailCustomizations (388)
+[2017.11.20-16.17.57:782][809]LogModuleManager: Shutting down and abandoning module PackagesDialog (386)
+[2017.11.20-16.17.57:782][809]LogModuleManager: Shutting down and abandoning module Persona (384)
+[2017.11.20-16.17.57:782][809]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (383)
+[2017.11.20-16.17.57:782][809]LogModuleManager: Shutting down and abandoning module AnimGraph (381)
+[2017.11.20-16.17.57:782][809]LogModuleManager: Shutting down and abandoning module Kismet (378)
+[2017.11.20-16.17.57:782][809]LogModuleManager: Shutting down and abandoning module ClassViewer (376)
+[2017.11.20-16.17.57:783][809]LogModuleManager: Shutting down and abandoning module Toolbox (374)
+[2017.11.20-16.17.57:783][809]LogModuleManager: Shutting down and abandoning module ModuleUI (372)
+[2017.11.20-16.17.57:783][809]LogModuleManager: Shutting down and abandoning module MovieSceneTools (370)
+[2017.11.20-16.17.57:783][809]LogModuleManager: Shutting down and abandoning module OutputLog (368)
+[2017.11.20-16.17.57:783][809]LogModuleManager: Shutting down and abandoning module GammaUI (366)
+[2017.11.20-16.17.57:783][809]LogModuleManager: Shutting down and abandoning module Documentation (364)
+[2017.11.20-16.17.57:783][809]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (362)
+[2017.11.20-16.17.57:783][809]LogModuleManager: Shutting down and abandoning module MovieScene (360)
+[2017.11.20-16.17.57:783][809]LogModuleManager: Shutting down and abandoning module Niagara (358)
+[2017.11.20-16.17.57:783][809]LogModuleManager: Shutting down and abandoning module NiagaraEditor (357)
+[2017.11.20-16.17.57:783][809]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (354)
+[2017.11.20-16.17.57:783][809]LogModuleManager: Shutting down and abandoning module LauncherPlatform (352)
+[2017.11.20-16.17.57:783][809]LogModuleManager: Shutting down and abandoning module AnalyticsET (350)
+[2017.11.20-16.17.57:783][809]LogModuleManager: Shutting down and abandoning module PortalServices (348)
+[2017.11.20-16.17.57:783][809]LogModuleManager: Shutting down and abandoning module PortalRpc (346)
+[2017.11.20-16.17.57:783][809]LogModuleManager: Shutting down and abandoning module MessagingRpc (344)
+[2017.11.20-16.17.57:783][809]LogModuleManager: Shutting down and abandoning module AIModule (342)
+[2017.11.20-16.17.57:784][809]LogModuleManager: Shutting down and abandoning module GameplayDebugger (341)
+[2017.11.20-16.17.57:784][809]LogModuleManager: Shutting down and abandoning module AITestSuite (339)
+[2017.11.20-16.17.57:784][809]LogModuleManager: Shutting down and abandoning module ProfilerService (336)
+[2017.11.20-16.17.57:962][809]LogModuleManager: Shutting down and abandoning module TaskGraph (334)
+[2017.11.20-16.17.57:962][809]LogModuleManager: Shutting down and abandoning module SteamVRController (332)
+[2017.11.20-16.17.57:962][809]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (330)
+[2017.11.20-16.17.57:962][809]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (328)
+[2017.11.20-16.17.57:962][809]LogModuleManager: Shutting down and abandoning module OculusInput (326)
+[2017.11.20-16.17.57:962][809]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (324)
+[2017.11.20-16.17.57:962][809]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (322)
+[2017.11.20-16.17.57:962][809]LogModuleManager: Shutting down and abandoning module CableComponent (320)
+[2017.11.20-16.17.57:962][809]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (318)
+[2017.11.20-16.17.57:962][809]LogModuleManager: Shutting down and abandoning module AndroidPermission (316)
+[2017.11.20-16.17.57:962][809]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (312)
+[2017.11.20-16.17.57:962][809]LogModuleManager: Shutting down and abandoning module HTML5Networking (310)
+[2017.11.20-16.17.57:962][809]LogModuleManager: Shutting down and abandoning module AlembicImporter (308)
+[2017.11.20-16.17.57:962][809]LogModuleManager: Shutting down and abandoning module AlembicLibrary (307)
+[2017.11.20-16.17.57:962][809]LogModuleManager: Shutting down and abandoning module GeometryCache (306)
+[2017.11.20-16.17.57:962][809]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (305)
+[2017.11.20-16.17.57:962][809]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (300)
+[2017.11.20-16.17.57:962][809]LogModuleManager: Shutting down and abandoning module PluginBrowser (298)
+[2017.11.20-16.17.57:962][809]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (296)
+[2017.11.20-16.17.57:962][809]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (294)
+[2017.11.20-16.17.57:962][809]LogModuleManager: Shutting down and abandoning module DesktopPlatform (293)
+[2017.11.20-16.17.57:962][809]LogModuleManager: Shutting down and abandoning module UObjectPlugin (290)
+[2017.11.20-16.17.57:962][809]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (288)
+[2017.11.20-16.17.57:962][809]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (286)
+[2017.11.20-16.17.57:962][809]LogModuleManager: Shutting down and abandoning module GitSourceControl (284)
+[2017.11.20-16.17.57:962][809]LogModuleManager: Shutting down and abandoning module SourceControl (283)
+[2017.11.20-16.17.57:963][809]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (280)
+[2017.11.20-16.17.57:963][809]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (278)
+[2017.11.20-16.17.57:963][809]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (276)
+[2017.11.20-16.17.57:963][809]LogModuleManager: Shutting down and abandoning module Paper2DEditor (274)
+[2017.11.20-16.17.57:963][809]LogModuleManager: Shutting down and abandoning module MeshPaint (273)
+[2017.11.20-16.17.57:963][809]LogModuleManager: Shutting down and abandoning module LevelEditor (271)
+[2017.11.20-16.17.57:964][809]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (270)
+[2017.11.20-16.17.57:964][809]LogModuleManager: Shutting down and abandoning module MainFrame (268)
+[2017.11.20-16.17.57:964][809]LogModuleManager: Shutting down and abandoning module HotReload (267)
+[2017.11.20-16.17.57:964][809]LogDirectoryWatcher: A directory notification for 'D:/Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Binaries/Win64' was aborted.
+[2017.11.20-16.17.57:964][809]LogModuleManager: Shutting down and abandoning module Puzzle_Island (262)
+[2017.11.20-16.17.57:964][809]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2017.11.20-16.17.57:964][809]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2017.11.20-16.17.57:964][809]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2017.11.20-16.17.57:964][809]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2017.11.20-16.17.57:964][809]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2017.11.20-16.17.57:964][809]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2017.11.20-16.17.57:964][809]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2017.11.20-16.17.57:964][809]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2017.11.20-16.17.58:064][809]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2017.11.20-16.17.58:165][809]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2017.11.20-16.17.58:165][809]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2017.11.20-16.17.58:165][809]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2017.11.20-16.17.58:165][809]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2017.11.20-16.17.58:165][809]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2017.11.20-16.17.58:165][809]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2017.11.20-16.17.58:166][809]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2017.11.20-16.17.58:166][809]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2017.11.20-16.17.58:166][809]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2017.11.20-16.17.58:166][809]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2017.11.20-16.17.58:167][809]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2017.11.20-16.17.58:167][809]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2017.11.20-16.17.58:167][809]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2017.11.20-16.17.58:167][809]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2017.11.20-16.17.58:167][809]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2017.11.20-16.17.58:167][809]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2017.11.20-16.17.58:167][809]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2017.11.20-16.17.58:167][809]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2017.11.20-16.17.58:167][809]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2017.11.20-16.17.58:167][809]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2017.11.20-16.17.58:167][809]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2017.11.20-16.17.58:167][809]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2017.11.20-16.17.58:167][809]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2017.11.20-16.17.58:167][809]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2017.11.20-16.17.58:167][809]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2017.11.20-16.17.58:167][809]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2017.11.20-16.17.58:167][809]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2017.11.20-16.17.58:167][809]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2017.11.20-16.17.58:167][809]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2017.11.20-16.17.58:167][809]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2017.11.20-16.17.58:169][809]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2017.11.20-16.17.58:169][809]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2017.11.20-16.17.58:169][809]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2017.11.20-16.17.58:169][809]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2017.11.20-16.17.58:169][809]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2017.11.20-16.17.58:169][809]LogModuleManager: Shutting down and abandoning module Core (168)
+[2017.11.20-16.17.58:169][809]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.11.20-16.17.58:169][809]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2017.11.20-16.17.58:169][809]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2017.11.20-16.17.58:169][809]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2017.11.20-16.17.58:169][809]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2017.11.20-16.17.58:169][809]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2017.11.20-16.17.58:169][809]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2017.11.20-16.17.58:169][809]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2017.11.20-16.17.58:169][809]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2017.11.20-16.17.58:169][809]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2017.11.20-16.17.58:176][809]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2017.11.20-16.17.58:221][809]LogDerivedDataCache: Shutdown
+[2017.11.20-16.17.58:221][809]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2017.11.20-16.17.58:221][809]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2017.11.20-16.17.58:221][809]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2017.11.20-16.17.58:221][809]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2017.11.20-16.17.58:221][809]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2017.11.20-16.17.58:221][809]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2017.11.20-16.17.58:221][809]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2017.11.20-16.17.58:221][809]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2017.11.20-16.17.58:221][809]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2017.11.20-16.17.58:221][809]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2017.11.20-16.17.58:222][809]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2017.11.20-16.17.58:222][809]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2017.11.20-16.17.58:222][809]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2017.11.20-16.17.58:222][809]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2017.11.20-16.17.58:222][809]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2017.11.20-16.17.58:222][809]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2017.11.20-16.17.58:222][809]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2017.11.20-16.17.58:222][809]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2017.11.20-16.17.58:222][809]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2017.11.20-16.17.58:222][809]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2017.11.20-16.17.58:222][809]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2017.11.20-16.17.58:222][809]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2017.11.20-16.17.58:222][809]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2017.11.20-16.17.58:222][809]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2017.11.20-16.17.58:222][809]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2017.11.20-16.17.58:222][809]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2017.11.20-16.17.58:222][809]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2017.11.20-16.17.58:222][809]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2017.11.20-16.17.58:222][809]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2017.11.20-16.17.58:222][809]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2017.11.20-16.17.58:222][809]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2017.11.20-16.17.58:222][809]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2017.11.20-16.17.58:222][809]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2017.11.20-16.17.58:222][809]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2017.11.20-16.17.58:222][809]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2017.11.20-16.17.58:222][809]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2017.11.20-16.17.58:222][809]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2017.11.20-16.17.58:222][809]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2017.11.20-16.17.58:222][809]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2017.11.20-16.17.58:222][809]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2017.11.20-16.17.58:222][809]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2017.11.20-16.17.58:222][809]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2017.11.20-16.17.58:222][809]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2017.11.20-16.17.58:222][809]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2017.11.20-16.17.58:222][809]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2017.11.20-16.17.58:222][809]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2017.11.20-16.17.58:222][809]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2017.11.20-16.17.58:222][809]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.11.20-16.17.58:222][809]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.11.20-16.17.58:222][809]LogOnline: Display: Unloading online subsystem: NULL
+[2017.11.20-16.17.58:223][809]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.11.20-16.17.58:223][809]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.11.20-16.17.58:223][809]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.11.20-16.17.58:223][809]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B027288B7-4A04-7A7A-D535-2E92B6B43A07%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=5af76ab743f8e4bde41cea986150be9d%7C11f1a39b465940bea4ddb0229619e8bc%7Ce37f163a-0c47-4d7a-a884-3eb831fb3649&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.11.20-16.17.58:245][809]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.11.20-16.17.58:247][809]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.11.20-16.17.58:247][809]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.11.20-16.17.58:247][809]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.11.20-16.17.58:247][809]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.11.20-16.17.58:247][809]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.11.20-16.17.58:247][809]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.11.20-16.17.58:247][809]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.11.20-16.17.58:249][809]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.11.20-16.17.58:249][809]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.11.20-16.17.58:249][809]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.11.20-16.17.58:249][809]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.11.20-16.17.58:249][809]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.11.20-16.17.58:249][809]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.11.20-16.17.58:249][809]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.11.20-16.17.58:249][809]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.11.20-16.17.58:249][809]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.11.20-16.17.58:249][809]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.11.20-16.17.58:249][809]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.11.20-16.17.58:252][809]LogExit: Exiting.
+[2017.11.20-16.17.58:269][809]Log file closed, 11/20/17 16:17:58
+>>>>>>> JamesBranch
