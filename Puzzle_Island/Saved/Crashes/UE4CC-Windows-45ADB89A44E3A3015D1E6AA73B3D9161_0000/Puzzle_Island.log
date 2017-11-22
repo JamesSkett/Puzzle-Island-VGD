@@ -1,0 +1,627 @@
+﻿Log file open, 11/22/17 16:54:21
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Puzzle_Island
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1623184688) SRandInit(-1623184688).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.236726
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.11.22-16.54.25:478][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.22-16.54.25:478][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.11.22-16.54.25:518][  0]LogInit: Computer: JAKUBSIEWNIAK
+[2017.11.22-16.54.25:518][  0]LogInit: User: Jakub
+[2017.11.22-16.54.25:518][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.11.22-16.54.25:518][  0]LogInit: High frequency timer resolution =2.435767 MHz
+[2017.11.22-16.54.25:519][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2017.11.22-16.54.25:519][  0]LogMemory: Platform Memory Stats for Windows
+[2017.11.22-16.54.25:519][  0]LogMemory: Process Physical Memory: 280.18 MB used, 280.18 MB peak
+[2017.11.22-16.54.25:519][  0]LogMemory: Process Virtual Memory: 290.39 MB used, 290.39 MB peak
+[2017.11.22-16.54.25:519][  0]LogMemory: Physical Memory: 11055.99 MB used,  21628.43 MB free, 32684.42 MB total
+[2017.11.22-16.54.25:519][  0]LogMemory: Virtual Memory: 675.70 MB used,  21628.43 MB free, 134217728.00 MB total
+[2017.11.22-16.54.26:694][  0]LogInit: Using OS detected language (en-GB).
+[2017.11.22-16.54.26:694][  0]LogInit: Using OS detected locale (en-GB).
+[2017.11.22-16.54.26:706][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2017.11.22-16.54.28:665][  0]LogD3D11RHI: D3D11 adapters:
+[2017.11.22-16.54.28:807][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 880M' (Feature Level 11_0)
+[2017.11.22-16.54.28:807][  0]LogD3D11RHI:       8154/0/16342 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.11.22-16.54.28:822][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2017.11.22-16.54.28:822][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.11.22-16.54.28:826][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.11.22-16.54.28:826][  0]LogD3D11RHI:       0/0/16342 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.11.22-16.54.28:826][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.11.22-16.54.28:843][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.11.22-16.54.28:843][  0]LogD3D11RHI:     GPU DeviceId: 0x1198 (for the marketing name, search the web for "GPU Device Id")
+[2017.11.22-16.54.28:843][  0]LogWindows: EnumDisplayDevices:
+[2017.11.22-16.54.28:844][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2017.11.22-16.54.28:844][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2017.11.22-16.54.28:845][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2017.11.22-16.54.28:846][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.11.22-16.54.28:846][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 880M
+[2017.11.22-16.54.28:846][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.11.22-16.54.28:846][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.11.22-16.54.28:846][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.11.22-16.54.28:923][  0]LogD3D11RHI: Async texture creation enabled
+[2017.11.22-16.54.28:941][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.11.22-16.54.28:943][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Intermediate/Shaders/WorkingDirectory/13360/).
+[2017.11.22-16.54.28:944][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jakub/AppData/Local/Temp/UnrealShaderWorkingDir/3A95269B438A3431E3FA7899B66525CA/'.
+[2017.11.22-16.54.28:944][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.11.22-16.54.31:193][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.11.22-16.54.31:312][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.11.22-16.54.31:399][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.11.22-16.54.31:535][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.11.22-16.54.31:678][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.11.22-16.54.31:817][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.11.22-16.54.31:956][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.11.22-16.54.32:083][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.11.22-16.54.32:194][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.11.22-16.54.32:304][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.11.22-16.54.32:404][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.11.22-16.54.32:506][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.11.22-16.54.32:633][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.11.22-16.54.32:755][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.11.22-16.54.32:862][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.11.22-16.54.33:132][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.11.22-16.54.33:132][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.11.22-16.54.33:243][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.11.22-16.54.33:412][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.11.22-16.54.33:466][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.11.22-16.54.33:592][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.11.22-16.54.33:697][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.11.22-16.54.33:815][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.11.22-16.54.33:921][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.11.22-16.54.33:921][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.11.22-16.54.35:086][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.11.22-16.54.35:259][  0]LogDerivedDataCache: Loaded boot cache 0.17s 93MB C:/Users/Jakub/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.11.22-16.54.35:259][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jakub/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.11.22-16.54.35:259][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.11.22-16.54.35:259][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.11.22-16.54.35:260][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.11.22-16.54.35:260][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.11.22-16.54.35:293][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.11.22-16.54.35:307][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jakub/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.11.22-16.54.35:328][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.11.22-16.54.35:329][  0]LogSlate: Using Freetype 2.6.0
+[2017.11.22-16.54.35:330][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.22-16.54.35:330][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.22-16.54.35:954][  0]LogAssetRegistry: FAssetRegistry took 0.0333 seconds to start up
+[2017.11.22-16.54.36:294][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.22-16.54.36:723][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.11.22-16.54.37:727][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.11.22-16.54.37:884][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.11.22-16.54.37:884][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.11.22-16.54.37:884][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.11.22-16.54.37:884][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.11.22-16.54.37:884][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.11.22-16.54.38:883][  0]LogNetVersion: Puzzle_Island , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3939646741)
+[2017.11.22-16.54.39:509][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.152855 seconds
+[2017.11.22-16.54.39:530][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.11.22-16.54.39:530][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2017.11.22-16.54.39:530][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.11.22-16.54.39:744][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.11.22-16.54.45:807][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.11.22-16.54.45:875][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.11.22-16.54.47:901][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.11.22-16.54.48:723][  0]SourceControl: Source control is disabled
+[2017.11.22-16.54.48:723][  0]SourceControl: Source control is disabled
+[2017.11.22-16.54.48:821][  0]SourceControl: Source control is disabled
+[2017.11.22-16.54.48:909][  0]SourceControl: Source control is disabled
+[2017.11.22-16.54.50:125][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.11.22-16.54.50:738][  0]LogOcInput: OculusInput pre-init called
+[2017.11.22-16.54.51:208][  0]LogEngine: Initializing Engine...
+[2017.11.22-16.54.51:211][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.11.22-16.54.51:589][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.11.22-16.54.51:589][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.11.22-16.54.51:849][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.11.22-16.54.51:863][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.22-16.54.51:918][  0]LogInit: FAudioDevice initialized.
+[2017.11.22-16.54.52:031][  0]LogDerivedDataCache: Saved boot cache 0.11s 93MB C:/Users/Jakub/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.11.22-16.54.52:044][  0]LogInit: Texture streaming: Enabled
+[2017.11.22-16.54.52:246][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.11.22-16.54.52:667][  0]LogInit: Transaction tracking system initialized
+[2017.11.22-16.54.53:259][  0]BlueprintLog: New page: Editor Load
+[2017.11.22-16.54.55:020][  0]LocalizationService: Localization service is disabled
+[2017.11.22-16.54.56:407][  0]LogConsoleResponse: Display: 
+[2017.11.22-16.54.56:809][  0]LogAutoReimportManager: Warning: Unable to watch directory D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/ as it will conflict with another watching D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/.
+[2017.11.22-16.54.56:809][  0]LogAutoReimportManager: Warning: Unable to watch directory D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/ as it will conflict with another watching D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/.
+[2017.11.22-16.54.56:809][  0]LogAutoReimportManager: Warning: Unable to watch directory D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/ as it will conflict with another watching D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/.
+[2017.11.22-16.54.56:820][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.11.22-16.54.56:820][  0]LogCook: Display: Mobile HDR setting 1
+[2017.11.22-16.54.56:821][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.11.22-16.54.57:223][  0]LogFileCache: Scanning file cache for directory 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/' took 0.02s
+[2017.11.22-16.54.59:079][  0]SourceControl: Source control is disabled
+[2017.11.22-16.54.59:079][  0]Cmd: MAP LOAD FILE="D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.22-16.54.59:080][  0]LightingResults: New page: Lighting Build
+[2017.11.22-16.54.59:160][  0]MapCheck: New page: Map Check
+[2017.11.22-16.54.59:160][  0]LightingResults: New page: Lighting Build
+[2017.11.22-16.54.59:482][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.22-16.54.59:495][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.22-16.54.59:538][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.22-16.54.59:697][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 158.91ms to complete.
+[2017.11.22-16.54.59:697][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.618
+[2017.11.22-16.54.59:905][  0]LogCollectionManager: Loaded 0 collections in 0.003156 seconds
+[2017.11.22-16.55.00:026][  0]LogFileCache: Scanning file cache for directory 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Collections/' took 0.01s
+[2017.11.22-16.55.00:026][  0]LogFileCache: Scanning file cache for directory 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Developers/Jakub/Collections/' took 0.01s
+[2017.11.22-16.55.00:026][  0]LogFileCache: Scanning file cache for directory 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Collections/' took 0.01s
+[2017.11.22-16.55.00:026][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.11.22-16.55.00:047][  0]LogContentBrowser: Native class hierarchy populated in 0.0209 seconds. Added 2388 classes and 502 folders.
+[2017.11.22-16.55.00:171][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0032 seconds. Added 0 classes and 0 folders.
+[2017.11.22-16.55.00:287][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0030 seconds. Added 0 classes and 0 folders.
+[2017.11.22-16.55.00:371][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0030 seconds. Added 1 classes and 2 folders.
+[2017.11.22-16.55.00:484][  0]LogSlate: Took 0.000465 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.22-16.55.00:488][  0]LogSlate: Took 0.000324 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.11.22-16.55.00:496][  0]LogSlate: Took 0.000416 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.11.22-16.55.00:708][  0]LogRenderer: Reallocating scene render targets to support 1168x600 Format 10 NumSamples 1 (Frame:1).
+[2017.11.22-16.55.01:009][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0034 seconds. Added 1 classes and 2 folders.
+[2017.11.22-16.55.01:009][  0]LogLoad: (Engine Initialization) Total time: 42.60 seconds
+[2017.11.22-16.55.01:009][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.11.22-16.55.01:010][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.11.22-16.55.01:010][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.11.22-16.55.01:385][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.11.22-16.55.01:683][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/' took 0.32s
+[2017.11.22-16.55.02:031][  2]LogAssetRegistry: Asset discovery search completed in 26.0991 seconds
+[2017.11.22-16.55.02:035][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.11.22-16.55.02:035][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000133 seconds (updated 0 objects)
+[2017.11.22-16.55.05:691][ 13]LogSlate: Took 0.000322 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.22-16.55.24:585][251]LogSlate: Took 0.000464 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.22-16.55.24:691][251]LogAIModule: Creating AISystem for world Jigsaw_Scene
+[2017.11.22-16.55.24:724][251]Cmd: MAP LOAD FILE="D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Maps/Jigsaw_Scene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.22-16.55.24:725][251]LightingResults: New page: Lighting Build
+[2017.11.22-16.55.24:726][251]LoadErrors: New page: Loading map: Jigsaw_Scene.umap
+[2017.11.22-16.55.24:727][251]MapCheck: New page: Map Check
+[2017.11.22-16.55.24:727][251]LightingResults: New page: Lighting Build
+[2017.11.22-16.55.24:836][251]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.22-16.55.24:925][251]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.22-16.55.25:078][251]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 152.176ms to complete.
+[2017.11.22-16.55.25:078][251]LogFileHelpers: Loading map 'Jigsaw_Scene' took 0.355
+[2017.11.22-16.55.26:555][371]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Jigsaw_Exit_Sprite)
+[2017.11.22-16.55.28:556][512]Cmd: DELETE
+[2017.11.22-16.55.28:556][512]Cmd: ACTOR DELETE
+[2017.11.22-16.55.28:563][512]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.11.22-16.55.28:581][512]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2017.11.22-16.55.29:384][585]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (JigsawBoard_Sprite)
+[2017.11.22-16.55.30:492][662]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (JigsawBoard_Sprite)
+[2017.11.22-16.55.30:951][696]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (JigsawBoard_Sprite)
+[2017.11.22-16.55.32:268][793]Cmd: TRANSACTION UNDO
+[2017.11.22-16.55.32:268][793]LogEditorTransaction: Undo Clicking on Actors
+[2017.11.22-16.55.32:291][793]LogSlate: Took 0.000440 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.22-16.55.33:769][887]Cmd: TRANSACTION UNDO
+[2017.11.22-16.55.33:769][887]LogEditorTransaction: Undo Clicking on Actors
+[2017.11.22-16.55.34:425][931]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (JigsawBoard_Sprite)
+[2017.11.22-16.55.35:036][973]Cmd: TRANSACTION UNDO
+[2017.11.22-16.55.35:036][973]LogEditorTransaction: Undo Clicking on Actors
+[2017.11.22-16.55.36:391][ 73]Cmd: TRANSACTION UNDO
+[2017.11.22-16.55.36:391][ 73]LogEditorTransaction: Undo Clicking on Actors
+[2017.11.22-16.55.36:972][129]Cmd: TRANSACTION UNDO
+[2017.11.22-16.55.36:972][129]LogEditorTransaction: Undo Delete Actors
+[2017.11.22-16.55.38:019][204]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (JigsawBoard_Sprite)
+[2017.11.22-16.55.38:952][268]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Jigsaw_Exit_Sprite)
+[2017.11.22-16.55.47:962][896]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (JigsawBoard_Sprite)
+[2017.11.22-16.55.51:038][127]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (JigsawBoard_Sprite)
+[2017.11.22-16.55.51:601][167]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (JigsawBoard_Sprite)
+[2017.11.22-16.55.54:720][394]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (JigsawBoard_Sprite)
+[2017.11.22-16.55.55:298][437]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (JigsawBoard_Sprite)
+[2017.11.22-16.55.55:817][476]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (JigsawBoard_Sprite)
+[2017.11.22-16.55.56:310][512]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Jigsaw_Exit_Sprite)
+[2017.11.22-16.56.00:871][838]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (JigsawBoard_Sprite)
+[2017.11.22-16.56.01:795][884]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (JigsawBoard_Sprite)
+[2017.11.22-16.56.02:380][914]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (JigsawBoard_Sprite)
+[2017.11.22-16.56.04:235][ 45]Cmd: TRANSACTION UNDO
+[2017.11.22-16.56.04:235][ 45]LogEditorTransaction: Undo Clicking on Actors
+[2017.11.22-16.56.05:281][113]Cmd: TRANSACTION UNDO
+[2017.11.22-16.56.05:281][113]LogEditorTransaction: Undo Clicking on Actors
+[2017.11.22-16.56.05:839][154]Cmd: TRANSACTION UNDO
+[2017.11.22-16.56.05:840][154]LogEditorTransaction: Undo Clicking on Actors
+[2017.11.22-16.56.15:618][842]Cmd: TRANSACTION UNDO
+[2017.11.22-16.56.15:619][842]LogEditorTransaction: Undo Clicking on Actors
+[2017.11.22-16.56.16:055][863]Cmd: TRANSACTION UNDO
+[2017.11.22-16.56.16:055][863]LogEditorTransaction: Undo Clicking on Actors
+[2017.11.22-16.56.16:489][887]Cmd: TRANSACTION UNDO
+[2017.11.22-16.56.16:489][887]LogEditorTransaction: Undo Move Actors
+[2017.11.22-16.56.18:137][999]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.11.22-16.56.18:156][999]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2017.11.22-16.56.18:998][ 75]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (JigsawBoard_Sprite)
+[2017.11.22-16.56.19:583][111]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (JigsawBoard_Sprite)
+[2017.11.22-16.56.29:142][795]Cmd: TRANSACTION UNDO
+[2017.11.22-16.56.29:142][795]LogEditorTransaction: Undo Move Actors
+[2017.11.22-16.56.29:691][826]Cmd: TRANSACTION UNDO
+[2017.11.22-16.56.29:691][826]LogEditorTransaction: Undo Clicking on Actors
+[2017.11.22-16.56.31:241][940]Cmd: TRANSACTION UNDO
+[2017.11.22-16.56.31:241][940]LogEditorTransaction: Undo Clicking on Actors
+[2017.11.22-16.56.35:177][302]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (JigsawBoard_Sprite)
+[2017.11.22-16.56.46:382][ 79]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0038 seconds. Added 113 classes and 0 folders.
+[2017.11.22-16.56.47:482][ 79]LogSlate: Took 0.000331 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.11.22-16.56.48:622][126]LogSlate: Took 0.000431 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.11.22-16.57.11:628][667]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (JigsawBoard_Sprite)
+[2017.11.22-16.57.16:278][ 42]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (JigsawBoard_Sprite)
+[2017.11.22-16.57.46:191][390]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (JigsawBoard_Sprite)
+[2017.11.22-16.57.46:995][454]Cmd: DELETE
+[2017.11.22-16.57.46:995][454]Cmd: ACTOR DELETE
+[2017.11.22-16.57.46:996][454]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.11.22-16.57.47:033][454]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2017.11.22-16.58.02:644][857]Cmd: TRANSACTION UNDO
+[2017.11.22-16.58.02:645][857]LogEditorTransaction: Undo Create Actors
+[2017.11.22-16.58.03:036][884]Cmd: TRANSACTION UNDO
+[2017.11.22-16.58.03:036][884]LogEditorTransaction: Undo Create Actors
+[2017.11.22-16.58.14:075][662]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.22-16.58.14:185][662]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene' with GeneratedClass '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene_C' with ClassGeneratedBy '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene'
+[2017.11.22-16.58.14:185][662]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.22-16.58.14:186][662]PIE: New page: PIE session: Jigsaw_Scene (22 Nov 2017 16:58:14)
+[2017.11.22-16.58.14:186][662]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Jigsaw_Scene
+[2017.11.22-16.58.14:191][662]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004691s)
+[2017.11.22-16.58.14:192][662]LogAIModule: Creating AISystem for world Jigsaw_Scene
+[2017.11.22-16.58.14:192][662]LogPlayLevel: PIE: World Init took: (0.001038s)
+[2017.11.22-16.58.14:192][662]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Jigsaw_Scene.Jigsaw_Scene to /Game/Maps/UEDPIE_0_Jigsaw_Scene.Jigsaw_Scene (0.006139s)
+[2017.11.22-16.58.14:229][662]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.22-16.58.14:263][662]LogInit: FAudioDevice initialized.
+[2017.11.22-16.58.14:311][662]LogLoad: Game class is '2D_GameMode_C'
+[2017.11.22-16.58.14:315][662]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Jigsaw_Scene.Jigsaw_Scene up for play (max tick rate 0) at 2017.11.22-16.58.14
+[2017.11.22-16.58.14:315][662]LogWorld: Bringing up level for play took: 0.002220
+[2017.11.22-16.58.14:408][662]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0032 seconds. Added 11 classes and 0 folders.
+[2017.11.22-16.58.14:409][662]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Jigsaw_Scene 0.309
+[2017.11.22-16.58.14:409][662]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene' with GeneratedClass '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene_C' with ClassGeneratedBy '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene'
+[2017.11.22-16.58.17:310][916]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene' with GeneratedClass '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene_C' with ClassGeneratedBy '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene'
+[2017.11.22-16.58.17:373][916]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene' with GeneratedClass '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene_C' with ClassGeneratedBy '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene'
+[2017.11.22-16.58.21:219][192]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (JigsawBoard_Sprite)
+[2017.11.22-16.58.23:371][350]Cmd: TRANSACTION UNDO
+[2017.11.22-16.58.23:371][350]LogEditorTransaction: Undo Move Actors
+[2017.11.22-16.58.27:929][644]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.22-16.58.27:975][644]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene' with GeneratedClass '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene_C' with ClassGeneratedBy '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene'
+[2017.11.22-16.58.27:975][644]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.22-16.58.27:975][644]PIE: New page: PIE session: Jigsaw_Scene (22 Nov 2017 16:58:27)
+[2017.11.22-16.58.27:976][644]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Jigsaw_Scene
+[2017.11.22-16.58.27:981][644]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005073s)
+[2017.11.22-16.58.27:982][644]LogAIModule: Creating AISystem for world Jigsaw_Scene
+[2017.11.22-16.58.27:982][644]LogPlayLevel: PIE: World Init took: (0.001386s)
+[2017.11.22-16.58.27:983][644]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Jigsaw_Scene.Jigsaw_Scene to /Game/Maps/UEDPIE_0_Jigsaw_Scene.Jigsaw_Scene (0.006990s)
+[2017.11.22-16.58.28:025][644]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.22-16.58.28:061][644]LogInit: FAudioDevice initialized.
+[2017.11.22-16.58.28:100][644]LogLoad: Game class is '2D_GameMode_C'
+[2017.11.22-16.58.28:103][644]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Jigsaw_Scene.Jigsaw_Scene up for play (max tick rate 0) at 2017.11.22-16.58.28
+[2017.11.22-16.58.28:103][644]LogWorld: Bringing up level for play took: 0.001752
+[2017.11.22-16.58.28:104][644]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Jigsaw_Scene 0.005
+[2017.11.22-16.58.28:105][644]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene' with GeneratedClass '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene_C' with ClassGeneratedBy '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene'
+[2017.11.22-16.58.29:634][790]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene' with GeneratedClass '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene_C' with ClassGeneratedBy '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene'
+[2017.11.22-16.58.29:695][790]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene' with GeneratedClass '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene_C' with ClassGeneratedBy '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene'
+[2017.11.22-16.58.30:648][852]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (JigsawBoard_Sprite)
+[2017.11.22-16.58.34:145][ 63]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.22-16.58.34:196][ 63]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene' with GeneratedClass '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene_C' with ClassGeneratedBy '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene'
+[2017.11.22-16.58.34:196][ 63]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.22-16.58.34:196][ 63]PIE: New page: PIE session: Jigsaw_Scene (22 Nov 2017 16:58:34)
+[2017.11.22-16.58.34:196][ 63]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Jigsaw_Scene
+[2017.11.22-16.58.34:200][ 63]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003819s)
+[2017.11.22-16.58.34:201][ 63]LogAIModule: Creating AISystem for world Jigsaw_Scene
+[2017.11.22-16.58.34:201][ 63]LogPlayLevel: PIE: World Init took: (0.001089s)
+[2017.11.22-16.58.34:202][ 63]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Jigsaw_Scene.Jigsaw_Scene to /Game/Maps/UEDPIE_0_Jigsaw_Scene.Jigsaw_Scene (0.005319s)
+[2017.11.22-16.58.34:235][ 63]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.22-16.58.34:269][ 63]LogInit: FAudioDevice initialized.
+[2017.11.22-16.58.34:302][ 63]LogLoad: Game class is '2D_GameMode_C'
+[2017.11.22-16.58.34:305][ 63]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Jigsaw_Scene.Jigsaw_Scene up for play (max tick rate 0) at 2017.11.22-16.58.34
+[2017.11.22-16.58.34:305][ 63]LogWorld: Bringing up level for play took: 0.001717
+[2017.11.22-16.58.34:306][ 63]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Jigsaw_Scene 0.207
+[2017.11.22-16.58.34:307][ 63]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene' with GeneratedClass '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene_C' with ClassGeneratedBy '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene'
+[2017.11.22-16.58.35:773][205]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene' with GeneratedClass '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene_C' with ClassGeneratedBy '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene'
+[2017.11.22-16.58.35:827][205]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene' with GeneratedClass '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene_C' with ClassGeneratedBy '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene'
+[2017.11.22-16.58.38:383][385]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (JigsawBoard_Sprite)
+[2017.11.22-16.58.41:694][593]LogEditorViewport: Clicking on Actor (LMB): CameraActor (MainCamera)
+[2017.11.22-16.58.43:987][735]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (JigsawBoard_Sprite)
+[2017.11.22-16.58.46:553][914]LogEditorViewport: Clicking on Actor (LMB): CameraActor (MainCamera)
+[2017.11.22-16.58.47:751][986]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (JigsawBoard_Sprite)
+[2017.11.22-16.58.50:666][191]LogEditorViewport: Clicking on Actor (LMB): CameraActor (MainCamera)
+[2017.11.22-16.58.52:124][283]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (JigsawBoard_Sprite)
+[2017.11.22-16.58.54:868][478]LogEditorViewport: Clicking on Actor (LMB): CameraActor (MainCamera)
+[2017.11.22-16.58.56:579][586]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (JigsawBoard_Sprite)
+[2017.11.22-16.59.00:758][887]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (JigsawBoard_Sprite)
+[2017.11.22-16.59.01:821][965]LogEditorViewport: Clicking on Actor (LMB): CameraActor (MainCamera)
+[2017.11.22-16.59.21:575][357]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.22-16.59.21:619][357]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene' with GeneratedClass '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene_C' with ClassGeneratedBy '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene'
+[2017.11.22-16.59.21:619][357]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.22-16.59.21:620][357]PIE: New page: PIE session: Jigsaw_Scene (22 Nov 2017 16:59:21)
+[2017.11.22-16.59.21:620][357]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Jigsaw_Scene
+[2017.11.22-16.59.21:624][357]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004684s)
+[2017.11.22-16.59.21:626][357]LogAIModule: Creating AISystem for world Jigsaw_Scene
+[2017.11.22-16.59.21:626][357]LogPlayLevel: PIE: World Init took: (0.001206s)
+[2017.11.22-16.59.21:626][357]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Jigsaw_Scene.Jigsaw_Scene to /Game/Maps/UEDPIE_0_Jigsaw_Scene.Jigsaw_Scene (0.006405s)
+[2017.11.22-16.59.21:683][357]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.22-16.59.21:713][357]LogInit: FAudioDevice initialized.
+[2017.11.22-16.59.21:750][357]LogLoad: Game class is '2D_GameMode_C'
+[2017.11.22-16.59.21:752][357]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Jigsaw_Scene.Jigsaw_Scene up for play (max tick rate 0) at 2017.11.22-16.59.21
+[2017.11.22-16.59.21:753][357]LogWorld: Bringing up level for play took: 0.001453
+[2017.11.22-16.59.21:754][357]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Jigsaw_Scene -0.346
+[2017.11.22-16.59.21:754][357]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene' with GeneratedClass '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene_C' with ClassGeneratedBy '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene'
+[2017.11.22-16.59.24:442][612]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene' with GeneratedClass '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene_C' with ClassGeneratedBy '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene'
+[2017.11.22-16.59.24:567][612]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene' with GeneratedClass '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene_C' with ClassGeneratedBy '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene'
+[2017.11.22-16.59.26:074][709]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (JigsawBoard_Sprite)
+[2017.11.22-16.59.30:119][994]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.22-16.59.30:187][994]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene' with GeneratedClass '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene_C' with ClassGeneratedBy '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene'
+[2017.11.22-16.59.30:187][994]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.22-16.59.30:187][994]PIE: New page: PIE session: Jigsaw_Scene (22 Nov 2017 16:59:30)
+[2017.11.22-16.59.30:187][994]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Jigsaw_Scene
+[2017.11.22-16.59.30:191][994]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003685s)
+[2017.11.22-16.59.30:192][994]LogAIModule: Creating AISystem for world Jigsaw_Scene
+[2017.11.22-16.59.30:193][994]LogPlayLevel: PIE: World Init took: (0.001491s)
+[2017.11.22-16.59.30:193][994]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Jigsaw_Scene.Jigsaw_Scene to /Game/Maps/UEDPIE_0_Jigsaw_Scene.Jigsaw_Scene (0.005656s)
+[2017.11.22-16.59.30:227][994]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.22-16.59.30:267][994]LogInit: FAudioDevice initialized.
+[2017.11.22-16.59.30:304][994]LogLoad: Game class is '2D_GameMode_C'
+[2017.11.22-16.59.30:307][994]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Jigsaw_Scene.Jigsaw_Scene up for play (max tick rate 0) at 2017.11.22-16.59.30
+[2017.11.22-16.59.30:307][994]LogWorld: Bringing up level for play took: 0.001577
+[2017.11.22-16.59.30:308][994]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Jigsaw_Scene 0.209
+[2017.11.22-16.59.30:309][994]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene' with GeneratedClass '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene_C' with ClassGeneratedBy '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene'
+[2017.11.22-16.59.32:738][231]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene' with GeneratedClass '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene_C' with ClassGeneratedBy '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene'
+[2017.11.22-16.59.32:800][231]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene' with GeneratedClass '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene_C' with ClassGeneratedBy '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene'
+[2017.11.22-16.59.35:121][377]LogEditorViewport: Clicking on Actor (LMB): CameraActor (MainCamera)
+[2017.11.22-16.59.42:914][899]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.22-16.59.42:956][899]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene' with GeneratedClass '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene_C' with ClassGeneratedBy '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene'
+[2017.11.22-16.59.42:956][899]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.22-16.59.42:956][899]PIE: New page: PIE session: Jigsaw_Scene (22 Nov 2017 16:59:42)
+[2017.11.22-16.59.42:957][899]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Jigsaw_Scene
+[2017.11.22-16.59.42:961][899]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003985s)
+[2017.11.22-16.59.42:962][899]LogAIModule: Creating AISystem for world Jigsaw_Scene
+[2017.11.22-16.59.42:962][899]LogPlayLevel: PIE: World Init took: (0.001644s)
+[2017.11.22-16.59.42:963][899]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Jigsaw_Scene.Jigsaw_Scene to /Game/Maps/UEDPIE_0_Jigsaw_Scene.Jigsaw_Scene (0.006109s)
+[2017.11.22-16.59.43:028][899]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.22-16.59.43:064][899]LogInit: FAudioDevice initialized.
+[2017.11.22-16.59.43:103][899]LogLoad: Game class is '2D_GameMode_C'
+[2017.11.22-16.59.43:106][899]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Jigsaw_Scene.Jigsaw_Scene up for play (max tick rate 0) at 2017.11.22-16.59.43
+[2017.11.22-16.59.43:106][899]LogWorld: Bringing up level for play took: 0.001884
+[2017.11.22-16.59.43:108][899]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Jigsaw_Scene 1.008
+[2017.11.22-16.59.43:108][899]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene' with GeneratedClass '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene_C' with ClassGeneratedBy '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene'
+[2017.11.22-16.59.44:652][ 49]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene' with GeneratedClass '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene_C' with ClassGeneratedBy '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene'
+[2017.11.22-16.59.44:773][ 49]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene' with GeneratedClass '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene_C' with ClassGeneratedBy '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene'
+[2017.11.22-16.59.48:351][296]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (JigsawBoard_Sprite)
+[2017.11.22-16.59.52:509][587]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.22-16.59.52:545][587]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene' with GeneratedClass '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene_C' with ClassGeneratedBy '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene'
+[2017.11.22-16.59.52:545][587]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.22-16.59.52:545][587]PIE: New page: PIE session: Jigsaw_Scene (22 Nov 2017 16:59:52)
+[2017.11.22-16.59.52:546][587]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Jigsaw_Scene
+[2017.11.22-16.59.52:549][587]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003639s)
+[2017.11.22-16.59.52:550][587]LogAIModule: Creating AISystem for world Jigsaw_Scene
+[2017.11.22-16.59.52:551][587]LogPlayLevel: PIE: World Init took: (0.001240s)
+[2017.11.22-16.59.52:551][587]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Jigsaw_Scene.Jigsaw_Scene to /Game/Maps/UEDPIE_0_Jigsaw_Scene.Jigsaw_Scene (0.005355s)
+[2017.11.22-16.59.52:583][587]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.22-16.59.52:627][587]LogInit: FAudioDevice initialized.
+[2017.11.22-16.59.52:666][587]LogLoad: Game class is '2D_GameMode_C'
+[2017.11.22-16.59.52:668][587]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Jigsaw_Scene.Jigsaw_Scene up for play (max tick rate 0) at 2017.11.22-16.59.52
+[2017.11.22-16.59.52:669][587]LogWorld: Bringing up level for play took: 0.001771
+[2017.11.22-16.59.52:670][587]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Jigsaw_Scene 0.571
+[2017.11.22-16.59.52:671][587]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene' with GeneratedClass '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene_C' with ClassGeneratedBy '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene'
+[2017.11.22-16.59.55:000][819]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene' with GeneratedClass '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene_C' with ClassGeneratedBy '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene'
+[2017.11.22-16.59.55:062][819]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene' with GeneratedClass '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene_C' with ClassGeneratedBy '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene'
+[2017.11.22-17.00.01:405][229]LogEditorViewport: Clicking on Actor (LMB): CameraActor (MainCamera)
+[2017.11.22-17.00.11:860][918]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.11.22-17.00.12:609][963]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.22-17.00.12:650][963]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene' with GeneratedClass '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene_C' with ClassGeneratedBy '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene'
+[2017.11.22-17.00.12:650][963]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.22-17.00.12:651][963]PIE: New page: PIE session: Jigsaw_Scene (22 Nov 2017 17:00:12)
+[2017.11.22-17.00.12:651][963]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Jigsaw_Scene
+[2017.11.22-17.00.12:654][963]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003112s)
+[2017.11.22-17.00.12:655][963]LogAIModule: Creating AISystem for world Jigsaw_Scene
+[2017.11.22-17.00.12:655][963]LogPlayLevel: PIE: World Init took: (0.001193s)
+[2017.11.22-17.00.12:656][963]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Jigsaw_Scene.Jigsaw_Scene to /Game/Maps/UEDPIE_0_Jigsaw_Scene.Jigsaw_Scene (0.004789s)
+[2017.11.22-17.00.12:689][963]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.22-17.00.12:726][963]LogInit: FAudioDevice initialized.
+[2017.11.22-17.00.12:762][963]LogLoad: Game class is '2D_GameMode_C'
+[2017.11.22-17.00.12:765][963]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Jigsaw_Scene.Jigsaw_Scene up for play (max tick rate 0) at 2017.11.22-17.00.12
+[2017.11.22-17.00.12:765][963]LogWorld: Bringing up level for play took: 0.001754
+[2017.11.22-17.00.12:767][963]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Jigsaw_Scene 0.668
+[2017.11.22-17.00.12:767][963]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene' with GeneratedClass '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene_C' with ClassGeneratedBy '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene'
+[2017.11.22-17.00.15:047][181]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene' with GeneratedClass '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene_C' with ClassGeneratedBy '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene'
+[2017.11.22-17.00.15:091][181]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene' with GeneratedClass '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene_C' with ClassGeneratedBy '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene'
+[2017.11.22-17.01.35:253][190]LogEditorTransaction: Undo Make New Scene Root
+[2017.11.22-17.01.49:202][789]BlueprintLog: New page: Compile ExitTo3DExplo_BP
+[2017.11.22-17.03.42:412][550]BlueprintLog: New page: Compile ExitTo3DExplo_BP
+[2017.11.22-17.05.55:734][995]LogSavePackage: Save=88.04ms
+[2017.11.22-17.05.55:734][995]LogSavePackage: Moving 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Jigsaw_Scene_Auto1972BDC054D66CDD5411A409FEEBBB097.tmp' to 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Autosaves/Game/Maps/Jigsaw_Scene_Auto1.umap'
+[2017.11.22-17.05.55:739][995]LogSavePackage: Display: Finished SavePackage D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Autosaves/Game/Maps/Jigsaw_Scene_Auto1.umap
+[2017.11.22-17.05.55:744][995]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Jigsaw_Scene' took 0.180
+[2017.11.22-17.05.55:744][995]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.180
+[2017.11.22-17.05.55:895][995]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Puzzles/Puzzle_Blueprints/ExitTo3DExplo_BP] ([1] browsable assets)...
+[2017.11.22-17.05.55:895][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/Puzzles/Puzzle_Blueprints/ExitTo3DExplo_BP]
+[2017.11.22-17.05.55:912][995]LogSavePackage: Save=13.76ms
+[2017.11.22-17.05.55:912][995]LogSavePackage: Moving 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/ExitTo3DExplo_BP_Auto14626E41846E1CCB0DC2E619673BB1597.tmp' to 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Autosaves/Game/Puzzles/Puzzle_Blueprints/ExitTo3DExplo_BP_Auto1.uasset'
+[2017.11.22-17.05.55:915][995]LogSavePackage: Display: Finished SavePackage D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Autosaves/Game/Puzzles/Puzzle_Blueprints/ExitTo3DExplo_BP_Auto1.uasset
+[2017.11.22-17.05.55:916][995]LogFileHelpers: Auto-saving content packages took 0.170
+[2017.11.22-17.06.34:289][973]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (JigsawBoard_Sprite)
+[2017.11.22-17.06.35:084][ 11]LogEditorViewport: Clicking on Actor (LMB): ExitTo3DExplo_BP_C (ExitTo3DExplo_BP)
+[2017.11.22-17.08.45:664][805]BlueprintLog: New page: Compile ExitTo3DExplo_BP
+[2017.11.22-17.10.47:329][920]BlueprintLog: New page: Compile ExitTo3DExplo_BP
+[2017.11.22-17.10.48:365][942]LogSavePackage: Save=26.04ms
+[2017.11.22-17.10.48:366][942]LogSavePackage: Moving 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/ExitTo3DExplo_BP6E03D0E348D74FF56000D7A3F15E6A59.tmp' to 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Puzzles/Puzzle_Blueprints/ExitTo3DExplo_BP.uasset'
+[2017.11.22-17.10.48:374][942]LogSavePackage: Display: Finished SavePackage D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Puzzles/Puzzle_Blueprints/ExitTo3DExplo_BP.uasset
+[2017.11.22-17.10.49:835][ 11]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.22-17.10.49:880][ 11]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene' with GeneratedClass '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene_C' with ClassGeneratedBy '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene'
+[2017.11.22-17.10.49:880][ 11]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.22-17.10.49:880][ 11]PIE: New page: PIE session: Jigsaw_Scene (22 Nov 2017 17:10:49)
+[2017.11.22-17.10.49:880][ 11]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Jigsaw_Scene
+[2017.11.22-17.10.49:883][ 11]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003168s)
+[2017.11.22-17.10.49:884][ 11]LogAIModule: Creating AISystem for world Jigsaw_Scene
+[2017.11.22-17.10.49:885][ 11]LogPlayLevel: PIE: World Init took: (0.001584s)
+[2017.11.22-17.10.49:885][ 11]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Jigsaw_Scene.Jigsaw_Scene to /Game/Maps/UEDPIE_0_Jigsaw_Scene.Jigsaw_Scene (0.005160s)
+[2017.11.22-17.10.49:924][ 11]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.22-17.10.49:962][ 11]LogInit: FAudioDevice initialized.
+[2017.11.22-17.10.50:000][ 11]LogLoad: Game class is '2D_GameMode_C'
+[2017.11.22-17.10.50:003][ 11]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Jigsaw_Scene.Jigsaw_Scene up for play (max tick rate 0) at 2017.11.22-17.10.50
+[2017.11.22-17.10.50:003][ 11]LogWorld: Bringing up level for play took: 0.002017
+[2017.11.22-17.10.50:005][ 11]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Jigsaw_Scene -0.095
+[2017.11.22-17.10.50:005][ 11]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene' with GeneratedClass '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene_C' with ClassGeneratedBy '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene'
+[2017.11.22-17.10.56:320][413]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene' with GeneratedClass '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene_C' with ClassGeneratedBy '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene'
+[2017.11.22-17.10.56:373][413]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene' with GeneratedClass '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene_C' with ClassGeneratedBy '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene'
+[2017.11.22-17.16.13:389][577]LogSavePackage: Save=166.83ms
+[2017.11.22-17.16.13:389][577]LogSavePackage: Moving 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Jigsaw_Scene_Auto2F1328D884A70CA8C968267A23A81BDF9.tmp' to 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Autosaves/Game/Maps/Jigsaw_Scene_Auto2.umap'
+[2017.11.22-17.16.13:396][577]LogSavePackage: Display: Finished SavePackage D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Autosaves/Game/Maps/Jigsaw_Scene_Auto2.umap
+[2017.11.22-17.16.13:404][577]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Jigsaw_Scene' took 0.277
+[2017.11.22-17.16.13:404][577]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.277
+[2017.11.22-17.17.33:882][536]LogSavePackage: Save=26.59ms
+[2017.11.22-17.17.33:882][536]LogSavePackage: Moving 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Exit_ButtonEE580BE54ACA1DBBF881C68E634C2082.tmp' to 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Puzzles/Puzzle_Blueprints/Exit_Button.uasset'
+[2017.11.22-17.17.33:900][536]LogSavePackage: Display: Finished SavePackage D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Puzzles/Puzzle_Blueprints/Exit_Button.uasset
+[2017.11.22-17.17.34:757][550]BlueprintLog: New page: Compile Exit_Button
+[2017.11.22-17.18.14:841][517]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.632 s
+[2017.11.22-17.18.14:841][517]LogOutputDevice: Error: === Handled ensure: ===
+[2017.11.22-17.18.14:841][517]LogOutputDevice: Error: 
+[2017.11.22-17.18.14:841][517]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphNode.cpp] [Line: 276]
+[2017.11.22-17.18.14:842][517]LogOutputDevice: Error: EdGraphNode::GetGraph : '/Game/Puzzles/Puzzle_Blueprints/Exit_Button.Exit_Button:K2Node_ComponentBoundEvent_9' does not have a UEdGraph as an Outer.
+[2017.11.22-17.18.14:842][517]LogOutputDevice: Error: Stack: 
+[2017.11.22-17.18.14:842][517]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000006A773E36
+[2017.11.22-17.18.14:842][517]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000006A4FC2D2
+[2017.11.22-17.18.14:842][517]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000006A514746
+[2017.11.22-17.18.14:842][517]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000549F938E
+[2017.11.22-17.18.14:842][517]LogOutputDevice: Error: UE4Editor-Engine.dll!0x0000000054A07907
+[2017.11.22-17.18.14:842][517]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000005DF87CE7
+[2017.11.22-17.18.14:842][517]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000005DF86391
+[2017.11.22-17.18.14:842][517]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000005D77E149
+[2017.11.22-17.18.14:842][517]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000005D9F3352
+[2017.11.22-17.18.14:842][517]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000005D974BE2
+[2017.11.22-17.18.14:842][517]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000005D9777F9
+[2017.11.22-17.18.14:842][517]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000005D9EB3E5
+[2017.11.22-17.18.14:842][517]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000005FA9B967
+[2017.11.22-17.18.14:842][517]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000005FAC74D4
+[2017.11.22-17.18.14:843][517]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000005F8E42BC
+[2017.11.22-17.18.14:843][517]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000005F8B7145
+[2017.11.22-17.18.14:843][517]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000005F951452
+[2017.11.22-17.18.14:843][517]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000005F939C92
+[2017.11.22-17.18.14:843][517]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000005F92B68F
+[2017.11.22-17.18.14:843][517]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000006A74B759
+[2017.11.22-17.18.14:843][517]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000006A733EE1
+[2017.11.22-17.18.14:843][517]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000006A74D5BB
+[2017.11.22-17.18.14:843][517]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000006A72F042
+[2017.11.22-17.18.14:843][517]LogOutputDevice: Error: USER32.dll!0x00000000B52EBC50
+[2017.11.22-17.18.14:843][517]LogOutputDevice: Error: USER32.dll!0x00000000B52EB5CF
+[2017.11.22-17.18.14:843][517]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000006A74DC29
+[2017.11.22-17.18.14:843][517]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000005F95C576
+[2017.11.22-17.18.14:843][517]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000005F8EDE33
+[2017.11.22-17.18.14:843][517]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000005DA810EC
+[2017.11.22-17.18.14:843][517]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000005DF7CA83
+[2017.11.22-17.18.14:844][517]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000005DF7C1E6
+[2017.11.22-17.18.14:844][517]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x000000003B33C491
+[2017.11.22-17.18.14:844][517]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x000000003B46C743
+[2017.11.22-17.18.14:844][517]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x000000003B444251
+[2017.11.22-17.18.14:844][517]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x000000003B44BB96
+[2017.11.22-17.18.14:844][517]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000005F8F7DD0
+[2017.11.22-17.18.14:844][517]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000005F936850
+[2017.11.22-17.18.14:844][517]LogOutputDevice: Error: UE4Editor-ContentBrowser.dll!0x000000003B49B189
+[2017.11.22-17.18.14:844][517]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000005F8E4761
+[2017.11.22-17.18.14:844][517]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000005F8B60BE
+[2017.11.22-17.18.14:844][517]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000005F8B7CC6
+[2017.11.22-17.18.14:844][517]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000005F9380B7
+[2017.11.22-17.18.14:844][517]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000005F929B18
+[2017.11.22-17.18.14:844][517]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000006A74B498
+[2017.11.22-17.18.14:844][517]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000006A733EE1
+[2017.11.22-17.18.14:844][517]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000006A74D5BB
+[2017.11.22-17.18.14:844][517]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000006A72F042
+[2017.11.22-17.18.14:845][517]LogOutputDevice: Error: USER32.dll!0x00000000B52EBC50
+[2017.11.22-17.18.14:845][517]LogOutputDevice: Error: USER32.dll!0x00000000B52EB5CF
+[2017.11.22-17.18.14:845][517]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000006A74DCC6
+[2017.11.22-17.18.14:845][517]LogOutputDevice: Error: UE4Editor.exe!0x00000000B03B4BE2
+[2017.11.22-17.18.14:845][517]LogOutputDevice: Error: UE4Editor.exe!0x00000000B03C3970
+[2017.11.22-17.18.14:845][517]LogOutputDevice: Error: UE4Editor.exe!0x00000000B03C39EA
+[2017.11.22-17.18.14:845][517]LogOutputDevice: Error: UE4Editor.exe!0x00000000B03D02D9
+[2017.11.22-17.18.14:845][517]LogOutputDevice: Error: UE4Editor.exe!0x00000000B03D1C47
+[2017.11.22-17.18.14:845][517]LogOutputDevice: Error: KERNEL32.DLL!0x00000000B6882774
+[2017.11.22-17.18.14:845][517]LogOutputDevice: Error: ntdll.dll!0x00000000B6BA0D51
+[2017.11.22-17.18.14:845][517]LogOutputDevice: Error: 
+[2017.11.22-17.18.14:849][517]LogStats:                SubmitErrorReport -  0.000 s
