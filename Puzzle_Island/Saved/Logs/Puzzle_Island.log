@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿Log file open, 11/22/17 13:14:56
+=======
+﻿Log file open, 11/22/17 13:00:45
+>>>>>>> JamesBranch
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -7,9 +11,15 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: Puzzle_Island
 LogPlatformFile: Not using cached read wrapper
+<<<<<<< HEAD
 LogInit: Display: RandInit(665561038) SRandInit(665561038).
 LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 1.053125
+=======
+LogInit: Display: RandInit(1332254978) SRandInit(1332254978).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.285083
+>>>>>>> JamesBranch
 LogD3D11RHI: Aftermath initialized
 LogPluginManager: Mounting plugin Paper2D
 LogPluginManager: Mounting plugin LightPropagationVolume
@@ -111,6 +121,7 @@ LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win
 LogInit: Installed Engine Build: 1
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
+<<<<<<< HEAD
 [2017.11.22-13.15.00:550][  0]LogInit: Selected Device Profile: [Windows]
 [2017.11.22-13.15.00:550][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
 [2017.11.22-13.15.00:578][  0]LogInit: Computer: JAKUBSIEWNIAK
@@ -567,3 +578,1244 @@ LogInit: Object subsystem initialized
 [2017.11.22-13.46.39:541][497]LogModuleManager: Shutting down and abandoning module PakFile (2)
 [2017.11.22-13.46.39:547][497]LogExit: Exiting.
 [2017.11.22-13.46.39:615][497]Log file closed, 11/22/17 13:46:39
+=======
+[2017.11.22-13.00.48:079][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.22-13.00.48:079][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.11.22-13.00.48:181][  0]LogInit: Computer: DESKTOP-Q670LKS
+[2017.11.22-13.00.48:182][  0]LogInit: User: James
+[2017.11.22-13.00.48:182][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.11.22-13.00.48:182][  0]LogInit: High frequency timer resolution =3.320331 MHz
+[2017.11.22-13.00.48:182][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2017.11.22-13.00.48:251][  0]LogMemory: Platform Memory Stats for Windows
+[2017.11.22-13.00.48:251][  0]LogMemory: Process Physical Memory: 279.76 MB used, 279.76 MB peak
+[2017.11.22-13.00.48:251][  0]LogMemory: Process Virtual Memory: 275.35 MB used, 275.35 MB peak
+[2017.11.22-13.00.48:251][  0]LogMemory: Physical Memory: 4513.98 MB used,  11813.95 MB free, 16327.93 MB total
+[2017.11.22-13.00.48:251][  0]LogMemory: Virtual Memory: 669.40 MB used,  11813.95 MB free, 134217728.00 MB total
+[2017.11.22-13.00.49:414][  0]LogInit: Using OS detected language (en-US).
+[2017.11.22-13.00.49:414][  0]LogInit: Using OS detected locale (en-GB).
+[2017.11.22-13.00.49:566][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.11.22-13.00.53:445][  0]LogD3D11RHI: D3D11 adapters:
+[2017.11.22-13.00.53:525][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 760' (Feature Level 11_0)
+[2017.11.22-13.00.53:525][  0]LogD3D11RHI:       2017/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2017.11.22-13.00.53:526][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.11.22-13.00.53:526][  0]LogD3D11RHI:       0/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.11.22-13.00.53:526][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.11.22-13.00.53:531][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.11.22-13.00.53:531][  0]LogD3D11RHI:     GPU DeviceId: 0x1187 (for the marketing name, search the web for "GPU Device Id")
+[2017.11.22-13.00.53:531][  0]LogWindows: EnumDisplayDevices:
+[2017.11.22-13.00.53:531][  0]LogWindows:    0. 'NVIDIA GeForce GTX 760' (P:0 D:1)
+[2017.11.22-13.00.53:532][  0]LogWindows:    1. 'NVIDIA GeForce GTX 760' (P:0 D:1)
+[2017.11.22-13.00.53:532][  0]LogWindows:    2. 'NVIDIA GeForce GTX 760' (P:1 D:1)
+[2017.11.22-13.00.53:532][  0]LogWindows:    3. 'NVIDIA GeForce GTX 760' (P:0 D:0)
+[2017.11.22-13.00.53:532][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.11.22-13.00.53:532][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 760
+[2017.11.22-13.00.53:532][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2017.11.22-13.00.53:532][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2017.11.22-13.00.53:532][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.11.22-13.00.53:559][  0]LogD3D11RHI: Async texture creation enabled
+[2017.11.22-13.00.53:871][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2017.11.22-13.00.54:119][  0]LogShaderCompilers: Guid format shader working directory is -22 characters bigger than the processId version (../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Intermediate/Shaders/WorkingDirectory/13372/).
+[2017.11.22-13.00.54:119][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/James/AppData/Local/Temp/UnrealShaderWorkingDir/57B07D7F45F532DC1B5DBCAA3F9BDA60/'.
+[2017.11.22-13.00.54:136][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.11.22-13.00.57:909][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.11.22-13.00.57:946][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.11.22-13.00.57:982][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.11.22-13.00.58:017][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.11.22-13.00.58:072][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.11.22-13.00.58:112][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.11.22-13.00.58:153][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.11.22-13.00.58:190][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.11.22-13.00.58:219][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.11.22-13.00.58:270][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.11.22-13.00.58:306][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.11.22-13.00.58:342][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.11.22-13.00.58:378][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.11.22-13.00.58:415][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.11.22-13.00.58:449][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.11.22-13.00.58:520][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.11.22-13.00.58:520][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.11.22-13.00.58:546][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.11.22-13.00.58:701][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.11.22-13.00.58:740][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.11.22-13.00.58:776][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.11.22-13.00.58:810][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.11.22-13.00.58:845][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.11.22-13.00.58:902][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.11.22-13.00.58:902][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.11.22-13.00.59:944][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.11.22-13.01.00:482][  0]LogDerivedDataCache: Loaded boot cache 0.54s 93MB C:/Users/James/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.11.22-13.01.00:482][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/James/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.11.22-13.01.00:482][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.11.22-13.01.00:482][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.11.22-13.01.00:482][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.11.22-13.01.00:482][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.11.22-13.01.00:555][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.11.22-13.01.00:568][  0]LogDerivedDataCache: Using Local data cache path C:/Users/James/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.11.22-13.01.00:640][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.11.22-13.01.00:684][  0]LogSlate: Using Freetype 2.6.0
+[2017.11.22-13.01.00:757][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.22-13.01.00:769][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.22-13.01.08:787][  0]LogAssetRegistry: FAssetRegistry took 0.0688 seconds to start up
+[2017.11.22-13.01.10:357][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.22-13.01.15:450][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.11.22-13.01.16:993][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.11.22-13.01.17:038][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.11.22-13.01.17:045][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.11.22-13.01.17:051][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.11.22-13.01.17:051][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.11.22-13.01.17:051][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.11.22-13.01.20:468][  0]LogNetVersion: Puzzle_Island , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3939646741)
+[2017.11.22-13.01.22:041][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.161641 seconds
+[2017.11.22-13.01.22:075][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.11.22-13.01.22:075][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2017.11.22-13.01.22:075][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.11.22-13.01.22:121][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.11.22-13.01.36:043][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.11.22-13.01.36:111][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.11.22-13.01.40:564][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.11.22-13.01.41:416][  0]SourceControl: Source control is disabled
+[2017.11.22-13.01.41:417][  0]SourceControl: Source control is disabled
+[2017.11.22-13.01.41:561][  0]SourceControl: Source control is disabled
+[2017.11.22-13.01.41:685][  0]SourceControl: Source control is disabled
+[2017.11.22-13.01.42:916][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.11.22-13.01.43:112][  0]LogOcInput: OculusInput pre-init called
+[2017.11.22-13.01.43:655][  0]LogEngine: Initializing Engine...
+[2017.11.22-13.01.43:681][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.11.22-13.01.44:118][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.11.22-13.01.44:118][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.11.22-13.01.44:563][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.11.22-13.01.44:694][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.22-13.01.44:708][  0]LogInit: FAudioDevice initialized.
+[2017.11.22-13.01.44:855][  0]LogDerivedDataCache: Saved boot cache 0.15s 93MB C:/Users/James/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.11.22-13.01.44:867][  0]LogInit: Texture streaming: Enabled
+[2017.11.22-13.01.45:110][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.11.22-13.01.45:466][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.22-13.01.45:633][  0]LogInit: Transaction tracking system initialized
+[2017.11.22-13.01.47:114][  0]BlueprintLog: New page: Editor Load
+[2017.11.22-13.01.49:578][  0]LocalizationService: Localization service is disabled
+[2017.11.22-13.01.51:950][  0]LogConsoleResponse: Display: 
+[2017.11.22-13.01.53:518][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/ as it will conflict with another watching ../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/.
+[2017.11.22-13.01.53:518][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/ as it will conflict with another watching ../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/.
+[2017.11.22-13.01.53:518][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/ as it will conflict with another watching ../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/.
+[2017.11.22-13.01.53:566][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/' took 0.01s
+[2017.11.22-13.01.53:566][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.11.22-13.01.53:566][  0]LogCook: Display: Mobile HDR setting 1
+[2017.11.22-13.01.53:634][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.11.22-13.01.57:449][  0]SourceControl: Source control is disabled
+[2017.11.22-13.01.57:938][  0]Cmd: MAP LOAD FILE="../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.22-13.01.57:967][  0]LightingResults: New page: Lighting Build
+[2017.11.22-13.01.58:254][  0]MapCheck: New page: Map Check
+[2017.11.22-13.01.58:254][  0]LightingResults: New page: Lighting Build
+[2017.11.22-13.02.00:420][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.22-13.02.01:201][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.22-13.02.01:305][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.22-13.02.01:346][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 40.541ms to complete.
+[2017.11.22-13.02.01:346][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 3.429
+[2017.11.22-13.02.02:698][  0]LogCollectionManager: Loaded 0 collections in 0.000864 seconds
+[2017.11.22-13.02.02:880][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Collections/' took 0.01s
+[2017.11.22-13.02.02:880][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Developers/James/Collections/' took 0.01s
+[2017.11.22-13.02.02:880][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Collections/' took 0.01s
+[2017.11.22-13.02.02:880][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.11.22-13.02.02:924][  0]LogContentBrowser: Native class hierarchy populated in 0.0411 seconds. Added 2388 classes and 502 folders.
+[2017.11.22-13.02.03:041][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0021 seconds. Added 0 classes and 0 folders.
+[2017.11.22-13.02.06:054][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0015 seconds. Added 0 classes and 0 folders.
+[2017.11.22-13.02.06:344][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0014 seconds. Added 1 classes and 2 folders.
+[2017.11.22-13.02.09:078][  0]LogSlate: Took 0.035836 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.22-13.02.09:179][  0]LogSlate: Took 0.034545 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.11.22-13.02.09:274][  0]LogSlate: Took 0.018991 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.11.22-13.02.09:747][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2017.11.22-13.02.10:759][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0014 seconds. Added 1 classes and 2 folders.
+[2017.11.22-13.02.10:759][  0]LogLoad: (Engine Initialization) Total time: 89.38 seconds
+[2017.11.22-13.02.10:760][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.11.22-13.02.10:764][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.11.22-13.02.10:764][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.11.22-13.02.10:910][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.11.22-13.02.11:242][  3]LogAssetRegistry: Asset discovery search completed in 62.4989 seconds
+[2017.11.22-13.02.11:244][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.11.22-13.02.11:244][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000057 seconds (updated 0 objects)
+[2017.11.22-13.02.13:893][268]LogSlate: Took 0.054005 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.22-13.02.15:078][355]LogSlate: Took 0.000164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.22-13.02.16:081][402]LogFileCache: Retrieving MD5 hashes for directory 'D:/Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/' took 5.25s
+[2017.11.22-13.02.47:052][728]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.22-13.02.47:131][728]LogLinker: Warning: Can't find file '/Game/Maps/Jigsaw_Scene_BuiltData'
+[2017.11.22-13.02.47:131][728]LogLinker: Warning: Can't find file for asset '/Game/Maps/Jigsaw_Scene_BuiltData' while loading ../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Maps/Jigsaw_Scene.umap.
+[2017.11.22-13.02.47:131][728]LoadErrors: Error: /Game/Maps/Jigsaw_Scene : Can't find file for asset. /Game/Maps/Jigsaw_Scene_BuiltData
+[2017.11.22-13.02.47:133][728]LogLinker: Warning: Can't find file '/Game/Maps/Jigsaw_Scene_BuiltData'
+[2017.11.22-13.02.47:133][728]LogLinker: Warning: Can't find file for asset '/Game/Maps/Jigsaw_Scene_BuiltData' while loading ../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Maps/Jigsaw_Scene.umap.
+[2017.11.22-13.02.47:195][728]LogLinker: Warning: Can't find file '/Game/Maps/Jigsaw_Scene_BuiltData'
+[2017.11.22-13.02.47:196][728]LogLinker: Warning: Can't find file for asset '/Game/Maps/Jigsaw_Scene_BuiltData' while loading NULL.
+[2017.11.22-13.02.47:196][728]LogLinker: Warning: Can't find file '/Game/Maps/Jigsaw_Scene_BuiltData'
+[2017.11.22-13.02.47:196][728]LogLinker: Warning: Can't find file for asset '/Game/Maps/Jigsaw_Scene_BuiltData' while loading NULL.
+[2017.11.22-13.02.47:211][728]LogLinker: Warning: Can't find file '/Game/Maps/Jigsaw_Scene_BuiltData'
+[2017.11.22-13.02.47:211][728]LoadErrors: Failed to load /Game/Maps/Jigsaw_Scene_BuiltData.Jigsaw_Scene_BuiltData Referenced by PersistentLevel
+[2017.11.22-13.02.47:211][728]LogLinker: Warning: Can't find file for asset '/Game/Maps/Jigsaw_Scene_BuiltData' while loading NULL.
+[2017.11.22-13.02.47:261][728]LogAIModule: Creating AISystem for world Jigsaw_Scene
+[2017.11.22-13.02.47:410][728]Cmd: MAP LOAD FILE="../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Maps/Jigsaw_Scene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.22-13.02.47:410][728]LightingResults: New page: Lighting Build
+[2017.11.22-13.02.47:411][728]LoadErrors: New page: Loading map: Jigsaw_Scene.umap
+[2017.11.22-13.02.47:423][728]MapCheck: New page: Map Check
+[2017.11.22-13.02.47:423][728]LightingResults: New page: Lighting Build
+[2017.11.22-13.02.47:479][728]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.22-13.02.47:570][728]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.22-13.02.47:610][728]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 40.497ms to complete.
+[2017.11.22-13.02.47:610][728]LogFileHelpers: Loading map 'Jigsaw_Scene' took 0.211
+[2017.11.22-13.02.50:653][835]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.22-13.02.50:840][835]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene' with GeneratedClass '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene_C' with ClassGeneratedBy '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene'
+[2017.11.22-13.02.50:841][835]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.22-13.02.50:865][835]PIE: New page: PIE session: Jigsaw_Scene (22 Nov 2017 13:02:50)
+[2017.11.22-13.02.50:865][835]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Jigsaw_Scene
+[2017.11.22-13.02.50:880][835]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015155s)
+[2017.11.22-13.02.50:881][835]LogAIModule: Creating AISystem for world Jigsaw_Scene
+[2017.11.22-13.02.50:881][835]LogPlayLevel: PIE: World Init took: (0.000599s)
+[2017.11.22-13.02.50:881][835]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Jigsaw_Scene.Jigsaw_Scene to /Game/Maps/UEDPIE_0_Jigsaw_Scene.Jigsaw_Scene (0.015979s)
+[2017.11.22-13.02.50:899][835]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.22-13.02.50:913][835]LogInit: FAudioDevice initialized.
+[2017.11.22-13.02.50:971][835]LogLoad: Game class is '2D_GameMode_C'
+[2017.11.22-13.02.50:987][835]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Jigsaw_Scene.Jigsaw_Scene up for play (max tick rate 0) at 2017.11.22-13.02.50
+[2017.11.22-13.02.51:027][835]LogWorld: Bringing up level for play took: 0.041052
+[2017.11.22-13.02.51:095][835]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0014 seconds. Added 11 classes and 0 folders.
+[2017.11.22-13.02.51:155][835]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Jigsaw_Scene 0.135
+[2017.11.22-13.02.51:155][835]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene' with GeneratedClass '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene_C' with ClassGeneratedBy '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene'
+[2017.11.22-13.02.53:151][906]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene' with GeneratedClass '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene_C' with ClassGeneratedBy '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene'
+[2017.11.22-13.02.53:220][906]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene' with GeneratedClass '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene_C' with ClassGeneratedBy '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene'
+[2017.11.22-13.03.00:451][163]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2017.11.22-13.03.00:451][163]LogMaterial: Missing cached shader map for material m_Landscape1, compiling. 
+[2017.11.22-13.03.00:576][163]LogMaterial: Missing cached shader map for material m_Landscape1, compiling. 
+[2017.11.22-13.03.00:664][163]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.22-13.03.00:747][163]Cmd: MAP LOAD FILE="../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Maps/Puzzle_Island.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.22-13.03.00:747][163]LightingResults: New page: Lighting Build
+[2017.11.22-13.03.00:748][163]LoadErrors: New page: Loading map: Puzzle_Island.umap
+[2017.11.22-13.03.00:748][163]MapCheck: New page: Map Check
+[2017.11.22-13.03.00:748][163]LightingResults: New page: Lighting Build
+[2017.11.22-13.03.01:033][163]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.22-13.03.01:148][163]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.22-13.03.01:212][163]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 64.023ms to complete.
+[2017.11.22-13.03.01:213][163]LogFileHelpers: Loading map 'Puzzle_Island' took 0.467
+[2017.11.22-13.03.14:900][415]AssetReimport: New page: Outstanding source content changes 13:03:14
+[2017.11.22-13.03.18:803][416]LogEditorFactories: Performing atomic reimport of [D:/Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/FBX/NPC_Placeholder.FBX]
+[2017.11.22-13.03.18:855][416]LogFbx: Loading FBX Scene from D:/Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/FBX/NPC_Placeholder.FBX
+[2017.11.22-13.03.18:865][416]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.22-13.03.18:916][416]LogStaticMesh: Building static mesh NPC_Placeholder...
+[2017.11.22-13.03.18:956][416]LogStaticMesh: Built static mesh [0.04s] /Game/FBX/NPC_Placeholder.NPC_Placeholder
+[2017.11.22-13.03.18:970][416]LogEditorFactories: -- imported successfully
+[2017.11.22-13.03.21:305][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/NPC_Placeholder" FILE="../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/FBX/NPC_Placeholder.uasset" SILENT=true
+[2017.11.22-13.03.21:401][417]LogSavePackage: Save=57.03ms
+[2017.11.22-13.03.21:401][417]LogSavePackage: Moving '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/NPC_Placeholder9299A7474E44FF806A8A879A65F6BF5A.tmp' to '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/FBX/NPC_Placeholder.uasset'
+[2017.11.22-13.03.21:412][417]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/FBX/NPC_Placeholder.uasset
+[2017.11.22-13.03.24:437][508]AssetReimport: Reimported asset NPC_Placeholder from D:/Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/FBX/NPC_Placeholder.FBX.
+[2017.11.22-13.05.34:673][  6]Cmd: MAP LOAD FILE="../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Maps/Puzzle_Island.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.22-13.05.34:673][  6]LightingResults: New page: Lighting Build
+[2017.11.22-13.05.34:674][  6]LoadErrors: New page: Loading map: Puzzle_Island.umap
+[2017.11.22-13.05.34:674][  6]MapCheck: New page: Map Check
+[2017.11.22-13.05.34:674][  6]LightingResults: New page: Lighting Build
+[2017.11.22-13.05.34:888][  6]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.22-13.05.35:494][  6]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.22-13.05.35:600][  6]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.22-13.05.35:643][  6]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 42.671ms to complete.
+[2017.11.22-13.05.35:643][  6]LogFileHelpers: Loading map 'Puzzle_Island' took 0.971
+[2017.11.22-13.05.49:246][415]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2017.11.22-13.05.50:317][465]Cmd: DELETE
+[2017.11.22-13.05.50:317][465]Cmd: ACTOR DELETE
+[2017.11.22-13.05.50:386][465]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.22-13.05.50:413][465]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2017.11.22-13.06.00:915][474]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2017.11.22-13.07.14:653][772]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.22-13.07.14:680][772]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.22-13.07.14:680][772]PIE: New page: PIE session: Puzzle_Island (22 Nov 2017 13:07:14)
+[2017.11.22-13.07.14:681][772]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.22-13.07.14:691][772]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010674s)
+[2017.11.22-13.07.14:692][772]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.22-13.07.14:692][772]LogPlayLevel: PIE: World Init took: (0.000799s)
+[2017.11.22-13.07.14:692][772]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.011731s)
+[2017.11.22-13.07.14:718][772]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.22-13.07.14:728][772]LogInit: FAudioDevice initialized.
+[2017.11.22-13.07.14:759][772]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.22-13.07.14:762][772]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.22-13.07.14
+[2017.11.22-13.07.14:762][772]LogWorld: Bringing up level for play took: 0.002781
+[2017.11.22-13.07.14:847][772]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island -0.173
+[2017.11.22-13.08.37:105][138]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.22-13.08.37:130][138]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.22-13.08.37:130][138]PIE: New page: PIE session: Puzzle_Island (22 Nov 2017 13:08:37)
+[2017.11.22-13.08.37:131][138]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.22-13.08.37:141][138]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010854s)
+[2017.11.22-13.08.37:142][138]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.22-13.08.37:142][138]LogPlayLevel: PIE: World Init took: (0.000796s)
+[2017.11.22-13.08.37:142][138]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.011938s)
+[2017.11.22-13.08.37:158][138]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.22-13.08.37:168][138]LogInit: FAudioDevice initialized.
+[2017.11.22-13.08.37:202][138]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.22-13.08.37:205][138]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.22-13.08.37
+[2017.11.22-13.08.37:205][138]LogWorld: Bringing up level for play took: 0.002571
+[2017.11.22-13.08.37:207][138]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 0.187
+[2017.11.22-13.09.05:918][267]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0022 seconds. Added 113 classes and 0 folders.
+[2017.11.22-13.09.07:028][267]LogSlate: Took 0.015287 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.11.22-13.09.07:327][268]LogSlate: Took 0.004951 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.11.22-13.09.24:887][444]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2017.11.22-13.09.26:179][490]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.22-13.09.26:179][490]PIE: New page: PIE session: Puzzle_Island (22 Nov 2017 13:09:26)
+[2017.11.22-13.09.26:179][490]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.22-13.09.26:189][490]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009685s)
+[2017.11.22-13.09.26:190][490]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.22-13.09.26:190][490]LogPlayLevel: PIE: World Init took: (0.000655s)
+[2017.11.22-13.09.26:190][490]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.010576s)
+[2017.11.22-13.09.26:227][490]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.22-13.09.26:236][490]LogInit: FAudioDevice initialized.
+[2017.11.22-13.09.26:270][490]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.22-13.09.26:273][490]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.22-13.09.26
+[2017.11.22-13.09.26:273][490]LogWorld: Bringing up level for play took: 0.002587
+[2017.11.22-13.09.26:275][490]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island -0.745
+[2017.11.22-13.18.23:113][384]Cmd: SELECT NONE
+[2017.11.22-13.18.24:663][569]Cmd: SELECT NONE
+[2017.11.22-13.18.24:846][591]Cmd: SELECT NONE
+[2017.11.22-13.18.28:263][932]Cmd: SELECT NONE
+[2017.11.22-13.18.30:389][177]Cmd: SELECT NONE
+[2017.11.22-13.18.40:233][248]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2017.11.22-13.18.40:305][249]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2017.11.22-13.18.43:956][669]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2017.11.22-13.18.46:178][920]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.11.22-13.18.47:746][ 87]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.11.22-13.18.48:309][147]Cmd: SELECT NONE
+[2017.11.22-13.46.17:003][763]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.22-13.46.17:042][763]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.22-13.46.17:042][763]PIE: New page: PIE session: Puzzle_Island (22 Nov 2017 13:46:17)
+[2017.11.22-13.46.17:042][763]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.22-13.46.17:053][763]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010911s)
+[2017.11.22-13.46.17:054][763]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.22-13.46.17:054][763]LogPlayLevel: PIE: World Init took: (0.001018s)
+[2017.11.22-13.46.17:054][763]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.012239s)
+[2017.11.22-13.46.17:077][763]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.22-13.46.17:088][763]LogInit: FAudioDevice initialized.
+[2017.11.22-13.46.17:119][763]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.22-13.46.17:122][763]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.22-13.46.17
+[2017.11.22-13.46.17:122][763]LogWorld: Bringing up level for play took: 0.002639
+[2017.11.22-13.46.17:124][763]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 0.104
+[2017.11.22-13.47.31:145][362]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NPC_Placeholder)
+[2017.11.22-13.49.52:839][763]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2017.11.22-13.50.11:291][464]Cmd: DELETE
+[2017.11.22-13.50.11:292][464]Cmd: ACTOR DELETE
+[2017.11.22-13.50.11:292][464]LogEditorActor: Deleted Actor: Blueprint_Effect_Fire_C
+[2017.11.22-13.50.11:310][464]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2017.11.22-13.50.47:013][712]LogVSAccessor: Warning: Couldn't goto line number '0' in 'D:/Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Source/Puzzle_Island/Puzzle_IslandGameMode.h'
+[2017.11.22-13.50.47:069][712]LogVSAccessor: Warning: Couldn't goto line number '0' in 'D:/Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Source/Puzzle_Island/Puzzle_IslandGameMode.cpp'
+[2017.11.22-13.51.17:546][800]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2017.11.22-13.53.14:657][116]LogVSAccessor: Warning: Couldn't goto line number '0' in 'D:/Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Source/Puzzle_Island/Puzzle_IslandCharacter.h'
+[2017.11.22-13.53.14:744][116]LogVSAccessor: Warning: Couldn't goto line number '0' in 'D:/Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Source/Puzzle_Island/Puzzle_IslandCharacter.cpp'
+[2017.11.22-14.18.49:391][ 89]LogActorFactory: Actor Factory created Cube
+[2017.11.22-14.18.50:304][183]LogActorFactory: Actor Factory created Cube
+[2017.11.22-14.19.30:549][835]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2017.11.22-14.19.31:588][948]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.11.22-14.19.47:749][743]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2017.11.22-14.19.49:132][803]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.22-14.19.49:132][803]PIE: New page: PIE session: Puzzle_Island (22 Nov 2017 14:19:49)
+[2017.11.22-14.19.49:132][803]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.22-14.19.49:143][803]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010811s)
+[2017.11.22-14.19.49:144][803]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.22-14.19.49:144][803]LogPlayLevel: PIE: World Init took: (0.001082s)
+[2017.11.22-14.19.49:144][803]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.012132s)
+[2017.11.22-14.19.49:164][803]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.22-14.19.49:174][803]LogInit: FAudioDevice initialized.
+[2017.11.22-14.19.49:207][803]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.22-14.19.49:211][803]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.22-14.19.49
+[2017.11.22-14.19.49:211][803]LogWorld: Bringing up level for play took: 0.002878
+[2017.11.22-14.19.49:238][803]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 0.218
+[2017.11.22-14.20.08:304][ 23]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2017.11.22-14.20.24:724][412]Cmd: TRANSACTION UNDO
+[2017.11.22-14.20.24:724][412]LogEditorTransaction: Undo Scale Actors
+[2017.11.22-14.20.40:908][971]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube2)
+[2017.11.22-14.20.43:000][ 47]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.22-14.20.43:000][ 47]PIE: New page: PIE session: Puzzle_Island (22 Nov 2017 14:20:43)
+[2017.11.22-14.20.43:001][ 47]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.22-14.20.43:011][ 47]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010380s)
+[2017.11.22-14.20.43:012][ 47]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.22-14.20.43:012][ 47]LogPlayLevel: PIE: World Init took: (0.000804s)
+[2017.11.22-14.20.43:012][ 47]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.011433s)
+[2017.11.22-14.20.43:032][ 47]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.22-14.20.43:041][ 47]LogInit: FAudioDevice initialized.
+[2017.11.22-14.20.43:076][ 47]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.22-14.20.43:079][ 47]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.22-14.20.43
+[2017.11.22-14.20.43:080][ 47]LogWorld: Bringing up level for play took: 0.002742
+[2017.11.22-14.20.43:082][ 47]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 0.061
+[2017.11.22-14.20.54:205][357]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2017.11.22-14.20.54:694][407]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2017.11.22-14.20.57:131][663]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.22-14.20.57:157][663]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.22-14.20.57:157][663]PIE: New page: PIE session: Puzzle_Island (22 Nov 2017 14:20:57)
+[2017.11.22-14.20.57:157][663]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.22-14.20.57:167][663]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010158s)
+[2017.11.22-14.20.57:168][663]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.22-14.20.57:168][663]LogPlayLevel: PIE: World Init took: (0.000685s)
+[2017.11.22-14.20.57:168][663]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.011090s)
+[2017.11.22-14.20.57:191][663]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.22-14.20.57:201][663]LogInit: FAudioDevice initialized.
+[2017.11.22-14.20.57:230][663]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.22-14.20.57:233][663]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.22-14.20.57
+[2017.11.22-14.20.57:233][663]LogWorld: Bringing up level for play took: 0.002346
+[2017.11.22-14.20.57:235][663]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 0.215
+[2017.11.22-14.21.23:875][798]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2017.11.22-14.21.31:641][637]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube3)
+[2017.11.22-14.21.33:056][688]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.22-14.21.33:056][688]PIE: New page: PIE session: Puzzle_Island (22 Nov 2017 14:21:33)
+[2017.11.22-14.21.33:056][688]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.22-14.21.33:066][688]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009891s)
+[2017.11.22-14.21.33:067][688]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.22-14.21.33:067][688]LogPlayLevel: PIE: World Init took: (0.000819s)
+[2017.11.22-14.21.33:067][688]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.010969s)
+[2017.11.22-14.21.33:088][688]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.22-14.21.33:096][688]LogInit: FAudioDevice initialized.
+[2017.11.22-14.21.33:129][688]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.22-14.21.33:131][688]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.22-14.21.33
+[2017.11.22-14.21.33:132][688]LogWorld: Bringing up level for play took: 0.002327
+[2017.11.22-14.21.33:134][688]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 0.113
+[2017.11.22-14.21.40:179][514]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2017.11.22-14.21.42:453][764]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube3)
+[2017.11.22-14.21.43:930][846]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.22-14.21.43:930][846]PIE: New page: PIE session: Puzzle_Island (22 Nov 2017 14:21:43)
+[2017.11.22-14.21.43:930][846]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.22-14.21.43:941][846]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010228s)
+[2017.11.22-14.21.43:941][846]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.22-14.21.43:941][846]LogPlayLevel: PIE: World Init took: (0.000689s)
+[2017.11.22-14.21.43:942][846]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.011153s)
+[2017.11.22-14.21.43:962][846]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.22-14.21.43:972][846]LogInit: FAudioDevice initialized.
+[2017.11.22-14.21.44:002][846]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.22-14.21.44:005][846]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.22-14.21.44
+[2017.11.22-14.21.44:005][846]LogWorld: Bringing up level for play took: 0.002669
+[2017.11.22-14.21.44:007][846]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 0.987
+[2017.11.22-14.21.51:297][701]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2017.11.22-14.21.55:235][139]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube3)
+[2017.11.22-14.21.56:824][198]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.22-14.21.56:825][198]PIE: New page: PIE session: Puzzle_Island (22 Nov 2017 14:21:56)
+[2017.11.22-14.21.56:825][198]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.22-14.21.56:835][198]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010303s)
+[2017.11.22-14.21.56:836][198]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.22-14.21.56:836][198]LogPlayLevel: PIE: World Init took: (0.000818s)
+[2017.11.22-14.21.56:836][198]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.011347s)
+[2017.11.22-14.21.56:856][198]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.22-14.21.56:866][198]LogInit: FAudioDevice initialized.
+[2017.11.22-14.21.56:897][198]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.22-14.21.56:899][198]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.22-14.21.56
+[2017.11.22-14.21.56:900][198]LogWorld: Bringing up level for play took: 0.002560
+[2017.11.22-14.21.56:902][198]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island -0.118
+[2017.11.22-14.22.20:273][979]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2017.11.22-14.22.22:556][200]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.22-14.22.22:582][200]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.22-14.22.22:582][200]PIE: New page: PIE session: Puzzle_Island (22 Nov 2017 14:22:22)
+[2017.11.22-14.22.22:582][200]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.22-14.22.22:593][200]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010250s)
+[2017.11.22-14.22.22:593][200]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.22-14.22.22:593][200]LogPlayLevel: PIE: World Init took: (0.000686s)
+[2017.11.22-14.22.22:594][200]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.011202s)
+[2017.11.22-14.22.22:613][200]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.22-14.22.22:622][200]LogInit: FAudioDevice initialized.
+[2017.11.22-14.22.22:656][200]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.22-14.22.22:659][200]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.22-14.22.22
+[2017.11.22-14.22.22:659][200]LogWorld: Bringing up level for play took: 0.002827
+[2017.11.22-14.22.22:661][200]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island -0.359
+[2017.11.22-14.22.40:210][287]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2017.11.22-14.22.44:827][779]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.22-14.22.44:852][779]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.22-14.22.44:852][779]PIE: New page: PIE session: Puzzle_Island (22 Nov 2017 14:22:44)
+[2017.11.22-14.22.44:852][779]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.22-14.22.44:863][779]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010438s)
+[2017.11.22-14.22.44:863][779]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.22-14.22.44:863][779]LogPlayLevel: PIE: World Init took: (0.000723s)
+[2017.11.22-14.22.44:863][779]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.011407s)
+[2017.11.22-14.22.44:884][779]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.22-14.22.44:894][779]LogInit: FAudioDevice initialized.
+[2017.11.22-14.22.44:924][779]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.22-14.22.44:927][779]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.22-14.22.44
+[2017.11.22-14.22.44:928][779]LogWorld: Bringing up level for play took: 0.002566
+[2017.11.22-14.22.44:929][779]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island -0.091
+[2017.11.22-14.25.47:412][496]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2017.11.22-14.25.50:820][857]Cmd: TRANSACTION UNDO
+[2017.11.22-14.25.50:820][857]LogEditorTransaction: Undo Move Actors
+[2017.11.22-14.26.00:499][701]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube4)
+[2017.11.22-14.26.01:646][743]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.22-14.26.01:646][743]PIE: New page: PIE session: Puzzle_Island (22 Nov 2017 14:26:01)
+[2017.11.22-14.26.01:646][743]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.22-14.26.01:657][743]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010478s)
+[2017.11.22-14.26.01:657][743]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.22-14.26.01:658][743]LogPlayLevel: PIE: World Init took: (0.000769s)
+[2017.11.22-14.26.01:658][743]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.011472s)
+[2017.11.22-14.26.01:678][743]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.22-14.26.01:688][743]LogInit: FAudioDevice initialized.
+[2017.11.22-14.26.01:722][743]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.22-14.26.01:726][743]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.22-14.26.01
+[2017.11.22-14.26.01:726][743]LogWorld: Bringing up level for play took: 0.002940
+[2017.11.22-14.26.01:728][743]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 0.708
+[2017.11.22-14.26.07:489][383]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2017.11.22-14.26.13:899][ 60]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube4)
+[2017.11.22-14.26.15:752][127]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.22-14.26.15:752][127]PIE: New page: PIE session: Puzzle_Island (22 Nov 2017 14:26:15)
+[2017.11.22-14.26.15:752][127]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.22-14.26.15:762][127]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010009s)
+[2017.11.22-14.26.15:763][127]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.22-14.26.15:763][127]LogPlayLevel: PIE: World Init took: (0.000735s)
+[2017.11.22-14.26.15:763][127]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.010972s)
+[2017.11.22-14.26.15:784][127]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.22-14.26.15:793][127]LogInit: FAudioDevice initialized.
+[2017.11.22-14.26.15:827][127]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.22-14.26.15:830][127]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.22-14.26.15
+[2017.11.22-14.26.15:830][127]LogWorld: Bringing up level for play took: 0.002513
+[2017.11.22-14.26.15:832][127]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 0.812
+[2017.11.22-14.26.47:269][770]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube5)
+[2017.11.22-14.26.49:053][842]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.22-14.26.49:054][842]PIE: New page: PIE session: Puzzle_Island (22 Nov 2017 14:26:49)
+[2017.11.22-14.26.49:054][842]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.22-14.26.49:064][842]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010032s)
+[2017.11.22-14.26.49:064][842]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.22-14.26.49:064][842]LogPlayLevel: PIE: World Init took: (0.000750s)
+[2017.11.22-14.26.49:065][842]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.011048s)
+[2017.11.22-14.26.49:085][842]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.22-14.26.49:095][842]LogInit: FAudioDevice initialized.
+[2017.11.22-14.26.49:125][842]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.22-14.26.49:128][842]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.22-14.26.49
+[2017.11.22-14.26.49:128][842]LogWorld: Bringing up level for play took: 0.002388
+[2017.11.22-14.26.49:130][842]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 0.11
+[2017.11.22-14.26.57:284][789]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2017.11.22-14.27.15:364][744]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube5)
+[2017.11.22-14.27.17:771][840]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.22-14.27.17:772][840]PIE: New page: PIE session: Puzzle_Island (22 Nov 2017 14:27:17)
+[2017.11.22-14.27.17:772][840]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.22-14.27.17:782][840]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010602s)
+[2017.11.22-14.27.17:783][840]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.22-14.27.17:783][840]LogPlayLevel: PIE: World Init took: (0.000927s)
+[2017.11.22-14.27.17:783][840]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.011880s)
+[2017.11.22-14.27.17:806][840]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.22-14.27.17:816][840]LogInit: FAudioDevice initialized.
+[2017.11.22-14.27.17:847][840]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.22-14.27.17:850][840]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.22-14.27.17
+[2017.11.22-14.27.17:850][840]LogWorld: Bringing up level for play took: 0.002821
+[2017.11.22-14.27.17:852][840]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 0.832
+[2017.11.22-14.27.26:934][912]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2017.11.22-14.27.38:935][166]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.22-14.27.38:960][166]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.22-14.27.38:960][166]PIE: New page: PIE session: Puzzle_Island (22 Nov 2017 14:27:38)
+[2017.11.22-14.27.38:960][166]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.22-14.27.38:971][166]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010302s)
+[2017.11.22-14.27.38:971][166]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.22-14.27.38:971][166]LogPlayLevel: PIE: World Init took: (0.000751s)
+[2017.11.22-14.27.38:972][166]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.011284s)
+[2017.11.22-14.27.38:994][166]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.22-14.27.39:003][166]LogInit: FAudioDevice initialized.
+[2017.11.22-14.27.39:037][166]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.22-14.27.39:040][166]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.22-14.27.39
+[2017.11.22-14.27.39:040][166]LogWorld: Bringing up level for play took: 0.002454
+[2017.11.22-14.27.39:042][166]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 0.022
+[2017.11.22-14.28.09:978][828]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2017.11.22-14.28.18:374][715]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.22-14.28.18:399][715]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.22-14.28.18:399][715]PIE: New page: PIE session: Puzzle_Island (22 Nov 2017 14:28:18)
+[2017.11.22-14.28.18:400][715]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.22-14.28.18:410][715]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010652s)
+[2017.11.22-14.28.18:411][715]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.22-14.28.18:411][715]LogPlayLevel: PIE: World Init took: (0.000691s)
+[2017.11.22-14.28.18:411][715]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.011592s)
+[2017.11.22-14.28.18:431][715]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.22-14.28.18:440][715]LogInit: FAudioDevice initialized.
+[2017.11.22-14.28.18:472][715]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.22-14.28.18:475][715]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.22-14.28.18
+[2017.11.22-14.28.18:475][715]LogWorld: Bringing up level for play took: 0.002533
+[2017.11.22-14.28.18:477][715]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island -0.543
+[2017.11.22-14.28.24:048][313]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube5)
+[2017.11.22-14.28.25:221][362]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.22-14.28.25:221][362]PIE: New page: PIE session: Puzzle_Island (22 Nov 2017 14:28:25)
+[2017.11.22-14.28.25:221][362]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.22-14.28.25:231][362]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010047s)
+[2017.11.22-14.28.25:232][362]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.22-14.28.25:232][362]LogPlayLevel: PIE: World Init took: (0.000751s)
+[2017.11.22-14.28.25:232][362]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.011016s)
+[2017.11.22-14.28.25:252][362]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.22-14.28.25:261][362]LogInit: FAudioDevice initialized.
+[2017.11.22-14.28.25:295][362]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.22-14.28.25:298][362]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.22-14.28.25
+[2017.11.22-14.28.25:298][362]LogWorld: Bringing up level for play took: 0.002527
+[2017.11.22-14.28.25:300][362]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 0.28
+[2017.11.22-14.28.55:066][839]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2017.11.22-14.28.57:694][127]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2017.11.22-14.29.03:735][767]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube5)
+[2017.11.22-14.29.05:077][819]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.22-14.29.05:077][819]PIE: New page: PIE session: Puzzle_Island (22 Nov 2017 14:29:05)
+[2017.11.22-14.29.05:077][819]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.22-14.29.05:088][819]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010222s)
+[2017.11.22-14.29.05:088][819]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.22-14.29.05:088][819]LogPlayLevel: PIE: World Init took: (0.000760s)
+[2017.11.22-14.29.05:089][819]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.011247s)
+[2017.11.22-14.29.05:110][819]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.22-14.29.05:120][819]LogInit: FAudioDevice initialized.
+[2017.11.22-14.29.05:151][819]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.22-14.29.05:154][819]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.22-14.29.05
+[2017.11.22-14.29.05:154][819]LogWorld: Bringing up level for play took: 0.002650
+[2017.11.22-14.29.05:156][819]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 0.136
+[2017.11.22-14.29.16:051][ 63]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2017.11.22-14.29.18:398][302]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube6)
+[2017.11.22-14.29.19:880][367]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.22-14.29.19:880][367]PIE: New page: PIE session: Puzzle_Island (22 Nov 2017 14:29:19)
+[2017.11.22-14.29.19:880][367]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.22-14.29.19:890][367]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010104s)
+[2017.11.22-14.29.19:891][367]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.22-14.29.19:891][367]LogPlayLevel: PIE: World Init took: (0.000757s)
+[2017.11.22-14.29.19:891][367]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.011111s)
+[2017.11.22-14.29.19:912][367]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.22-14.29.19:921][367]LogInit: FAudioDevice initialized.
+[2017.11.22-14.29.19:952][367]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.22-14.29.19:955][367]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.22-14.29.19
+[2017.11.22-14.29.19:955][367]LogWorld: Bringing up level for play took: 0.002603
+[2017.11.22-14.29.19:957][367]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 0.937
+[2017.11.22-14.29.25:494][972]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2017.11.22-14.29.29:402][372]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.22-14.29.29:426][372]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.22-14.29.29:427][372]PIE: New page: PIE session: Puzzle_Island (22 Nov 2017 14:29:29)
+[2017.11.22-14.29.29:427][372]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.22-14.29.29:437][372]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010157s)
+[2017.11.22-14.29.29:437][372]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.22-14.29.29:438][372]LogPlayLevel: PIE: World Init took: (0.000677s)
+[2017.11.22-14.29.29:438][372]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.011081s)
+[2017.11.22-14.29.29:459][372]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.22-14.29.29:469][372]LogInit: FAudioDevice initialized.
+[2017.11.22-14.29.29:498][372]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.22-14.29.29:501][372]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.22-14.29.29
+[2017.11.22-14.29.29:501][372]LogWorld: Bringing up level for play took: 0.002541
+[2017.11.22-14.29.29:503][372]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 0.483
+[2017.11.22-14.29.32:309][690]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube5)
+[2017.11.22-14.29.33:952][759]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.22-14.29.33:952][759]PIE: New page: PIE session: Puzzle_Island (22 Nov 2017 14:29:33)
+[2017.11.22-14.29.33:952][759]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.22-14.29.33:962][759]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009993s)
+[2017.11.22-14.29.33:963][759]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.22-14.29.33:963][759]LogPlayLevel: PIE: World Init took: (0.000724s)
+[2017.11.22-14.29.33:963][759]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.011021s)
+[2017.11.22-14.29.33:984][759]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.22-14.29.33:993][759]LogInit: FAudioDevice initialized.
+[2017.11.22-14.29.34:026][759]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.22-14.29.34:028][759]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.22-14.29.34
+[2017.11.22-14.29.34:028][759]LogWorld: Bringing up level for play took: 0.002312
+[2017.11.22-14.29.34:030][759]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 1.01
+[2017.11.22-14.29.37:166][ 77]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube6)
+[2017.11.22-14.29.38:475][129]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.22-14.29.38:475][129]PIE: New page: PIE session: Puzzle_Island (22 Nov 2017 14:29:38)
+[2017.11.22-14.29.38:475][129]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.22-14.29.38:486][129]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010440s)
+[2017.11.22-14.29.38:487][129]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.22-14.29.38:487][129]LogPlayLevel: PIE: World Init took: (0.001001s)
+[2017.11.22-14.29.38:487][129]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.011691s)
+[2017.11.22-14.29.38:508][129]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.22-14.29.38:517][129]LogInit: FAudioDevice initialized.
+[2017.11.22-14.29.38:552][129]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.22-14.29.38:556][129]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.22-14.29.38
+[2017.11.22-14.29.38:556][129]LogWorld: Bringing up level for play took: 0.002691
+[2017.11.22-14.29.38:558][129]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island -0.462
+[2017.11.22-14.29.58:718][485]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2017.11.22-14.29.59:487][564]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2017.11.22-14.30.08:244][533]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube7)
+[2017.11.22-14.30.09:409][576]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.22-14.30.09:409][576]PIE: New page: PIE session: Puzzle_Island (22 Nov 2017 14:30:09)
+[2017.11.22-14.30.09:409][576]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.22-14.30.09:419][576]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009731s)
+[2017.11.22-14.30.09:419][576]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.22-14.30.09:419][576]LogPlayLevel: PIE: World Init took: (0.000624s)
+[2017.11.22-14.30.09:419][576]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.010564s)
+[2017.11.22-14.30.09:439][576]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.22-14.30.09:449][576]LogInit: FAudioDevice initialized.
+[2017.11.22-14.30.09:481][576]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.22-14.30.09:484][576]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.22-14.30.09
+[2017.11.22-14.30.09:484][576]LogWorld: Bringing up level for play took: 0.002490
+[2017.11.22-14.30.09:486][576]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 0.466
+[2017.11.22-14.30.14:031][102]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2017.11.22-14.30.17:973][491]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube7)
+[2017.11.22-14.30.19:542][556]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.22-14.30.19:542][556]PIE: New page: PIE session: Puzzle_Island (22 Nov 2017 14:30:19)
+[2017.11.22-14.30.19:542][556]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.22-14.30.19:552][556]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010023s)
+[2017.11.22-14.30.19:552][556]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.22-14.30.19:553][556]LogPlayLevel: PIE: World Init took: (0.000729s)
+[2017.11.22-14.30.19:553][556]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.011015s)
+[2017.11.22-14.30.19:572][556]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.22-14.30.19:581][556]LogInit: FAudioDevice initialized.
+[2017.11.22-14.30.19:614][556]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.22-14.30.19:617][556]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.22-14.30.19
+[2017.11.22-14.30.19:617][556]LogWorld: Bringing up level for play took: 0.002362
+[2017.11.22-14.30.19:619][556]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 0.598
+[2017.11.22-14.30.26:684][385]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2017.11.22-14.30.29:557][679]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.22-14.30.29:583][679]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.22-14.30.29:583][679]PIE: New page: PIE session: Puzzle_Island (22 Nov 2017 14:30:29)
+[2017.11.22-14.30.29:583][679]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.22-14.30.29:594][679]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010926s)
+[2017.11.22-14.30.29:595][679]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.22-14.30.29:595][679]LogPlayLevel: PIE: World Init took: (0.000805s)
+[2017.11.22-14.30.29:595][679]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.012014s)
+[2017.11.22-14.30.29:615][679]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.22-14.30.29:624][679]LogInit: FAudioDevice initialized.
+[2017.11.22-14.30.29:655][679]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.22-14.30.29:658][679]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.22-14.30.29
+[2017.11.22-14.30.29:659][679]LogWorld: Bringing up level for play took: 0.002579
+[2017.11.22-14.30.29:660][679]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 0.64
+[2017.11.22-14.30.34:137][156]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube3)
+[2017.11.22-14.30.35:598][216]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.22-14.30.35:598][216]PIE: New page: PIE session: Puzzle_Island (22 Nov 2017 14:30:35)
+[2017.11.22-14.30.35:598][216]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.22-14.30.35:609][216]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010317s)
+[2017.11.22-14.30.35:610][216]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.22-14.30.35:610][216]LogPlayLevel: PIE: World Init took: (0.000982s)
+[2017.11.22-14.30.35:610][216]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.011565s)
+[2017.11.22-14.30.35:630][216]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.22-14.30.35:639][216]LogInit: FAudioDevice initialized.
+[2017.11.22-14.30.35:673][216]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.22-14.30.35:676][216]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.22-14.30.35
+[2017.11.22-14.30.35:676][216]LogWorld: Bringing up level for play took: 0.002799
+[2017.11.22-14.30.35:678][216]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 0.657
+[2017.11.22-14.30.46:310][416]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube6)
+[2017.11.22-14.30.47:822][477]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.22-14.30.47:822][477]PIE: New page: PIE session: Puzzle_Island (22 Nov 2017 14:30:47)
+[2017.11.22-14.30.47:822][477]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.22-14.30.47:832][477]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010441s)
+[2017.11.22-14.30.47:833][477]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.22-14.30.47:833][477]LogPlayLevel: PIE: World Init took: (0.001004s)
+[2017.11.22-14.30.47:834][477]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.011691s)
+[2017.11.22-14.30.47:854][477]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.22-14.30.47:863][477]LogInit: FAudioDevice initialized.
+[2017.11.22-14.30.47:894][477]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.22-14.30.47:897][477]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.22-14.30.47
+[2017.11.22-14.30.47:897][477]LogWorld: Bringing up level for play took: 0.002693
+[2017.11.22-14.30.47:899][477]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 0.878
+[2017.11.22-14.30.54:864][259]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube7)
+[2017.11.22-14.30.56:502][322]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.22-14.30.56:503][322]PIE: New page: PIE session: Puzzle_Island (22 Nov 2017 14:30:56)
+[2017.11.22-14.30.56:503][322]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.22-14.30.56:513][322]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010655s)
+[2017.11.22-14.30.56:514][322]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.22-14.30.56:514][322]LogPlayLevel: PIE: World Init took: (0.000678s)
+[2017.11.22-14.30.56:514][322]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.011561s)
+[2017.11.22-14.30.56:535][322]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.22-14.30.56:544][322]LogInit: FAudioDevice initialized.
+[2017.11.22-14.30.56:580][322]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.22-14.30.56:584][322]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.22-14.30.56
+[2017.11.22-14.30.56:584][322]LogWorld: Bringing up level for play took: 0.003100
+[2017.11.22-14.30.56:586][322]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island -0.435
+[2017.11.22-14.33.14:311][496]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2017.11.22-14.33.14:352][497]LogMaterial: Missing cached shader map for material Material_1, compiling. 
+[2017.11.22-14.34.14:786][854]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.11.22-14.34.15:851][946]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.11.22-14.34.16:164][973]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2017.11.22-14.34.16:403][992]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2017.11.22-14.34.22:476][534]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.11.22-14.34.27:839][ 48]Cmd: DELETE
+[2017.11.22-14.34.27:839][ 48]Cmd: ACTOR DELETE
+[2017.11.22-14.34.27:839][ 48]LogEditorActor: Deleted Actor: Brush
+[2017.11.22-14.34.27:857][ 48]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2017.11.22-14.34.30:335][336]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.11.22-14.34.31:586][453]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2017.11.22-14.35.26:374][273]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.11.22-14.35.41:621][755]Cmd: DELETE
+[2017.11.22-14.35.41:621][755]Cmd: ACTOR DELETE
+[2017.11.22-14.35.41:622][755]LogEditorActor: Deleted Actor: Brush
+[2017.11.22-14.35.41:640][755]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2017.11.22-14.35.56:273][409]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.11.22-14.35.59:601][707]LogEditorViewport: Clicking on Actor (LMB): Brush (Curved Stair Brush)
+[2017.11.22-14.37.34:951][976]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2017.11.22-14.37.54:994][842]Cmd: TRANSACTION UNDO
+[2017.11.22-14.37.54:994][842]LogEditorTransaction: Undo Create Actors
+[2017.11.22-14.37.59:794][257]Cmd: DELETE
+[2017.11.22-14.37.59:794][257]Cmd: ACTOR DELETE
+[2017.11.22-14.37.59:794][257]LogEditorActor: Deleted Actor: ExponentialHeightFog
+[2017.11.22-14.37.59:809][257]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2017.11.22-14.38.29:716][983]Cmd: TRANSACTION UNDO
+[2017.11.22-14.38.29:716][983]LogEditorTransaction: Undo Edit Start Distance
+[2017.11.22-14.38.30:025][  5]Cmd: TRANSACTION UNDO
+[2017.11.22-14.38.30:025][  5]LogEditorTransaction: Undo Edit Ground Offset
+[2017.11.22-14.38.30:169][ 14]Cmd: TRANSACTION UNDO
+[2017.11.22-14.38.30:169][ 14]LogEditorTransaction: Undo Edit Ground Offset
+[2017.11.22-14.38.30:534][ 47]Cmd: TRANSACTION UNDO
+[2017.11.22-14.38.30:534][ 47]LogEditorTransaction: Undo Edit Distance Offset
+[2017.11.22-14.38.30:931][ 83]Cmd: TRANSACTION UNDO
+[2017.11.22-14.38.30:931][ 83]LogEditorTransaction: Undo Edit Fog Multiplier
+[2017.11.22-14.38.31:291][116]Cmd: TRANSACTION UNDO
+[2017.11.22-14.38.31:291][116]LogEditorTransaction: Undo Edit Sun Multiplier
+[2017.11.22-14.38.32:340][212]Cmd: TRANSACTION UNDO
+[2017.11.22-14.38.32:340][212]LogEditorTransaction: Undo Edit Density Multiplier
+[2017.11.22-14.38.33:110][283]Cmd: TRANSACTION UNDO
+[2017.11.22-14.38.33:110][283]LogEditorTransaction: Undo Clicking on Actors
+[2017.11.22-14.38.40:285][110]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube8)
+[2017.11.22-14.38.42:000][235]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.22-14.38.42:001][235]PIE: New page: PIE session: Puzzle_Island (22 Nov 2017 14:38:42)
+[2017.11.22-14.38.42:001][235]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.22-14.38.42:012][235]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011498s)
+[2017.11.22-14.38.42:013][235]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.22-14.38.42:013][235]LogPlayLevel: PIE: World Init took: (0.000807s)
+[2017.11.22-14.38.42:013][235]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.012539s)
+[2017.11.22-14.38.42:035][235]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.22-14.38.42:045][235]LogInit: FAudioDevice initialized.
+[2017.11.22-14.38.42:080][235]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.22-14.38.42:082][235]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.22-14.38.42
+[2017.11.22-14.38.42:083][235]LogWorld: Bringing up level for play took: 0.002393
+[2017.11.22-14.38.42:085][235]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 1.064
+[2017.11.22-14.38.54:703][600]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2017.11.22-14.39.09:755][925]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube8)
+[2017.11.22-14.39.10:946][994]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.22-14.39.10:946][994]PIE: New page: PIE session: Puzzle_Island (22 Nov 2017 14:39:10)
+[2017.11.22-14.39.10:946][994]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.22-14.39.10:959][994]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012769s)
+[2017.11.22-14.39.10:960][994]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.22-14.39.10:960][994]LogPlayLevel: PIE: World Init took: (0.000827s)
+[2017.11.22-14.39.10:960][994]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.013853s)
+[2017.11.22-14.39.10:983][994]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.22-14.39.10:993][994]LogInit: FAudioDevice initialized.
+[2017.11.22-14.39.11:027][994]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.22-14.39.11:030][994]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.22-14.39.11
+[2017.11.22-14.39.11:030][994]LogWorld: Bringing up level for play took: 0.002277
+[2017.11.22-14.39.11:032][994]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 0.012
+[2017.11.22-14.42.31:431][364]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2017.11.22-14.43.05:676][445]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.11.22-14.43.06:272][478]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube2)
+[2017.11.22-14.43.07:171][557]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube3)
+[2017.11.22-14.43.07:806][612]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube4)
+[2017.11.22-14.43.08:527][674]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube5)
+[2017.11.22-14.43.09:220][734]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube6)
+[2017.11.22-14.43.10:073][809]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube7)
+[2017.11.22-14.43.11:466][934]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube8)
+[2017.11.22-14.43.12:839][ 55]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube9)
+[2017.11.22-14.43.13:449][108]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube10)
+[2017.11.22-14.43.21:985][870]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2017.11.22-14.44.20:547][860]LogEditorViewport: Clicking on Actor (LMB): Brush (Curved Stair Brush)
+[2017.11.22-14.45.43:026][303]Cmd: SELECT NONE
+[2017.11.22-14.46.02:629][475]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2017.11.22-14.46.03:868][556]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.22-14.46.03:868][556]PIE: New page: PIE session: Puzzle_Island (22 Nov 2017 14:46:03)
+[2017.11.22-14.46.03:868][556]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.22-14.46.03:882][556]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013335s)
+[2017.11.22-14.46.03:882][556]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.22-14.46.03:883][556]LogPlayLevel: PIE: World Init took: (0.000842s)
+[2017.11.22-14.46.03:883][556]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.014501s)
+[2017.11.22-14.46.03:903][556]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.22-14.46.03:913][556]LogInit: FAudioDevice initialized.
+[2017.11.22-14.46.03:944][556]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.22-14.46.03:946][556]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.22-14.46.03
+[2017.11.22-14.46.03:947][556]LogWorld: Bringing up level for play took: 0.002314
+[2017.11.22-14.46.03:949][556]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 0.928
+[2017.11.22-14.46.41:562][873]LogActorFactory: Actor Factory created NPC_Placeholder
+[2017.11.22-14.46.42:647][981]LogActorFactory: Actor Factory created NPC_Placeholder
+[2017.11.22-14.47.01:966][819]Cmd: SELECT NONE
+[2017.11.22-14.47.12:348][991]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
+[2017.11.22-14.48.15:996][212]LogActorFactory: Actor Factory created MaterialSphere
+[2017.11.22-14.48.16:919][294]LogActorFactory: Actor Factory created MaterialSphere
+[2017.11.22-14.48.46:562][415]Cmd: SELECT NONE
+[2017.11.22-14.48.55:526][459]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (FinalPlatform)
+[2017.11.22-14.48.56:705][542]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.22-14.48.56:705][542]PIE: New page: PIE session: Puzzle_Island (22 Nov 2017 14:48:56)
+[2017.11.22-14.48.56:705][542]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.22-14.48.56:717][542]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011989s)
+[2017.11.22-14.48.56:718][542]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.22-14.48.56:718][542]LogPlayLevel: PIE: World Init took: (0.000850s)
+[2017.11.22-14.48.56:718][542]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.013068s)
+[2017.11.22-14.48.56:739][542]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.22-14.48.56:749][542]LogInit: FAudioDevice initialized.
+[2017.11.22-14.48.56:779][542]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.22-14.48.56:782][542]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.22-14.48.56
+[2017.11.22-14.48.56:782][542]LogWorld: Bringing up level for play took: 0.002332
+[2017.11.22-14.48.56:784][542]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island -0.236
+[2017.11.22-14.49.51:493][533]Cmd: TRANSACTION UNDO
+[2017.11.22-14.49.51:493][533]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2017.11.22-14.49.51:544][533]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2017.11.22-14.49.52:007][568]Cmd: TRANSACTION UNDO
+[2017.11.22-14.49.52:007][568]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2017.11.22-14.49.52:037][568]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2017.11.22-14.49.52:433][610]Cmd: TRANSACTION UNDO
+[2017.11.22-14.49.52:433][610]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2017.11.22-14.49.52:464][610]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2017.11.22-14.50.05:887][177]Cmd: TRANSACTION UNDO
+[2017.11.22-14.50.05:887][177]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2017.11.22-14.50.05:917][177]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2017.11.22-14.50.06:499][223]Cmd: TRANSACTION UNDO
+[2017.11.22-14.50.06:499][223]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2017.11.22-14.50.16:232][343]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Cube2)
+[2017.11.22-14.50.16:991][430]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Cube2)
+[2017.11.22-14.50.45:445][499]Cmd: SELECT NONE
+[2017.11.22-14.50.46:557][616]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.22-14.50.46:582][616]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.22-14.50.46:582][616]PIE: New page: PIE session: Puzzle_Island (22 Nov 2017 14:50:46)
+[2017.11.22-14.50.46:582][616]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.22-14.50.46:595][616]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012542s)
+[2017.11.22-14.50.46:595][616]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.22-14.50.46:595][616]LogPlayLevel: PIE: World Init took: (0.000691s)
+[2017.11.22-14.50.46:596][616]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.013503s)
+[2017.11.22-14.50.46:616][616]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.22-14.50.46:625][616]LogInit: FAudioDevice initialized.
+[2017.11.22-14.50.46:660][616]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.22-14.50.46:662][616]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.22-14.50.46
+[2017.11.22-14.50.46:663][616]LogWorld: Bringing up level for play took: 0.002542
+[2017.11.22-14.50.46:665][616]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island -0.355
+[2017.11.22-14.51.11:083][473]Cmd: TRANSACTION UNDO
+[2017.11.22-14.51.11:083][473]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2017.11.22-14.51.11:113][473]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2017.11.22-14.51.16:343][ 66]Cmd: TRANSACTION UNDO
+[2017.11.22-14.51.16:343][ 66]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2017.11.22-14.51.17:474][172]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2017.11.22-14.51.51:829][513]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2017.11.22-14.51.53:217][644]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.22-14.51.53:217][644]PIE: New page: PIE session: Puzzle_Island (22 Nov 2017 14:51:53)
+[2017.11.22-14.51.53:217][644]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.22-14.51.53:229][644]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011692s)
+[2017.11.22-14.51.53:230][644]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.22-14.51.53:230][644]LogPlayLevel: PIE: World Init took: (0.000879s)
+[2017.11.22-14.51.53:230][644]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.012818s)
+[2017.11.22-14.51.53:252][644]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.22-14.51.53:262][644]LogInit: FAudioDevice initialized.
+[2017.11.22-14.51.53:293][644]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.22-14.51.53:295][644]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.22-14.51.53
+[2017.11.22-14.51.53:295][644]LogWorld: Bringing up level for play took: 0.002181
+[2017.11.22-14.51.53:297][644]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 0.277
+[2017.11.22-14.53.36:756][463]Cmd: TRANSACTION UNDO
+[2017.11.22-14.53.36:757][463]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2017.11.22-14.53.36:787][463]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2017.11.22-14.53.52:462][162]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Plane)
+[2017.11.22-14.54.17:826][ 83]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Cube5)
+[2017.11.22-14.54.54:649][137]Cmd: TRANSACTION UNDO
+[2017.11.22-14.54.54:649][137]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2017.11.22-14.54.54:679][137]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2017.11.22-14.55.30:709][ 81]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Cube5)
+[2017.11.22-14.55.31:044][117]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Cube5)
+[2017.11.22-14.55.31:418][158]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Cube5)
+[2017.11.22-14.55.32:095][231]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Cube5)
+[2017.11.22-14.58.06:981][885]Cmd: TRANSACTION UNDO
+[2017.11.22-14.58.06:981][885]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2017.11.22-14.58.07:011][885]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2017.11.22-14.58.07:132][890]Cmd: TRANSACTION UNDO
+[2017.11.22-14.58.07:132][890]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2017.11.22-14.58.07:161][890]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2017.11.22-14.58.07:297][896]Cmd: TRANSACTION UNDO
+[2017.11.22-14.58.07:297][896]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2017.11.22-14.58.07:327][896]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2017.11.22-14.58.07:746][934]Cmd: TRANSACTION UNDO
+[2017.11.22-14.58.07:746][934]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2017.11.22-14.58.07:777][934]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2017.11.22-14.58.08:388][  0]Cmd: TRANSACTION UNDO
+[2017.11.22-14.58.08:389][  0]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2017.11.22-14.58.08:419][  0]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2017.11.22-14.58.08:803][ 38]Cmd: TRANSACTION UNDO
+[2017.11.22-14.58.08:803][ 38]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2017.11.22-14.58.08:833][ 38]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2017.11.22-14.58.09:535][116]Cmd: TRANSACTION UNDO
+[2017.11.22-14.58.09:535][116]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2017.11.22-14.58.09:566][116]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2017.11.22-14.58.17:829][ 36]Cmd: SELECT NONE
+[2017.11.22-14.58.19:980][280]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2017.11.22-14.58.24:305][716]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2017.11.22-14.58.25:464][800]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.22-14.58.25:465][800]PIE: New page: PIE session: Puzzle_Island (22 Nov 2017 14:58:25)
+[2017.11.22-14.58.25:465][800]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.22-14.58.25:478][800]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012974s)
+[2017.11.22-14.58.25:478][800]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.22-14.58.25:478][800]LogPlayLevel: PIE: World Init took: (0.000768s)
+[2017.11.22-14.58.25:479][800]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.014051s)
+[2017.11.22-14.58.25:502][800]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.22-14.58.25:516][800]LogInit: FAudioDevice initialized.
+[2017.11.22-14.58.25:551][800]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.22-14.58.25:554][800]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.22-14.58.25
+[2017.11.22-14.58.25:554][800]LogWorld: Bringing up level for play took: 0.002529
+[2017.11.22-14.58.25:557][800]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 0.536
+[2017.11.22-14.58.42:876][739]Cmd: SELECT NONE
+[2017.11.22-14.58.47:384][222]LogSavePackage: Save=202.82ms
+[2017.11.22-14.58.47:384][222]LogSavePackage: Moving '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Puzzle_Island9C1C8B1840E22D2476F7CB8C48A42445.tmp' to '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Maps/Puzzle_Island.umap'
+[2017.11.22-14.58.47:391][222]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Maps/Puzzle_Island.umap
+[2017.11.22-14.59.13:957][310]Cmd: QUIT_EDITOR
+[2017.11.22-14.59.14:139][310]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.22-14.59.14:160][310]LogExit: Preparing to exit.
+[2017.11.22-14.59.15:215][310]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2017.11.22-14.59.15:215][310]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2017.11.22-14.59.15:215][310]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2017.11.22-14.59.15:215][310]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2017.11.22-14.59.15:215][310]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2017.11.22-14.59.15:215][310]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2017.11.22-14.59.15:215][310]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2017.11.22-14.59.15:232][310]LogDirectoryWatcher: A directory notification for 'D:/Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/' was aborted.
+[2017.11.22-14.59.15:299][310]LogExit: Editor shut down
+[2017.11.22-14.59.15:306][310]LogExit: Transaction tracking system shut down
+[2017.11.22-14.59.15:960][310]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Intermediate/CachedAssetRegistry.bin', retrying in .5s...
+[2017.11.22-14.59.15:960][310]LogFileManager: Warning: DeleteFile recovered during retry!
+[2017.11.22-14.59.15:960][310]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.11.22-14.59.15:960][310]LogDirectoryWatcher: A directory notification for '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/' was aborted.
+[2017.11.22-14.59.15:961][310]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.11.22-14.59.15:961][310]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.11.22-14.59.15:961][310]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.11.22-14.59.16:502][310]LogExit: Object subsystem successfully closed.
+[2017.11.22-14.59.16:541][310]LogD3D11RHI: Shutdown
+[2017.11.22-14.59.16:541][310]LogD3D11RHI: CleanupD3DDevice
+[2017.11.22-14.59.16:700][310]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.11.22-14.59.16:971][310]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (540)
+[2017.11.22-14.59.16:971][310]LogModuleManager: Shutting down and abandoning module BlueprintGraph (538)
+[2017.11.22-14.59.16:971][310]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (536)
+[2017.11.22-14.59.16:979][310]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (534)
+[2017.11.22-14.59.16:979][310]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (532)
+[2017.11.22-14.59.16:979][310]LogModuleManager: Shutting down and abandoning module SceneOutliner (530)
+[2017.11.22-14.59.16:979][310]LogModuleManager: Shutting down and abandoning module AddContentDialog (528)
+[2017.11.22-14.59.16:979][310]LogDirectoryWatcher: A directory notification for 'D:/Program Files/Epic Games/UE_4.17/FeaturePacks/' was aborted.
+[2017.11.22-14.59.16:980][310]LogModuleManager: Shutting down and abandoning module WidgetCarousel (527)
+[2017.11.22-14.59.16:980][310]LogModuleManager: Shutting down and abandoning module EditorWidgets (524)
+[2017.11.22-14.59.16:980][310]LogModuleManager: Shutting down and abandoning module CollectionManager (522)
+[2017.11.22-14.59.16:980][310]LogDirectoryWatcher: A directory notification for 'D:/Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Collections/' was aborted.
+[2017.11.22-14.59.16:980][310]LogDirectoryWatcher: A directory notification for 'D:/Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Developers/James/Collections/' was aborted.
+[2017.11.22-14.59.16:980][310]LogDirectoryWatcher: A directory notification for 'D:/Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Collections/' was aborted.
+[2017.11.22-14.59.16:980][310]LogModuleManager: Shutting down and abandoning module StatsViewer (520)
+[2017.11.22-14.59.16:980][310]LogModuleManager: Shutting down and abandoning module FoliageEdit (518)
+[2017.11.22-14.59.16:980][310]LogModuleManager: Shutting down and abandoning module LandscapeEditor (516)
+[2017.11.22-14.59.16:981][310]LogModuleManager: Shutting down and abandoning module MeshPaintMode (514)
+[2017.11.22-14.59.16:981][310]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (512)
+[2017.11.22-14.59.16:981][310]LogModuleManager: Shutting down and abandoning module ActorPickerMode (510)
+[2017.11.22-14.59.16:981][310]LogModuleManager: Shutting down and abandoning module GeometryMode (508)
+[2017.11.22-14.59.16:981][310]LogModuleManager: Shutting down and abandoning module TextureAlignMode (506)
+[2017.11.22-14.59.16:981][310]LogModuleManager: Shutting down and abandoning module BspMode (504)
+[2017.11.22-14.59.16:981][310]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (502)
+[2017.11.22-14.59.16:981][310]LogModuleManager: Shutting down and abandoning module HardwareSurvey (500)
+[2017.11.22-14.59.16:981][310]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (498)
+[2017.11.22-14.59.16:981][310]LogModuleManager: Shutting down and abandoning module AutomationWorker (496)
+[2017.11.22-14.59.16:981][310]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (494)
+[2017.11.22-14.59.16:981][310]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (492)
+[2017.11.22-14.59.16:989][310]LogModuleManager: Shutting down and abandoning module PlacementMode (491)
+[2017.11.22-14.59.16:989][310]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (488)
+[2017.11.22-14.59.16:989][310]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (486)
+[2017.11.22-14.59.16:989][310]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (484)
+[2017.11.22-14.59.16:989][310]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (482)
+[2017.11.22-14.59.16:989][310]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (480)
+[2017.11.22-14.59.16:989][310]LogModuleManager: Shutting down and abandoning module Media (479)
+[2017.11.22-14.59.16:989][310]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (476)
+[2017.11.22-14.59.16:989][310]LogModuleManager: Shutting down and abandoning module CharacterAI (474)
+[2017.11.22-14.59.16:989][310]LogModuleManager: Shutting down and abandoning module AudioCapture (472)
+[2017.11.22-14.59.16:989][310]LogModuleManager: Shutting down and abandoning module SequenceRecorder (471)
+[2017.11.22-14.59.16:989][310]LogModuleManager: Shutting down and abandoning module SmartSnapping (468)
+[2017.11.22-14.59.16:989][310]LogModuleManager: Shutting down and abandoning module SessionServices (466)
+[2017.11.22-14.59.16:989][310]LogModuleManager: Shutting down and abandoning module ViewportSnapping (464)
+[2017.11.22-14.59.16:989][310]LogModuleManager: Shutting down and abandoning module ViewportInteraction (462)
+[2017.11.22-14.59.16:989][310]LogModuleManager: Shutting down and abandoning module ClothPainter (460)
+[2017.11.22-14.59.17:000][310]LogModuleManager: Shutting down and abandoning module LogVisualizer (458)
+[2017.11.22-14.59.17:000][310]LogModuleManager: Shutting down and abandoning module IntroTutorials (456)
+[2017.11.22-14.59.17:000][310]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (455)
+[2017.11.22-14.59.17:001][310]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (452)
+[2017.11.22-14.59.17:001][310]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (450)
+[2017.11.22-14.59.17:001][310]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (448)
+[2017.11.22-14.59.17:001][310]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (447)
+[2017.11.22-14.59.17:542][310]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (444)
+[2017.11.22-14.59.17:542][310]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (442)
+[2017.11.22-14.59.17:542][310]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (440)
+[2017.11.22-14.59.17:542][310]LogModuleManager: Shutting down and abandoning module InputBindingEditor (438)
+[2017.11.22-14.59.17:542][310]LogModuleManager: Shutting down and abandoning module MergeActors (436)
+[2017.11.22-14.59.17:560][310]LogModuleManager: Shutting down and abandoning module SizeMap (434)
+[2017.11.22-14.59.17:560][310]LogModuleManager: Shutting down and abandoning module TreeMap (432)
+[2017.11.22-14.59.17:560][310]LogModuleManager: Shutting down and abandoning module ReferenceViewer (430)
+[2017.11.22-14.59.17:560][310]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (428)
+[2017.11.22-14.59.17:561][310]LogModuleManager: Shutting down and abandoning module LocalizationService (427)
+[2017.11.22-14.59.17:561][310]LogModuleManager: Shutting down and abandoning module HardwareTargeting (424)
+[2017.11.22-14.59.17:561][310]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (422)
+[2017.11.22-14.59.17:561][310]LogModuleManager: Shutting down and abandoning module UndoHistory (420)
+[2017.11.22-14.59.17:561][310]LogModuleManager: Shutting down and abandoning module XmlParser (418)
+[2017.11.22-14.59.17:561][310]LogModuleManager: Shutting down and abandoning module Blutility (416)
+[2017.11.22-14.59.17:561][310]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (414)
+[2017.11.22-14.59.17:561][310]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (413)
+[2017.11.22-14.59.17:561][310]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (410)
+[2017.11.22-14.59.17:561][310]LogModuleManager: Shutting down and abandoning module SettingsEditor (408)
+[2017.11.22-14.59.17:572][310]LogModuleManager: Shutting down and abandoning module ProjectLauncher (406)
+[2017.11.22-14.59.17:577][310]LogModuleManager: Shutting down and abandoning module SessionFrontend (404)
+[2017.11.22-14.59.17:577][310]LogModuleManager: Shutting down and abandoning module ProfilerClient (402)
+[2017.11.22-14.59.17:585][310]LogModuleManager: Shutting down and abandoning module DeviceManager (400)
+[2017.11.22-14.59.17:585][310]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (399)
+[2017.11.22-14.59.17:637][310]LogModuleManager: Shutting down and abandoning module AutomationController (396)
+[2017.11.22-14.59.17:637][310]LogModuleManager: Shutting down and abandoning module AutomationWindow (394)
+[2017.11.22-14.59.17:661][310]LogModuleManager: Shutting down and abandoning module Layers (392)
+[2017.11.22-14.59.17:676][310]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (390)
+[2017.11.22-14.59.17:676][310]LogModuleManager: Shutting down and abandoning module DetailCustomizations (388)
+[2017.11.22-14.59.17:676][310]LogModuleManager: Shutting down and abandoning module PackagesDialog (386)
+[2017.11.22-14.59.17:676][310]LogModuleManager: Shutting down and abandoning module Persona (384)
+[2017.11.22-14.59.17:698][310]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (383)
+[2017.11.22-14.59.17:698][310]LogModuleManager: Shutting down and abandoning module AnimGraph (381)
+[2017.11.22-14.59.17:698][310]LogModuleManager: Shutting down and abandoning module Kismet (378)
+[2017.11.22-14.59.17:704][310]LogModuleManager: Shutting down and abandoning module ClassViewer (376)
+[2017.11.22-14.59.17:704][310]LogModuleManager: Shutting down and abandoning module Toolbox (374)
+[2017.11.22-14.59.17:704][310]LogModuleManager: Shutting down and abandoning module ModuleUI (372)
+[2017.11.22-14.59.17:713][310]LogModuleManager: Shutting down and abandoning module MovieSceneTools (370)
+[2017.11.22-14.59.17:725][310]LogModuleManager: Shutting down and abandoning module OutputLog (368)
+[2017.11.22-14.59.17:725][310]LogModuleManager: Shutting down and abandoning module GammaUI (366)
+[2017.11.22-14.59.17:725][310]LogModuleManager: Shutting down and abandoning module Documentation (364)
+[2017.11.22-14.59.17:725][310]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (362)
+[2017.11.22-14.59.17:725][310]LogModuleManager: Shutting down and abandoning module MovieScene (360)
+[2017.11.22-14.59.17:725][310]LogModuleManager: Shutting down and abandoning module Niagara (358)
+[2017.11.22-14.59.17:725][310]LogModuleManager: Shutting down and abandoning module NiagaraEditor (357)
+[2017.11.22-14.59.17:735][310]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (354)
+[2017.11.22-14.59.17:735][310]LogModuleManager: Shutting down and abandoning module LauncherPlatform (352)
+[2017.11.22-14.59.17:735][310]LogModuleManager: Shutting down and abandoning module AnalyticsET (350)
+[2017.11.22-14.59.17:735][310]LogModuleManager: Shutting down and abandoning module PortalServices (348)
+[2017.11.22-14.59.17:735][310]LogModuleManager: Shutting down and abandoning module PortalRpc (346)
+[2017.11.22-14.59.17:735][310]LogModuleManager: Shutting down and abandoning module MessagingRpc (344)
+[2017.11.22-14.59.17:735][310]LogModuleManager: Shutting down and abandoning module AIModule (342)
+[2017.11.22-14.59.17:735][310]LogModuleManager: Shutting down and abandoning module GameplayDebugger (341)
+[2017.11.22-14.59.17:735][310]LogModuleManager: Shutting down and abandoning module AITestSuite (339)
+[2017.11.22-14.59.17:735][310]LogModuleManager: Shutting down and abandoning module ProfilerService (336)
+[2017.11.22-14.59.17:777][310]LogModuleManager: Shutting down and abandoning module TaskGraph (334)
+[2017.11.22-14.59.17:789][310]LogModuleManager: Shutting down and abandoning module SteamVRController (332)
+[2017.11.22-14.59.17:790][310]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (330)
+[2017.11.22-14.59.17:790][310]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (328)
+[2017.11.22-14.59.17:790][310]LogModuleManager: Shutting down and abandoning module OculusInput (326)
+[2017.11.22-14.59.17:790][310]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (324)
+[2017.11.22-14.59.17:790][310]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (322)
+[2017.11.22-14.59.17:790][310]LogModuleManager: Shutting down and abandoning module CableComponent (320)
+[2017.11.22-14.59.17:790][310]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (318)
+[2017.11.22-14.59.17:790][310]LogModuleManager: Shutting down and abandoning module AndroidPermission (316)
+[2017.11.22-14.59.17:790][310]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (312)
+[2017.11.22-14.59.17:801][310]LogModuleManager: Shutting down and abandoning module HTML5Networking (310)
+[2017.11.22-14.59.17:801][310]LogModuleManager: Shutting down and abandoning module AlembicImporter (308)
+[2017.11.22-14.59.17:801][310]LogModuleManager: Shutting down and abandoning module AlembicLibrary (307)
+[2017.11.22-14.59.17:801][310]LogModuleManager: Shutting down and abandoning module GeometryCache (306)
+[2017.11.22-14.59.17:801][310]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (305)
+[2017.11.22-14.59.17:801][310]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (300)
+[2017.11.22-14.59.17:801][310]LogModuleManager: Shutting down and abandoning module PluginBrowser (298)
+[2017.11.22-14.59.17:814][310]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (296)
+[2017.11.22-14.59.17:827][310]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (294)
+[2017.11.22-14.59.17:827][310]LogModuleManager: Shutting down and abandoning module DesktopPlatform (293)
+[2017.11.22-14.59.17:836][310]LogModuleManager: Shutting down and abandoning module UObjectPlugin (290)
+[2017.11.22-14.59.17:836][310]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (288)
+[2017.11.22-14.59.17:836][310]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (286)
+[2017.11.22-14.59.17:836][310]LogModuleManager: Shutting down and abandoning module GitSourceControl (284)
+[2017.11.22-14.59.17:836][310]LogModuleManager: Shutting down and abandoning module SourceControl (283)
+[2017.11.22-14.59.17:836][310]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (280)
+[2017.11.22-14.59.17:836][310]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (278)
+[2017.11.22-14.59.17:836][310]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (276)
+[2017.11.22-14.59.17:836][310]LogModuleManager: Shutting down and abandoning module Paper2DEditor (274)
+[2017.11.22-14.59.17:836][310]LogModuleManager: Shutting down and abandoning module MeshPaint (273)
+[2017.11.22-14.59.17:836][310]LogModuleManager: Shutting down and abandoning module LevelEditor (271)
+[2017.11.22-14.59.17:836][310]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (270)
+[2017.11.22-14.59.17:836][310]LogModuleManager: Shutting down and abandoning module MainFrame (268)
+[2017.11.22-14.59.17:837][310]LogModuleManager: Shutting down and abandoning module HotReload (267)
+[2017.11.22-14.59.17:837][310]LogDirectoryWatcher: A directory notification for 'D:/Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Binaries/Win64' was aborted.
+[2017.11.22-14.59.17:837][310]LogModuleManager: Shutting down and abandoning module Puzzle_Island (262)
+[2017.11.22-14.59.17:837][310]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2017.11.22-14.59.17:837][310]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2017.11.22-14.59.17:837][310]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2017.11.22-14.59.17:837][310]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2017.11.22-14.59.17:837][310]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2017.11.22-14.59.17:837][310]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2017.11.22-14.59.17:837][310]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2017.11.22-14.59.17:837][310]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2017.11.22-14.59.17:937][310]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2017.11.22-14.59.18:038][310]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2017.11.22-14.59.18:052][310]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2017.11.22-14.59.18:052][310]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2017.11.22-14.59.18:052][310]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2017.11.22-14.59.18:052][310]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2017.11.22-14.59.18:052][310]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2017.11.22-14.59.18:053][310]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2017.11.22-14.59.18:053][310]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2017.11.22-14.59.18:053][310]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2017.11.22-14.59.18:053][310]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2017.11.22-14.59.18:053][310]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2017.11.22-14.59.18:054][310]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2017.11.22-14.59.18:054][310]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2017.11.22-14.59.18:058][310]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2017.11.22-14.59.18:058][310]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2017.11.22-14.59.18:058][310]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2017.11.22-14.59.18:058][310]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2017.11.22-14.59.18:077][310]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2017.11.22-14.59.18:086][310]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2017.11.22-14.59.18:086][310]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2017.11.22-14.59.18:107][310]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2017.11.22-14.59.18:107][310]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2017.11.22-14.59.18:107][310]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2017.11.22-14.59.18:107][310]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2017.11.22-14.59.18:124][310]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2017.11.22-14.59.18:155][310]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2017.11.22-14.59.18:174][310]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2017.11.22-14.59.18:174][310]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2017.11.22-14.59.18:192][310]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2017.11.22-14.59.18:192][310]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2017.11.22-14.59.18:194][310]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2017.11.22-14.59.18:194][310]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2017.11.22-14.59.18:194][310]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2017.11.22-14.59.18:194][310]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2017.11.22-14.59.18:194][310]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2017.11.22-14.59.18:194][310]LogModuleManager: Shutting down and abandoning module Core (168)
+[2017.11.22-14.59.18:194][310]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.11.22-14.59.18:194][310]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2017.11.22-14.59.18:194][310]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2017.11.22-14.59.18:194][310]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2017.11.22-14.59.18:208][310]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2017.11.22-14.59.18:208][310]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2017.11.22-14.59.18:219][310]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2017.11.22-14.59.18:219][310]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2017.11.22-14.59.18:219][310]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2017.11.22-14.59.18:219][310]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2017.11.22-14.59.18:220][310]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2017.11.22-14.59.18:262][310]LogDerivedDataCache: Shutdown
+[2017.11.22-14.59.18:262][310]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2017.11.22-14.59.18:262][310]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2017.11.22-14.59.18:263][310]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2017.11.22-14.59.18:266][310]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2017.11.22-14.59.18:275][310]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2017.11.22-14.59.18:275][310]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2017.11.22-14.59.18:292][310]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2017.11.22-14.59.18:292][310]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2017.11.22-14.59.18:292][310]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2017.11.22-14.59.18:292][310]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2017.11.22-14.59.18:292][310]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2017.11.22-14.59.18:292][310]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2017.11.22-14.59.18:292][310]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2017.11.22-14.59.18:292][310]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2017.11.22-14.59.18:292][310]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2017.11.22-14.59.18:292][310]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2017.11.22-14.59.18:293][310]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2017.11.22-14.59.18:293][310]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2017.11.22-14.59.18:293][310]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2017.11.22-14.59.18:293][310]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2017.11.22-14.59.18:293][310]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2017.11.22-14.59.18:293][310]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2017.11.22-14.59.18:293][310]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2017.11.22-14.59.18:293][310]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2017.11.22-14.59.18:293][310]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2017.11.22-14.59.18:293][310]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2017.11.22-14.59.18:293][310]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2017.11.22-14.59.18:293][310]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2017.11.22-14.59.18:293][310]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2017.11.22-14.59.18:293][310]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2017.11.22-14.59.18:293][310]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2017.11.22-14.59.18:293][310]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2017.11.22-14.59.18:293][310]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2017.11.22-14.59.18:293][310]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2017.11.22-14.59.18:293][310]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2017.11.22-14.59.18:293][310]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2017.11.22-14.59.18:293][310]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2017.11.22-14.59.18:293][310]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2017.11.22-14.59.18:293][310]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2017.11.22-14.59.18:293][310]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2017.11.22-14.59.18:293][310]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2017.11.22-14.59.18:293][310]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2017.11.22-14.59.18:293][310]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2017.11.22-14.59.18:293][310]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2017.11.22-14.59.18:293][310]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2017.11.22-14.59.18:293][310]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2017.11.22-14.59.18:293][310]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2017.11.22-14.59.18:293][310]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.11.22-14.59.18:293][310]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.11.22-14.59.18:293][310]LogOnline: Display: Unloading online subsystem: NULL
+[2017.11.22-14.59.18:319][310]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.11.22-14.59.18:336][310]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.11.22-14.59.18:336][310]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.11.22-14.59.18:336][310]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8DFE5B37-41F1-DA25-A7E6-9FB740BC4647%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=5af76ab743f8e4bde41cea986150be9d%7C11f1a39b465940bea4ddb0229619e8bc%7Ce37f163a-0c47-4d7a-a884-3eb831fb3649&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.11.22-14.59.18:353][310]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.11.22-14.59.18:355][310]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.11.22-14.59.18:355][310]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.11.22-14.59.18:355][310]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.11.22-14.59.18:366][310]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.11.22-14.59.18:366][310]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.11.22-14.59.18:366][310]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.11.22-14.59.18:366][310]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.11.22-14.59.18:381][310]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.11.22-14.59.18:396][310]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.11.22-14.59.18:396][310]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.11.22-14.59.18:396][310]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.11.22-14.59.18:396][310]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.11.22-14.59.18:396][310]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.11.22-14.59.18:396][310]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.11.22-14.59.18:396][310]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.11.22-14.59.18:396][310]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.11.22-14.59.18:396][310]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.11.22-14.59.18:396][310]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.11.22-14.59.18:398][310]LogExit: Exiting.
+[2017.11.22-14.59.18:421][310]Log file closed, 11/22/17 14:59:18
+>>>>>>> JamesBranch
