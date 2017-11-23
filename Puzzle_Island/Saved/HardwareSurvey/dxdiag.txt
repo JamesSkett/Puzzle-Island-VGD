@@ -1,25 +1,25 @@
 ------------------
 System Information
 ------------------
-      Time of this report: 11/20/2017, 16:58:54
-             Machine name: W62160
-               Machine Id: {9CB6E748-CAE3-4A36-9E75-40462D72DE5B}
+      Time of this report: 11/23/2017, 09:12:06
+             Machine name: W67511
+               Machine Id: {EA554B5D-C0B3-4998-90D9-6B1312931048}
          Operating System: Windows 10 Education 64-bit (10.0, Build 15063) (15063.rs2_release.170317-1834)
                  Language: English (Regional Setting: English)
       System Manufacturer: Alienware
-             System Model: Aurora-R4
-                     BIOS: BIOS Date: 11/26/13 14:42:56 Ver: 04.06.05
-                Processor: Intel(R) Core(TM) i7-3820 CPU @ 3.60GHz (8 CPUs), ~3.6GHz
+             System Model: Alienware X51 R2
+                     BIOS: BIOS Date: 07/13/15 11:13:58 Ver: 04.06.05
+                Processor: Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz (4 CPUs), ~3.2GHz
                    Memory: 16384MB RAM
-      Available OS Memory: 16302MB RAM
-                Page File: 9718MB used, 9016MB available
+      Available OS Memory: 16300MB RAM
+                Page File: 7415MB used, 11317MB available
               Windows Dir: C:\windows
           DirectX Version: DirectX 12
       DX Setup Parameters: Not found
          User DPI Setting: Using System DPI
        System DPI Setting: 96 DPI (100 percent)
           DWM DPI Scaling: Disabled
-                 Miracast: Not Available
+                 Miracast: Available, with HDCP
 Microsoft Graphics Hybrid: Not Supported
            DxDiag Version: 10.00.15063.0000 64bit Unicode
   DxDiag Previously: Crashed in system information (stage 3). Re-running DxDiag with "dontskip" command line parameter or choosing not to bypass information gathering when prompted might result in DxDiag successfully obtaining this information
@@ -28,7 +28,10 @@ Microsoft Graphics Hybrid: Not Supported
 DxDiag Notes
 ------------
       Display Tab 1: No problems found.
+      Display Tab 2: No problems found.
+      Display Tab 3: No problems found.
         Sound Tab 1: No problems found.
+        Sound Tab 2: No problems found.
           Input Tab: No problems found.
 
 --------------------
@@ -45,24 +48,24 @@ DirectShow:  0/6 (retail)
 ---------------
 Display Devices
 ---------------
-          Card name: NVIDIA GeForce GTX 660
+          Card name: NVIDIA GeForce GTX 745
        Manufacturer: NVIDIA
-          Chip type: GeForce GTX 660
+          Chip type: GeForce GTX 745
            DAC type: Integrated RAMDAC
         Device Type: Full Device
-         Device Key: Enum\PCI\VEN_10DE&DEV_1185&SUBSYS_098A10DE&REV_A1
+         Device Key: Enum\PCI\VEN_10DE&DEV_1382&SUBSYS_106510DE&REV_A2
       Device Status: 0180200A [DN_DRIVER_LOADED|DN_STARTED|DN_DISABLEABLE|DN_NT_ENUMERATOR|DN_NT_DRIVER] 
 Device Problem Code: No Problem
 Driver Problem Code: Unknown
-     Display Memory: 9657 MB
-   Dedicated Memory: 1506 MB
-      Shared Memory: 8151 MB
-       Current Mode: 1920 x 1200 (32 bit) (59Hz)
+     Display Memory: 12214 MB
+   Dedicated Memory: 4063 MB
+      Shared Memory: 8150 MB
+       Current Mode: 1920 x 1080 (32 bit) (60Hz)
        Monitor Name: Generic PnP Monitor
-      Monitor Model: DELL U2412M
-         Monitor Id: DELA07A
-        Native Mode: 1920 x 1200(p) (59.950Hz)
-        Output Type: DVI
+      Monitor Model: DELL U2414H
+         Monitor Id: DELA0B2
+        Native Mode: 1920 x 1080(p) (60.000Hz)
+        Output Type: HDMI
         Driver Name: C:\windows\System32\DriverStore\FileRepository\nv_desktop_ref4wu.inf_amd64_0109a19b5125cb43\nvldumdx.dll,C:\windows\System32\DriverStore\FileRepository\nv_desktop_ref4wu.inf_amd64_0109a19b5125cb43\nvldumdx.dll,C:\windows\System32\DriverStore\FileRepository\nv_desktop_ref4wu.inf_amd64_0109a19b5125cb43\nvldumdx.dll,C:\windows\System32\DriverStore\FileRepository\nv_desktop_ref4wu.inf_amd64_0109a19b5125cb43\nvldumdx.dll
 Driver File Version: 23.21.0013.8813 (English)
      Driver Version: 23.21.13.8813
@@ -71,22 +74,22 @@ Driver File Version: 23.21.0013.8813 (English)
        Driver Model: WDDM 2.2
 Graphics Preemption: DMA
  Compute Preemption: DMA
-           Miracast: Not Supported
+           Miracast: Not Supported by Graphics driver
 Hybrid Graphics GPU: Not Supported
      Power P-states: Not Supported
   Driver Attributes: Final Retail
    Driver Date/Size: 27/10/2017 00:00:00, 945080 bytes
         WHQL Logo'd: Yes
     WHQL Date Stamp: Unknown
-  Device Identifier: {D7B71E3E-52C5-11CF-0351-87291BC2DA35}
+  Device Identifier: {D7B71E3E-50C2-11CF-0351-683018C2DA35}
           Vendor ID: 0x10DE
-          Device ID: 0x1185
-          SubSys ID: 0x098A10DE
-        Revision ID: 0x00A1
- Driver Strong Name: oem66.inf:0f066de3385246e2:Section004:23.21.13.8813:pci\ven_10de&dev_1185&subsys_098a10de
+          Device ID: 0x1382
+          SubSys ID: 0x106510DE
+        Revision ID: 0x00A2
+ Driver Strong Name: oem71.inf:0f066de3eb4857cf:Section022:23.21.13.8813:pci\ven_10de&dev_1382&subsys_106510de
      Rank Of Driver: 00D10001
-        Video Accel: ModeMPEG2_A ModeMPEG2_C ModeVC1_C ModeWMV9_C 
-        DXVA2 Modes: DXVA2_ModeMPEG2_VLD  DXVA2_ModeMPEG2_IDCT  DXVA2_ModeVC1_D2010  DXVA2_ModeVC1_VLD  DXVA2_ModeVC1_IDCT  DXVA2_ModeWMV9_IDCT  DXVA2_ModeH264_VLD_Stereo_Progressive_NoFGT  DXVA2_ModeH264_VLD_Stereo_NoFGT  DXVA2_ModeH264_VLD_NoFGT  DXVA2_ModeHEVC_VLD_Main  DXVA2_ModeMPEG4pt2_VLD_Simple  DXVA2_ModeMPEG4pt2_VLD_AdvSimple_NoGMC  
+        Video Accel: 
+        DXVA2 Modes: DXVA2_ModeMPEG2_VLD  DXVA2_ModeVC1_D2010  DXVA2_ModeVC1_VLD  DXVA2_ModeH264_VLD_Stereo_Progressive_NoFGT  DXVA2_ModeH264_VLD_Stereo_NoFGT  DXVA2_ModeH264_VLD_NoFGT  DXVA2_ModeHEVC_VLD_Main  DXVA2_ModeMPEG4pt2_VLD_Simple  DXVA2_ModeMPEG4pt2_VLD_AdvSimple_NoGMC  
    Deinterlace Caps: {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
                      {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
                      {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
@@ -137,13 +140,178 @@ Hybrid Graphics GPU: Not Supported
     MPO Media Hints: Not Supported
         MPO Formats: Not Supported
 
+          Card name: NVIDIA GeForce GTX 745
+       Manufacturer: NVIDIA
+          Chip type: GeForce GTX 745
+           DAC type: Integrated RAMDAC
+        Device Type: Full Device
+         Device Key: Enum\PCI\VEN_10DE&DEV_1382&SUBSYS_106510DE&REV_A2
+      Device Status: 0180200A [DN_DRIVER_LOADED|DN_STARTED|DN_DISABLEABLE|DN_NT_ENUMERATOR|DN_NT_DRIVER] 
+Device Problem Code: No Problem
+Driver Problem Code: Unknown
+     Display Memory: 12214 MB
+   Dedicated Memory: 4063 MB
+      Shared Memory: 8150 MB
+       Current Mode: 1680 x 1050 (32 bit) (59Hz)
+       Monitor Name: Generic PnP Monitor
+      Monitor Model: DELL P2213
+         Monitor Id: DELF042
+        Native Mode: 1680 x 1050(p) (59.954Hz)
+        Output Type: DVI
+        Driver Name: C:\windows\System32\DriverStore\FileRepository\nv_desktop_ref4wu.inf_amd64_0109a19b5125cb43\nvldumdx.dll,C:\windows\System32\DriverStore\FileRepository\nv_desktop_ref4wu.inf_amd64_0109a19b5125cb43\nvldumdx.dll,C:\windows\System32\DriverStore\FileRepository\nv_desktop_ref4wu.inf_amd64_0109a19b5125cb43\nvldumdx.dll,C:\windows\System32\DriverStore\FileRepository\nv_desktop_ref4wu.inf_amd64_0109a19b5125cb43\nvldumdx.dll
+Driver File Version: 23.21.0013.8813 (English)
+     Driver Version: 23.21.13.8813
+        DDI Version: 12
+     Feature Levels: 11_0,10_1,10_0,9_3,9_2,9_1
+       Driver Model: WDDM 2.2
+Graphics Preemption: DMA
+ Compute Preemption: DMA
+           Miracast: Not Supported by Graphics driver
+Hybrid Graphics GPU: Not Supported
+     Power P-states: Not Supported
+  Driver Attributes: Final Retail
+   Driver Date/Size: 27/10/2017 00:00:00, 945080 bytes
+        WHQL Logo'd: Yes
+    WHQL Date Stamp: Unknown
+  Device Identifier: {D7B71E3E-50C2-11CF-0351-683018C2DA35}
+          Vendor ID: 0x10DE
+          Device ID: 0x1382
+          SubSys ID: 0x106510DE
+        Revision ID: 0x00A2
+ Driver Strong Name: oem71.inf:0f066de3eb4857cf:Section022:23.21.13.8813:pci\ven_10de&dev_1382&subsys_106510de
+     Rank Of Driver: 00D10001
+        Video Accel: 
+        DXVA2 Modes: DXVA2_ModeMPEG2_VLD  DXVA2_ModeVC1_D2010  DXVA2_ModeVC1_VLD  DXVA2_ModeH264_VLD_Stereo_Progressive_NoFGT  DXVA2_ModeH264_VLD_Stereo_NoFGT  DXVA2_ModeH264_VLD_NoFGT  DXVA2_ModeHEVC_VLD_Main  DXVA2_ModeMPEG4pt2_VLD_Simple  DXVA2_ModeMPEG4pt2_VLD_AdvSimple_NoGMC  
+   Deinterlace Caps: {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
+                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
+                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(UYVY,UYVY) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
+                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(UYVY,UYVY) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(UYVY,UYVY) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(UYVY,UYVY) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
+                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(YV12,0x32315659) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
+                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(YV12,0x32315659) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(YV12,0x32315659) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(YV12,0x32315659) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
+                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
+                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
+                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(IMC1,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(IMC1,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC1,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(IMC1,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(IMC2,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(IMC2,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC2,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(IMC2,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(IMC3,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(IMC3,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC3,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(IMC3,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(IMC4,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(IMC4,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC4,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(IMC4,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(S340,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(S340,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(S340,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(S340,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(S342,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(S342,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(S342,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(S342,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+       D3D9 Overlay: Supported
+            DXVA-HD: Supported
+       DDraw Status: Enabled
+         D3D Status: Enabled
+         AGP Status: Enabled
+           MPO Caps: Not Supported
+        MPO Stretch: Not Supported
+    MPO Media Hints: Not Supported
+        MPO Formats: Not Supported
+
+          Card name: Intel(R) HD Graphics 4600
+       Manufacturer: Intel Corporation
+          Chip type: Intel(R) HD Graphics Family
+           DAC type: Internal
+        Device Type: Full Device
+         Device Key: Enum\PCI\VEN_8086&DEV_0412&SUBSYS_05D71028&REV_06
+      Device Status: 0180200A [DN_DRIVER_LOADED|DN_STARTED|DN_DISABLEABLE|DN_NT_ENUMERATOR|DN_NT_DRIVER] 
+Device Problem Code: No Problem
+Driver Problem Code: Unknown
+     Display Memory: 2160 MB
+   Dedicated Memory: 112 MB
+      Shared Memory: 2048 MB
+       Current Mode: Unknown
+        Driver Name: igdumdim64.dll,igd10iumd64.dll,igd10iumd64.dll,igd12umd64.dll
+Driver File Version: 20.19.0015.4549 (English)
+     Driver Version: 20.19.15.4549
+        DDI Version: 12
+     Feature Levels: 11_1,11_0,10_1,10_0,9_3,9_2,9_1
+       Driver Model: WDDM 2.0
+Graphics Preemption: Primitive
+ Compute Preemption: Thread group
+           Miracast: Supported
+Hybrid Graphics GPU: Integrated
+     Power P-states: Not Supported
+  Driver Attributes: Final Retail
+   Driver Date/Size: 10/11/2016 00:00:00, 39863888 bytes
+        WHQL Logo'd: Yes
+    WHQL Date Stamp: Unknown
+  Device Identifier: Unknown
+          Vendor ID: 0x8086
+          Device ID: 0x0412
+          SubSys ID: 0x05D71028
+        Revision ID: 0x0006
+ Driver Strong Name: oem5.inf:5f63e534dd898f5e:iHSWD_w10:20.19.15.4549:pci\ven_8086&dev_0412&subsys_05d71028&rev_06
+     Rank Of Driver: 00D10000
+        Video Accel: Unknown
+        DXVA2 Modes: DXVA2_ModeMPEG2_VLD  DXVA2_ModeMPEG2_IDCT  DXVA2_ModeVC1_D2010  DXVA2_ModeWMV9_IDCT  DXVA2_ModeVC1_IDCT  DXVA2_ModeH264_VLD_NoFGT  DXVA2_ModeH264_VLD_Stereo_Progressive_NoFGT  DXVA2_ModeH264_VLD_Stereo_NoFGT  DXVA2_ModeH264_VLD_Multiview_NoFGT  DXVA2_ModeHEVC_VLD_Main  
+      Deinterlace Caps: n/a
+       D3D9 Overlay: Unknown
+            DXVA-HD: Unknown
+       DDraw Status: Enabled
+         D3D Status: Enabled
+         AGP Status: Enabled
+           MPO Caps: Not Supported
+        MPO Stretch: Not Supported
+    MPO Media Hints: Not Supported
+        MPO Formats: Not Supported
+
 -------------
 Sound Devices
 -------------
-            Description: Realtek Digital Output (Realtek High Definition Audio)
+            Description: DELL U2414H-4 (NVIDIA High Definition Audio)
  Default Sound Playback: Yes
  Default Voice Playback: Yes
-            Hardware ID: HDAUDIO\FUNC_01&VEN_10EC&DEV_0892&SUBSYS_10280541&REV_1003
+            Hardware ID: HDAUDIO\FUNC_01&VEN_10DE&DEV_0060&SUBSYS_10DE1065&REV_1001
+        Manufacturer ID: 1
+             Product ID: 100
+                   Type: WDM
+            Driver Name: nvhda64v.sys
+         Driver Version: 1.03.0035.0001 (English)
+      Driver Attributes: Final Retail
+            WHQL Logo'd: Yes
+          Date and Size: 27/10/2017 00:00:00, 233904 bytes
+            Other Files: 
+        Driver Provider: NVIDIA Corporation
+         HW Accel Level: Basic
+              Cap Flags: 0xF1F
+    Min/Max Sample Rate: 100, 200000
+Static/Strm HW Mix Bufs: 1, 0
+ Static/Strm HW 3D Bufs: 0, 0
+              HW Memory: 0
+       Voice Management: No
+ EAX(tm) 2.0 Listen/Src: No, No
+   I3DL2(tm) Listen/Src: No, No
+Sensaura(tm) ZoomFX(tm): No
+
+            Description: Realtek Digital Output (Realtek High Definition Audio)
+ Default Sound Playback: No
+ Default Voice Playback: No
+            Hardware ID: HDAUDIO\FUNC_01&VEN_10EC&DEV_0899&SUBSYS_102805D7&REV_1000
         Manufacturer ID: 1
              Product ID: 100
                    Type: WDM
@@ -151,7 +319,7 @@ Sound Devices
          Driver Version: 6.00.0001.7544 (English)
       Driver Attributes: Final Retail
             WHQL Logo'd: Yes
-          Date and Size: 24/06/2015 00:00:00, 4518136 bytes
+          Date and Size: 24/06/2015 00:00:00, 4510960 bytes
             Other Files: 
         Driver Provider: Realtek Semiconductor Corp.
          HW Accel Level: Basic
@@ -210,24 +378,45 @@ Poll w/ Interrupt: No
 -----------
 USB Devices
 -----------
-+ USB Root Hub
-| Vendor/Product ID: 0x8086, 0x1D26
-| Matching Device ID: USB\ROOT_HUB20
-| Service: usbhub
-| Driver: usbhub.sys, 9/30/2017 05:45:54, 511896 bytes
-| Driver: usbd.sys, 3/18/2017 20:56:35, 32160 bytes
++ USB Root Hub (USB 3.0)
+| Vendor/Product ID: 0x8086, 0x8C31
+| Matching Device ID: USB\ROOT_HUB30
+| Service: USBHUB3
+| Driver: USBHUB3.SYS, 9/18/2017 23:09:42, 554400 bytes
 | 
 +-+ Generic USB Hub
-| | Vendor/Product ID: 0x8087, 0x0024
-| | Location: Port_#0001.Hub_#0002
-| | Matching Device ID: USB\Class_09
-| | Service: usbhub
-| | Driver: usbhub.sys, 9/30/2017 05:45:54, 511896 bytes
-| | Driver: usbd.sys, 3/18/2017 20:56:35, 32160 bytes
+| | Vendor/Product ID: 0x05E3, 0x0608
+| | Location: Port_#0008.Hub_#0003
+| | Matching Device ID: USB\USB20_HUB
+| | Service: USBHUB3
+| | Driver: USBHUB3.SYS, 9/18/2017 23:09:42, 554400 bytes
 | | 
+| +-+ USB Composite Device
+| | | Vendor/Product ID: 0x04CA, 0x0027
+| | | Location: Port_#0001.Hub_#0004
+| | | Matching Device ID: USB\COMPOSITE
+| | | Service: usbccgp
+| | | Driver: usbccgp.sys, 9/30/2017 05:40:03, 173976 bytes
+| | | 
+| | +-+ USB Input Device
+| | | | Vendor/Product ID: 0x04CA, 0x0027
+| | | | Location: 0000.0014.0000.008.001.000.000.000.000
+| | | | Matching Device ID: USB\Class_03&SubClass_01
+| | | | Service: HidUsb
+| | | | Driver: hidusb.sys, 3/18/2017 20:56:35, 40960 bytes
+| | | | Driver: hidclass.sys, 3/18/2017 20:56:35, 180736 bytes
+| | | | Driver: hidparse.sys, 3/18/2017 20:56:35, 40960 bytes
+| | | | 
+| | | +-+ HID Keyboard Device
+| | | | | Vendor/Product ID: 0x04CA, 0x0027
+| | | | | Matching Device ID: HID_DEVICE_SYSTEM_KEYBOARD
+| | | | | Service: kbdhid
+| | | | | Driver: kbdhid.sys, 3/18/2017 20:56:35, 40448 bytes
+| | | | | Driver: kbdclass.sys, 3/18/2017 20:56:35, 64416 bytes
+| | | 
 | +-+ USB Input Device
 | | | Vendor/Product ID: 0x0461, 0x4D65
-| | | Location: Port_#0002.Hub_#0005
+| | | Location: Port_#0002.Hub_#0004
 | | | Matching Device ID: USB\Class_03&SubClass_01
 | | | Service: HidUsb
 | | | Driver: hidusb.sys, 3/18/2017 20:56:35, 40960 bytes
@@ -242,23 +431,23 @@ USB Devices
 | | | | Driver: mouclass.sys, 3/18/2017 20:56:35, 60320 bytes
 | | | 
 | +-+ USB Composite Device
-| | | Vendor/Product ID: 0x04CA, 0x0027
-| | | Location: Port_#0001.Hub_#0005
+| | | Vendor/Product ID: 0x10D5, 0x000D
+| | | Location: Port_#0003.Hub_#0004
 | | | Matching Device ID: USB\COMPOSITE
 | | | Service: usbccgp
 | | | Driver: usbccgp.sys, 9/30/2017 05:40:03, 173976 bytes
 | | | 
 | | +-+ USB Input Device
-| | | | Vendor/Product ID: 0x04CA, 0x0027
-| | | | Location: 0000.001d.0000.001.001.000.000.000.000
-| | | | Matching Device ID: USB\Class_03&SubClass_01
+| | | | Vendor/Product ID: 0x10D5, 0x000D
+| | | | Location: 0000.0014.0000.008.003.000.000.000.000
+| | | | Matching Device ID: USB\Class_03
 | | | | Service: HidUsb
 | | | | Driver: hidusb.sys, 3/18/2017 20:56:35, 40960 bytes
 | | | | Driver: hidclass.sys, 3/18/2017 20:56:35, 180736 bytes
 | | | | Driver: hidparse.sys, 3/18/2017 20:56:35, 40960 bytes
 | | | | 
 | | | +-+ HID Keyboard Device
-| | | | | Vendor/Product ID: 0x04CA, 0x0027
+| | | | | Vendor/Product ID: 0x10D5, 0x000D
 | | | | | Matching Device ID: HID_DEVICE_SYSTEM_KEYBOARD
 | | | | | Service: kbdhid
 | | | | | Driver: kbdhid.sys, 3/18/2017 20:56:35, 40448 bytes
@@ -379,13 +568,15 @@ Default MidiOut Device,0x00800000,1,0,quartz.dll,10.00.15063.0674
 Microsoft GS Wavetable Synth,0x00200000,1,0,quartz.dll,10.00.15063.0674
 
 WDM Streaming Capture Devices:
-Realtek HD Audio Mic input,0x00200000,1,1,ksproxy.ax,10.00.15063.0000
 Realtek HD Audio Line input,0x00200000,1,1,ksproxy.ax,10.00.15063.0000
 Realtek HD Audio Stereo input,0x00200000,1,1,ksproxy.ax,10.00.15063.0000
+Realtek HD Audio Mic input,0x00200000,1,1,ksproxy.ax,10.00.15063.0000
+,0x00000000,0,0,,
 
 WDM Streaming Rendering Devices:
-Realtek HDA SPDIF Out,0x00200000,1,1,ksproxy.ax,10.00.15063.0000
 Realtek HD Audio output,0x00200000,1,1,ksproxy.ax,10.00.15063.0000
+Realtek HDA SPDIF Out,0x00200000,1,1,ksproxy.ax,10.00.15063.0000
+,0x00000000,0,0,,
 
 BDA Network Providers:
 Microsoft ATSC Network Provider,0x00200000,0,1,MSDvbNP.ax,10.00.15063.0000
@@ -411,10 +602,12 @@ WDM Streaming Communication Transforms:
 Tee/Sink-to-Sink Converter,0x00200000,1,1,ksproxy.ax,10.00.15063.0000
 
 Audio Renderers:
-Realtek Digital Output (Realtek High Definition Audio),0x00200000,1,0,quartz.dll,10.00.15063.0674
+DELL U2414H-4 (NVIDIA High Definition Audio),0x00200000,1,0,quartz.dll,10.00.15063.0674
 Default DirectSound Device,0x00800000,1,0,quartz.dll,10.00.15063.0674
 Default WaveOut Device,0x00200000,1,0,quartz.dll,10.00.15063.0674
+DirectSound: DELL U2414H-4 (NVIDIA High Definition Audio),0x00200000,1,0,quartz.dll,10.00.15063.0674
 DirectSound: Realtek Digital Output (Realtek High Definition Audio),0x00200000,1,0,quartz.dll,10.00.15063.0674
+Realtek Digital Output (Realtek High Definition Audio),0x00200000,1,0,quartz.dll,10.00.15063.0674
 
 
 ----------------------------
@@ -487,10 +680,13 @@ Media Foundation Transforms
   <transform friendly name>, <transform CLSID>, <flags>, [<merit>, ]<file name>, <file version>
 
 Video Decoders:
+  Intel® Hardware M-JPEG Decoder MFT, {00C69F81-0524-48C0-A353-4DD9D54F9A6E}, 0x6, 7, mfx_mft_mjpgvd_64.dll, 7.16.0010.0020
+  Intel® Hardware VP8 Decoder MFT, {6D856398-834E-4A89-8EE5-071BB3F58BE4}, 0x6, mfx_mft_vp8vd_64.dll, 7.16.0010.0020
   NVIDIA MJPEG Video Decoder MFT, {70F36578-2741-454F-B494-E8563DDD1CB4}, 0x4, 8, nvDecMFTMjpeg.dll, 23.21.0013.8813
   Microsoft MPEG Video Decoder MFT, {2D709E52-123F-49B5-9CBC-9AF5CDE28FB9}, 0x1, msmpeg2vdec.dll, 10.00.15063.0000
   DV Decoder MFT, {404A6DE5-D4D6-4260-9BC7-5A6CBD882432}, 0x1, mfdvdec.dll, 10.00.15063.0000
   Microsoft H265 Video Decoder MFT, {420A51A3-D605-430C-B4FC-45274FA6C562}, 0x1, hevcdecoder.dll, 10.00.15063.0000
+  Intel® Hardware VP8 Sync Decoder MFT, {451E3CB7-2622-4BA5-8E1D-44B3C41D0924}, 0x1, mfx_mft_vp8vd_64.dll, 7.16.0010.0020
   Mpeg4s Decoder MFT, CLSID_CMpeg4sDecMFT, 0x1, mp4sdecd.dll, 10.00.15063.0000
   Microsoft H264 Video Decoder MFT, CLSID_CMSH264DecoderMFT, 0x1, msmpeg2vdec.dll, 10.00.15063.0000
   WMV Screen decoder MFT, CLSID_CMSSCDecMediaObject, 0x1, wmvsdecd.dll, 10.00.15063.0000
@@ -500,6 +696,7 @@ Video Decoders:
   Microsoft WebM MF VP8 Decoder Transform, {E3AAF548-C9A4-4C6E-234D-5ADA374B0000}, 0x1, MSVP9DEC.dll, 10.00.15063.0000
   Mpeg4 Decoder MFT, CLSID_CMpeg4DecMediaObject, 0x1, mpg4decd.dll, 10.00.15063.0000
 Video Encoders:
+  Intel® Quick Sync Video H.264 Encoder MFT, {4BE8D3C0-0515-4A37-AD55-E4BAE19AF471}, 0x4, 7, mfx_mft_h264ve_64.dll, 7.16.0010.0020
   NVIDIA H.264 Encoder MFT, {60F44560-5A20-4857-BFEF-D29773CB8040}, 0x4, 8, nvEncMFTH264.dll, 23.21.0013.8813
   H264 Encoder MFT, {6CA50344-051A-4DED-9779-A43305165E35}, 0x1, mfh264enc.dll, 10.00.15063.0000
   WMVideo8 Encoder MFT, CLSID_CWMVXEncMediaObject, 0x1, wmvxencd.dll, 10.00.15063.0000
@@ -561,8 +758,8 @@ Media Foundation Enabled Hardware Categories
 
 [HKEY_LOCAL_MACHINE\Software\Microsoft\Windows Media Foundation\HardwareMFT]
 
-EnableDecoders = 1
 EnableEncoders = 1
+EnableDecoders = 1
 
 
 -------------------------------------
@@ -815,192 +1012,192 @@ Diagnostics
 
 Windows Error Reporting:
 +++ WER0 +++:
-Fault bucket 1806205546357356657, type 5
-Event Name: WindowsUpdateFailure3
+Fault bucket 85952069954, type 4
+Event Name: APPCRASH
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: 10.0.15063.726
-P2: 80240439
-P3: 00000000-0000-0000-0000-000000000000
-P4: Scan
-P5: 0
-P6: 0
-P7: 0
-P8: Update;taskhostw
-P9: {855E8A7C-ECB4-4CA3-B045-1DFA50104289}
-P10: 0
+P1: Pen_Tablet.exe
+P2: 5.3.5.3
+P3: 53f3a0b7
+P4: Pen_Tablet.exe
+P5: 5.3.5.3
+P6: 53f3a0b7
+P7: c0000005
+P8: 0000000000281798
+P9: 
+P10: 
 
 
 +++ WER1 +++:
 Fault bucket , type 0
-Event Name: WindowsUpdateFailure3
+Event Name: APPCRASH
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: 10.0.15063.726
-P2: 80240439
-P3: 00000000-0000-0000-0000-000000000000
-P4: Scan
-P5: 0
-P6: 0
-P7: 0
-P8: Update;taskhostw
-P9: {855E8A7C-ECB4-4CA3-B045-1DFA50104289}
-P10: 0
+P1: Pen_Tablet.exe
+P2: 5.3.5.3
+P3: 53f3a0b7
+P4: Pen_Tablet.exe
+P5: 5.3.5.3
+P6: 53f3a0b7
+P7: c0000005
+P8: 0000000000281798
+P9: 
+P10: 
 
 
 +++ WER2 +++:
-Fault bucket , type 0
-Event Name: WindowsUpdateFailure3
+Fault bucket 127930299139, type 5
+Event Name: MpTelemetry
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: 10.0.15063.726
-P2: 80240439
-P3: 00000000-0000-0000-0000-000000000000
-P4: Scan
-P5: 0
-P6: 0
-P7: 0
-P8: Update;taskhostw
-P9: {855E8A7C-ECB4-4CA3-B045-1DFA50104289}
-P10: 0
+P1: unspecified
+P2: HardeningTelemetry
+P3: HardeningTelemetryDisableAS
+P4: 4.11.15063.447
+P5: unspecified
+P6: unspecified
+P7: unspecified
+P8: 
+P9: 
+P10: 
 
 
 +++ WER3 +++:
-Fault bucket 128045384357, type 5
-Event Name: WindowsUpdateFailure3
+Fault bucket 127930299099, type 5
+Event Name: MpTelemetry
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: 10.0.15063.674
-P2: 80240439
-P3: 00000000-0000-0000-0000-000000000000
-P4: Scan
-P5: 0
-P6: 0
-P7: 0
-P8: Update;taskhostw
-P9: {855E8A7C-ECB4-4CA3-B045-1DFA50104289}
-P10: 0
+P1: unspecified
+P2: HardeningTelemetry
+P3: HardeningTelemetryDisableAV
+P4: 4.11.15063.447
+P5: unspecified
+P6: unspecified
+P7: unspecified
+P8: 
+P9: 
+P10: 
 
 
 +++ WER4 +++:
 Fault bucket , type 0
-Event Name: WindowsUpdateFailure3
+Event Name: MpTelemetry
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: 10.0.15063.674
-P2: 80240439
-P3: 00000000-0000-0000-0000-000000000000
-P4: Scan
-P5: 0
-P6: 0
-P7: 0
-P8: Update;taskhostw
-P9: {855E8A7C-ECB4-4CA3-B045-1DFA50104289}
-P10: 0
+P1: unspecified
+P2: HardeningTelemetry
+P3: HardeningTelemetryDisableAS
+P4: 4.11.15063.447
+P5: unspecified
+P6: unspecified
+P7: unspecified
+P8: 
+P9: 
+P10: 
 
 
 +++ WER5 +++:
 Fault bucket , type 0
-Event Name: WindowsUpdateFailure3
+Event Name: MpTelemetry
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: 10.0.15063.674
-P2: 80240439
-P3: 00000000-0000-0000-0000-000000000000
-P4: Scan
-P5: 0
-P6: 0
-P7: 0
-P8: Update;taskhostw
-P9: {855E8A7C-ECB4-4CA3-B045-1DFA50104289}
-P10: 0
+P1: unspecified
+P2: HardeningTelemetry
+P3: HardeningTelemetryDisableAV
+P4: 4.11.15063.447
+P5: unspecified
+P6: unspecified
+P7: unspecified
+P8: 
+P9: 
+P10: 
 
 
 +++ WER6 +++:
-Fault bucket 128068099900, type 5
-Event Name: MpTelemetry
-Response: Not available
-Cab Id: 0
-
-Problem signature:
-P1: Windows Defender Antivirus (77BDAF73-B396-481F-9042-AD358843EC24)
-P2: 4.11.15063.447
-P3: TimeOut
-P4: 1.1.14306.0
-P5: fixed
-P6: 8 / 2049+
-P7: 5 / not boot
-P8: 
-P9: 
-P10: 
-
-
-+++ WER7 +++:
-Fault bucket , type 0
-Event Name: MpTelemetry
-Response: Not available
-Cab Id: 0
-
-Problem signature:
-P1: Windows Defender Antivirus (77BDAF73-B396-481F-9042-AD358843EC24)
-P2: 4.11.15063.447
-P3: TimeOut
-P4: 1.1.14306.0
-P5: fixed
-P6: 8 / 2049+
-P7: 5 / not boot
-P8: 
-P9: 
-P10: 
-
-
-+++ WER8 +++:
-Fault bucket 2259673376860493637, type 5
+Fault bucket 116376694394, type 5
 Event Name: BEX64
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: tableau.exe
-P2: 10400.17.1103.1137
-P3: 59fcc795
-P4: ucrtbase.dll
-P5: 10.0.15063.674
-P6: 8ac9f9d4
-P7: 000000000007350e
-P8: c0000409
-P9: 0000000000000007
+P1: NVDisplay.Container.exe
+P2: 1.2.0.0
+P3: 59079e96
+P4: nvxdsyncplugin.dll_unloaded
+P5: 8.17.13.8205
+P6: 590793c0
+P7: 0000000000047c2c
+P8: c0000005
+P9: 0000000000000008
 P10: 
 
 
-+++ WER9 +++:
-Fault bucket , type 0
-Event Name: LiveKernelEvent
++++ WER7 +++:
+Fault bucket 116377048877, type 5
+Event Name: BEX64
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: 144
-P2: 3003
-P3: ffffc50093854838
-P4: 40010000
-P5: 0
-P6: 10_0_15063
-P7: 0_0
-P8: 256_1
-P9: 
+P1: NVDisplay.Container.exe
+P2: 1.2.0.0
+P3: 59079e96
+P4: nvxdsyncplugin.dll_unloaded
+P5: 8.17.13.8205
+P6: 590793c0
+P7: 0000000000048305
+P8: c0000005
+P9: 0000000000000008
+P10: 
+
+
++++ WER8 +++:
+Fault bucket 116376661999, type 5
+Event Name: BEX64
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: NVDisplay.Container.exe
+P2: 1.2.0.0
+P3: 59079e96
+P4: nvxdsyncplugin.dll_unloaded
+P5: 8.17.13.8205
+P6: 590793c0
+P7: 0000000000047bed
+P8: c0000005
+P9: 0000000000000008
+P10: 
+
+
++++ WER9 +++:
+Fault bucket 116376694394, type 5
+Event Name: BEX64
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: NVDisplay.Container.exe
+P2: 1.2.0.0
+P3: 59079e96
+P4: nvxdsyncplugin.dll_unloaded
+P5: 8.17.13.8205
+P6: 590793c0
+P7: 0000000000047c2c
+P8: c0000005
+P9: 0000000000000008
 P10: 
 
 
