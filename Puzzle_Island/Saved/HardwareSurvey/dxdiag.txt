@@ -1,9 +1,15 @@
 ------------------
 System Information
 ------------------
+<<<<<<< HEAD
       Time of this report: 11/23/2017, 09:12:06
              Machine name: W67511
                Machine Id: {EA554B5D-C0B3-4998-90D9-6B1312931048}
+=======
+      Time of this report: 11/23/2017, 09:15:48
+             Machine name: W67512
+               Machine Id: {A8D3C740-2DAE-4BCD-B7F4-C6B19B7A7D9C}
+>>>>>>> JakubBranch
          Operating System: Windows 10 Education 64-bit (10.0, Build 15063) (15063.rs2_release.170317-1834)
                  Language: English (Regional Setting: English)
       System Manufacturer: Alienware
@@ -12,7 +18,11 @@ System Information
                 Processor: Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz (4 CPUs), ~3.2GHz
                    Memory: 16384MB RAM
       Available OS Memory: 16300MB RAM
+<<<<<<< HEAD
                 Page File: 7415MB used, 11317MB available
+=======
+                Page File: 7263MB used, 11469MB available
+>>>>>>> JakubBranch
               Windows Dir: C:\windows
           DirectX Version: DirectX 12
       DX Setup Parameters: Not found
@@ -63,7 +73,11 @@ Driver Problem Code: Unknown
        Current Mode: 1920 x 1080 (32 bit) (60Hz)
        Monitor Name: Generic PnP Monitor
       Monitor Model: DELL U2414H
+<<<<<<< HEAD
          Monitor Id: DELA0B2
+=======
+         Monitor Id: DELA0A4
+>>>>>>> JakubBranch
         Native Mode: 1920 x 1080(p) (60.000Hz)
         Output Type: HDMI
         Driver Name: C:\windows\System32\DriverStore\FileRepository\nv_desktop_ref4wu.inf_amd64_0109a19b5125cb43\nvldumdx.dll,C:\windows\System32\DriverStore\FileRepository\nv_desktop_ref4wu.inf_amd64_0109a19b5125cb43\nvldumdx.dll,C:\windows\System32\DriverStore\FileRepository\nv_desktop_ref4wu.inf_amd64_0109a19b5125cb43\nvldumdx.dll,C:\windows\System32\DriverStore\FileRepository\nv_desktop_ref4wu.inf_amd64_0109a19b5125cb43\nvldumdx.dll
@@ -86,7 +100,11 @@ Hybrid Graphics GPU: Not Supported
           Device ID: 0x1382
           SubSys ID: 0x106510DE
         Revision ID: 0x00A2
+<<<<<<< HEAD
  Driver Strong Name: oem71.inf:0f066de3eb4857cf:Section022:23.21.13.8813:pci\ven_10de&dev_1382&subsys_106510de
+=======
+ Driver Strong Name: oem70.inf:0f066de3eb4857cf:Section022:23.21.13.8813:pci\ven_10de&dev_1382&subsys_106510de
+>>>>>>> JakubBranch
      Rank Of Driver: 00D10001
         Video Accel: 
         DXVA2 Modes: DXVA2_ModeMPEG2_VLD  DXVA2_ModeVC1_D2010  DXVA2_ModeVC1_VLD  DXVA2_ModeH264_VLD_Stereo_Progressive_NoFGT  DXVA2_ModeH264_VLD_Stereo_NoFGT  DXVA2_ModeH264_VLD_NoFGT  DXVA2_ModeHEVC_VLD_Main  DXVA2_ModeMPEG4pt2_VLD_Simple  DXVA2_ModeMPEG4pt2_VLD_AdvSimple_NoGMC  
@@ -178,7 +196,11 @@ Hybrid Graphics GPU: Not Supported
           Device ID: 0x1382
           SubSys ID: 0x106510DE
         Revision ID: 0x00A2
+<<<<<<< HEAD
  Driver Strong Name: oem71.inf:0f066de3eb4857cf:Section022:23.21.13.8813:pci\ven_10de&dev_1382&subsys_106510de
+=======
+ Driver Strong Name: oem70.inf:0f066de3eb4857cf:Section022:23.21.13.8813:pci\ven_10de&dev_1382&subsys_106510de
+>>>>>>> JakubBranch
      Rank Of Driver: 00D10001
         Video Accel: 
         DXVA2 Modes: DXVA2_ModeMPEG2_VLD  DXVA2_ModeVC1_D2010  DXVA2_ModeVC1_VLD  DXVA2_ModeH264_VLD_Stereo_Progressive_NoFGT  DXVA2_ModeH264_VLD_Stereo_NoFGT  DXVA2_ModeH264_VLD_NoFGT  DXVA2_ModeHEVC_VLD_Main  DXVA2_ModeMPEG4pt2_VLD_Simple  DXVA2_ModeMPEG4pt2_VLD_AdvSimple_NoGMC  
@@ -386,7 +408,11 @@ USB Devices
 | 
 +-+ Generic USB Hub
 | | Vendor/Product ID: 0x05E3, 0x0608
+<<<<<<< HEAD
 | | Location: Port_#0008.Hub_#0003
+=======
+| | Location: Port_#0007.Hub_#0003
+>>>>>>> JakubBranch
 | | Matching Device ID: USB\USB20_HUB
 | | Service: USBHUB3
 | | Driver: USBHUB3.SYS, 9/18/2017 23:09:42, 554400 bytes
@@ -400,7 +426,11 @@ USB Devices
 | | | 
 | | +-+ USB Input Device
 | | | | Vendor/Product ID: 0x04CA, 0x0027
+<<<<<<< HEAD
 | | | | Location: 0000.0014.0000.008.001.000.000.000.000
+=======
+| | | | Location: 0000.0014.0000.007.001.000.000.000.000
+>>>>>>> JakubBranch
 | | | | Matching Device ID: USB\Class_03&SubClass_01
 | | | | Service: HidUsb
 | | | | Driver: hidusb.sys, 3/18/2017 20:56:35, 40960 bytes
@@ -439,7 +469,11 @@ USB Devices
 | | | 
 | | +-+ USB Input Device
 | | | | Vendor/Product ID: 0x10D5, 0x000D
+<<<<<<< HEAD
 | | | | Location: 0000.0014.0000.008.003.000.000.000.000
+=======
+| | | | Location: 0000.0014.0000.007.003.000.000.000.000
+>>>>>>> JakubBranch
 | | | | Matching Device ID: USB\Class_03
 | | | | Service: HidUsb
 | | | | Driver: hidusb.sys, 3/18/2017 20:56:35, 40960 bytes
@@ -1031,12 +1065,18 @@ P10:
 
 
 +++ WER1 +++:
+<<<<<<< HEAD
 Fault bucket , type 0
 Event Name: APPCRASH
+=======
+Fault bucket 127930299139, type 5
+Event Name: MpTelemetry
+>>>>>>> JakubBranch
 Response: Not available
 Cab Id: 0
 
 Problem signature:
+<<<<<<< HEAD
 P1: Pen_Tablet.exe
 P2: 5.3.5.3
 P3: 53f3a0b7
@@ -1045,17 +1085,7 @@ P5: 5.3.5.3
 P6: 53f3a0b7
 P7: c0000005
 P8: 0000000000281798
-P9: 
-P10: 
-
-
-+++ WER2 +++:
-Fault bucket 127930299139, type 5
-Event Name: MpTelemetry
-Response: Not available
-Cab Id: 0
-
-Problem signature:
+=======
 P1: unspecified
 P2: HardeningTelemetry
 P3: HardeningTelemetryDisableAS
@@ -1064,6 +1094,42 @@ P5: unspecified
 P6: unspecified
 P7: unspecified
 P8: 
+>>>>>>> JakubBranch
+P9: 
+P10: 
+
+
++++ WER2 +++:
+<<<<<<< HEAD
+Fault bucket 127930299139, type 5
+Event Name: MpTelemetry
+=======
+Fault bucket , type 0
+Event Name: APPCRASH
+>>>>>>> JakubBranch
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+<<<<<<< HEAD
+P1: unspecified
+P2: HardeningTelemetry
+P3: HardeningTelemetryDisableAS
+P4: 4.11.15063.447
+P5: unspecified
+P6: unspecified
+P7: unspecified
+P8: 
+=======
+P1: Pen_Tablet.exe
+P2: 5.3.5.3
+P3: 53f3a0b7
+P4: Pen_Tablet.exe
+P5: 5.3.5.3
+P6: 53f3a0b7
+P7: c0000005
+P8: 0000000000281798
+>>>>>>> JakubBranch
 P9: 
 P10: 
 
@@ -1126,12 +1192,18 @@ P10:
 
 
 +++ WER6 +++:
+<<<<<<< HEAD
 Fault bucket 116376694394, type 5
 Event Name: BEX64
+=======
+Fault bucket 127930299139, type 5
+Event Name: MpTelemetry
+>>>>>>> JakubBranch
 Response: Not available
 Cab Id: 0
 
 Problem signature:
+<<<<<<< HEAD
 P1: NVDisplay.Container.exe
 P2: 1.2.0.0
 P3: 59079e96
@@ -1141,16 +1213,33 @@ P6: 590793c0
 P7: 0000000000047c2c
 P8: c0000005
 P9: 0000000000000008
+=======
+P1: unspecified
+P2: HardeningTelemetry
+P3: HardeningTelemetryDisableAS
+P4: 4.11.15063.447
+P5: unspecified
+P6: unspecified
+P7: unspecified
+P8: 
+P9: 
+>>>>>>> JakubBranch
 P10: 
 
 
 +++ WER7 +++:
+<<<<<<< HEAD
 Fault bucket 116377048877, type 5
 Event Name: BEX64
+=======
+Fault bucket 127930299099, type 5
+Event Name: MpTelemetry
+>>>>>>> JakubBranch
 Response: Not available
 Cab Id: 0
 
 Problem signature:
+<<<<<<< HEAD
 P1: NVDisplay.Container.exe
 P2: 1.2.0.0
 P3: 59079e96
@@ -1160,16 +1249,33 @@ P6: 590793c0
 P7: 0000000000048305
 P8: c0000005
 P9: 0000000000000008
+=======
+P1: unspecified
+P2: HardeningTelemetry
+P3: HardeningTelemetryDisableAV
+P4: 4.11.15063.447
+P5: unspecified
+P6: unspecified
+P7: unspecified
+P8: 
+P9: 
+>>>>>>> JakubBranch
 P10: 
 
 
 +++ WER8 +++:
+<<<<<<< HEAD
 Fault bucket 116376661999, type 5
 Event Name: BEX64
+=======
+Fault bucket , type 0
+Event Name: MpTelemetry
+>>>>>>> JakubBranch
 Response: Not available
 Cab Id: 0
 
 Problem signature:
+<<<<<<< HEAD
 P1: NVDisplay.Container.exe
 P2: 1.2.0.0
 P3: 59079e96
@@ -1179,16 +1285,33 @@ P6: 590793c0
 P7: 0000000000047bed
 P8: c0000005
 P9: 0000000000000008
+=======
+P1: unspecified
+P2: HardeningTelemetry
+P3: HardeningTelemetryDisableAS
+P4: 4.11.15063.447
+P5: unspecified
+P6: unspecified
+P7: unspecified
+P8: 
+P9: 
+>>>>>>> JakubBranch
 P10: 
 
 
 +++ WER9 +++:
+<<<<<<< HEAD
 Fault bucket 116376694394, type 5
 Event Name: BEX64
+=======
+Fault bucket , type 0
+Event Name: MpTelemetry
+>>>>>>> JakubBranch
 Response: Not available
 Cab Id: 0
 
 Problem signature:
+<<<<<<< HEAD
 P1: NVDisplay.Container.exe
 P2: 1.2.0.0
 P3: 59079e96
@@ -1198,6 +1321,17 @@ P6: 590793c0
 P7: 0000000000047c2c
 P8: c0000005
 P9: 0000000000000008
+=======
+P1: unspecified
+P2: HardeningTelemetry
+P3: HardeningTelemetryDisableAV
+P4: 4.11.15063.447
+P5: unspecified
+P6: unspecified
+P7: unspecified
+P8: 
+P9: 
+>>>>>>> JakubBranch
 P10: 
 
 
