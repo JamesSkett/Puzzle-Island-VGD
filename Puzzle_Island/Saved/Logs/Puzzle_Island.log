@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿Log file open, 11/24/17 13:37:12
 =======
 ﻿Log file open, 11/24/17 13:30:45
@@ -7,6 +8,9 @@
 =======
 ﻿Log file open, 11/24/17 15:42:50
 >>>>>>> JakubBranch
+=======
+﻿Log file open, 11/24/17 16:56:36
+>>>>>>> JamesBranch
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -15,6 +19,7 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: Puzzle_Island
 LogPlatformFile: Not using cached read wrapper
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 LogInit: Display: RandInit(1378615392) SRandInit(1378615392).
@@ -30,6 +35,11 @@ LogInit: Display: RandInit(837491951) SRandInit(837491951).
 LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.245790
 >>>>>>> JakubBranch
+=======
+LogInit: Display: RandInit(-695663942) SRandInit(-695663942).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.254038
+>>>>>>> JamesBranch
 LogD3D11RHI: Aftermath initialized
 LogPluginManager: Mounting plugin Paper2D
 LogPluginManager: Mounting plugin LightPropagationVolume
@@ -126,6 +136,7 @@ LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
 LogInit: Compiled with Visual C++: 19.00.24215.01
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.17
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 LogInit: Command line: -EpicPortal 
@@ -3809,3 +3820,1476 @@ LogInit: Object subsystem initialized
 [2017.11.24-17.02.21:711][729]LogExit: Exiting.
 [2017.11.24-17.02.21:749][729]Log file closed, 11/24/17 17:02:21
 >>>>>>> JakubBranch
+=======
+LogInit: Command line:  
+LogInit: Base directory: D:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.11.24-16.56.38:457][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.24-16.56.38:457][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.11.24-16.56.38:584][  0]LogInit: Computer: DESKTOP-Q670LKS
+[2017.11.24-16.56.38:584][  0]LogInit: User: James
+[2017.11.24-16.56.38:584][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.11.24-16.56.38:584][  0]LogInit: High frequency timer resolution =3.320331 MHz
+[2017.11.24-16.56.38:584][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2017.11.24-16.56.38:587][  0]LogMemory: Platform Memory Stats for Windows
+[2017.11.24-16.56.38:587][  0]LogMemory: Process Physical Memory: 281.41 MB used, 281.41 MB peak
+[2017.11.24-16.56.38:587][  0]LogMemory: Process Virtual Memory: 278.26 MB used, 278.26 MB peak
+[2017.11.24-16.56.38:587][  0]LogMemory: Physical Memory: 6359.20 MB used,  9968.74 MB free, 16327.93 MB total
+[2017.11.24-16.56.38:587][  0]LogMemory: Virtual Memory: 672.40 MB used,  9968.74 MB free, 134217728.00 MB total
+[2017.11.24-16.56.39:558][  0]LogInit: Using OS detected language (en-US).
+[2017.11.24-16.56.39:558][  0]LogInit: Using OS detected locale (en-GB).
+[2017.11.24-16.56.39:737][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.11.24-16.56.43:999][  0]LogD3D11RHI: D3D11 adapters:
+[2017.11.24-16.56.44:083][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 760' (Feature Level 11_0)
+[2017.11.24-16.56.44:083][  0]LogD3D11RHI:       2017/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2017.11.24-16.56.44:084][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.11.24-16.56.44:084][  0]LogD3D11RHI:       0/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.11.24-16.56.44:084][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.11.24-16.56.44:090][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.11.24-16.56.44:090][  0]LogD3D11RHI:     GPU DeviceId: 0x1187 (for the marketing name, search the web for "GPU Device Id")
+[2017.11.24-16.56.44:090][  0]LogWindows: EnumDisplayDevices:
+[2017.11.24-16.56.44:090][  0]LogWindows:    0. 'NVIDIA GeForce GTX 760' (P:0 D:1)
+[2017.11.24-16.56.44:090][  0]LogWindows:    1. 'NVIDIA GeForce GTX 760' (P:0 D:1)
+[2017.11.24-16.56.44:090][  0]LogWindows:    2. 'NVIDIA GeForce GTX 760' (P:1 D:1)
+[2017.11.24-16.56.44:090][  0]LogWindows:    3. 'NVIDIA GeForce GTX 760' (P:0 D:0)
+[2017.11.24-16.56.44:090][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.11.24-16.56.44:090][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 760
+[2017.11.24-16.56.44:091][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2017.11.24-16.56.44:091][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2017.11.24-16.56.44:091][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.11.24-16.56.44:115][  0]LogD3D11RHI: Async texture creation enabled
+[2017.11.24-16.56.44:399][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2017.11.24-16.56.44:618][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Intermediate/Shaders/WorkingDirectory/1724/).
+[2017.11.24-16.56.44:618][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/James/AppData/Local/Temp/UnrealShaderWorkingDir/C87660854AFE21A3242ADE90FC0C657C/'.
+[2017.11.24-16.56.44:632][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.11.24-16.56.48:337][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.11.24-16.56.48:374][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.11.24-16.56.48:411][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.11.24-16.56.48:447][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.11.24-16.56.48:525][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.11.24-16.56.48:564][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.11.24-16.56.48:602][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.11.24-16.56.48:638][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.11.24-16.56.48:669][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.11.24-16.56.48:723][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.11.24-16.56.48:760][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.11.24-16.56.48:795][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.11.24-16.56.48:832][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.11.24-16.56.48:869][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.11.24-16.56.48:905][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.11.24-16.56.48:977][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.11.24-16.56.48:977][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.11.24-16.56.49:003][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.11.24-16.56.49:186][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.11.24-16.56.49:225][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.11.24-16.56.49:262][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.11.24-16.56.49:299][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.11.24-16.56.49:335][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.11.24-16.56.49:388][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.11.24-16.56.49:388][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.11.24-16.56.50:549][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.11.24-16.56.51:098][  0]LogDerivedDataCache: Loaded boot cache 0.55s 93MB C:/Users/James/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.11.24-16.56.51:098][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/James/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.11.24-16.56.51:098][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.11.24-16.56.51:098][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.11.24-16.56.51:098][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.11.24-16.56.51:098][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.11.24-16.56.51:242][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.11.24-16.56.51:255][  0]LogDerivedDataCache: Using Local data cache path C:/Users/James/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.11.24-16.56.51:326][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.11.24-16.56.51:369][  0]LogSlate: Using Freetype 2.6.0
+[2017.11.24-16.56.51:489][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.24-16.56.51:498][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.24-16.56.59:698][  0]LogAssetRegistry: FAssetRegistry took 0.0687 seconds to start up
+[2017.11.24-16.57.01:545][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.24-16.57.07:880][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.11.24-16.57.07:928][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.11.24-16.57.07:939][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.11.24-16.57.07:941][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.11.24-16.57.07:941][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.11.24-16.57.07:941][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.11.24-16.57.08:328][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.11.24-16.57.12:087][  0]LogNetVersion: Puzzle_Island , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3939646741)
+[2017.11.24-16.57.13:858][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.158904 seconds
+[2017.11.24-16.57.13:877][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.11.24-16.57.13:877][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2017.11.24-16.57.13:877][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.11.24-16.57.13:949][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.11.24-16.57.31:346][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.11.24-16.57.31:414][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.11.24-16.57.35:914][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.11.24-16.57.36:819][  0]SourceControl: Source control is disabled
+[2017.11.24-16.57.36:819][  0]SourceControl: Source control is disabled
+[2017.11.24-16.57.36:941][  0]SourceControl: Source control is disabled
+[2017.11.24-16.57.37:000][  0]SourceControl: Source control is disabled
+[2017.11.24-16.57.37:777][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.11.24-16.57.37:962][  0]LogOcInput: OculusInput pre-init called
+[2017.11.24-16.57.38:492][  0]LogEngine: Initializing Engine...
+[2017.11.24-16.57.38:517][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.11.24-16.57.38:838][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.11.24-16.57.38:838][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.11.24-16.57.39:241][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.11.24-16.57.39:376][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.24-16.57.39:391][  0]LogInit: FAudioDevice initialized.
+[2017.11.24-16.57.39:516][  0]LogDerivedDataCache: Saved boot cache 0.13s 93MB C:/Users/James/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.11.24-16.57.39:546][  0]LogInit: Texture streaming: Enabled
+[2017.11.24-16.57.39:706][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.11.24-16.57.40:345][  0]LogInit: Transaction tracking system initialized
+[2017.11.24-16.57.41:596][  0]BlueprintLog: New page: Editor Load
+[2017.11.24-16.57.43:889][  0]LocalizationService: Localization service is disabled
+[2017.11.24-16.57.45:798][  0]LogConsoleResponse: Display: 
+[2017.11.24-16.57.47:525][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/ as it will conflict with another watching ../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/.
+[2017.11.24-16.57.47:526][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/ as it will conflict with another watching ../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/.
+[2017.11.24-16.57.47:526][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/ as it will conflict with another watching ../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/.
+[2017.11.24-16.57.47:577][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/' took 0.01s
+[2017.11.24-16.57.47:578][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.11.24-16.57.47:578][  0]LogCook: Display: Mobile HDR setting 1
+[2017.11.24-16.57.47:673][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.11.24-16.57.51:261][  0]SourceControl: Source control is disabled
+[2017.11.24-16.57.51:358][  0]Cmd: MAP LOAD FILE="../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Maps/Puzzle_Island.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.24-16.57.51:386][  0]LightingResults: New page: Lighting Build
+[2017.11.24-16.57.51:849][  0]MapCheck: New page: Map Check
+[2017.11.24-16.57.51:849][  0]LightingResults: New page: Lighting Build
+[2017.11.24-16.57.56:545][  0]LogTexture: Display: Building textures: NPC_Text_Box (AutoDXT, 1024X400)
+[2017.11.24-16.57.57:445][  0]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.24-16.57.59:271][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.24-16.57.59:372][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.24-16.57.59:414][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 41.785ms to complete.
+[2017.11.24-16.57.59:414][  0]LogFileHelpers: Loading map 'Puzzle_Island' took 8.078
+[2017.11.24-16.58.00:869][  0]LogCollectionManager: Loaded 0 collections in 0.000881 seconds
+[2017.11.24-16.58.01:294][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Collections/' took 0.01s
+[2017.11.24-16.58.01:294][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Developers/James/Collections/' took 0.01s
+[2017.11.24-16.58.01:294][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Collections/' took 0.01s
+[2017.11.24-16.58.01:294][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.11.24-16.58.01:443][  0]LogContentBrowser: Native class hierarchy populated in 0.0885 seconds. Added 2388 classes and 502 folders.
+[2017.11.24-16.58.01:577][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0017 seconds. Added 0 classes and 0 folders.
+[2017.11.24-16.58.04:842][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0012 seconds. Added 0 classes and 0 folders.
+[2017.11.24-16.58.04:925][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0013 seconds. Added 1 classes and 2 folders.
+[2017.11.24-16.58.07:207][  0]LogSlate: Took 0.047869 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.24-16.58.07:273][  0]LogSlate: Took 0.049560 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.11.24-16.58.07:437][  0]LogSlate: Took 0.020105 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.11.24-16.58.08:518][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2017.11.24-16.58.10:643][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0013 seconds. Added 1 classes and 2 folders.
+[2017.11.24-16.58.10:643][  0]LogLoad: (Engine Initialization) Total time: 99.63 seconds
+[2017.11.24-16.58.10:643][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.11.24-16.58.10:669][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.11.24-16.58.10:669][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.11.24-16.58.11:197][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.11.24-16.58.11:742][  0]LogSlate: Took 0.118823 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.24-16.58.12:327][  2]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.24-16.58.12:585][  3]LogAssetRegistry: Asset discovery search completed in 72.9325 seconds
+[2017.11.24-16.58.12:587][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.11.24-16.58.12:587][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000042 seconds (updated 0 objects)
+[2017.11.24-16.58.16:901][ 16]LogFileCache: Retrieving MD5 hashes for directory 'D:/Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/' took 5.80s
+[2017.11.24-17.20.04:500][497]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.11.24-17.20.06:376][630]AssetReimport: New page: Outstanding source content changes 17:20:06
+[2017.11.24-17.20.06:404][631]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/FBX/Tree1.FBX)
+[2017.11.24-17.20.06:490][631]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.11.24-17.20.06:490][631]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2017.11.24-17.20.06:490][631]LogFbx: ItemName: Model, ItemCount : 1
+[2017.11.24-17.20.06:490][631]LogFbx: ItemName: Geometry, ItemCount : 1
+[2017.11.24-17.20.06:524][631]LogFbx: Loading FBX Scene from D:/Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/FBX/Tree1.FBX
+[2017.11.24-17.20.06:533][631]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.24-17.20.07:771][631]LogFbx: Loading FBX Scene from D:/Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/FBX/Tree1.FBX
+[2017.11.24-17.20.07:776][631]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.24-17.20.07:805][631]LogStaticMesh: Building static mesh Tree1...
+[2017.11.24-17.20.07:845][631]LogStaticMesh: Built static mesh [0.04s] /Game/FBX/Tree1.Tree1
+[2017.11.24-17.20.08:013][632]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/Tree1" FILE="../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/FBX/Tree1.uasset" SILENT=true
+[2017.11.24-17.20.08:110][632]LogSavePackage: Save=93.80ms
+[2017.11.24-17.20.08:111][632]LogSavePackage: Moving '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Tree12F5C73A6471DAD6B92D7369384AE1178.tmp' to '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/FBX/Tree1.uasset'
+[2017.11.24-17.20.08:155][632]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/FBX/Tree1.uasset
+[2017.11.24-17.20.11:163][923]AssetReimport: Importing new asset /Game/FBX/Tree1.
+[2017.11.24-17.20.13:396][155]LogActorFactory: Actor Factory created Tree1
+[2017.11.24-17.20.18:455][724]LogActorFactory: Actor Factory created Tree1
+[2017.11.24-17.20.20:261][866]Cmd: DELETE
+[2017.11.24-17.20.20:261][866]Cmd: ACTOR DELETE
+[2017.11.24-17.20.20:332][866]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.24-17.20.20:349][866]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2017.11.24-17.21.01:692][805]AssetReimport: New page: Outstanding source content changes 17:21:01
+[2017.11.24-17.21.01:728][806]LogEditorFactories: Performing atomic reimport of [D:/Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/FBX/Tree1.FBX]
+[2017.11.24-17.21.01:735][806]LogFbx: Loading FBX Scene from D:/Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/FBX/Tree1.FBX
+[2017.11.24-17.21.01:740][806]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.24-17.21.01:784][806]LogStaticMesh: Building static mesh Tree1...
+[2017.11.24-17.21.01:792][806]LogStaticMesh: Built static mesh [0.01s] /Game/FBX/Tree1.Tree1
+[2017.11.24-17.21.01:811][806]LogEditorFactories: -- imported successfully
+[2017.11.24-17.21.01:841][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/Tree1" FILE="../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/FBX/Tree1.uasset" SILENT=true
+[2017.11.24-17.21.01:925][807]LogSavePackage: Save=16.38ms
+[2017.11.24-17.21.01:925][807]LogSavePackage: Moving '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Tree198F53E794CFAE1DE90669E96F453175E.tmp' to '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/FBX/Tree1.uasset'
+[2017.11.24-17.21.01:930][807]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/FBX/Tree1.uasset
+[2017.11.24-17.21.04:934][ 65]AssetReimport: Reimported asset Tree1 from D:/Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/FBX/Tree1.FBX.
+[2017.11.24-17.21.08:293][370]LogActorFactory: Actor Factory created Tree1
+[2017.11.24-17.21.09:817][551]LogActorFactory: Actor Factory created Tree1
+[2017.11.24-17.21.10:629][632]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.24-17.21.10:845][632]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.24-17.21.10:845][632]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.24-17.21.10:874][632]PIE: New page: PIE session: Puzzle_Island (24 Nov 2017 17:21:10)
+[2017.11.24-17.21.10:875][632]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.24-17.21.10:903][632]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028982s)
+[2017.11.24-17.21.10:904][632]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.24-17.21.10:904][632]LogPlayLevel: PIE: World Init took: (0.000765s)
+[2017.11.24-17.21.10:904][632]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.030072s)
+[2017.11.24-17.21.10:921][632]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.24-17.21.10:931][632]LogInit: FAudioDevice initialized.
+[2017.11.24-17.21.11:044][632]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.24-17.21.11:077][632]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.24-17.21.11
+[2017.11.24-17.21.11:120][632]LogWorld: Bringing up level for play took: 0.044850
+[2017.11.24-17.21.11:195][632]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0012 seconds. Added 11 classes and 0 folders.
+[2017.11.24-17.21.11:340][632]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 0.661
+[2017.11.24-17.21.11:340][632]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.24-17.21.19:923][646]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.24-17.21.20:163][646]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.24-17.21.38:756][238]AssetReimport: New page: Outstanding source content changes 17:21:38
+[2017.11.24-17.21.38:770][239]LogEditorFactories: Performing atomic reimport of [D:/Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/FBX/Tree1.FBX]
+[2017.11.24-17.21.38:776][239]LogFbx: Loading FBX Scene from D:/Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/FBX/Tree1.FBX
+[2017.11.24-17.21.38:781][239]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.24-17.21.38:804][239]LogStaticMesh: Building static mesh Tree1...
+[2017.11.24-17.21.38:812][239]LogStaticMesh: Built static mesh [0.01s] /Game/FBX/Tree1.Tree1
+[2017.11.24-17.21.38:817][239]LogEditorFactories: -- imported successfully
+[2017.11.24-17.21.38:852][240]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/Tree1" FILE="../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/FBX/Tree1.uasset" SILENT=true
+[2017.11.24-17.21.38:872][240]LogSavePackage: Save=14.70ms
+[2017.11.24-17.21.38:872][240]LogSavePackage: Moving '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Tree17E6722D444549DBC5104B7B5FA91A9A9.tmp' to '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/FBX/Tree1.uasset'
+[2017.11.24-17.21.38:877][240]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/FBX/Tree1.uasset
+[2017.11.24-17.21.41:883][556]AssetReimport: Reimported asset Tree1 from D:/Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/FBX/Tree1.FBX.
+[2017.11.24-17.21.42:619][640]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.24-17.21.42:653][640]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.24-17.21.42:653][640]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.24-17.21.42:653][640]PIE: New page: PIE session: Puzzle_Island (24 Nov 2017 17:21:42)
+[2017.11.24-17.21.42:653][640]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.24-17.21.42:666][640]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012470s)
+[2017.11.24-17.21.42:666][640]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.24-17.21.42:666][640]LogPlayLevel: PIE: World Init took: (0.000614s)
+[2017.11.24-17.21.42:666][640]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.013297s)
+[2017.11.24-17.21.42:681][640]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.24-17.21.42:691][640]LogInit: FAudioDevice initialized.
+[2017.11.24-17.21.42:723][640]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.24-17.21.42:725][640]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.24-17.21.42
+[2017.11.24-17.21.42:726][640]LogWorld: Bringing up level for play took: 0.002646
+[2017.11.24-17.21.42:728][640]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 0.049
+[2017.11.24-17.21.42:728][640]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.24-17.21.51:684][704]LogNet: Browse: /Game/Maps/Jigsaw_Scene
+[2017.11.24-17.21.51:684][704]LogLoad: LoadMap: /Game/Maps/Jigsaw_Scene
+[2017.11.24-17.21.51:719][704]Cmd: MEM
+[2017.11.24-17.21.51:727][704]LogMemory: Platform Memory Stats for Windows
+[2017.11.24-17.21.51:727][704]LogMemory: Process Physical Memory: 1125.18 MB used, 1183.27 MB peak
+[2017.11.24-17.21.51:727][704]LogMemory: Process Virtual Memory: 1730.86 MB used, 1835.63 MB peak
+[2017.11.24-17.21.51:727][704]LogMemory: Physical Memory: 7492.33 MB used,  8835.61 MB free, 16327.93 MB total
+[2017.11.24-17.21.51:727][704]LogMemory: Virtual Memory: 2594.21 MB used,  8835.61 MB free, 134217728.00 MB total
+[2017.11.24-17.21.51:727][704]LogMemory: 
+[2017.11.24-17.21.51:727][704]Allocator Stats for TBB: (not implemented)
+[2017.11.24-17.21.51:767][704]LogLinker: Warning: Can't find file '/Game/Maps/Jigsaw_Scene_BuiltData'
+[2017.11.24-17.21.51:768][704]LogLinker: Warning: Can't find file for asset '/Game/Maps/Jigsaw_Scene_BuiltData' while loading ../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Maps/Jigsaw_Scene.umap.
+[2017.11.24-17.21.51:768][704]LoadErrors: Error: /Game/Maps/Jigsaw_Scene : Can't find file for asset. /Game/Maps/Jigsaw_Scene_BuiltData
+[2017.11.24-17.21.51:768][704]LogLinker: Warning: Can't find file '/Game/Maps/Jigsaw_Scene_BuiltData'
+[2017.11.24-17.21.51:769][704]LogLinker: Warning: Can't find file for asset '/Game/Maps/Jigsaw_Scene_BuiltData' while loading ../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Maps/Jigsaw_Scene.umap.
+[2017.11.24-17.21.51:816][704]LogLinker: Warning: Can't find file '/Game/Maps/Jigsaw_Scene_BuiltData'
+[2017.11.24-17.21.51:816][704]LogLinker: Warning: Can't find file for asset '/Game/Maps/Jigsaw_Scene_BuiltData' while loading NULL.
+[2017.11.24-17.21.51:816][704]LogLinker: Warning: Can't find file '/Game/Maps/Jigsaw_Scene_BuiltData'
+[2017.11.24-17.21.51:816][704]LogLinker: Warning: Can't find file for asset '/Game/Maps/Jigsaw_Scene_BuiltData' while loading NULL.
+[2017.11.24-17.21.51:823][704]LogLinker: Warning: Can't find file '/Game/Maps/Jigsaw_Scene_BuiltData'
+[2017.11.24-17.21.51:823][704]LoadErrors: Failed to load /Game/Maps/Jigsaw_Scene_BuiltData.Jigsaw_Scene_BuiltData Referenced by PersistentLevel
+[2017.11.24-17.21.51:823][704]LogLinker: Warning: Can't find file for asset '/Game/Maps/Jigsaw_Scene_BuiltData' while loading NULL.
+[2017.11.24-17.21.51:833][704]LogTexture: Display: Building textures: Jigsaw_Exit (BGRA8, 454X340)
+[2017.11.24-17.21.51:833][704]LogTexture: Display: Building textures: JigsawBoard (BGRA8, 454X340)
+[2017.11.24-17.21.51:853][704]LogTexture: Display: Building textures: Piece_01 (BGRA8, 489X672)
+[2017.11.24-17.21.52:651][704]LogAIModule: Creating AISystem for world Jigsaw_Scene
+[2017.11.24-17.21.52:652][704]LogLoad: Game class is '2D_GameMode_C'
+[2017.11.24-17.21.52:655][704]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Jigsaw_Scene.Jigsaw_Scene up for play (max tick rate 0) at 2017.11.24-17.21.52
+[2017.11.24-17.21.52:655][704]LogWorld: Bringing up level for play took: 0.002037
+[2017.11.24-17.21.52:655][704]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.11.24-17.21.52:672][704]LogLoad: Took 0.987945 seconds to LoadMap(/Game/Maps/Jigsaw_Scene)
+[2017.11.24-17.21.53:534][801]LogNet: Browse: /Game/Maps/Puzzle_Island
+[2017.11.24-17.21.53:534][801]LogLoad: LoadMap: /Game/Maps/Puzzle_Island
+[2017.11.24-17.21.53:545][801]Cmd: MEM
+[2017.11.24-17.21.53:553][801]LogMemory: Platform Memory Stats for Windows
+[2017.11.24-17.21.53:554][801]LogMemory: Process Physical Memory: 1355.70 MB used, 1367.74 MB peak
+[2017.11.24-17.21.53:554][801]LogMemory: Process Virtual Memory: 2057.91 MB used, 2148.90 MB peak
+[2017.11.24-17.21.53:554][801]LogMemory: Physical Memory: 7752.61 MB used,  8575.32 MB free, 16327.93 MB total
+[2017.11.24-17.21.53:554][801]LogMemory: Virtual Memory: 2947.21 MB used,  8575.32 MB free, 134217728.00 MB total
+[2017.11.24-17.21.53:554][801]LogMemory: 
+[2017.11.24-17.21.53:554][801]Allocator Stats for TBB: (not implemented)
+[2017.11.24-17.21.53:554][801]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.24-17.21.53:566][801]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011853s)
+[2017.11.24-17.21.53:566][801]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.24-17.21.53:566][801]LogPlayLevel: PIE: World Init took: (0.000729s)
+[2017.11.24-17.21.53:566][801]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.012817s)
+[2017.11.24-17.21.53:566][801]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.24-17.21.53:570][801]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.24-17.21.53
+[2017.11.24-17.21.53:570][801]LogWorld: Bringing up level for play took: 0.002921
+[2017.11.24-17.21.53:572][801]LogLoad: Took 0.037589 seconds to LoadMap(/Game/Maps/UEDPIE_0_Puzzle_Island)
+[2017.11.24-17.22.21:023][ 91]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.24-17.22.21:075][ 91]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.24-17.22.22:028][195]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NPC_Placeholder2)
+[2017.11.24-17.22.22:657][260]Cmd: DELETE
+[2017.11.24-17.22.22:657][260]Cmd: ACTOR DELETE
+[2017.11.24-17.22.22:657][260]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.24-17.22.22:667][260]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2017.11.24-17.22.29:563][990]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (FinalPlatform)
+[2017.11.24-17.22.31:412][111]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.24-17.22.31:412][111]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.24-17.22.31:412][111]PIE: New page: PIE session: Puzzle_Island (24 Nov 2017 17:22:31)
+[2017.11.24-17.22.31:413][111]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.24-17.22.31:425][111]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012363s)
+[2017.11.24-17.22.31:426][111]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.24-17.22.31:426][111]LogPlayLevel: PIE: World Init took: (0.000763s)
+[2017.11.24-17.22.31:426][111]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.013393s)
+[2017.11.24-17.22.31:441][111]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.24-17.22.31:450][111]LogInit: FAudioDevice initialized.
+[2017.11.24-17.22.31:481][111]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.24-17.22.31:484][111]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.24-17.22.31
+[2017.11.24-17.22.31:484][111]LogWorld: Bringing up level for play took: 0.002660
+[2017.11.24-17.22.31:490][111]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 0.811
+[2017.11.24-17.22.31:490][111]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.24-17.22.35:273][563]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.24-17.22.35:323][563]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.24-17.22.36:887][728]LogEditorViewport: Clicking on Actor (LMB): NPC_BP_C (NPC_BP3)
+[2017.11.24-17.22.58:392][152]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (FinalPlatform)
+[2017.11.24-17.22.59:753][249]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.24-17.22.59:754][249]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.24-17.22.59:754][249]PIE: New page: PIE session: Puzzle_Island (24 Nov 2017 17:22:59)
+[2017.11.24-17.22.59:754][249]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.24-17.22.59:766][249]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011880s)
+[2017.11.24-17.22.59:766][249]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.24-17.22.59:766][249]LogPlayLevel: PIE: World Init took: (0.000584s)
+[2017.11.24-17.22.59:766][249]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.012675s)
+[2017.11.24-17.22.59:782][249]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.24-17.22.59:792][249]LogInit: FAudioDevice initialized.
+[2017.11.24-17.22.59:826][249]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.24-17.22.59:829][249]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.24-17.22.59
+[2017.11.24-17.22.59:829][249]LogWorld: Bringing up level for play took: 0.002688
+[2017.11.24-17.22.59:831][249]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island -0.848
+[2017.11.24-17.22.59:831][249]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.24-17.23.02:669][588]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.24-17.23.02:719][588]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.24-17.23.15:403][ 10]LogSlate: Took 0.021800 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.11.24-17.26.39:957][303]AssetReimport: New page: Outstanding source content changes 17:26:39
+[2017.11.24-17.26.39:974][303]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Textures/Tree1_D.psd)
+[2017.11.24-17.26.40:181][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Tree1_D" FILE="../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Textures/Tree1_D.uasset" SILENT=true
+[2017.11.24-17.26.40:225][304]LogSavePackage: Save=41.25ms
+[2017.11.24-17.26.40:225][304]LogSavePackage: Moving '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Tree1_D5DA51A0D44C66477C0DF78AA73130789.tmp' to '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Textures/Tree1_D.uasset'
+[2017.11.24-17.26.40:232][304]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Textures/Tree1_D.uasset
+[2017.11.24-17.26.43:236][561]AssetReimport: Importing new asset /Game/Textures/Tree1_D.
+[2017.11.24-17.26.45:568][813]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree1)
+[2017.11.24-17.26.47:467][  1]LogMaterial: Missing cached shader map for material Tree1_Mat, compiling. 
+[2017.11.24-17.27.03:277][440]LogMaterial: Missing cached shader map for material Tree1_Mat, compiling. 
+[2017.11.24-17.27.15:203][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Tree1_Mat" FILE="../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Materials/Tree1_Mat.uasset" SILENT=true
+[2017.11.24-17.27.15:222][642]LogSavePackage: Save=16.19ms
+[2017.11.24-17.27.15:222][642]LogSavePackage: Moving '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Tree1_MatE18BF13B46E157615C9BA084B5FC4CAB.tmp' to '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Materials/Tree1_Mat.uasset'
+[2017.11.24-17.27.15:226][642]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Materials/Tree1_Mat.uasset
+[2017.11.24-17.27.16:586][777]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2017.11.24-17.27.16:657][778]LogMaterial: Missing cached shader map for material Material_1, compiling. 
+[2017.11.24-17.27.20:930][175]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.24-17.27.20:964][175]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.24-17.27.20:964][175]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.24-17.27.20:965][175]PIE: New page: PIE session: Puzzle_Island (24 Nov 2017 17:27:20)
+[2017.11.24-17.27.20:965][175]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.24-17.27.20:977][175]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012430s)
+[2017.11.24-17.27.20:978][175]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.24-17.27.20:978][175]LogPlayLevel: PIE: World Init took: (0.000723s)
+[2017.11.24-17.27.20:978][175]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.013380s)
+[2017.11.24-17.27.20:993][175]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.24-17.27.21:003][175]LogInit: FAudioDevice initialized.
+[2017.11.24-17.27.21:036][175]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.24-17.27.21:039][175]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.24-17.27.21
+[2017.11.24-17.27.21:039][175]LogWorld: Bringing up level for play took: 0.002594
+[2017.11.24-17.27.21:042][175]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 0.363
+[2017.11.24-17.27.21:042][175]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.24-17.27.31:836][466]Set new viewmode: Unlit
+[2017.11.24-17.27.34:395][773]Set new viewmode: Wireframe
+[2017.11.24-17.27.35:180][867]Set new viewmode: Lit
+[2017.11.24-17.27.37:725][172]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.24-17.27.37:772][172]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.24-17.27.41:959][602]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree1)
+[2017.11.24-17.28.48:901][802]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.24-17.28.48:935][802]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.24-17.28.48:935][802]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.24-17.28.48:935][802]PIE: New page: PIE session: Puzzle_Island (24 Nov 2017 17:28:48)
+[2017.11.24-17.28.48:936][802]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.24-17.28.48:948][802]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012028s)
+[2017.11.24-17.28.48:948][802]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.24-17.28.48:948][802]LogPlayLevel: PIE: World Init took: (0.000681s)
+[2017.11.24-17.28.48:948][802]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.012937s)
+[2017.11.24-17.28.48:963][802]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.24-17.28.48:973][802]LogInit: FAudioDevice initialized.
+[2017.11.24-17.28.49:002][802]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.24-17.28.49:005][802]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.24-17.28.49
+[2017.11.24-17.28.49:005][802]LogWorld: Bringing up level for play took: 0.002501
+[2017.11.24-17.28.49:007][802]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 0.328
+[2017.11.24-17.28.49:007][802]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.24-17.29.43:666][352]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.24-17.29.43:712][352]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.24-17.30.46:282][ 64]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0013 seconds. Added 1 classes and 0 folders.
+[2017.11.24-17.30.46:298][ 64]LogMaterial: Missing cached shader map for material Grass, compiling. 
+[2017.11.24-17.30.46:498][ 64]LogMaterial: Missing cached shader map for material Grass, compiling. 
+[2017.11.24-17.30.46:510][ 64]LogMaterial: Missing cached shader map for material Grass, compiling. 
+[2017.11.24-17.30.46:601][ 64]LogSlate: Took 0.020271 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.11.24-17.30.51:279][336]MaterialEditorStats: Base pass shader: 78 instructions
+[2017.11.24-17.30.51:279][336]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.24-17.30.51:279][336]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.24-17.31.54:841][ 46]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2017.11.24-17.32.49:632][979]LogMaterial: Missing cached shader map for material Grass, compiling. 
+[2017.11.24-17.32.51:460][ 98]LogMaterial: Missing cached shader map for material Grass, compiling. 
+[2017.11.24-17.32.53:515][238]LogMaterial: Missing cached shader map for material Grass, compiling. 
+[2017.11.24-17.32.55:027][335]LogMaterial: Missing cached shader map for material Grass, compiling. 
+[2017.11.24-17.32.55:038][335]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.24-17.32.58:288][551]MaterialEditorStats: Base pass shader: 78 instructions
+[2017.11.24-17.32.58:288][551]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.24-17.32.58:288][551]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.24-17.33.03:624][937]LogMaterial: Missing cached shader map for material Grass, compiling. 
+[2017.11.24-17.33.03:638][937]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.24-17.33.06:802][146]MaterialEditorStats: Base pass shader: 78 instructions
+[2017.11.24-17.33.06:802][146]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.24-17.33.06:802][146]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.24-17.33.20:538][723]LogMaterial: Missing cached shader map for material Grass, compiling. 
+[2017.11.24-17.33.20:550][723]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.24-17.33.23:627][929]MaterialEditorStats: Base pass shader: 78 instructions
+[2017.11.24-17.33.23:627][929]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.24-17.33.23:627][929]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.24-17.33.27:182][187]LogMaterial: Missing cached shader map for material Grass, compiling. 
+[2017.11.24-17.33.27:196][187]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.24-17.33.30:457][403]MaterialEditorStats: Base pass shader: 78 instructions
+[2017.11.24-17.33.30:457][403]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.24-17.33.30:457][403]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.24-17.33.57:952][361]LogMaterial: Missing cached shader map for material Grass, compiling. 
+[2017.11.24-17.33.57:965][361]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.24-17.34.02:264][636]MaterialEditorStats: Base pass shader: 78 instructions
+[2017.11.24-17.34.02:264][636]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.24-17.34.02:264][636]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.24-17.34.05:920][887]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.24-17.34.05:949][887]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.24-17.34.05:979][887]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.24-17.34.06:008][887]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.24-17.34.06:039][887]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.24-17.34.06:068][887]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.24-17.34.06:205][894]LogMaterial: Missing cached shader map for material Grass, compiling. 
+[2017.11.24-17.34.06:222][894]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.24-17.34.06:902][935]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.24-17.34.06:978][938]LogMaterial: Missing cached shader map for material Grass, compiling. 
+[2017.11.24-17.34.06:998][938]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.24-17.34.12:062][264]MaterialEditorStats: Base pass shader: 78 instructions
+[2017.11.24-17.34.12:062][264]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.24-17.34.12:062][264]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.24-17.34.14:834][457]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.24-17.34.14:919][460]LogMaterial: Missing cached shader map for material Grass, compiling. 
+[2017.11.24-17.34.14:936][460]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.24-17.34.18:659][690]MaterialEditorStats: Base pass shader: 78 instructions
+[2017.11.24-17.34.18:659][690]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.24-17.34.18:659][690]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.24-17.34.26:016][209]LogMaterial: Missing cached shader map for material Grass, compiling. 
+[2017.11.24-17.34.26:032][209]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.24-17.34.29:679][452]MaterialEditorStats: Base pass shader: 80 instructions
+[2017.11.24-17.34.29:679][452]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.24-17.34.29:679][452]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.24-17.34.34:809][814]LogMaterial: Missing cached shader map for material Grass, compiling. 
+[2017.11.24-17.34.34:843][814]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.24-17.34.37:848][ 14]MaterialEditorStats: Base pass shader: 80 instructions
+[2017.11.24-17.34.37:848][ 14]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.24-17.34.37:848][ 14]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.24-17.34.38:111][ 31]LogMaterial: Missing cached shader map for material Grass, compiling. 
+[2017.11.24-17.34.40:948][208]LogMaterial: Missing cached shader map for material Grass, compiling. 
+[2017.11.24-17.34.44:310][424]MaterialEditorStats: Base pass shader: 80 instructions
+[2017.11.24-17.34.44:310][424]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.24-17.34.44:310][424]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.24-17.34.48:025][684]LogMaterialEditor: Saving and Compiling material Grass
+[2017.11.24-17.34.48:468][684]LogMaterial: Missing cached shader map for material Grass, compiling. 
+[2017.11.24-17.34.48:493][684]LogMaterial: Missing cached shader map for material Grass, compiling. 
+[2017.11.24-17.34.48:513][684]LogMaterial: Missing cached shader map for material Grass, compiling. 
+[2017.11.24-17.34.48:569][684]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Grass, compiling. 
+[2017.11.24-17.34.49:573][684]TextureStreamingBuild: Display: Compiling optional shaders took 1.035 seconds.
+[2017.11.24-17.34.51:079][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Grass" FILE="../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Materials/Grass.uasset" SILENT=true
+[2017.11.24-17.34.51:098][684]LogSavePackage: Save=15.66ms
+[2017.11.24-17.34.51:098][684]LogSavePackage: Moving '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Grass08D3D137492EEE0D582A92BF2B7A4054.tmp' to '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Materials/Grass.uasset'
+[2017.11.24-17.34.51:102][684]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Materials/Grass.uasset
+[2017.11.24-17.34.51:104][684]MaterialEditorStats: Base pass shader: 80 instructions
+[2017.11.24-17.34.51:104][684]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.24-17.34.51:104][684]MaterialEditorStats: Texture samplers: 2/16
+[2017.11.24-17.36.54:187][912]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.11.24-17.38.19:677][510]LogMaterial: Missing cached shader map for material LowPoly, compiling. 
+[2017.11.24-17.38.19:741][510]LogMaterial: Missing cached shader map for material LowPoly, compiling. 
+[2017.11.24-17.38.19:753][510]LogMaterial: Missing cached shader map for material LowPoly, compiling. 
+[2017.11.24-17.38.24:057][783]MaterialEditorStats: Base pass shader: 78 instructions
+[2017.11.24-17.38.24:057][783]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.24-17.38.24:057][783]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.24-17.38.31:159][277]LogMaterial: Missing cached shader map for material LowPoly, compiling. 
+[2017.11.24-17.38.34:179][483]MaterialEditorStats: Base pass shader: 78 instructions
+[2017.11.24-17.38.34:179][483]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.24-17.38.34:179][483]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.24-17.38.37:695][739]LogMaterial: Missing cached shader map for material LowPoly, compiling. 
+[2017.11.24-17.38.37:706][739]LogMaterial: Missing cached shader map for material LowPoly, compiling. 
+[2017.11.24-17.38.40:649][933]MaterialEditorStats: Base pass shader: 78 instructions
+[2017.11.24-17.38.40:649][933]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.24-17.38.40:649][933]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.24-17.38.43:867][169]LogMaterial: Missing cached shader map for material LowPoly, compiling. 
+[2017.11.24-17.38.43:878][169]LogMaterial: Missing cached shader map for material LowPoly, compiling. 
+[2017.11.24-17.38.46:721][357]MaterialEditorStats: Base pass shader: 78 instructions
+[2017.11.24-17.38.46:721][357]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.24-17.38.46:721][357]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.24-17.39.00:865][892]LogMaterial: Missing cached shader map for material LowPoly, compiling. 
+[2017.11.24-17.39.00:877][892]LogMaterial: Missing cached shader map for material LowPoly, compiling. 
+[2017.11.24-17.39.02:958][ 25]LogMaterial: Missing cached shader map for material LowPoly, compiling. 
+[2017.11.24-17.39.05:412][ 60]MaterialEditorStats: Base pass shader: 78 instructions
+[2017.11.24-17.39.05:412][ 60]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.24-17.39.05:412][ 60]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.24-17.39.14:076][306]LogMaterial: Missing cached shader map for material LowPoly, compiling. 
+[2017.11.24-17.39.14:087][306]LogMaterial: Missing cached shader map for material LowPoly, compiling. 
+[2017.11.24-17.39.18:018][550]MaterialEditorStats: Base pass shader: 78 instructions
+[2017.11.24-17.39.18:018][550]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.24-17.39.18:018][550]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.24-17.39.20:277][700]LogMaterial: Missing cached shader map for material LowPoly, compiling. 
+[2017.11.24-17.39.23:744][923]MaterialEditorStats: Base pass shader: 85 instructions
+[2017.11.24-17.39.23:744][923]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.24-17.39.23:744][923]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.24-17.39.48:995][502]LogMaterial: Missing cached shader map for material m_Landscape1, compiling. 
+[2017.11.24-17.39.49:134][502]LogMaterial: Missing cached shader map for material m_Landscape1, compiling. 
+[2017.11.24-17.39.49:163][502]LogMaterial: Missing cached shader map for material m_Landscape1, compiling. 
+[2017.11.24-17.39.49:218][502]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.24-17.39.49:222][502]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2017.11.24-17.39.49:226][502]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.11.24-17.39.49:230][502]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2017.11.24-17.39.49:234][502]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2017.11.24-17.39.58:181][  7]LogRenderer: Reallocating scene render targets to support 1392x924 Format 10 NumSamples 1 (Frame:1).
+[2017.11.24-17.39.58:208][  8]MaterialEditorStats: Base pass shader: 262 instructions
+[2017.11.24-17.39.58:208][  8]MaterialEditorStats: Vertex shader: 30 instructions
+[2017.11.24-17.39.58:208][  8]MaterialEditorStats: Texture samplers: 6/16
+[2017.11.24-17.40.31:261][114]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.24-17.40.31:402][114]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.24-17.40.31:431][114]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.24-17.40.31:486][114]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.24-17.40.31:491][114]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2017.11.24-17.40.31:495][114]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2017.11.24-17.40.31:499][114]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2017.11.24-17.40.31:503][114]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2017.11.24-17.40.41:594][697]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.11.24-17.40.42:073][722]MaterialEditorStats: Base pass shader: 262 instructions
+[2017.11.24-17.40.42:073][722]MaterialEditorStats: Vertex shader: 30 instructions
+[2017.11.24-17.40.42:073][722]MaterialEditorStats: Texture samplers: 6/16
+[2017.11.24-17.40.52:890][502]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-17.40.52:955][502]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-17.40.52:966][502]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-17.40.55:778][671]MaterialEditorStats: Base pass shader: 78 instructions
+[2017.11.24-17.40.55:778][671]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.24-17.40.55:778][671]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.24-17.41.16:605][160]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-17.41.19:984][380]MaterialEditorStats: Base pass shader: 78 instructions
+[2017.11.24-17.41.19:984][380]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.24-17.41.19:984][380]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.24-17.41.22:174][543]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-17.41.22:187][543]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-17.41.25:165][736]MaterialEditorStats: Base pass shader: 78 instructions
+[2017.11.24-17.41.25:165][736]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.24-17.41.25:165][736]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.24-17.41.25:943][791]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-17.41.25:955][791]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-17.41.28:863][977]MaterialEditorStats: Base pass shader: 78 instructions
+[2017.11.24-17.41.28:863][977]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.24-17.41.28:863][977]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.24-17.41.30:976][129]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-17.41.30:988][129]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-17.41.33:708][308]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-17.41.36:571][493]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-17.41.36:584][493]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-17.41.38:945][641]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-17.41.41:822][830]LogMaterialEditor: Saving and Compiling material LowPoly
+[2017.11.24-17.41.42:280][830]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-17.41.42:305][830]LogMaterial: Missing cached shader map for material LowPoly, compiling. 
+[2017.11.24-17.41.42:325][830]LogMaterial: Missing cached shader map for material LowPoly, compiling. 
+[2017.11.24-17.41.42:357][830]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy LowPoly, compiling. 
+[2017.11.24-17.41.43:493][830]TextureStreamingBuild: Display: Compiling optional shaders took 1.141 seconds.
+[2017.11.24-17.41.45:265][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/LowPoly" FILE="../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Materials/LowPoly.uasset" SILENT=true
+[2017.11.24-17.41.45:285][830]LogSavePackage: Save=16.67ms
+[2017.11.24-17.41.45:285][830]LogSavePackage: Moving '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/LowPolyD96A11454DF2C8DC0DE56991EC1E3917.tmp' to '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Materials/LowPoly.uasset'
+[2017.11.24-17.41.45:289][830]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Materials/LowPoly.uasset
+[2017.11.24-17.41.45:291][830]MaterialEditorStats: Base pass shader: 85 instructions
+[2017.11.24-17.41.45:291][830]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.24-17.41.45:291][830]MaterialEditorStats: Texture samplers: 2/16
+[2017.11.24-17.41.52:842][326]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.11.24-17.41.55:743][510]LogMaterial: Missing cached shader map for material LowPoly, compiling. 
+[2017.11.24-17.43.35:397][671]AssetReimport: New page: Outstanding source content changes 17:43:35
+[2017.11.24-17.43.35:398][671]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Textures/GrassTest.psd)
+[2017.11.24-17.43.35:557][672]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/GrassTest" FILE="../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Textures/GrassTest.uasset" SILENT=true
+[2017.11.24-17.43.35:599][672]LogSavePackage: Save=39.70ms
+[2017.11.24-17.43.35:599][672]LogSavePackage: Moving '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/GrassTestF5829AB440E75F9175A3159026F0B702.tmp' to '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Textures/GrassTest.uasset'
+[2017.11.24-17.43.35:603][672]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Textures/GrassTest.uasset
+[2017.11.24-17.43.38:766][776]AssetReimport: Importing new asset /Game/Textures/GrassTest.
+[2017.11.24-17.44.56:327][979]AssetReimport: New page: Outstanding source content changes 17:44:56
+[2017.11.24-17.44.56:349][980]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Textures/DirtTest.psd)
+[2017.11.24-17.44.56:516][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/DirtTest" FILE="../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Textures/DirtTest.uasset" SILENT=true
+[2017.11.24-17.44.56:558][981]LogSavePackage: Save=39.45ms
+[2017.11.24-17.44.56:558][981]LogSavePackage: Moving '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/DirtTest4DB3C892454CA491D510F99DCC10D20F.tmp' to '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Textures/DirtTest.uasset'
+[2017.11.24-17.44.56:562][981]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Textures/DirtTest.uasset
+[2017.11.24-17.44.59:568][187]AssetReimport: Importing new asset /Game/Textures/DirtTest.
+[2017.11.24-17.45.27:325][229]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-17.45.27:337][229]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLandscapeLayerCoords_0, compiling. 
+[2017.11.24-17.45.32:666][568]MaterialEditorStats: Base pass shader: 85 instructions
+[2017.11.24-17.45.32:666][568]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.24-17.45.32:666][568]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.24-17.45.34:727][704]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-17.45.34:739][704]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.24-17.45.38:369][934]MaterialEditorStats: Base pass shader: 85 instructions
+[2017.11.24-17.45.38:369][934]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.24-17.45.38:369][934]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.24-17.45.45:046][388]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-17.45.45:065][388]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.24-17.45.45:089][388]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.11.24-17.45.49:794][578]MaterialEditorStats: Base pass shader: 85 instructions
+[2017.11.24-17.45.49:794][578]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.24-17.45.49:794][578]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.24-17.45.50:872][648]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-17.45.50:888][648]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLandscapeLayerCoords_0, compiling. 
+[2017.11.24-17.45.50:917][648]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.24-17.45.50:944][648]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.11.24-17.45.54:632][873]MaterialEditorStats: Base pass shader: 85 instructions
+[2017.11.24-17.45.54:632][873]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.24-17.45.54:632][873]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.24-17.45.56:186][973]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-17.45.56:200][973]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLandscapeLayerCoords_0, compiling. 
+[2017.11.24-17.45.56:230][973]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.11.24-17.46.01:219][ 27]MaterialEditorStats: Base pass shader: 85 instructions
+[2017.11.24-17.46.01:219][ 27]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.24-17.46.01:219][ 27]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.24-17.46.10:296][233]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-17.46.10:310][233]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.24-17.46.13:473][402]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-17.46.13:490][402]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.11.24-17.46.17:531][505]MaterialEditorStats: Base pass shader: 85 instructions
+[2017.11.24-17.46.17:531][505]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.24-17.46.17:531][505]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.24-17.46.33:678][349]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-17.46.36:512][531]MaterialEditorStats: Base pass shader: 85 instructions
+[2017.11.24-17.46.36:512][531]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.24-17.46.36:512][531]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.24-17.46.38:285][652]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-17.46.38:301][652]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.24-17.46.40:527][791]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-17.46.40:544][791]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.11.24-17.46.43:737][869]MaterialEditorStats: Base pass shader: 85 instructions
+[2017.11.24-17.46.43:737][869]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.24-17.46.43:737][869]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.24-17.46.58:481][554]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-17.46.58:492][554]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-17.47.02:509][808]MaterialEditorStats: Base pass shader: 85 instructions
+[2017.11.24-17.47.02:509][808]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.24-17.47.02:509][808]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.24-17.47.13:740][289]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-17.47.13:751][289]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2017.11.24-17.47.16:826][473]MaterialEditorStats: Base pass shader: 85 instructions
+[2017.11.24-17.47.16:826][473]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.24-17.47.16:826][473]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.24-17.47.20:101][696]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-17.47.20:116][696]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2017.11.24-17.47.23:099][879]MaterialEditorStats: Base pass shader: 85 instructions
+[2017.11.24-17.47.23:099][879]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.24-17.47.23:099][879]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.24-17.47.36:008][251]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-17.47.36:026][251]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2017.11.24-17.47.38:581][330]MaterialEditorStats: Base pass shader: 85 instructions
+[2017.11.24-17.47.38:581][330]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.24-17.47.38:581][330]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.24-17.47.53:745][149]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-17.47.53:756][149]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-17.47.57:244][354]MaterialEditorStats: Base pass shader: 85 instructions
+[2017.11.24-17.47.57:244][354]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.24-17.47.57:245][354]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.24-17.48.08:592][991]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-17.48.11:537][168]MaterialEditorStats: Base pass shader: 85 instructions
+[2017.11.24-17.48.11:537][168]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.24-17.48.11:537][168]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.24-17.48.17:510][410]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-17.48.20:271][571]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-17.48.24:113][794]MaterialEditorStats: Base pass shader: 85 instructions
+[2017.11.24-17.48.24:113][794]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.24-17.48.24:114][794]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.24-17.48.27:573][ 12]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-17.48.27:586][ 12]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-17.48.30:564][127]MaterialEditorStats: Base pass shader: 85 instructions
+[2017.11.24-17.48.30:564][127]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.24-17.48.30:564][127]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.24-17.48.55:963][415]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-17.48.59:402][624]MaterialEditorStats: Base pass shader: 85 instructions
+[2017.11.24-17.48.59:402][624]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.24-17.48.59:402][624]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.24-17.49.08:116][735]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-17.49.11:013][912]MaterialEditorStats: Base pass shader: 85 instructions
+[2017.11.24-17.49.11:013][912]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.24-17.49.11:013][912]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.24-17.49.24:840][265]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-17.49.27:756][403]MaterialEditorStats: Base pass shader: 85 instructions
+[2017.11.24-17.49.27:756][403]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.24-17.49.27:756][403]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.24-17.49.39:170][613]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-17.49.41:312][744]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-17.49.44:505][822]MaterialEditorStats: Base pass shader: 85 instructions
+[2017.11.24-17.49.44:505][822]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.24-17.49.44:505][822]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.24-17.49.46:070][860]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-17.49.51:582][190]MaterialEditorStats: Base pass shader: 85 instructions
+[2017.11.24-17.49.51:582][190]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.24-17.49.51:582][190]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.24-17.49.59:054][568]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-17.49.59:066][568]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-17.50.01:869][675]MaterialEditorStats: Base pass shader: 85 instructions
+[2017.11.24-17.50.01:869][675]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.24-17.50.01:869][675]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.24-17.50.10:218][ 48]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-17.50.14:011][270]MaterialEditorStats: Base pass shader: 85 instructions
+[2017.11.24-17.50.14:011][270]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.24-17.50.14:011][270]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.24-17.50.18:456][408]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-17.50.18:469][408]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.11.24-17.50.22:138][595]MaterialEditorStats: Base pass shader: 85 instructions
+[2017.11.24-17.50.22:138][595]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.24-17.50.22:138][595]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.24-17.50.34:319][682]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-17.50.37:363][864]MaterialEditorStats: Base pass shader: 86 instructions
+[2017.11.24-17.50.37:363][864]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.24-17.50.37:363][864]MaterialEditorStats: Texture samplers: 1/16
+[2017.11.24-17.50.57:454][ 75]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-17.51.03:507][433]LogMaterialEditor: Applying material LowPoly
+[2017.11.24-17.51.03:977][433]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-17.51.04:004][433]LogMaterial: Missing cached shader map for material LowPoly, compiling. 
+[2017.11.24-17.51.04:025][433]LogMaterial: Missing cached shader map for material LowPoly, compiling. 
+[2017.11.24-17.51.04:043][433]LogMaterial: Missing cached shader map for material LowPoly, compiling. 
+[2017.11.24-17.51.04:087][433]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy LowPoly, compiling. 
+[2017.11.24-17.51.05:268][433]TextureStreamingBuild: Display: Compiling optional shaders took 1.186 seconds.
+[2017.11.24-17.51.10:273][731]LogMaterialEditor: Saving and Compiling material LowPoly
+[2017.11.24-17.51.11:776][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/LowPoly" FILE="../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Materials/LowPoly.uasset" SILENT=true
+[2017.11.24-17.51.11:815][731]LogSavePackage: Save=21.74ms
+[2017.11.24-17.51.11:815][731]LogSavePackage: Moving '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/LowPoly89B21E4B46BE00B9102FC3BB772C5C9C.tmp' to '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Materials/LowPoly.uasset'
+[2017.11.24-17.51.11:824][731]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Materials/LowPoly.uasset
+[2017.11.24-17.51.11:824][731]MaterialEditorStats: Base pass shader: 94 instructions
+[2017.11.24-17.51.11:824][731]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.11.24-17.51.11:824][731]MaterialEditorStats: Texture samplers: 4/16
+[2017.11.24-17.51.11:824][731]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.24-17.51.55:261][415]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2017.11.24-17.53.05:952][873]LogMaterial: Missing cached shader map for material Material_2, compiling. 
+[2017.11.24-17.53.05:972][873]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2017.11.24-17.53.06:001][873]LogMaterial: Missing cached shader map for material Material_2, compiling. 
+[2017.11.24-17.53.06:010][873]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2017.11.24-17.53.06:034][873]LogMaterial: Missing cached shader map for material Material_2, compiling. 
+[2017.11.24-17.53.06:064][873]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionOutput_0, compiling. 
+[2017.11.24-17.53.06:068][873]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_0, compiling. 
+[2017.11.24-17.53.06:072][873]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_1, compiling. 
+[2017.11.24-17.53.06:076][873]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionInput_0, compiling. 
+[2017.11.24-17.53.06:081][873]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionOutput_1, compiling. 
+[2017.11.24-17.53.06:085][873]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_2, compiling. 
+[2017.11.24-17.53.06:089][873]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionInput_1, compiling. 
+[2017.11.24-17.53.06:093][873]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionInput_2, compiling. 
+[2017.11.24-17.53.06:097][873]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_3, compiling. 
+[2017.11.24-17.53.32:992][476]Cmd: DELETE
+[2017.11.24-17.53.32:992][476]Cmd: ACTOR DELETE
+[2017.11.24-17.53.32:993][476]LogEditorActor: Deleted Actor: SpotLight
+[2017.11.24-17.53.33:004][476]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2017.11.24-17.55.58:396][388]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-17.55.58:409][388]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2017.11.24-17.56.01:696][596]MaterialEditorStats: Base pass shader: 94 instructions
+[2017.11.24-17.56.01:696][596]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.11.24-17.56.01:696][596]MaterialEditorStats: Texture samplers: 3/16
+[2017.11.24-17.56.01:696][596]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.24-17.56.13:731][413]LogMaterialEditor: Applying material LowPoly
+[2017.11.24-17.56.14:172][413]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-17.56.14:197][413]LogMaterial: Missing cached shader map for material LowPoly, compiling. 
+[2017.11.24-17.56.14:218][413]LogMaterial: Missing cached shader map for material LowPoly, compiling. 
+[2017.11.24-17.56.14:236][413]LogMaterial: Missing cached shader map for material LowPoly, compiling. 
+[2017.11.24-17.56.14:276][413]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy LowPoly, compiling. 
+[2017.11.24-17.56.15:351][413]TextureStreamingBuild: Display: Compiling optional shaders took 1.079 seconds.
+[2017.11.24-17.56.19:249][417]MaterialEditorStats: Base pass shader: 94 instructions
+[2017.11.24-17.56.19:249][417]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.11.24-17.56.19:249][417]MaterialEditorStats: Texture samplers: 4/16
+[2017.11.24-17.56.19:249][417]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.24-17.56.23:347][683]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-17.56.23:365][683]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2017.11.24-17.56.26:145][845]MaterialEditorStats: Base pass shader: 94 instructions
+[2017.11.24-17.56.26:145][845]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.11.24-17.56.26:145][845]MaterialEditorStats: Texture samplers: 3/16
+[2017.11.24-17.56.26:145][845]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.24-17.56.32:361][278]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-17.56.32:375][278]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2017.11.24-17.56.35:181][446]MaterialEditorStats: Base pass shader: 94 instructions
+[2017.11.24-17.56.35:181][446]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.11.24-17.56.35:181][446]MaterialEditorStats: Texture samplers: 3/16
+[2017.11.24-17.56.35:181][446]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.24-17.56.41:431][870]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.24-17.56.41:466][870]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.24-17.56.41:466][870]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.24-17.56.41:466][870]PIE: New page: PIE session: Puzzle_Island (24 Nov 2017 17:56:41)
+[2017.11.24-17.56.41:466][870]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.24-17.56.41:479][870]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012961s)
+[2017.11.24-17.56.41:480][870]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.24-17.56.41:480][870]LogPlayLevel: PIE: World Init took: (0.000951s)
+[2017.11.24-17.56.41:480][870]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.014177s)
+[2017.11.24-17.56.41:496][870]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.24-17.56.41:507][870]LogInit: FAudioDevice initialized.
+[2017.11.24-17.56.41:540][870]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.24-17.56.41:542][870]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.24-17.56.41
+[2017.11.24-17.56.41:542][870]LogWorld: Bringing up level for play took: 0.002406
+[2017.11.24-17.56.41:544][870]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 0.866
+[2017.11.24-17.56.41:545][870]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.24-17.57.07:392][693]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.24-17.57.07:422][693]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.24-17.57.14:742][166]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2017.11.24-17.57.26:746][877]Cmd: TRANSACTION UNDO
+[2017.11.24-17.57.26:746][877]LogEditorTransaction: Undo Edit Light Source Angle
+[2017.11.24-17.57.26:795][877]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2017.11.24-17.57.26:824][877]LogMaterial: Missing cached shader map for material Material_2, compiling. 
+[2017.11.24-17.57.26:843][877]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-17.57.27:111][885]Cmd: TRANSACTION UNDO
+[2017.11.24-17.57.27:111][885]LogEditorTransaction: Undo Edit Intensity
+[2017.11.24-17.57.27:117][885]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2017.11.24-17.57.27:140][885]LogMaterial: Missing cached shader map for material Material_2, compiling. 
+[2017.11.24-17.57.27:147][885]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-17.57.36:043][352]MaterialEditorStats: Base pass shader: 94 instructions
+[2017.11.24-17.57.36:043][352]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.11.24-17.57.36:043][352]MaterialEditorStats: Texture samplers: 3/16
+[2017.11.24-17.57.36:043][352]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.24-17.58.28:698][471]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-17.58.32:313][654]MaterialEditorStats: Base pass shader: 94 instructions
+[2017.11.24-17.58.32:313][654]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.11.24-17.58.32:313][654]MaterialEditorStats: Texture samplers: 3/16
+[2017.11.24-17.58.32:313][654]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.24-17.58.36:889][915]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-17.58.36:900][915]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-17.58.40:139][ 91]MaterialEditorStats: Base pass shader: 94 instructions
+[2017.11.24-17.58.40:139][ 91]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.11.24-17.58.40:139][ 91]MaterialEditorStats: Texture samplers: 3/16
+[2017.11.24-17.58.40:139][ 91]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.24-17.58.40:471][109]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-17.58.43:343][262]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-17.58.46:625][437]MaterialEditorStats: Base pass shader: 94 instructions
+[2017.11.24-17.58.46:625][437]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.11.24-17.58.46:625][437]MaterialEditorStats: Texture samplers: 3/16
+[2017.11.24-17.58.46:625][437]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.24-17.58.50:229][652]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-17.58.52:475][771]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-17.58.55:815][949]MaterialEditorStats: Base pass shader: 95 instructions
+[2017.11.24-17.58.55:815][949]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.11.24-17.58.55:815][949]MaterialEditorStats: Texture samplers: 3/16
+[2017.11.24-17.58.55:815][949]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.24-17.58.59:972][201]LogMaterialEditor: Applying material LowPoly
+[2017.11.24-17.59.00:411][201]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-17.59.00:437][201]LogMaterial: Missing cached shader map for material LowPoly, compiling. 
+[2017.11.24-17.59.00:458][201]LogMaterial: Missing cached shader map for material LowPoly, compiling. 
+[2017.11.24-17.59.00:476][201]LogMaterial: Missing cached shader map for material LowPoly, compiling. 
+[2017.11.24-17.59.00:516][201]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy LowPoly, compiling. 
+[2017.11.24-17.59.01:676][201]TextureStreamingBuild: Display: Compiling optional shaders took 1.165 seconds.
+[2017.11.24-17.59.10:781][680]MaterialEditorStats: Base pass shader: 95 instructions
+[2017.11.24-17.59.10:781][680]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.11.24-17.59.10:781][680]MaterialEditorStats: Texture samplers: 4/16
+[2017.11.24-17.59.10:781][680]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.24-18.00.20:016][774]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.24-18.00.20:051][774]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.24-18.00.20:052][774]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.24-18.00.20:052][774]PIE: New page: PIE session: Puzzle_Island (24 Nov 2017 18:00:20)
+[2017.11.24-18.00.20:052][774]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.24-18.00.20:064][774]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012330s)
+[2017.11.24-18.00.20:065][774]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.24-18.00.20:065][774]LogPlayLevel: PIE: World Init took: (0.000867s)
+[2017.11.24-18.00.20:065][774]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.013436s)
+[2017.11.24-18.00.20:132][774]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.24-18.00.20:142][774]LogInit: FAudioDevice initialized.
+[2017.11.24-18.00.20:173][774]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.24-18.00.20:176][774]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.24-18.00.20
+[2017.11.24-18.00.20:177][774]LogWorld: Bringing up level for play took: 0.002650
+[2017.11.24-18.00.20:179][774]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island -0.5
+[2017.11.24-18.00.20:179][774]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.24-18.01.34:797][ 54]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.24-18.01.34:833][ 54]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.24-18.01.39:779][394]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.11.24-18.01.40:415][429]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree1)
+[2017.11.24-18.01.47:005][831]Cmd: SELECT NONE
+[2017.11.24-18.01.52:210][162]MapCheck: New page: Map Check
+[2017.11.24-18.01.52:322][162]Cmd: MAP REBUILD ALLVISIBLE
+[2017.11.24-18.01.52:323][162]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.11.24-18.01.52:449][162]LightingResults: New page: Lighting Build - 24 Nov 2017 18:01:52
+[2017.11.24-18.01.52:649][162]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.11.24-18.01.52:766][162]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.11.24-18.01.52:778][162]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.11.24-18.01.53:790][162]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.11.24-18.01.53:790][162]LogSwarmInterface: [TryOpenConnection] Local Process ID is 1724
+[2017.11.24-18.01.55:944][162]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2017.11.24-18.01.55:945][162]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.11.24-18.01.55:945][162]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.11.24-18.01.55:945][162]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.11.24-18.01.55:945][162]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.11.24-18.01.55:945][162]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.11.24-18.01.56:219][162]LogEditorBuildUtils: Build time 0:03
+[2017.11.24-18.01.56:226][162]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_1, compiling. 
+[2017.11.24-18.01.56:230][162]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_1, compiling. 
+[2017.11.24-18.01.56:270][163]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_1, compiling. 
+[2017.11.24-18.01.56:276][163]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_1, compiling. 
+[2017.11.24-18.01.56:965][185]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Water_Master, compiling. 
+[2017.11.24-18.01.56:972][185]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Water_Master, compiling. 
+[2017.11.24-18.01.57:021][186]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Basic_Floor, compiling. 
+[2017.11.24-18.01.57:028][186]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Basic_Floor, compiling. 
+[2017.11.24-18.01.57:052][187]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Basic_Wall, compiling. 
+[2017.11.24-18.01.57:058][187]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Basic_Wall, compiling. 
+[2017.11.24-18.01.57:081][188]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Tech_Hex_Tile_Pulse, compiling. 
+[2017.11.24-18.01.57:087][188]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Tech_Hex_Tile_Pulse, compiling. 
+[2017.11.24-18.01.57:110][189]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Tree1_Mat, compiling. 
+[2017.11.24-18.01.57:115][189]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Tree1_Mat, compiling. 
+[2017.11.24-18.01.57:142][190]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_CobbleStone_Rough, compiling. 
+[2017.11.24-18.01.57:149][190]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_CobbleStone_Rough, compiling. 
+[2017.11.24-18.01.57:188][191]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2017.11.24-18.01.57:195][191]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2017.11.24-18.02.20:733][ 99]LightingResults: Warning: MaterialSphere Object has overlapping UVs.
+[2017.11.24-18.02.20:733][ 99]LightingResults: MaterialSphere Lightmap UV are overlapping by 83.3%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.24-18.02.20:924][108]Job is a success!
+[2017.11.24-18.02.25:880][437]LogMaterial: Warning: Material /Game/Materials/Tree1_Mat.Tree1_Mat needed to have new flag set bUsedWithStaticLighting !
+[2017.11.24-18.02.25:883][437]LogMaterial: Missing cached shader map for material Tree1_Mat, compiling. 
+[2017.11.24-18.02.25:907][437]LogMaterial: Warning: Material /Game/Materials/LowPoly.LowPoly needed to have new flag set bUsedWithStaticLighting !
+[2017.11.24-18.02.25:907][437]LogMaterial: Warning: Material /Engine/Transient.PreviewMaterial_1 needed to have new flag set bUsedWithStaticLighting !
+[2017.11.24-18.02.25:909][437]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.11.24-18.02.25:924][437]LogMaterial: Missing cached shader map for material LowPoly, compiling. 
+[2017.11.24-18.02.25:944][437]LogMaterial: Missing cached shader map for material LowPoly, compiling. 
+[2017.11.24-18.02.26:824][437]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2017.11.24-18.02.26:824][437]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2017.11.24-18.02.26:824][437]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 128X128)
+[2017.11.24-18.02.26:824][437]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 128X128)
+[2017.11.24-18.02.26:824][437]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2017.11.24-18.02.26:824][437]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2017.11.24-18.02.26:824][437]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 64X64)
+[2017.11.24-18.02.26:824][437]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 64X64)
+[2017.11.24-18.02.26:993][437]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 64X64)
+[2017.11.24-18.02.26:993][437]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 64X32)
+[2017.11.24-18.02.26:994][437]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2017.11.24-18.02.26:994][437]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X512)
+[2017.11.24-18.02.26:994][437]Lightmass on DESKTOP-Q670LKS: 22.7 sec total, 395 ms importing, 362 ms setup, 1.54 sec photons, 20.4 sec processing, 0 ms extra exporting [120/120 mappings]. Threads: 1:21 min total, 41.8 sec processing.
+[2017.11.24-18.02.27:011][437]LogStaticLightingSystem: Illumination: 29.7 sec (843 ms encoding lightmaps, 114 ms encoding shadowmaps)
+[2017.11.24-18.02.27:011][437]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 8 textures
+[2017.11.24-18.02.27:011][437]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2017.11.24-18.02.27:952][437]DumpUnbuiltLightIteractions
+[2017.11.24-18.02.27:952][437]Lights with unbuilt interactions: 0
+[2017.11.24-18.02.27:952][437]
+[2017.11.24-18.02.27:952][437]Primitives with unbuilt interactions: 0
+[2017.11.24-18.02.27:971][438]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.11.24-18.02.27:972][438]MapCheck: New page: Puzzle_Island - 24 Nov 2017 18:02:27
+[2017.11.24-18.02.28:023][438]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 51.552ms to complete.
+[2017.11.24-18.02.46:078][178]MaterialEditorStats: Base pass shader: 95 instructions
+[2017.11.24-18.02.46:078][178]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.11.24-18.02.46:078][178]MaterialEditorStats: Texture samplers: 5/16
+[2017.11.24-18.02.46:078][178]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.11.24-18.03.43:142][183]LogMaterial: Missing cached shader map for material M_Water_Master, compiling. 
+[2017.11.24-18.03.43:283][183]LogMaterial: Missing cached shader map for material M_Water_Master, compiling. 
+[2017.11.24-18.03.43:311][183]LogMaterial: Missing cached shader map for material M_Water_Master, compiling. 
+[2017.11.24-18.03.43:364][183]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDepthFade_1, compiling. 
+[2017.11.24-18.03.43:365][183]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.24-18.03.43:369][183]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2017.11.24-18.03.43:373][183]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.24-18.03.43:377][183]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.11.24-18.04.22:213][248]MaterialEditorStats: Base pass shader: 455 instructions
+[2017.11.24-18.04.22:213][248]MaterialEditorStats: Vertex shader: 37 instructions
+[2017.11.24-18.04.22:213][248]MaterialEditorStats: Texture samplers: 13/16
+[2017.11.24-18.04.32:624][862]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.24-18.04.32:659][862]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.24-18.04.32:659][862]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.24-18.04.32:659][862]PIE: New page: PIE session: Puzzle_Island (24 Nov 2017 18:04:32)
+[2017.11.24-18.04.32:659][862]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.24-18.04.32:672][862]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012610s)
+[2017.11.24-18.04.32:672][862]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.24-18.04.32:673][862]LogPlayLevel: PIE: World Init took: (0.000782s)
+[2017.11.24-18.04.32:673][862]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.013645s)
+[2017.11.24-18.04.32:687][862]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.24-18.04.32:698][862]LogInit: FAudioDevice initialized.
+[2017.11.24-18.04.32:728][862]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.24-18.04.32:730][862]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.24-18.04.32
+[2017.11.24-18.04.32:730][862]LogWorld: Bringing up level for play took: 0.002444
+[2017.11.24-18.04.32:733][862]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 0.054
+[2017.11.24-18.04.32:733][862]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.24-18.18.53:211][558]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.24-18.18.53:244][558]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.24-18.31.31:696][419]AssetReimport: New page: Outstanding source content changes 18:31:31
+[2017.11.24-18.31.31:718][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Textures/Tree2_D.psd)
+[2017.11.24-18.31.31:903][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Tree2_D" FILE="../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Textures/Tree2_D.uasset" SILENT=true
+[2017.11.24-18.31.31:947][421]LogSavePackage: Save=40.98ms
+[2017.11.24-18.31.31:947][421]LogSavePackage: Moving '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Tree2_D449B17A5459822F17F5CEB9C1375E6B7.tmp' to '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Textures/Tree2_D.uasset'
+[2017.11.24-18.31.31:951][421]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Textures/Tree2_D.uasset
+[2017.11.24-18.31.35:043][531]AssetReimport: Importing new asset /Game/Textures/Tree2_D.
+[2017.11.24-18.31.37:553][533]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2017.11.24-18.31.37:597][533]LogMaterial: Missing cached shader map for material Material_2, compiling. 
+[2017.11.24-18.31.37:624][533]LogMaterial: Missing cached shader map for material m_Landscape1, compiling. 
+[2017.11.24-18.31.38:164][533]LogMaterial: Missing cached shader map for material Material_3, compiling. 
+[2017.11.24-18.32.04:777][818]AssetReimport: New page: Outstanding source content changes 18:32:04
+[2017.11.24-18.32.04:792][819]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/FBX/Tree2.FBX)
+[2017.11.24-18.32.04:795][819]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.11.24-18.32.04:795][819]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2017.11.24-18.32.04:795][819]LogFbx: ItemName: Model, ItemCount : 1
+[2017.11.24-18.32.04:795][819]LogFbx: ItemName: Geometry, ItemCount : 1
+[2017.11.24-18.32.04:799][819]LogFbx: Loading FBX Scene from D:/Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/FBX/Tree2.FBX
+[2017.11.24-18.32.04:829][819]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.24-18.32.07:299][819]LogFbx: Loading FBX Scene from D:/Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/FBX/Tree2.FBX
+[2017.11.24-18.32.07:305][819]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.24-18.32.07:317][819]LogStaticMesh: Building static mesh Tree2...
+[2017.11.24-18.32.07:322][819]LogStaticMesh: Built static mesh [0.01s] /Game/FBX/Tree2.Tree2
+[2017.11.24-18.32.07:359][820]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FBX/Tree2" FILE="../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/FBX/Tree2.uasset" SILENT=true
+[2017.11.24-18.32.07:380][820]LogSavePackage: Save=17.96ms
+[2017.11.24-18.32.07:380][820]LogSavePackage: Moving '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Tree22C25288844C6D5EC723F28B1BB2124A7.tmp' to '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/FBX/Tree2.uasset'
+[2017.11.24-18.32.07:384][820]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/FBX/Tree2.uasset
+[2017.11.24-18.32.10:391][ 89]AssetReimport: Importing new asset /Game/FBX/Tree2.
+[2017.11.24-18.32.17:933][948]LogActorFactory: Actor Factory created Tree2
+[2017.11.24-18.32.18:864][ 58]LogActorFactory: Actor Factory created Tree2
+[2017.11.24-18.32.35:295][677]LogMaterial: Missing cached shader map for material Tree2_D_Mat, compiling. 
+[2017.11.24-18.32.36:149][756]LogMaterial: Missing cached shader map for material Tree2_D_Mat, compiling. 
+[2017.11.24-18.32.36:267][756]LogMaterial: Missing cached shader map for material Tree2_D_Mat, compiling. 
+[2017.11.24-18.32.36:280][756]LogMaterial: Missing cached shader map for material Tree2_D_Mat, compiling. 
+[2017.11.24-18.32.36:314][756]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.11.24-18.32.40:555][899]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Tree2_Mat" FILE="../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Textures/Tree2_Mat.uasset" SILENT=true
+[2017.11.24-18.32.40:575][899]LogSavePackage: Save=17.22ms
+[2017.11.24-18.32.40:575][899]LogSavePackage: Moving '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Tree2_Mat06CC2EC74B848FF2052A46B3C4F2D43E.tmp' to '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Textures/Tree2_Mat.uasset'
+[2017.11.24-18.32.40:580][899]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Textures/Tree2_Mat.uasset
+[2017.11.24-18.32.44:276][214]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Tree2_Mat" FILE="../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Materials/Tree2_Mat.uasset" SILENT=true
+[2017.11.24-18.32.44:295][214]LogSavePackage: Save=16.30ms
+[2017.11.24-18.32.44:295][214]LogSavePackage: Moving '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Tree2_Mat36DDD5AC49956368E9AE819A546D7AAA.tmp' to '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Materials/Tree2_Mat.uasset'
+[2017.11.24-18.32.44:300][214]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Materials/Tree2_Mat.uasset
+[2017.11.24-18.32.48:710][639]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.24-18.32.48:744][639]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.24-18.32.48:744][639]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.24-18.32.48:744][639]PIE: New page: PIE session: Puzzle_Island (24 Nov 2017 18:32:48)
+[2017.11.24-18.32.48:745][639]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.24-18.32.48:757][639]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012647s)
+[2017.11.24-18.32.48:758][639]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.24-18.32.48:758][639]LogPlayLevel: PIE: World Init took: (0.000816s)
+[2017.11.24-18.32.48:758][639]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.013752s)
+[2017.11.24-18.32.48:772][639]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.24-18.32.48:783][639]LogInit: FAudioDevice initialized.
+[2017.11.24-18.32.48:816][639]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.24-18.32.48:819][639]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.24-18.32.48
+[2017.11.24-18.32.48:819][639]LogWorld: Bringing up level for play took: 0.003027
+[2017.11.24-18.32.48:821][639]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 0.142
+[2017.11.24-18.32.48:822][639]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.24-18.33.01:385][144]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.24-18.33.01:434][144]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.24-18.33.03:055][301]MapCheck: New page: Map Check
+[2017.11.24-18.33.03:076][301]Cmd: MAP REBUILD ALLVISIBLE
+[2017.11.24-18.33.03:077][301]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.11.24-18.33.03:099][301]LightingResults: New page: Lighting Build - 24 Nov 2017 18:33:03
+[2017.11.24-18.33.03:165][301]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.11.24-18.33.03:167][301]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.11.24-18.33.03:167][301]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.11.24-18.33.03:168][301]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.11.24-18.33.03:168][301]LogSwarmInterface: [TryOpenConnection] Local Process ID is 1724
+[2017.11.24-18.33.07:681][301]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2017.11.24-18.33.07:682][301]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.11.24-18.33.07:682][301]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.11.24-18.33.07:682][301]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.11.24-18.33.07:682][301]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.11.24-18.33.07:682][301]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.11.24-18.33.07:853][301]LogEditorBuildUtils: Build time 0:04
+[2017.11.24-18.33.07:876][301]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_1, compiling. 
+[2017.11.24-18.33.07:882][301]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_1, compiling. 
+[2017.11.24-18.33.08:419][323]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Tree1_Mat, compiling. 
+[2017.11.24-18.33.08:425][323]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Tree1_Mat, compiling. 
+[2017.11.24-18.33.08:442][324]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Tree2_Mat, compiling. 
+[2017.11.24-18.33.08:448][324]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Tree2_Mat, compiling. 
+[2017.11.24-18.33.28:692][874]LightingResults: Warning: MaterialSphere Object has overlapping UVs.
+[2017.11.24-18.33.28:692][874]LightingResults: MaterialSphere Lightmap UV are overlapping by 83.3%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.24-18.33.29:010][896]Job is a success!
+[2017.11.24-18.33.32:259][215]LogMaterial: Warning: Material /Game/Materials/Tree2_Mat.Tree2_Mat needed to have new flag set bUsedWithStaticLighting !
+[2017.11.24-18.33.32:262][215]LogMaterial: Missing cached shader map for material Tree2_Mat, compiling. 
+[2017.11.24-18.33.33:238][215]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 128X128)
+[2017.11.24-18.33.33:238][215]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 128X128)
+[2017.11.24-18.33.33:238][215]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2017.11.24-18.33.33:238][215]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2017.11.24-18.33.33:238][215]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2017.11.24-18.33.33:238][215]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2017.11.24-18.33.33:238][215]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 64X64)
+[2017.11.24-18.33.33:238][215]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 64X64)
+[2017.11.24-18.33.33:238][215]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 64X64)
+[2017.11.24-18.33.33:238][215]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 64X32)
+[2017.11.24-18.33.33:238][215]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 32X32)
+[2017.11.24-18.33.33:238][215]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 1024X512)
+[2017.11.24-18.33.33:274][215]LogStaticLightingSystem: Illumination: 26.9 sec (839 ms encoding lightmaps, 114 ms encoding shadowmaps)
+[2017.11.24-18.33.33:274][215]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 8 textures
+[2017.11.24-18.33.33:274][215]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2017.11.24-18.33.33:694][215]DumpUnbuiltLightIteractions
+[2017.11.24-18.33.33:694][215]Lights with unbuilt interactions: 0
+[2017.11.24-18.33.33:694][215]
+[2017.11.24-18.33.33:694][215]Primitives with unbuilt interactions: 0
+[2017.11.24-18.33.33:709][216]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.11.24-18.33.33:709][216]MapCheck: New page: Puzzle_Island - 24 Nov 2017 18:33:33
+[2017.11.24-18.33.33:760][216]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 51.122ms to complete.
+[2017.11.24-18.33.41:464][955]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.24-18.33.41:498][955]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.24-18.33.41:498][955]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.24-18.33.41:498][955]PIE: New page: PIE session: Puzzle_Island (24 Nov 2017 18:33:41)
+[2017.11.24-18.33.41:498][955]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.24-18.33.41:510][955]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011874s)
+[2017.11.24-18.33.41:510][955]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.24-18.33.41:511][955]LogPlayLevel: PIE: World Init took: (0.000699s)
+[2017.11.24-18.33.41:511][955]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.012795s)
+[2017.11.24-18.33.41:525][955]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.24-18.33.41:535][955]LogInit: FAudioDevice initialized.
+[2017.11.24-18.33.41:564][955]LogLoad: Game class is 'Puzzle_IslandGameMode'
+[2017.11.24-18.33.41:567][955]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.24-18.33.41
+[2017.11.24-18.33.41:567][955]LogWorld: Bringing up level for play took: 0.002652
+[2017.11.24-18.33.41:569][955]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 0.89
+[2017.11.24-18.33.41:570][955]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.24-18.35.22:281][990]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.24-18.35.22:331][990]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.24-19.02.37:316][854]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.11.24-19.03.12:111][378]Cmd: TRANSACTION UNDO
+[2017.11.24-19.03.12:111][378]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2017.11.24-19.03.12:142][378]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2017.11.24-19.05.05:908][ 45]MapCheck: New page: Map Check
+[2017.11.24-19.05.05:933][ 45]Cmd: MAP REBUILD ALLVISIBLE
+[2017.11.24-19.05.05:934][ 45]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.11.24-19.05.05:956][ 45]LightingResults: New page: Lighting Build - 24 Nov 2017 19:05:05
+[2017.11.24-19.05.06:025][ 45]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.11.24-19.05.06:028][ 45]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.11.24-19.05.06:028][ 45]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.11.24-19.05.06:029][ 45]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.11.24-19.05.06:029][ 45]LogSwarmInterface: [TryOpenConnection] Local Process ID is 1724
+[2017.11.24-19.05.10:536][ 45]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2017.11.24-19.05.10:536][ 45]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.11.24-19.05.10:536][ 45]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.11.24-19.05.10:536][ 45]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.11.24-19.05.10:536][ 45]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.11.24-19.05.10:536][ 45]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.11.24-19.05.10:687][ 45]LogEditorBuildUtils: Build time 0:04
+[2017.11.24-19.05.10:794][ 48]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Tree2_Mat, compiling. 
+[2017.11.24-19.05.10:800][ 48]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Tree2_Mat, compiling. 
+[2017.11.24-19.05.28:075][ 26]LightingResults: Warning: MaterialSphere Object has overlapping UVs.
+[2017.11.24-19.05.28:075][ 26]LightingResults: MaterialSphere Lightmap UV are overlapping by 83.3%. Please adjust content - Enable Error Coloring to visualize.
+[2017.11.24-19.05.28:408][ 27]Job is a success!
+[2017.11.24-19.05.33:040][ 38]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 128X128)
+[2017.11.24-19.05.33:040][ 38]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 128X128)
+[2017.11.24-19.05.33:040][ 38]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2017.11.24-19.05.33:040][ 38]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2017.11.24-19.05.33:040][ 38]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2017.11.24-19.05.33:040][ 38]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2017.11.24-19.05.33:040][ 38]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 64X64)
+[2017.11.24-19.05.33:040][ 38]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 64X64)
+[2017.11.24-19.05.33:040][ 38]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 64X64)
+[2017.11.24-19.05.33:040][ 38]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 64X32)
+[2017.11.24-19.05.33:040][ 38]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 32X32)
+[2017.11.24-19.05.33:040][ 38]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 1024X512)
+[2017.11.24-19.05.33:053][ 38]Lightmass on DESKTOP-Q670LKS: 20.7 sec total, 439 ms importing, 493 ms setup, 1.59 sec photons, 18.1 sec processing, 0 ms extra exporting [121/121 mappings]. Threads: 1:12 min total, 38.2 sec processing.
+[2017.11.24-19.05.33:056][ 38]LogStaticLightingSystem: Illumination: 23.4 sec (770 ms encoding lightmaps, 116 ms encoding shadowmaps)
+[2017.11.24-19.05.33:057][ 38]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 8 textures
+[2017.11.24-19.05.33:057][ 38]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2017.11.24-19.05.33:548][ 38]DumpUnbuiltLightIteractions
+[2017.11.24-19.05.33:548][ 38]Lights with unbuilt interactions: 0
+[2017.11.24-19.05.33:548][ 38]
+[2017.11.24-19.05.33:548][ 38]Primitives with unbuilt interactions: 0
+[2017.11.24-19.05.33:560][ 39]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.11.24-19.05.33:560][ 39]MapCheck: New page: Puzzle_Island - 24 Nov 2017 19:05:33
+[2017.11.24-19.05.33:614][ 39]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 53.477ms to complete.
+[2017.11.24-19.05.40:893][813]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2017.11.24-19.05.41:208][813]LogSavePackage: Save=349.88ms
+[2017.11.24-19.05.41:208][813]LogSavePackage: Moving '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Puzzle_IslandF10CFBCF4785E2F679D2688C84E26DC7.tmp' to '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Maps/Puzzle_Island.umap'
+[2017.11.24-19.05.41:216][813]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Maps/Puzzle_Island.umap
+[2017.11.24-19.05.41:283][813]LogFileHelpers: Saving map 'Puzzle_Island' took 0.522
+[2017.11.24-19.05.41:304][813]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Puzzle_Island_BuiltData" FILE="../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Maps/Puzzle_Island_BuiltData.uasset" SILENT=true
+[2017.11.24-19.05.41:461][813]LogSavePackage: Save=146.23ms
+[2017.11.24-19.05.41:462][813]LogSavePackage: Moving '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Puzzle_Island_BuiltData6301C1B444EF45A4F8322685545EFA79.tmp' to '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Maps/Puzzle_Island_BuiltData.uasset'
+[2017.11.24-19.05.41:466][813]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Maps/Puzzle_Island_BuiltData.uasset
+[2017.11.24-19.05.41:479][813]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/m_Landscape1" FILE="../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Materials/m_Landscape1.uasset" SILENT=true
+[2017.11.24-19.05.41:517][813]LogSavePackage: Save=26.60ms
+[2017.11.24-19.05.41:517][813]LogSavePackage: Moving '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/m_Landscape1861A2D2847EE0EB206B1ED9E48253468.tmp' to '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Materials/m_Landscape1.uasset'
+[2017.11.24-19.05.41:522][813]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Materials/m_Landscape1.uasset
+[2017.11.24-19.05.41:534][813]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/F_Grass_Layer1" FILE="../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Materials/F_Grass_Layer1.uasset" SILENT=true
+[2017.11.24-19.05.41:574][813]LogSavePackage: Save=28.90ms
+[2017.11.24-19.05.41:574][813]LogSavePackage: Moving '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/F_Grass_Layer10BFE973144A0764D696B7E956432E2A5.tmp' to '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Materials/F_Grass_Layer1.uasset'
+[2017.11.24-19.05.41:579][813]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Materials/F_Grass_Layer1.uasset
+[2017.11.24-19.05.41:591][813]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/LowPoly" FILE="../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Materials/LowPoly.uasset" SILENT=true
+[2017.11.24-19.05.41:625][813]LogSavePackage: Save=21.10ms
+[2017.11.24-19.05.41:625][813]LogSavePackage: Moving '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/LowPoly4666B36C413C4506E6A39898820ACAA5.tmp' to '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Materials/LowPoly.uasset'
+[2017.11.24-19.05.41:630][813]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Materials/LowPoly.uasset
+[2017.11.24-19.05.41:630][813]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Tree1_Mat" FILE="../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Materials/Tree1_Mat.uasset" SILENT=true
+[2017.11.24-19.05.41:647][813]LogSavePackage: Save=6.28ms
+[2017.11.24-19.05.41:647][813]LogSavePackage: Moving '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Tree1_Mat6582131543CCEF46048EDB92B4E01747.tmp' to '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Materials/Tree1_Mat.uasset'
+[2017.11.24-19.05.41:651][813]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Materials/Tree1_Mat.uasset
+[2017.11.24-19.05.41:652][813]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Tree2_Mat" FILE="../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Materials/Tree2_Mat.uasset" SILENT=true
+[2017.11.24-19.05.41:668][813]LogSavePackage: Save=6.69ms
+[2017.11.24-19.05.41:668][813]LogSavePackage: Moving '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Tree2_Mat5D30E154491D558D8CD281BBB5C076A1.tmp' to '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Materials/Tree2_Mat.uasset'
+[2017.11.24-19.05.41:673][813]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Materials/Tree2_Mat.uasset
+[2017.11.24-19.05.47:659][447]Cmd: QUIT_EDITOR
+[2017.11.24-19.05.47:949][447]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.24-19.05.47:969][447]LogExit: Preparing to exit.
+[2017.11.24-19.05.48:722][447]LogDirectoryWatcher: A directory notification for 'D:/Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/' was aborted.
+[2017.11.24-19.05.48:797][447]LogExit: Editor shut down
+[2017.11.24-19.05.48:827][447]LogExit: Transaction tracking system shut down
+[2017.11.24-19.05.48:999][447]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.11.24-19.05.48:999][447]LogDirectoryWatcher: A directory notification for '../../../../../../Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/' was aborted.
+[2017.11.24-19.05.48:999][447]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.11.24-19.05.49:000][447]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.11.24-19.05.49:000][447]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.11.24-19.05.49:712][447]LogExit: Object subsystem successfully closed.
+[2017.11.24-19.05.49:846][447]LogD3D11RHI: Shutdown
+[2017.11.24-19.05.49:846][447]LogD3D11RHI: CleanupD3DDevice
+[2017.11.24-19.05.49:953][447]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.11.24-19.05.50:220][447]LogModuleManager: Shutting down and abandoning module MaterialEditor (538)
+[2017.11.24-19.05.50:220][447]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (536)
+[2017.11.24-19.05.50:220][447]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (534)
+[2017.11.24-19.05.50:220][447]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (532)
+[2017.11.24-19.05.50:220][447]LogModuleManager: Shutting down and abandoning module SceneOutliner (530)
+[2017.11.24-19.05.50:220][447]LogModuleManager: Shutting down and abandoning module AddContentDialog (528)
+[2017.11.24-19.05.50:221][447]LogDirectoryWatcher: A directory notification for 'D:/Program Files/Epic Games/UE_4.17/FeaturePacks/' was aborted.
+[2017.11.24-19.05.50:226][447]LogModuleManager: Shutting down and abandoning module WidgetCarousel (527)
+[2017.11.24-19.05.50:226][447]LogModuleManager: Shutting down and abandoning module EditorWidgets (524)
+[2017.11.24-19.05.50:226][447]LogModuleManager: Shutting down and abandoning module CollectionManager (522)
+[2017.11.24-19.05.50:226][447]LogDirectoryWatcher: A directory notification for 'D:/Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Collections/' was aborted.
+[2017.11.24-19.05.50:226][447]LogDirectoryWatcher: A directory notification for 'D:/Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Developers/James/Collections/' was aborted.
+[2017.11.24-19.05.50:226][447]LogDirectoryWatcher: A directory notification for 'D:/Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Collections/' was aborted.
+[2017.11.24-19.05.50:226][447]LogModuleManager: Shutting down and abandoning module StatsViewer (520)
+[2017.11.24-19.05.50:226][447]LogModuleManager: Shutting down and abandoning module FoliageEdit (518)
+[2017.11.24-19.05.50:226][447]LogModuleManager: Shutting down and abandoning module LandscapeEditor (516)
+[2017.11.24-19.05.50:226][447]LogModuleManager: Shutting down and abandoning module MeshPaintMode (514)
+[2017.11.24-19.05.50:226][447]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (512)
+[2017.11.24-19.05.50:226][447]LogModuleManager: Shutting down and abandoning module ActorPickerMode (510)
+[2017.11.24-19.05.50:226][447]LogModuleManager: Shutting down and abandoning module GeometryMode (508)
+[2017.11.24-19.05.50:226][447]LogModuleManager: Shutting down and abandoning module TextureAlignMode (506)
+[2017.11.24-19.05.50:226][447]LogModuleManager: Shutting down and abandoning module BspMode (504)
+[2017.11.24-19.05.50:226][447]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (502)
+[2017.11.24-19.05.50:226][447]LogModuleManager: Shutting down and abandoning module HardwareSurvey (500)
+[2017.11.24-19.05.50:226][447]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (498)
+[2017.11.24-19.05.50:226][447]LogModuleManager: Shutting down and abandoning module AutomationWorker (496)
+[2017.11.24-19.05.50:227][447]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (494)
+[2017.11.24-19.05.50:227][447]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (492)
+[2017.11.24-19.05.50:238][447]LogModuleManager: Shutting down and abandoning module PlacementMode (491)
+[2017.11.24-19.05.50:238][447]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (488)
+[2017.11.24-19.05.50:238][447]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (486)
+[2017.11.24-19.05.50:238][447]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (484)
+[2017.11.24-19.05.50:238][447]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (482)
+[2017.11.24-19.05.50:238][447]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (480)
+[2017.11.24-19.05.50:238][447]LogModuleManager: Shutting down and abandoning module Media (479)
+[2017.11.24-19.05.50:238][447]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (476)
+[2017.11.24-19.05.50:238][447]LogModuleManager: Shutting down and abandoning module CharacterAI (474)
+[2017.11.24-19.05.50:238][447]LogModuleManager: Shutting down and abandoning module AudioCapture (472)
+[2017.11.24-19.05.50:238][447]LogModuleManager: Shutting down and abandoning module SequenceRecorder (471)
+[2017.11.24-19.05.50:238][447]LogModuleManager: Shutting down and abandoning module SmartSnapping (468)
+[2017.11.24-19.05.50:238][447]LogModuleManager: Shutting down and abandoning module SessionServices (466)
+[2017.11.24-19.05.50:238][447]LogModuleManager: Shutting down and abandoning module ViewportSnapping (464)
+[2017.11.24-19.05.50:238][447]LogModuleManager: Shutting down and abandoning module ViewportInteraction (462)
+[2017.11.24-19.05.50:238][447]LogModuleManager: Shutting down and abandoning module ClothPainter (460)
+[2017.11.24-19.05.50:249][447]LogModuleManager: Shutting down and abandoning module LogVisualizer (458)
+[2017.11.24-19.05.50:249][447]LogModuleManager: Shutting down and abandoning module IntroTutorials (456)
+[2017.11.24-19.05.50:249][447]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (455)
+[2017.11.24-19.05.50:266][447]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (452)
+[2017.11.24-19.05.50:267][447]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (450)
+[2017.11.24-19.05.50:267][447]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (448)
+[2017.11.24-19.05.50:267][447]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (447)
+[2017.11.24-19.05.51:183][447]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (444)
+[2017.11.24-19.05.51:184][447]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (442)
+[2017.11.24-19.05.51:184][447]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (440)
+[2017.11.24-19.05.51:184][447]LogModuleManager: Shutting down and abandoning module InputBindingEditor (438)
+[2017.11.24-19.05.51:184][447]LogModuleManager: Shutting down and abandoning module MergeActors (436)
+[2017.11.24-19.05.51:201][447]LogModuleManager: Shutting down and abandoning module SizeMap (434)
+[2017.11.24-19.05.51:201][447]LogModuleManager: Shutting down and abandoning module TreeMap (432)
+[2017.11.24-19.05.51:201][447]LogModuleManager: Shutting down and abandoning module ReferenceViewer (430)
+[2017.11.24-19.05.51:201][447]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (428)
+[2017.11.24-19.05.51:202][447]LogModuleManager: Shutting down and abandoning module LocalizationService (427)
+[2017.11.24-19.05.51:202][447]LogModuleManager: Shutting down and abandoning module HardwareTargeting (424)
+[2017.11.24-19.05.51:202][447]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (422)
+[2017.11.24-19.05.51:202][447]LogModuleManager: Shutting down and abandoning module UndoHistory (420)
+[2017.11.24-19.05.51:202][447]LogModuleManager: Shutting down and abandoning module XmlParser (418)
+[2017.11.24-19.05.51:202][447]LogModuleManager: Shutting down and abandoning module Blutility (416)
+[2017.11.24-19.05.51:202][447]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (414)
+[2017.11.24-19.05.51:202][447]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (413)
+[2017.11.24-19.05.51:203][447]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (410)
+[2017.11.24-19.05.51:203][447]LogModuleManager: Shutting down and abandoning module SettingsEditor (408)
+[2017.11.24-19.05.51:229][447]LogModuleManager: Shutting down and abandoning module ProjectLauncher (406)
+[2017.11.24-19.05.51:234][447]LogModuleManager: Shutting down and abandoning module SessionFrontend (404)
+[2017.11.24-19.05.51:234][447]LogModuleManager: Shutting down and abandoning module ProfilerClient (402)
+[2017.11.24-19.05.51:242][447]LogModuleManager: Shutting down and abandoning module DeviceManager (400)
+[2017.11.24-19.05.51:242][447]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (399)
+[2017.11.24-19.05.51:296][447]LogModuleManager: Shutting down and abandoning module AutomationController (396)
+[2017.11.24-19.05.51:296][447]LogModuleManager: Shutting down and abandoning module AutomationWindow (394)
+[2017.11.24-19.05.51:319][447]LogModuleManager: Shutting down and abandoning module Layers (392)
+[2017.11.24-19.05.51:338][447]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (390)
+[2017.11.24-19.05.51:338][447]LogModuleManager: Shutting down and abandoning module DetailCustomizations (388)
+[2017.11.24-19.05.51:338][447]LogModuleManager: Shutting down and abandoning module PackagesDialog (386)
+[2017.11.24-19.05.51:338][447]LogModuleManager: Shutting down and abandoning module Persona (384)
+[2017.11.24-19.05.51:364][447]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (383)
+[2017.11.24-19.05.51:364][447]LogModuleManager: Shutting down and abandoning module AnimGraph (381)
+[2017.11.24-19.05.51:364][447]LogModuleManager: Shutting down and abandoning module Kismet (378)
+[2017.11.24-19.05.51:365][447]LogModuleManager: Shutting down and abandoning module ClassViewer (376)
+[2017.11.24-19.05.51:365][447]LogModuleManager: Shutting down and abandoning module Toolbox (374)
+[2017.11.24-19.05.51:365][447]LogModuleManager: Shutting down and abandoning module ModuleUI (372)
+[2017.11.24-19.05.51:371][447]LogModuleManager: Shutting down and abandoning module MovieSceneTools (370)
+[2017.11.24-19.05.51:383][447]LogModuleManager: Shutting down and abandoning module OutputLog (368)
+[2017.11.24-19.05.51:383][447]LogModuleManager: Shutting down and abandoning module GammaUI (366)
+[2017.11.24-19.05.51:383][447]LogModuleManager: Shutting down and abandoning module Documentation (364)
+[2017.11.24-19.05.51:383][447]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (362)
+[2017.11.24-19.05.51:383][447]LogModuleManager: Shutting down and abandoning module MovieScene (360)
+[2017.11.24-19.05.51:383][447]LogModuleManager: Shutting down and abandoning module Niagara (358)
+[2017.11.24-19.05.51:383][447]LogModuleManager: Shutting down and abandoning module NiagaraEditor (357)
+[2017.11.24-19.05.51:393][447]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (354)
+[2017.11.24-19.05.51:393][447]LogModuleManager: Shutting down and abandoning module LauncherPlatform (352)
+[2017.11.24-19.05.51:393][447]LogModuleManager: Shutting down and abandoning module AnalyticsET (350)
+[2017.11.24-19.05.51:393][447]LogModuleManager: Shutting down and abandoning module PortalServices (348)
+[2017.11.24-19.05.51:393][447]LogModuleManager: Shutting down and abandoning module PortalRpc (346)
+[2017.11.24-19.05.51:393][447]LogModuleManager: Shutting down and abandoning module MessagingRpc (344)
+[2017.11.24-19.05.51:393][447]LogModuleManager: Shutting down and abandoning module AIModule (342)
+[2017.11.24-19.05.51:393][447]LogModuleManager: Shutting down and abandoning module GameplayDebugger (341)
+[2017.11.24-19.05.51:393][447]LogModuleManager: Shutting down and abandoning module AITestSuite (339)
+[2017.11.24-19.05.51:393][447]LogModuleManager: Shutting down and abandoning module ProfilerService (336)
+[2017.11.24-19.05.51:527][447]LogModuleManager: Shutting down and abandoning module TaskGraph (334)
+[2017.11.24-19.05.51:581][447]LogModuleManager: Shutting down and abandoning module SteamVRController (332)
+[2017.11.24-19.05.51:581][447]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (330)
+[2017.11.24-19.05.51:581][447]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (328)
+[2017.11.24-19.05.51:581][447]LogModuleManager: Shutting down and abandoning module OculusInput (326)
+[2017.11.24-19.05.51:581][447]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (324)
+[2017.11.24-19.05.51:581][447]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (322)
+[2017.11.24-19.05.51:581][447]LogModuleManager: Shutting down and abandoning module CableComponent (320)
+[2017.11.24-19.05.51:582][447]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (318)
+[2017.11.24-19.05.51:582][447]LogModuleManager: Shutting down and abandoning module AndroidPermission (316)
+[2017.11.24-19.05.51:582][447]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (312)
+[2017.11.24-19.05.51:592][447]LogModuleManager: Shutting down and abandoning module HTML5Networking (310)
+[2017.11.24-19.05.51:593][447]LogModuleManager: Shutting down and abandoning module AlembicImporter (308)
+[2017.11.24-19.05.51:593][447]LogModuleManager: Shutting down and abandoning module AlembicLibrary (307)
+[2017.11.24-19.05.51:593][447]LogModuleManager: Shutting down and abandoning module GeometryCache (306)
+[2017.11.24-19.05.51:593][447]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (305)
+[2017.11.24-19.05.51:593][447]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (300)
+[2017.11.24-19.05.51:593][447]LogModuleManager: Shutting down and abandoning module PluginBrowser (298)
+[2017.11.24-19.05.51:605][447]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (296)
+[2017.11.24-19.05.51:618][447]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (294)
+[2017.11.24-19.05.51:618][447]LogModuleManager: Shutting down and abandoning module DesktopPlatform (293)
+[2017.11.24-19.05.51:627][447]LogModuleManager: Shutting down and abandoning module UObjectPlugin (290)
+[2017.11.24-19.05.51:627][447]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (288)
+[2017.11.24-19.05.51:627][447]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (286)
+[2017.11.24-19.05.51:627][447]LogModuleManager: Shutting down and abandoning module GitSourceControl (284)
+[2017.11.24-19.05.51:627][447]LogModuleManager: Shutting down and abandoning module SourceControl (283)
+[2017.11.24-19.05.51:627][447]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (280)
+[2017.11.24-19.05.51:627][447]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (278)
+[2017.11.24-19.05.51:627][447]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (276)
+[2017.11.24-19.05.51:627][447]LogModuleManager: Shutting down and abandoning module Paper2DEditor (274)
+[2017.11.24-19.05.51:627][447]LogModuleManager: Shutting down and abandoning module MeshPaint (273)
+[2017.11.24-19.05.51:627][447]LogModuleManager: Shutting down and abandoning module LevelEditor (271)
+[2017.11.24-19.05.51:627][447]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (270)
+[2017.11.24-19.05.51:627][447]LogModuleManager: Shutting down and abandoning module MainFrame (268)
+[2017.11.24-19.05.51:627][447]LogModuleManager: Shutting down and abandoning module HotReload (267)
+[2017.11.24-19.05.51:627][447]LogDirectoryWatcher: A directory notification for 'D:/Documents/Uni/VGD/Puzzle-Island-VGD/Puzzle_Island/Binaries/Win64' was aborted.
+[2017.11.24-19.05.51:628][447]LogModuleManager: Shutting down and abandoning module Puzzle_Island (262)
+[2017.11.24-19.05.51:628][447]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2017.11.24-19.05.51:628][447]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2017.11.24-19.05.51:628][447]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2017.11.24-19.05.51:628][447]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2017.11.24-19.05.51:628][447]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2017.11.24-19.05.51:628][447]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2017.11.24-19.05.51:628][447]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2017.11.24-19.05.51:628][447]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2017.11.24-19.05.51:729][447]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2017.11.24-19.05.51:831][447]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2017.11.24-19.05.51:877][447]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2017.11.24-19.05.51:877][447]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2017.11.24-19.05.51:877][447]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2017.11.24-19.05.51:877][447]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2017.11.24-19.05.51:877][447]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2017.11.24-19.05.51:879][447]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2017.11.24-19.05.51:879][447]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2017.11.24-19.05.51:879][447]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2017.11.24-19.05.51:879][447]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2017.11.24-19.05.51:879][447]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2017.11.24-19.05.51:879][447]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2017.11.24-19.05.51:879][447]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2017.11.24-19.05.51:883][447]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2017.11.24-19.05.51:883][447]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2017.11.24-19.05.51:883][447]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2017.11.24-19.05.51:883][447]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2017.11.24-19.05.51:901][447]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2017.11.24-19.05.51:910][447]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2017.11.24-19.05.51:910][447]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2017.11.24-19.05.51:931][447]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2017.11.24-19.05.51:932][447]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2017.11.24-19.05.51:932][447]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2017.11.24-19.05.51:932][447]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2017.11.24-19.05.51:932][447]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2017.11.24-19.05.51:945][447]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2017.11.24-19.05.51:957][447]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2017.11.24-19.05.51:957][447]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2017.11.24-19.05.51:975][447]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2017.11.24-19.05.51:975][447]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2017.11.24-19.05.51:977][447]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2017.11.24-19.05.51:977][447]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2017.11.24-19.05.51:977][447]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2017.11.24-19.05.51:977][447]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2017.11.24-19.05.51:977][447]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2017.11.24-19.05.51:977][447]LogModuleManager: Shutting down and abandoning module Core (168)
+[2017.11.24-19.05.51:977][447]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.11.24-19.05.51:977][447]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2017.11.24-19.05.51:977][447]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2017.11.24-19.05.51:977][447]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2017.11.24-19.05.51:991][447]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2017.11.24-19.05.51:991][447]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2017.11.24-19.05.52:001][447]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2017.11.24-19.05.52:001][447]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2017.11.24-19.05.52:002][447]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2017.11.24-19.05.52:002][447]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2017.11.24-19.05.52:008][447]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2017.11.24-19.05.52:022][447]LogDerivedDataCache: Shutdown
+[2017.11.24-19.05.52:022][447]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2017.11.24-19.05.52:022][447]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2017.11.24-19.05.52:022][447]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2017.11.24-19.05.52:032][447]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2017.11.24-19.05.52:041][447]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2017.11.24-19.05.52:041][447]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2017.11.24-19.05.52:058][447]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2017.11.24-19.05.52:058][447]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2017.11.24-19.05.52:058][447]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2017.11.24-19.05.52:058][447]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2017.11.24-19.05.52:058][447]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2017.11.24-19.05.52:058][447]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2017.11.24-19.05.52:058][447]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2017.11.24-19.05.52:058][447]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2017.11.24-19.05.52:058][447]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2017.11.24-19.05.52:058][447]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2017.11.24-19.05.52:058][447]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2017.11.24-19.05.52:058][447]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2017.11.24-19.05.52:059][447]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2017.11.24-19.05.52:059][447]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2017.11.24-19.05.52:059][447]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2017.11.24-19.05.52:059][447]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2017.11.24-19.05.52:059][447]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2017.11.24-19.05.52:059][447]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2017.11.24-19.05.52:059][447]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2017.11.24-19.05.52:059][447]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2017.11.24-19.05.52:059][447]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2017.11.24-19.05.52:059][447]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2017.11.24-19.05.52:059][447]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2017.11.24-19.05.52:059][447]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2017.11.24-19.05.52:059][447]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2017.11.24-19.05.52:059][447]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2017.11.24-19.05.52:059][447]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2017.11.24-19.05.52:059][447]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2017.11.24-19.05.52:059][447]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2017.11.24-19.05.52:059][447]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2017.11.24-19.05.52:059][447]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2017.11.24-19.05.52:059][447]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2017.11.24-19.05.52:059][447]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2017.11.24-19.05.52:059][447]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2017.11.24-19.05.52:059][447]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2017.11.24-19.05.52:059][447]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2017.11.24-19.05.52:059][447]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2017.11.24-19.05.52:059][447]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2017.11.24-19.05.52:059][447]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2017.11.24-19.05.52:059][447]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2017.11.24-19.05.52:059][447]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2017.11.24-19.05.52:059][447]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.11.24-19.05.52:059][447]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.11.24-19.05.52:059][447]LogOnline: Display: Unloading online subsystem: NULL
+[2017.11.24-19.05.52:085][447]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.11.24-19.05.52:102][447]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.11.24-19.05.52:102][447]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.11.24-19.05.52:102][447]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB0168D49-496C-E269-F4C3-31A7E76370EF%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=5af76ab743f8e4bde41cea986150be9d%7C11f1a39b465940bea4ddb0229619e8bc%7Ce37f163a-0c47-4d7a-a884-3eb831fb3649&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.11.24-19.05.52:116][447]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.11.24-19.05.52:119][447]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.11.24-19.05.52:119][447]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.11.24-19.05.52:119][447]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.11.24-19.05.52:166][447]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.11.24-19.05.52:166][447]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.11.24-19.05.52:166][447]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.11.24-19.05.52:166][447]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.11.24-19.05.52:183][447]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.11.24-19.05.52:195][447]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.11.24-19.05.52:195][447]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.11.24-19.05.52:195][447]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.11.24-19.05.52:195][447]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.11.24-19.05.52:195][447]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.11.24-19.05.52:195][447]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.11.24-19.05.52:195][447]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.11.24-19.05.52:195][447]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.11.24-19.05.52:195][447]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.11.24-19.05.52:195][447]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.11.24-19.05.52:198][447]LogExit: Exiting.
+[2017.11.24-19.05.52:237][447]Log file closed, 11/24/17 19:05:52
+>>>>>>> JamesBranch
