@@ -23,9 +23,9 @@
 /wd4838
 /w44668
 /I "C:\Program Files\Epic Games\UE_4.17\Engine\Source"
-/I D:\Education\Uniwersytet\Year3\VGD\Puzzle-Island-VGD\Puzzle_Island\Source
-/I D:\Education\Uniwersytet\Year3\VGD\Puzzle-Island-VGD\Puzzle_Island\Intermediate\Build\Win64\UE4Editor\Inc\Puzzle_Island
-/I D:\Education\Uniwersytet\Year3\VGD\Puzzle-Island-VGD\Puzzle_Island\Source\Puzzle_Island
+/I C:\Users\2siewj44\Desktop\Puzzle-Island-VGD\Puzzle_Island\Source
+/I C:\Users\2siewj44\Desktop\Puzzle-Island-VGD\Puzzle_Island\Intermediate\Build\Win64\UE4Editor\Inc\Puzzle_Island
+/I C:\Users\2siewj44\Desktop\Puzzle-Island-VGD\Puzzle_Island\Source\Puzzle_Island
 /I "C:\Program Files\Epic Games\UE_4.17\Engine\Source\Runtime\Core\Public"
 /I "C:\Program Files\Epic Games\UE_4.17\Engine\Source\Runtime\Core\Public\Internationalization"
 /I "C:\Program Files\Epic Games\UE_4.17\Engine\Source\Runtime\Core\Public\Async"
@@ -355,9 +355,9 @@
 /FI"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Yu"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Fp"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.pch"
-"D:\Education\Uniwersytet\Year3\VGD\Puzzle-Island-VGD\Puzzle_Island\Intermediate\Build\Win64\UE4Editor\Inc\Puzzle_Island\Puzzle_IslandGameMode.gen.cpp"
-/FI"D:\Education\Uniwersytet\Year3\VGD\Puzzle-Island-VGD\Puzzle_Island\Intermediate\Build\Win64\UE4Editor\Development\Puzzle_Island\Definitions.Puzzle_Island.h"
-/Fo"D:\Education\Uniwersytet\Year3\VGD\Puzzle-Island-VGD\Puzzle_Island\Intermediate\Build\Win64\UE4Editor\Development\Puzzle_Island\Puzzle_IslandGameMode.gen.cpp.obj"
+"C:\Users\2siewj44\Desktop\Puzzle-Island-VGD\Puzzle_Island\Intermediate\Build\Win64\UE4Editor\Inc\Puzzle_Island\Puzzle_IslandGameMode.gen.cpp"
+/FI"C:\Users\2siewj44\Desktop\Puzzle-Island-VGD\Puzzle_Island\Intermediate\Build\Win64\UE4Editor\Development\Puzzle_Island\Definitions.Puzzle_Island.h"
+/Fo"C:\Users\2siewj44\Desktop\Puzzle-Island-VGD\Puzzle_Island\Intermediate\Build\Win64\UE4Editor\Development\Puzzle_Island\Puzzle_IslandGameMode.gen.cpp.obj"
 /TP
 /GR-
 /W4
