@@ -12,4 +12,6 @@ APuzzle_IslandGameMode::APuzzle_IslandGameMode()
 	{
 		DefaultPawnClass = PlayerPawnBPClass.Class;
 	}
+
+	HUDClass = PlayerHUD::StaticClass();
 }
