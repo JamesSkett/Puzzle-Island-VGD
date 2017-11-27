@@ -1,18 +1,18 @@
 ------------------
 System Information
 ------------------
-      Time of this report: 11/24/2017, 13:22:31
-             Machine name: W62250
-               Machine Id: {83EB6F87-B3E7-47BD-96D1-6CC3AE2564FD}
+      Time of this report: 11/27/2017, 17:11:27
+             Machine name: W62162
+               Machine Id: {D1FECA8A-448F-44F6-9290-4924E9D3A724}
          Operating System: Windows 10 Education 64-bit (10.0, Build 15063) (15063.rs2_release.170317-1834)
                  Language: English (Regional Setting: English)
       System Manufacturer: Alienware
              System Model: Aurora-R4
-                     BIOS: BIOS Date: 10/26/12 12:23:22 Ver: 04.06.05
+                     BIOS: BIOS Date: 11/26/13 14:42:56 Ver: 04.06.05
                 Processor: Intel(R) Core(TM) i7-3820 CPU @ 3.60GHz (8 CPUs), ~3.6GHz
-                   Memory: 8192MB RAM
-      Available OS Memory: 8108MB RAM
-                Page File: 6791MB used, 2596MB available
+                   Memory: 16384MB RAM
+      Available OS Memory: 16302MB RAM
+                Page File: 8437MB used, 10296MB available
               Windows Dir: C:\windows
           DirectX Version: DirectX 12
       DX Setup Parameters: Not found
@@ -45,27 +45,27 @@ DirectShow:  0/6 (retail)
 ---------------
 Display Devices
 ---------------
-          Card name: NVIDIA GeForce GTX 660
+          Card name: NVIDIA GeForce GTX 760
        Manufacturer: NVIDIA
-          Chip type: GeForce GTX 660
+          Chip type: GeForce GTX 760
            DAC type: Integrated RAMDAC
         Device Type: Full Device
-         Device Key: Enum\PCI\VEN_10DE&DEV_1185&SUBSYS_098A10DE&REV_A1
+         Device Key: Enum\PCI\VEN_10DE&DEV_1185&SUBSYS_106F10DE&REV_A1
       Device Status: 0180200A [DN_DRIVER_LOADED|DN_STARTED|DN_DISABLEABLE|DN_NT_ENUMERATOR|DN_NT_DRIVER] 
 Device Problem Code: No Problem
 Driver Problem Code: Unknown
-     Display Memory: 5560 MB
+     Display Memory: 9657 MB
    Dedicated Memory: 1506 MB
-      Shared Memory: 4054 MB
+      Shared Memory: 8151 MB
        Current Mode: 1920 x 1200 (32 bit) (59Hz)
        Monitor Name: Generic PnP Monitor
       Monitor Model: DELL U2412M
          Monitor Id: DELA07A
         Native Mode: 1920 x 1200(p) (59.950Hz)
         Output Type: DVI
-        Driver Name: C:\windows\System32\DriverStore\FileRepository\nv_desktop_ref4wu.inf_amd64_0109a19b5125cb43\nvldumdx.dll,C:\windows\System32\DriverStore\FileRepository\nv_desktop_ref4wu.inf_amd64_0109a19b5125cb43\nvldumdx.dll,C:\windows\System32\DriverStore\FileRepository\nv_desktop_ref4wu.inf_amd64_0109a19b5125cb43\nvldumdx.dll,C:\windows\System32\DriverStore\FileRepository\nv_desktop_ref4wu.inf_amd64_0109a19b5125cb43\nvldumdx.dll
-Driver File Version: 23.21.0013.8813 (English)
-     Driver Version: 23.21.13.8813
+        Driver Name: C:\windows\System32\DriverStore\FileRepository\nvddi.inf_amd64_4d6d61f42568bcce\nvldumdx.dll,C:\windows\System32\DriverStore\FileRepository\nvddi.inf_amd64_4d6d61f42568bcce\nvldumdx.dll,C:\windows\System32\DriverStore\FileRepository\nvddi.inf_amd64_4d6d61f42568bcce\nvldumdx.dll,C:\windows\System32\DriverStore\FileRepository\nvddi.inf_amd64_4d6d61f42568bcce\nvldumdx.dll
+Driver File Version: 22.21.0013.8541 (English)
+     Driver Version: 22.21.13.8541
         DDI Version: 12
      Feature Levels: 11_0,10_1,10_0,9_3,9_2,9_1
        Driver Model: WDDM 2.2
@@ -75,18 +75,18 @@ Graphics Preemption: DMA
 Hybrid Graphics GPU: Not Supported
      Power P-states: Not Supported
   Driver Attributes: Final Retail
-   Driver Date/Size: 27/10/2017 00:00:00, 945080 bytes
+   Driver Date/Size: 21/08/2017 00:00:00, 893272 bytes
         WHQL Logo'd: Yes
     WHQL Date Stamp: Unknown
-  Device Identifier: {D7B71E3E-52C5-11CF-0351-87291BC2DA35}
+  Device Identifier: {D7B71E3E-52C5-11CF-3352-62301BC2DB35}
           Vendor ID: 0x10DE
           Device ID: 0x1185
-          SubSys ID: 0x098A10DE
+          SubSys ID: 0x106F10DE
         Revision ID: 0x00A1
- Driver Strong Name: oem65.inf:0f066de3385246e2:Section004:23.21.13.8813:pci\ven_10de&dev_1185&subsys_098a10de
+ Driver Strong Name: oem15.inf:0f066de36674a01f:Section034:22.21.13.8541:pci\ven_10de&dev_1185&subsys_106f10de
      Rank Of Driver: 00D10001
         Video Accel: ModeMPEG2_A ModeMPEG2_C ModeVC1_C ModeWMV9_C 
-        DXVA2 Modes: DXVA2_ModeMPEG2_VLD  DXVA2_ModeMPEG2_IDCT  DXVA2_ModeVC1_D2010  DXVA2_ModeVC1_VLD  DXVA2_ModeVC1_IDCT  DXVA2_ModeWMV9_IDCT  DXVA2_ModeH264_VLD_Stereo_Progressive_NoFGT  DXVA2_ModeH264_VLD_Stereo_NoFGT  DXVA2_ModeH264_VLD_NoFGT  DXVA2_ModeHEVC_VLD_Main  DXVA2_ModeMPEG4pt2_VLD_Simple  DXVA2_ModeMPEG4pt2_VLD_AdvSimple_NoGMC  
+        DXVA2 Modes: DXVA2_ModeMPEG2_IDCT  DXVA2_ModeMPEG2_VLD  DXVA2_ModeVC1_D2010  DXVA2_ModeVC1_VLD  DXVA2_ModeVC1_IDCT  DXVA2_ModeWMV9_IDCT  DXVA2_ModeH264_VLD_Stereo_Progressive_NoFGT  DXVA2_ModeH264_VLD_Stereo_NoFGT  DXVA2_ModeH264_VLD_NoFGT  DXVA2_ModeHEVC_VLD_Main  DXVA2_ModeMPEG4pt2_VLD_Simple  DXVA2_ModeMPEG4pt2_VLD_AdvSimple_NoGMC  
    Deinterlace Caps: {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
                      {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
                      {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
@@ -225,32 +225,16 @@ USB Devices
 | | Driver: usbhub.sys, 9/30/2017 05:45:54, 511896 bytes
 | | Driver: usbd.sys, 3/18/2017 20:56:35, 32160 bytes
 | | 
-| +-+ USB Input Device
-| | | Vendor/Product ID: 0x0461, 0x4D65
-| | | Location: Port_#0001.Hub_#0005
-| | | Matching Device ID: USB\Class_03&SubClass_01
-| | | Service: HidUsb
-| | | Driver: hidusb.sys, 3/18/2017 20:56:35, 40960 bytes
-| | | Driver: hidclass.sys, 3/18/2017 20:56:35, 180736 bytes
-| | | Driver: hidparse.sys, 3/18/2017 20:56:35, 40960 bytes
-| | | 
-| | +-+ HID-compliant mouse
-| | | | Vendor/Product ID: 0x0461, 0x4D65
-| | | | Matching Device ID: HID_DEVICE_SYSTEM_MOUSE
-| | | | Service: mouhid
-| | | | Driver: mouhid.sys, 3/18/2017 20:56:35, 33280 bytes
-| | | | Driver: mouclass.sys, 3/18/2017 20:56:35, 60320 bytes
-| | | 
 | +-+ USB Composite Device
 | | | Vendor/Product ID: 0x04CA, 0x0027
-| | | Location: Port_#0003.Hub_#0005
+| | | Location: Port_#0001.Hub_#0005
 | | | Matching Device ID: USB\COMPOSITE
 | | | Service: usbccgp
 | | | Driver: usbccgp.sys, 9/30/2017 05:40:03, 173976 bytes
 | | | 
 | | +-+ USB Input Device
 | | | | Vendor/Product ID: 0x04CA, 0x0027
-| | | | Location: 0000.001d.0000.001.003.000.000.000.000
+| | | | Location: 0000.001d.0000.001.001.000.000.000.000
 | | | | Matching Device ID: USB\Class_03&SubClass_01
 | | | | Service: HidUsb
 | | | | Driver: hidusb.sys, 3/18/2017 20:56:35, 40960 bytes
@@ -263,6 +247,22 @@ USB Devices
 | | | | | Service: kbdhid
 | | | | | Driver: kbdhid.sys, 3/18/2017 20:56:35, 40448 bytes
 | | | | | Driver: kbdclass.sys, 3/18/2017 20:56:35, 64416 bytes
+| | | 
+| +-+ USB Input Device
+| | | Vendor/Product ID: 0x0461, 0x4D65
+| | | Location: Port_#0002.Hub_#0005
+| | | Matching Device ID: USB\Class_03&SubClass_01
+| | | Service: HidUsb
+| | | Driver: hidusb.sys, 3/18/2017 20:56:35, 40960 bytes
+| | | Driver: hidclass.sys, 3/18/2017 20:56:35, 180736 bytes
+| | | Driver: hidparse.sys, 3/18/2017 20:56:35, 40960 bytes
+| | | 
+| | +-+ HID-compliant mouse
+| | | | Vendor/Product ID: 0x0461, 0x4D65
+| | | | Matching Device ID: HID_DEVICE_SYSTEM_MOUSE
+| | | | Service: mouhid
+| | | | Driver: mouhid.sys, 3/18/2017 20:56:35, 33280 bytes
+| | | | Driver: mouclass.sys, 3/18/2017 20:56:35, 60320 bytes
 
 ----------------
 Gameport Devices
@@ -487,7 +487,6 @@ Media Foundation Transforms
   <transform friendly name>, <transform CLSID>, <flags>, [<merit>, ]<file name>, <file version>
 
 Video Decoders:
-  NVIDIA MJPEG Video Decoder MFT, {70F36578-2741-454F-B494-E8563DDD1CB4}, 0x4, 8, nvDecMFTMjpeg.dll, 23.21.0013.8813
   Microsoft MPEG Video Decoder MFT, {2D709E52-123F-49B5-9CBC-9AF5CDE28FB9}, 0x1, msmpeg2vdec.dll, 10.00.15063.0000
   DV Decoder MFT, {404A6DE5-D4D6-4260-9BC7-5A6CBD882432}, 0x1, mfdvdec.dll, 10.00.15063.0000
   Microsoft H265 Video Decoder MFT, {420A51A3-D605-430C-B4FC-45274FA6C562}, 0x1, hevcdecoder.dll, 10.00.15063.0000
@@ -500,7 +499,7 @@ Video Decoders:
   Microsoft WebM MF VP8 Decoder Transform, {E3AAF548-C9A4-4C6E-234D-5ADA374B0000}, 0x1, MSVP9DEC.dll, 10.00.15063.0000
   Mpeg4 Decoder MFT, CLSID_CMpeg4DecMediaObject, 0x1, mpg4decd.dll, 10.00.15063.0000
 Video Encoders:
-  NVIDIA H.264 Encoder MFT, {60F44560-5A20-4857-BFEF-D29773CB8040}, 0x4, 8, nvEncMFTH264.dll, 23.21.0013.8813
+  NVIDIA H.264 Encoder MFT, {60F44560-5A20-4857-BFEF-D29773CB8040}, 0x4, 8, nvEncMFTH264.dll, 22.21.0013.8541
   H264 Encoder MFT, {6CA50344-051A-4DED-9779-A43305165E35}, 0x1, mfh264enc.dll, 10.00.15063.0000
   WMVideo8 Encoder MFT, CLSID_CWMVXEncMediaObject, 0x1, wmvxencd.dll, 10.00.15063.0000
   Microsoft MF VPX Encoder Transform, {AEB6C755-2546-4881-82CC-E15AE5EBFF3D}, 0x1, MSVPXENC.dll, 10.00.15063.0675
@@ -561,7 +560,6 @@ Media Foundation Enabled Hardware Categories
 
 [HKEY_LOCAL_MACHINE\Software\Microsoft\Windows Media Foundation\HardwareMFT]
 
-EnableDecoders = 1
 EnableEncoders = 1
 
 
@@ -815,116 +813,116 @@ Diagnostics
 
 Windows Error Reporting:
 +++ WER0 +++:
-Fault bucket 85952069954, type 4
-Event Name: APPCRASH
+Fault bucket 133570438906, type 5
+Event Name: MoAppCrash
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: Pen_Tablet.exe
-P2: 5.3.5.3
-P3: 53f3a0b7
-P4: Pen_Tablet.exe
-P5: 5.3.5.3
-P6: 53f3a0b7
-P7: c0000005
-P8: 0000000000281798
-P9: 
+P1: Microsoft.Windows.ShellExperienceHost_10.0.15063.675_neutral_neutral_cw5n1h2txyewy
+P2: praid:App
+P3: 10.0.15063.0
+P4: 58ccbd2e
+P5: combase.dll
+P6: 10.0.15063.608
+P7: b66dc19d
+P8: 80004005
+P9: 0000000000021bd9
 P10: 
 
 
 +++ WER1 +++:
-Fault bucket , type 0
-Event Name: APPCRASH
+Fault bucket 133570438906, type 5
+Event Name: MoAppCrash
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: Pen_Tablet.exe
-P2: 5.3.5.3
-P3: 53f3a0b7
-P4: Pen_Tablet.exe
-P5: 5.3.5.3
-P6: 53f3a0b7
-P7: c0000005
-P8: 0000000000281798
-P9: 
+P1: Microsoft.Windows.ShellExperienceHost_10.0.15063.675_neutral_neutral_cw5n1h2txyewy
+P2: praid:App
+P3: 10.0.15063.0
+P4: 58ccbd2e
+P5: combase.dll
+P6: 10.0.15063.608
+P7: b66dc19d
+P8: 80004005
+P9: 0000000000021bd9
 P10: 
 
 
 +++ WER2 +++:
-Fault bucket 128044571752, type 5
-Event Name: WindowsUpdateFailure3
+Fault bucket 133570438906, type 5
+Event Name: MoAppCrash
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: 10.0.15063.674
-P2: 8024401c
-P3: 00000000-0000-0000-0000-000000000000
-P4: Scan
-P5: 0
-P6: 0
-P7: 0
-P8: UpdateOrchestrator
-P9: {3DA21691-E39D-4DA6-8A4B-B43877BCB1B7}
-P10: 0
+P1: Microsoft.Windows.ShellExperienceHost_10.0.15063.675_neutral_neutral_cw5n1h2txyewy
+P2: praid:App
+P3: 10.0.15063.0
+P4: 58ccbd2e
+P5: combase.dll
+P6: 10.0.15063.608
+P7: b66dc19d
+P8: 80004005
+P9: 0000000000021bd9
+P10: 
 
 
 +++ WER3 +++:
-Fault bucket , type 0
-Event Name: WindowsUpdateFailure3
+Fault bucket 133570438906, type 5
+Event Name: MoAppCrash
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: 10.0.15063.674
-P2: 8024401c
-P3: 00000000-0000-0000-0000-000000000000
-P4: Scan
-P5: 0
-P6: 0
-P7: 0
-P8: UpdateOrchestrator
-P9: {3DA21691-E39D-4DA6-8A4B-B43877BCB1B7}
-P10: 0
+P1: Microsoft.Windows.ShellExperienceHost_10.0.15063.675_neutral_neutral_cw5n1h2txyewy
+P2: praid:App
+P3: 10.0.15063.0
+P4: 58ccbd2e
+P5: combase.dll
+P6: 10.0.15063.608
+P7: b66dc19d
+P8: 80004005
+P9: 0000000000021bd9
+P10: 
 
 
 +++ WER4 +++:
-Fault bucket , type 0
-Event Name: WindowsUpdateFailure3
+Fault bucket 133570438906, type 5
+Event Name: MoAppCrash
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: 10.0.15063.674
-P2: 8024401c
-P3: 00000000-0000-0000-0000-000000000000
-P4: Scan
-P5: 0
-P6: 0
-P7: 0
-P8: UpdateOrchestrator
-P9: {3DA21691-E39D-4DA6-8A4B-B43877BCB1B7}
-P10: 0
+P1: Microsoft.Windows.ShellExperienceHost_10.0.15063.675_neutral_neutral_cw5n1h2txyewy
+P2: praid:App
+P3: 10.0.15063.0
+P4: 58ccbd2e
+P5: combase.dll
+P6: 10.0.15063.608
+P7: b66dc19d
+P8: 80004005
+P9: 0000000000021bd9
+P10: 
 
 
 +++ WER5 +++:
-Fault bucket 2266448249131768147, type 5
+Fault bucket 1851259525166993883, type 5
 Event Name: WindowsUpdateFailure3
 Response: Not available
 Cab Id: 0
 
 Problem signature:
 P1: 10.0.15063.674
-P2: 80070643
-P3: 4CF1AC00-675D-4C03-AED3-61F600104115
+P2: 80070005
+P3: 36E847BF-AAB4-41D4-BC84-CA55441D91DB
 P4: Install
-P5: 200
+P5: 1
 P6: 0
-P7: 80509004
-P8: Windows Defender Antivirus (77BDAF73-B396-481F-9042-AD358843EC24)
-P9: {9482F4B4-E343-43B6-B170-9A65BC822C77}
+P7: 0
+P8: Update;taskhostw
+P9: {855E8A7C-ECB4-4CA3-B045-1DFA50104289}
 P10: 0
 
 
@@ -936,14 +934,14 @@ Cab Id: 0
 
 Problem signature:
 P1: 10.0.15063.674
-P2: 80070643
-P3: 4CF1AC00-675D-4C03-AED3-61F600104115
+P2: 80070005
+P3: 36E847BF-AAB4-41D4-BC84-CA55441D91DB
 P4: Install
-P5: 200
+P5: 1
 P6: 0
-P7: 80509004
-P8: Windows Defender Antivirus (77BDAF73-B396-481F-9042-AD358843EC24)
-P9: {9482F4B4-E343-43B6-B170-9A65BC822C77}
+P7: 0
+P8: Update;taskhostw
+P9: {855E8A7C-ECB4-4CA3-B045-1DFA50104289}
 P10: 0
 
 
@@ -955,50 +953,50 @@ Cab Id: 0
 
 Problem signature:
 P1: 10.0.15063.674
-P2: 80070643
-P3: 4CF1AC00-675D-4C03-AED3-61F600104115
+P2: 80070005
+P3: 36E847BF-AAB4-41D4-BC84-CA55441D91DB
 P4: Install
-P5: 200
+P5: 1
 P6: 0
-P7: 80509004
-P8: Windows Defender Antivirus (77BDAF73-B396-481F-9042-AD358843EC24)
-P9: {9482F4B4-E343-43B6-B170-9A65BC822C77}
+P7: 0
+P8: Update;taskhostw
+P9: {855E8A7C-ECB4-4CA3-B045-1DFA50104289}
 P10: 0
 
 
 +++ WER8 +++:
-Fault bucket 127930299139, type 5
-Event Name: MpTelemetry
+Fault bucket 128045396439, type 5
+Event Name: AppxDeploymentFailureBlue
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: unspecified
-P2: HardeningTelemetry
-P3: HardeningTelemetryDisableAS
-P4: 4.11.15063.447
-P5: unspecified
-P6: unspecified
-P7: unspecified
+P1: 80070005
+P2: 16
+P3: 3
+P4: windows.stateExtension
+P5: 10.0.15063.674
+P6: 5252
+P7: 
 P8: 
 P9: 
 P10: 
 
 
 +++ WER9 +++:
-Fault bucket 127989740066, type 5
-Event Name: MpTelemetry
+Fault bucket , type 0
+Event Name: AppxDeploymentFailureBlue
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: 0x80509004
-P2: ValidateUpdate
-P3: N/A
-P4: 1.1.14146.0
-P5: mpsigstub.exe
-P6: 4.11.15063.447
-P7: Microsoft Windows Defender (RS1+)
+P1: 80070005
+P2: 16
+P3: 3
+P4: windows.stateExtension
+P5: 10.0.15063.674
+P6: 5252
+P7: 
 P8: 
 P9: 
 P10: 
