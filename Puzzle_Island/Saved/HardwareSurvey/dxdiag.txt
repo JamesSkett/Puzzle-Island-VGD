@@ -1,18 +1,18 @@
 ------------------
 System Information
 ------------------
-      Time of this report: 11/27/2017, 17:42:03
-             Machine name: W62164
-               Machine Id: {F911704D-F0B2-4822-AB19-AC654D77A0B9}
+      Time of this report: 11/24/2017, 13:22:31
+             Machine name: W62250
+               Machine Id: {83EB6F87-B3E7-47BD-96D1-6CC3AE2564FD}
          Operating System: Windows 10 Education 64-bit (10.0, Build 15063) (15063.rs2_release.170317-1834)
                  Language: English (Regional Setting: English)
       System Manufacturer: Alienware
              System Model: Aurora-R4
-                     BIOS: BIOS Date: 11/26/13 14:42:56 Ver: 04.06.05
+                     BIOS: BIOS Date: 10/26/12 12:23:22 Ver: 04.06.05
                 Processor: Intel(R) Core(TM) i7-3820 CPU @ 3.60GHz (8 CPUs), ~3.6GHz
-                   Memory: 16384MB RAM
-      Available OS Memory: 16302MB RAM
-                Page File: 7398MB used, 11335MB available
+                   Memory: 8192MB RAM
+      Available OS Memory: 8108MB RAM
+                Page File: 6791MB used, 2596MB available
               Windows Dir: C:\windows
           DirectX Version: DirectX 12
       DX Setup Parameters: Not found
@@ -54,9 +54,9 @@ Display Devices
       Device Status: 0180200A [DN_DRIVER_LOADED|DN_STARTED|DN_DISABLEABLE|DN_NT_ENUMERATOR|DN_NT_DRIVER] 
 Device Problem Code: No Problem
 Driver Problem Code: Unknown
-     Display Memory: 9657 MB
+     Display Memory: 5560 MB
    Dedicated Memory: 1506 MB
-      Shared Memory: 8151 MB
+      Shared Memory: 4054 MB
        Current Mode: 1920 x 1200 (32 bit) (59Hz)
        Monitor Name: Generic PnP Monitor
       Monitor Model: DELL U2412M
@@ -83,7 +83,7 @@ Hybrid Graphics GPU: Not Supported
           Device ID: 0x1185
           SubSys ID: 0x098A10DE
         Revision ID: 0x00A1
- Driver Strong Name: oem66.inf:0f066de3385246e2:Section004:23.21.13.8813:pci\ven_10de&dev_1185&subsys_098a10de
+ Driver Strong Name: oem65.inf:0f066de3385246e2:Section004:23.21.13.8813:pci\ven_10de&dev_1185&subsys_098a10de
      Rank Of Driver: 00D10001
         Video Accel: ModeMPEG2_A ModeMPEG2_C ModeVC1_C ModeWMV9_C 
         DXVA2 Modes: DXVA2_ModeMPEG2_VLD  DXVA2_ModeMPEG2_IDCT  DXVA2_ModeVC1_D2010  DXVA2_ModeVC1_VLD  DXVA2_ModeVC1_IDCT  DXVA2_ModeWMV9_IDCT  DXVA2_ModeH264_VLD_Stereo_Progressive_NoFGT  DXVA2_ModeH264_VLD_Stereo_NoFGT  DXVA2_ModeH264_VLD_NoFGT  DXVA2_ModeHEVC_VLD_Main  DXVA2_ModeMPEG4pt2_VLD_Simple  DXVA2_ModeMPEG4pt2_VLD_AdvSimple_NoGMC  
@@ -225,6 +225,22 @@ USB Devices
 | | Driver: usbhub.sys, 9/30/2017 05:45:54, 511896 bytes
 | | Driver: usbd.sys, 3/18/2017 20:56:35, 32160 bytes
 | | 
+| +-+ USB Input Device
+| | | Vendor/Product ID: 0x0461, 0x4D65
+| | | Location: Port_#0001.Hub_#0005
+| | | Matching Device ID: USB\Class_03&SubClass_01
+| | | Service: HidUsb
+| | | Driver: hidusb.sys, 3/18/2017 20:56:35, 40960 bytes
+| | | Driver: hidclass.sys, 3/18/2017 20:56:35, 180736 bytes
+| | | Driver: hidparse.sys, 3/18/2017 20:56:35, 40960 bytes
+| | | 
+| | +-+ HID-compliant mouse
+| | | | Vendor/Product ID: 0x0461, 0x4D65
+| | | | Matching Device ID: HID_DEVICE_SYSTEM_MOUSE
+| | | | Service: mouhid
+| | | | Driver: mouhid.sys, 3/18/2017 20:56:35, 33280 bytes
+| | | | Driver: mouclass.sys, 3/18/2017 20:56:35, 60320 bytes
+| | | 
 | +-+ USB Composite Device
 | | | Vendor/Product ID: 0x04CA, 0x0027
 | | | Location: Port_#0003.Hub_#0005
@@ -247,22 +263,6 @@ USB Devices
 | | | | | Service: kbdhid
 | | | | | Driver: kbdhid.sys, 3/18/2017 20:56:35, 40448 bytes
 | | | | | Driver: kbdclass.sys, 3/18/2017 20:56:35, 64416 bytes
-| | | 
-| +-+ USB Input Device
-| | | Vendor/Product ID: 0x0461, 0x4D65
-| | | Location: Port_#0004.Hub_#0005
-| | | Matching Device ID: USB\Class_03&SubClass_01
-| | | Service: HidUsb
-| | | Driver: hidusb.sys, 3/18/2017 20:56:35, 40960 bytes
-| | | Driver: hidclass.sys, 3/18/2017 20:56:35, 180736 bytes
-| | | Driver: hidparse.sys, 3/18/2017 20:56:35, 40960 bytes
-| | | 
-| | +-+ HID-compliant mouse
-| | | | Vendor/Product ID: 0x0461, 0x4D65
-| | | | Matching Device ID: HID_DEVICE_SYSTEM_MOUSE
-| | | | Service: mouhid
-| | | | Driver: mouhid.sys, 3/18/2017 20:56:35, 33280 bytes
-| | | | Driver: mouclass.sys, 3/18/2017 20:56:35, 60320 bytes
 
 ----------------
 Gameport Devices
@@ -853,153 +853,153 @@ P10:
 
 
 +++ WER2 +++:
-Fault bucket 116470396462, type 5
-Event Name: BEX64
+Fault bucket 128044571752, type 5
+Event Name: WindowsUpdateFailure3
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: NVDisplay.Container.exe
-P2: 1.2.0.0
-P3: 59f35da7
-P4: nvxdsyncplugin.dll_unloaded
-P5: 8.17.13.8813
-P6: 59f35207
-P7: 000000000006513d
-P8: c0000005
-P9: 0000000000000008
-P10: 
+P1: 10.0.15063.674
+P2: 8024401c
+P3: 00000000-0000-0000-0000-000000000000
+P4: Scan
+P5: 0
+P6: 0
+P7: 0
+P8: UpdateOrchestrator
+P9: {3DA21691-E39D-4DA6-8A4B-B43877BCB1B7}
+P10: 0
 
 
 +++ WER3 +++:
 Fault bucket , type 0
-Event Name: BEX64
+Event Name: WindowsUpdateFailure3
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: NVDisplay.Container.exe
-P2: 1.2.0.0
-P3: 59f35da7
-P4: nvxdsyncplugin.dll_unloaded
-P5: 8.17.13.8813
-P6: 59f35207
-P7: 000000000006513d
-P8: c0000005
-P9: 0000000000000008
-P10: 
+P1: 10.0.15063.674
+P2: 8024401c
+P3: 00000000-0000-0000-0000-000000000000
+P4: Scan
+P5: 0
+P6: 0
+P7: 0
+P8: UpdateOrchestrator
+P9: {3DA21691-E39D-4DA6-8A4B-B43877BCB1B7}
+P10: 0
 
 
 +++ WER4 +++:
 Fault bucket , type 0
-Event Name: LiveKernelEvent
+Event Name: WindowsUpdateFailure3
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: 141
-P2: ffffa78c0403e010
-P3: fffff800bd41e0bc
-P4: 0
-P5: 6a8
-P6: 10_0_15063
-P7: 0_0
-P8: 256_1
-P9: 
-P10: 
+P1: 10.0.15063.674
+P2: 8024401c
+P3: 00000000-0000-0000-0000-000000000000
+P4: Scan
+P5: 0
+P6: 0
+P7: 0
+P8: UpdateOrchestrator
+P9: {3DA21691-E39D-4DA6-8A4B-B43877BCB1B7}
+P10: 0
 
 
 +++ WER5 +++:
-Fault bucket , type 0
-Event Name: LiveKernelEvent
+Fault bucket 2266448249131768147, type 5
+Event Name: WindowsUpdateFailure3
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: 141
-P2: ffffa78c0403e010
-P3: fffff800bd41e0bc
-P4: 0
-P5: 6a8
-P6: 10_0_15063
-P7: 0_0
-P8: 256_1
-P9: 
-P10: 
+P1: 10.0.15063.674
+P2: 80070643
+P3: 4CF1AC00-675D-4C03-AED3-61F600104115
+P4: Install
+P5: 200
+P6: 0
+P7: 80509004
+P8: Windows Defender Antivirus (77BDAF73-B396-481F-9042-AD358843EC24)
+P9: {9482F4B4-E343-43B6-B170-9A65BC822C77}
+P10: 0
 
 
 +++ WER6 +++:
-Fault bucket 120794809657, type 4
-Event Name: APPCRASH
+Fault bucket , type 0
+Event Name: WindowsUpdateFailure3
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: dwm.exe
-P2: 10.0.15063.0
-P3: 982d0cc7
-P4: dwmcore.dll
-P5: 10.0.15063.483
-P6: 460f87da
-P7: c00001ad
-P8: 00000000000d467e
-P9: 
-P10: 
+P1: 10.0.15063.674
+P2: 80070643
+P3: 4CF1AC00-675D-4C03-AED3-61F600104115
+P4: Install
+P5: 200
+P6: 0
+P7: 80509004
+P8: Windows Defender Antivirus (77BDAF73-B396-481F-9042-AD358843EC24)
+P9: {9482F4B4-E343-43B6-B170-9A65BC822C77}
+P10: 0
 
 
 +++ WER7 +++:
 Fault bucket , type 0
-Event Name: APPCRASH
+Event Name: WindowsUpdateFailure3
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: dwm.exe
-P2: 10.0.15063.0
-P3: 982d0cc7
-P4: dwmcore.dll
-P5: 10.0.15063.483
-P6: 460f87da
-P7: c00001ad
-P8: 00000000000d467e
-P9: 
-P10: 
+P1: 10.0.15063.674
+P2: 80070643
+P3: 4CF1AC00-675D-4C03-AED3-61F600104115
+P4: Install
+P5: 200
+P6: 0
+P7: 80509004
+P8: Windows Defender Antivirus (77BDAF73-B396-481F-9042-AD358843EC24)
+P9: {9482F4B4-E343-43B6-B170-9A65BC822C77}
+P10: 0
 
 
 +++ WER8 +++:
-Fault bucket , type 0
-Event Name: LiveKernelEvent
+Fault bucket 127930299139, type 5
+Event Name: MpTelemetry
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: 141
-P2: ffffa78c0403e010
-P3: fffff800bd41e0bc
-P4: 0
-P5: 6a8
-P6: 10_0_15063
-P7: 0_0
-P8: 256_1
+P1: unspecified
+P2: HardeningTelemetry
+P3: HardeningTelemetryDisableAS
+P4: 4.11.15063.447
+P5: unspecified
+P6: unspecified
+P7: unspecified
+P8: 
 P9: 
 P10: 
 
 
 +++ WER9 +++:
-Fault bucket , type 0
-Event Name: LiveKernelEvent
+Fault bucket 127989740066, type 5
+Event Name: MpTelemetry
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: 141
-P2: ffffa78c0403e010
-P3: fffff800bd41e0bc
-P4: 0
-P5: 6a8
-P6: 10_0_15063
-P7: 0_0
-P8: 256_1
+P1: 0x80509004
+P2: ValidateUpdate
+P3: N/A
+P4: 1.1.14146.0
+P5: mpsigstub.exe
+P6: 4.11.15063.447
+P7: Microsoft Windows Defender (RS1+)
+P8: 
 P9: 
 P10: 
 
