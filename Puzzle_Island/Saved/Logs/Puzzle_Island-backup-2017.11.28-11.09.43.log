@@ -1,0 +1,1044 @@
+﻿Log file open, 11/28/17 10:58:15
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Puzzle_Island
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-2056380615) SRandInit(-2056380615).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.190012
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.11.28-10.58.17:828][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.28-10.58.17:828][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.11.28-10.58.17:839][  0]LogInit: Computer: JAKUBSIEWNIAK
+[2017.11.28-10.58.17:839][  0]LogInit: User: Jakub
+[2017.11.28-10.58.17:839][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.11.28-10.58.17:839][  0]LogInit: High frequency timer resolution =2.435767 MHz
+[2017.11.28-10.58.17:839][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2017.11.28-10.58.17:839][  0]LogMemory: Platform Memory Stats for Windows
+[2017.11.28-10.58.17:839][  0]LogMemory: Process Physical Memory: 281.95 MB used, 281.95 MB peak
+[2017.11.28-10.58.17:839][  0]LogMemory: Process Virtual Memory: 289.47 MB used, 289.47 MB peak
+[2017.11.28-10.58.17:839][  0]LogMemory: Physical Memory: 8724.18 MB used,  23960.24 MB free, 32684.42 MB total
+[2017.11.28-10.58.17:839][  0]LogMemory: Virtual Memory: 674.77 MB used,  23960.24 MB free, 134217728.00 MB total
+[2017.11.28-10.58.18:617][  0]LogInit: Using OS detected language (en-GB).
+[2017.11.28-10.58.18:617][  0]LogInit: Using OS detected locale (en-GB).
+[2017.11.28-10.58.18:622][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2017.11.28-10.58.19:630][  0]LogD3D11RHI: D3D11 adapters:
+[2017.11.28-10.58.19:689][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 880M' (Feature Level 11_0)
+[2017.11.28-10.58.19:689][  0]LogD3D11RHI:       8154/0/16342 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.11.28-10.58.19:696][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2017.11.28-10.58.19:696][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.11.28-10.58.19:697][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.11.28-10.58.19:697][  0]LogD3D11RHI:       0/0/16342 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.11.28-10.58.19:698][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.11.28-10.58.19:707][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.11.28-10.58.19:707][  0]LogD3D11RHI:     GPU DeviceId: 0x1198 (for the marketing name, search the web for "GPU Device Id")
+[2017.11.28-10.58.19:707][  0]LogWindows: EnumDisplayDevices:
+[2017.11.28-10.58.19:707][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2017.11.28-10.58.19:707][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2017.11.28-10.58.19:708][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2017.11.28-10.58.19:708][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.11.28-10.58.19:708][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 880M
+[2017.11.28-10.58.19:708][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.11.28-10.58.19:708][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.11.28-10.58.19:708][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.11.28-10.58.19:749][  0]LogD3D11RHI: Async texture creation enabled
+[2017.11.28-10.58.19:761][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.11.28-10.58.19:762][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Intermediate/Shaders/WorkingDirectory/22728/).
+[2017.11.28-10.58.19:762][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jakub/AppData/Local/Temp/UnrealShaderWorkingDir/D5692A3D445B791EF300BFB9134DE379/'.
+[2017.11.28-10.58.19:762][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.11.28-10.58.21:112][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.11.28-10.58.21:176][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.11.28-10.58.21:251][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.11.28-10.58.21:331][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.11.28-10.58.21:418][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.11.28-10.58.21:495][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.11.28-10.58.21:572][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.11.28-10.58.21:654][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.11.28-10.58.21:740][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.11.28-10.58.21:812][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.11.28-10.58.21:893][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.11.28-10.58.21:971][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.11.28-10.58.22:062][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.11.28-10.58.22:150][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.11.28-10.58.22:224][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.11.28-10.58.22:400][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.11.28-10.58.22:400][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.11.28-10.58.22:475][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.11.28-10.58.22:610][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.11.28-10.58.22:643][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.11.28-10.58.22:714][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.11.28-10.58.22:789][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.11.28-10.58.22:863][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.11.28-10.58.22:935][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.11.28-10.58.22:935][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.11.28-10.58.23:715][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.11.28-10.58.23:856][  0]LogDerivedDataCache: Loaded boot cache 0.14s 97MB C:/Users/Jakub/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.11.28-10.58.23:857][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jakub/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.11.28-10.58.23:857][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.11.28-10.58.23:857][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.11.28-10.58.23:857][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.11.28-10.58.23:857][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.11.28-10.58.23:883][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.11.28-10.58.23:897][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jakub/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.11.28-10.58.23:911][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.11.28-10.58.23:912][  0]LogSlate: Using Freetype 2.6.0
+[2017.11.28-10.58.23:913][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.28-10.58.23:913][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.28-10.58.24:317][  0]LogAssetRegistry: FAssetRegistry took 0.0282 seconds to start up
+[2017.11.28-10.58.24:518][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.28-10.58.24:800][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.11.28-10.58.25:359][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.11.28-10.58.25:438][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.11.28-10.58.25:438][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.11.28-10.58.25:438][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.11.28-10.58.25:438][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.11.28-10.58.25:438][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.11.28-10.58.26:022][  0]LogNetVersion: Puzzle_Island , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3939646741)
+[2017.11.28-10.58.26:416][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.102541 seconds
+[2017.11.28-10.58.26:426][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.11.28-10.58.26:426][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2017.11.28-10.58.26:426][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.11.28-10.58.26:537][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.11.28-10.58.31:296][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.11.28-10.58.31:348][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.11.28-10.58.32:747][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.11.28-10.58.33:495][  0]SourceControl: Source control is disabled
+[2017.11.28-10.58.33:495][  0]SourceControl: Source control is disabled
+[2017.11.28-10.58.33:582][  0]SourceControl: Source control is disabled
+[2017.11.28-10.58.33:663][  0]SourceControl: Source control is disabled
+[2017.11.28-10.58.34:589][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.11.28-10.58.35:105][  0]LogOcInput: OculusInput pre-init called
+[2017.11.28-10.58.35:476][  0]LogEngine: Initializing Engine...
+[2017.11.28-10.58.35:479][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.11.28-10.58.35:771][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.11.28-10.58.35:771][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.11.28-10.58.35:978][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.11.28-10.58.35:990][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.28-10.58.36:048][  0]LogInit: FAudioDevice initialized.
+[2017.11.28-10.58.36:147][  0]LogDerivedDataCache: Saved boot cache 0.10s 97MB C:/Users/Jakub/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.11.28-10.58.36:162][  0]LogInit: Texture streaming: Enabled
+[2017.11.28-10.58.36:334][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.11.28-10.58.36:696][  0]LogInit: Transaction tracking system initialized
+[2017.11.28-10.58.37:211][  0]BlueprintLog: New page: Editor Load
+[2017.11.28-10.58.38:725][  0]LocalizationService: Localization service is disabled
+[2017.11.28-10.58.39:853][  0]LogConsoleResponse: Display: 
+[2017.11.28-10.58.40:201][  0]LogAutoReimportManager: Warning: Unable to watch directory D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/ as it will conflict with another watching D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/.
+[2017.11.28-10.58.40:202][  0]LogAutoReimportManager: Warning: Unable to watch directory D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/ as it will conflict with another watching D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/.
+[2017.11.28-10.58.40:202][  0]LogAutoReimportManager: Warning: Unable to watch directory D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/ as it will conflict with another watching D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/.
+[2017.11.28-10.58.40:214][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.11.28-10.58.40:214][  0]LogCook: Display: Mobile HDR setting 1
+[2017.11.28-10.58.40:214][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.11.28-10.58.40:697][  0]LogFileCache: Scanning file cache for directory 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/' took 0.02s
+[2017.11.28-10.58.42:018][  0]SourceControl: Source control is disabled
+[2017.11.28-10.58.42:018][  0]Cmd: MAP LOAD FILE="D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Maps/Puzzle_Island.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.28-10.58.42:019][  0]LightingResults: New page: Lighting Build
+[2017.11.28-10.58.42:090][  0]MapCheck: New page: Map Check
+[2017.11.28-10.58.42:091][  0]LightingResults: New page: Lighting Build
+[2017.11.28-10.58.42:596][  0]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.28-10.58.42:661][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.28-10.58.42:711][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.28-10.58.42:828][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 117.365ms to complete.
+[2017.11.28-10.58.42:828][  0]LogFileHelpers: Loading map 'Puzzle_Island' took 0.811
+[2017.11.28-10.58.43:013][  0]LogCollectionManager: Loaded 0 collections in 0.002270 seconds
+[2017.11.28-10.58.43:119][  0]LogFileCache: Scanning file cache for directory 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Collections/' took 0.01s
+[2017.11.28-10.58.43:119][  0]LogFileCache: Scanning file cache for directory 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Developers/Jakub/Collections/' took 0.01s
+[2017.11.28-10.58.43:119][  0]LogFileCache: Scanning file cache for directory 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Collections/' took 0.01s
+[2017.11.28-10.58.43:119][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.11.28-10.58.43:135][  0]LogContentBrowser: Native class hierarchy populated in 0.0160 seconds. Added 2388 classes and 502 folders.
+[2017.11.28-10.58.43:230][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0025 seconds. Added 0 classes and 0 folders.
+[2017.11.28-10.58.43:316][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0033 seconds. Added 0 classes and 0 folders.
+[2017.11.28-10.58.43:396][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0026 seconds. Added 1 classes and 2 folders.
+[2017.11.28-10.58.43:489][  0]LogSlate: Took 0.000386 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.28-10.58.43:491][  0]LogSlate: Took 0.000264 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.11.28-10.58.43:499][  0]LogSlate: Took 0.000344 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.11.28-10.58.43:638][  0]LogRenderer: Reallocating scene render targets to support 1204x676 Format 10 NumSamples 1 (Frame:1).
+[2017.11.28-10.58.43:933][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0026 seconds. Added 1 classes and 2 folders.
+[2017.11.28-10.58.43:933][  0]LogLoad: (Engine Initialization) Total time: 29.79 seconds
+[2017.11.28-10.58.43:933][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.11.28-10.58.43:933][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.11.28-10.58.43:933][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.11.28-10.58.43:945][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.28-10.58.43:980][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.11.28-10.58.44:067][  0]LogSlate: Took 0.000291 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.28-10.58.44:080][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/' took 0.12s
+[2017.11.28-10.58.44:105][  1]LogAssetRegistry: Asset discovery search completed in 19.8102 seconds
+[2017.11.28-10.58.44:109][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.11.28-10.58.44:109][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000085 seconds (updated 0 objects)
+[2017.11.28-10.58.45:004][ 62]LogSlate: Took 0.000359 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.28-10.58.49:431][528]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.28-10.58.49:523][528]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.28-10.58.49:523][528]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.28-10.58.49:524][528]PIE: New page: PIE session: Puzzle_Island (28 Nov 2017 10:58:49)
+[2017.11.28-10.58.49:525][528]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.28-10.58.49:545][528]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020686s)
+[2017.11.28-10.58.49:546][528]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.28-10.58.49:546][528]LogPlayLevel: PIE: World Init took: (0.000944s)
+[2017.11.28-10.58.49:547][528]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.022040s)
+[2017.11.28-10.58.49:574][528]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.28-10.58.49:613][528]LogInit: FAudioDevice initialized.
+[2017.11.28-10.58.49:702][528]LogLoad: Game class is '3D_Exploration_GameMode_C'
+[2017.11.28-10.58.49:708][528]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.28-10.58.49
+[2017.11.28-10.58.49:710][528]LogWorld: Bringing up level for play took: 0.005120
+[2017.11.28-10.58.49:808][528]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0040 seconds. Added 11 classes and 0 folders.
+[2017.11.28-10.58.49:811][528]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 0.377
+[2017.11.28-10.58.49:812][528]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.28-10.58.57:492][316]LogBlueprintUserMessages: [NPC_BP2_54] Incorect Level Name
+[2017.11.28-10.58.58:303][403]LogBlueprintUserMessages: [NPC_BP2_54] Incorect Level Name
+[2017.11.28-10.58.58:487][422]LogBlueprintUserMessages: [NPC_BP2_54] Incorect Level Name
+[2017.11.28-10.58.58:636][438]LogBlueprintUserMessages: [NPC_BP2_54] Incorect Level Name
+[2017.11.28-10.58.58:780][454]LogBlueprintUserMessages: [NPC_BP2_54] Incorect Level Name
+[2017.11.28-10.58.58:942][472]LogBlueprintUserMessages: [NPC_BP2_54] Incorect Level Name
+[2017.11.28-10.58.59:089][488]LogBlueprintUserMessages: [NPC_BP2_54] Incorect Level Name
+[2017.11.28-10.58.59:225][503]LogBlueprintUserMessages: [NPC_BP2_54] Incorect Level Name
+[2017.11.28-10.59.00:490][626]LogBlueprintUserMessages: [NPC_BP2_54] Incorect Level Name
+[2017.11.28-10.59.00:701][649]LogBlueprintUserMessages: [NPC_BP2_54] Incorect Level Name
+[2017.11.28-10.59.00:899][670]LogBlueprintUserMessages: [NPC_BP2_54] Incorect Level Name
+[2017.11.28-10.59.01:083][690]LogBlueprintUserMessages: [NPC_BP2_54] Incorect Level Name
+[2017.11.28-10.59.01:249][708]LogBlueprintUserMessages: [NPC_BP2_54] Incorect Level Name
+[2017.11.28-10.59.01:412][725]LogBlueprintUserMessages: [NPC_BP2_54] Incorect Level Name
+[2017.11.28-10.59.01:678][749]LogBlueprintUserMessages: [NPC_BP2_54] Incorect Level Name
+[2017.11.28-10.59.01:870][767]LogBlueprintUserMessages: [NPC_BP2_54] Incorect Level Name
+[2017.11.28-10.59.02:058][785]LogBlueprintUserMessages: [NPC_BP2_54] Incorect Level Name
+[2017.11.28-10.59.02:217][800]LogBlueprintUserMessages: [NPC_BP2_54] Incorect Level Name
+[2017.11.28-10.59.02:442][821]LogBlueprintUserMessages: [NPC_BP2_54] Incorect Level Name
+[2017.11.28-10.59.02:586][836]LogBlueprintUserMessages: [NPC_BP2_54] Incorect Level Name
+[2017.11.28-10.59.02:760][855]LogBlueprintUserMessages: [NPC_BP2_54] Incorect Level Name
+[2017.11.28-10.59.02:935][874]LogBlueprintUserMessages: [NPC_BP2_54] Incorect Level Name
+[2017.11.28-10.59.03:110][893]LogBlueprintUserMessages: [NPC_BP2_54] Incorect Level Name
+[2017.11.28-10.59.07:512][342]LogPackageName: SearchForPackageOnDisk took   0.161s, but failed to resolve None.umap.
+[2017.11.28-10.59.07:687][343]LogPackageName: SearchForPackageOnDisk took   0.159s, but failed to resolve None.umap.
+[2017.11.28-10.59.07:687][343]LogNet: Browse: /Game/Maps/Puzzle_Island
+[2017.11.28-10.59.07:687][343]LogNet: Warning: Travel Failure: [InvalidURL]: Invalid URL: /Game/Maps/Puzzle_Island
+[2017.11.28-10.59.07:687][343]LogNet: Warning: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/Maps/Puzzle_Island'. Shutting down PIE.
+[2017.11.28-10.59.07:688][343]PIE: Warning: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/Maps/Puzzle_Island'. Shutting down PIE.
+[2017.11.28-10.59.07:688][343]LogNet: Warning: Travel Failure: [ClientTravelFailure]: Invalid URL: /Game/Maps/Puzzle_Island
+[2017.11.28-10.59.07:688][343]LogNet: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/Maps/Puzzle_Island'. Shutting down PIE.
+[2017.11.28-10.59.07:688][343]PIE: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/Maps/Puzzle_Island'. Shutting down PIE.
+[2017.11.28-10.59.07:689][343]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.28-10.59.07:726][343]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.28-10.59.15:734][119]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.11.28-10.59.16:786][194]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2017.11.28-10.59.21:861][552]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.11.28-10.59.23:449][662]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2017.11.28-10.59.24:249][711]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.28-10.59.24:249][711]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.28-10.59.24:250][711]PIE: New page: PIE session: Puzzle_Island (28 Nov 2017 10:59:24)
+[2017.11.28-10.59.24:251][711]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.28-10.59.24:271][711]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020727s)
+[2017.11.28-10.59.24:272][711]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.28-10.59.24:273][711]LogPlayLevel: PIE: World Init took: (0.001149s)
+[2017.11.28-10.59.24:273][711]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.022347s)
+[2017.11.28-10.59.24:294][711]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.28-10.59.24:323][711]LogInit: FAudioDevice initialized.
+[2017.11.28-10.59.24:358][711]LogLoad: Game class is '3D_Exploration_GameMode_C'
+[2017.11.28-10.59.24:362][711]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.28-10.59.24
+[2017.11.28-10.59.24:362][711]LogWorld: Bringing up level for play took: 0.003605
+[2017.11.28-10.59.24:373][711]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 0.939
+[2017.11.28-10.59.24:374][711]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.28-10.59.32:825][612]LogPackageName: SearchForPackageOnDisk took   0.163s, but failed to resolve None.umap.
+[2017.11.28-10.59.32:973][613]LogPackageName: SearchForPackageOnDisk took   0.141s, but failed to resolve None.umap.
+[2017.11.28-10.59.32:973][613]LogNet: Browse: /Game/Maps/Puzzle_Island
+[2017.11.28-10.59.32:973][613]LogNet: Warning: Travel Failure: [InvalidURL]: Invalid URL: /Game/Maps/Puzzle_Island
+[2017.11.28-10.59.32:973][613]LogNet: Warning: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/Maps/Puzzle_Island'. Shutting down PIE.
+[2017.11.28-10.59.32:973][613]PIE: Warning: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/Maps/Puzzle_Island'. Shutting down PIE.
+[2017.11.28-10.59.32:973][613]LogNet: Warning: Travel Failure: [ClientTravelFailure]: Invalid URL: /Game/Maps/Puzzle_Island
+[2017.11.28-10.59.32:973][613]LogNet: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/Maps/Puzzle_Island'. Shutting down PIE.
+[2017.11.28-10.59.32:973][613]PIE: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/Maps/Puzzle_Island'. Shutting down PIE.
+[2017.11.28-10.59.32:974][613]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.28-10.59.33:022][613]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.28-10.59.34:128][693]LogEditorViewport: Clicking on Actor (LMB): NPC_BP_C (NPC_BP)
+[2017.11.28-10.59.45:363][577]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.11.28-10.59.49:630][887]LogSlate: Took 0.000238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.28-10.59.50:163][887]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0029 seconds. Added 113 classes and 0 folders.
+[2017.11.28-10.59.51:072][887]LogSlate: Took 0.000346 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.28-10.59.51:174][887]LogSlate: Took 0.000407 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.11.28-10.59.51:347][888]LogSlate: Took 0.000389 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.11.28-11.02.42:838][ 40]LogEditorViewport: Clicking on Actor (LMB): NPC_BP_C (NPC_BP)
+[2017.11.28-11.03.09:747][208]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2017.11.28-11.03.14:263][538]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.28-11.03.16:049][684]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.28-11.03.17:626][818]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.28-11.03.50:376][515]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.11.28-11.04.05:149][379]BlueprintLog: New page: Compile Puzzle_Island_Instance_BP
+[2017.11.28-11.04.07:163][459]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.28-11.04.07:220][459]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.28-11.04.07:220][459]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.28-11.04.07:220][459]PIE: New page: PIE session: Puzzle_Island (28 Nov 2017 11:04:07)
+[2017.11.28-11.04.07:223][459]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.28-11.04.07:247][459]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023696s)
+[2017.11.28-11.04.07:248][459]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.28-11.04.07:248][459]LogPlayLevel: PIE: World Init took: (0.001068s)
+[2017.11.28-11.04.07:248][459]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.025281s)
+[2017.11.28-11.04.07:292][459]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.28-11.04.07:330][459]LogInit: FAudioDevice initialized.
+[2017.11.28-11.04.07:371][459]LogLoad: Game class is '3D_Exploration_GameMode_C'
+[2017.11.28-11.04.07:377][459]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.28-11.04.07
+[2017.11.28-11.04.07:378][459]LogWorld: Bringing up level for play took: 0.006613
+[2017.11.28-11.04.07:382][459]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island -0.053
+[2017.11.28-11.04.07:382][459]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.28-11.04.11:480][862]LogPackageName: SearchForPackageOnDisk took   0.171s, but failed to resolve None.umap.
+[2017.11.28-11.04.11:659][863]LogPackageName: SearchForPackageOnDisk took   0.170s, but failed to resolve None.umap.
+[2017.11.28-11.04.11:659][863]LogNet: Browse: /Game/Maps/Puzzle_Island
+[2017.11.28-11.04.11:660][863]LogNet: Warning: Travel Failure: [InvalidURL]: Invalid URL: /Game/Maps/Puzzle_Island
+[2017.11.28-11.04.11:660][863]LogNet: Warning: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/Maps/Puzzle_Island'. Shutting down PIE.
+[2017.11.28-11.04.11:660][863]PIE: Warning: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/Maps/Puzzle_Island'. Shutting down PIE.
+[2017.11.28-11.04.11:660][863]LogNet: Warning: Travel Failure: [ClientTravelFailure]: Invalid URL: /Game/Maps/Puzzle_Island
+[2017.11.28-11.04.11:660][863]LogNet: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/Maps/Puzzle_Island'. Shutting down PIE.
+[2017.11.28-11.04.11:660][863]PIE: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/Maps/Puzzle_Island'. Shutting down PIE.
+[2017.11.28-11.04.11:661][863]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.28-11.04.11:707][863]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.28-11.04.39:332][870]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NPC_BP" FILE="D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Blueprints/NPC_BP.uasset" SILENT=true
+[2017.11.28-11.04.39:504][870]LogSavePackage: Save=157.46ms
+[2017.11.28-11.04.39:504][870]LogSavePackage: Moving 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/NPC_BP718E52574F3FA8A876FF82B14D7AD2D3.tmp' to 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Blueprints/NPC_BP.uasset'
+[2017.11.28-11.04.39:515][870]LogSavePackage: Display: Finished SavePackage D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Blueprints/NPC_BP.uasset
+[2017.11.28-11.04.39:537][870]LogSavePackage: Save=7.09ms
+[2017.11.28-11.04.39:537][870]LogSavePackage: Moving 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Puzzle_Island_Instance_BP0373D10A479B8E511416EAB4ABB69914.tmp' to 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Blueprints/Puzzle_Island_Instance_BP.uasset'
+[2017.11.28-11.04.39:548][870]LogSavePackage: Display: Finished SavePackage D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Blueprints/Puzzle_Island_Instance_BP.uasset
+[2017.11.28-11.04.40:249][870]LogSavePackage: Save=492.64ms
+[2017.11.28-11.04.40:249][870]LogSavePackage: Moving 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Puzzle_Island111F637C448544AE95E33FA27095B024.tmp' to 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Maps/Puzzle_Island.umap'
+[2017.11.28-11.04.40:262][870]LogSavePackage: Display: Finished SavePackage D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Maps/Puzzle_Island.umap
+[2017.11.28-11.04.40:360][870]LogFileHelpers: Saving map 'Puzzle_Island' took 0.813
+[2017.11.28-11.04.40:363][870]Cmd: MAP LOAD FILE="D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Maps/Jigsaw_Scene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.28-11.04.40:363][870]LightingResults: New page: Lighting Build
+[2017.11.28-11.04.40:364][870]LoadErrors: New page: Loading map: Jigsaw_Scene.umap
+[2017.11.28-11.04.40:365][870]MapCheck: New page: Map Check
+[2017.11.28-11.04.40:365][870]LightingResults: New page: Lighting Build
+[2017.11.28-11.04.40:483][870]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.28-11.04.40:597][870]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.28-11.04.40:743][870]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 146.043ms to complete.
+[2017.11.28-11.04.40:744][870]LogFileHelpers: Loading map 'Jigsaw_Scene' took 0.382
+[2017.11.28-11.04.42:400][ 15]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.28-11.04.42:463][ 15]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene' with GeneratedClass '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene_C' with ClassGeneratedBy '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene'
+[2017.11.28-11.04.42:463][ 15]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.28-11.04.42:463][ 15]PIE: New page: PIE session: Jigsaw_Scene (28 Nov 2017 11:04:42)
+[2017.11.28-11.04.42:465][ 15]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Jigsaw_Scene
+[2017.11.28-11.04.42:470][ 15]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004765s)
+[2017.11.28-11.04.42:471][ 15]LogPlayLevel: PIE: World Init took: (0.000909s)
+[2017.11.28-11.04.42:472][ 15]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Jigsaw_Scene.Jigsaw_Scene to /Game/Maps/UEDPIE_0_Jigsaw_Scene.Jigsaw_Scene (0.006096s)
+[2017.11.28-11.04.42:508][ 15]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.28-11.04.42:542][ 15]LogInit: FAudioDevice initialized.
+[2017.11.28-11.04.42:578][ 15]LogLoad: Game class is '2D_GameMode_C'
+[2017.11.28-11.04.42:580][ 15]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Jigsaw_Scene.Jigsaw_Scene up for play (max tick rate 0) at 2017.11.28-11.04.42
+[2017.11.28-11.04.42:582][ 15]LogWorld: Bringing up level for play took: 0.003345
+[2017.11.28-11.04.42:585][ 15]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Jigsaw_Scene -0.849
+[2017.11.28-11.04.42:586][ 15]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene' with GeneratedClass '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene_C' with ClassGeneratedBy '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene'
+[2017.11.28-11.04.46:541][432]LogNet: Browse: /Game/Maps/Puzzle_Island
+[2017.11.28-11.04.46:542][432]LogLoad: LoadMap: /Game/Maps/Puzzle_Island
+[2017.11.28-11.04.46:570][432]Cmd: MEM
+[2017.11.28-11.04.46:595][432]LogMemory: Platform Memory Stats for Windows
+[2017.11.28-11.04.46:595][432]LogMemory: Process Physical Memory: 1565.02 MB used, 1575.70 MB peak
+[2017.11.28-11.04.46:595][432]LogMemory: Process Virtual Memory: 2045.75 MB used, 2286.40 MB peak
+[2017.11.28-11.04.46:596][432]LogMemory: Physical Memory: 10068.21 MB used,  22616.21 MB free, 32684.42 MB total
+[2017.11.28-11.04.46:596][432]LogMemory: Virtual Memory: 2983.90 MB used,  22616.21 MB free, 134217728.00 MB total
+[2017.11.28-11.04.46:596][432]LogMemory: 
+[2017.11.28-11.04.46:596][432]Allocator Stats for TBB: (not implemented)
+[2017.11.28-11.04.47:382][432]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.28-11.04.47:382][432]LogLoad: Game class is '3D_Exploration_GameMode_C'
+[2017.11.28-11.04.47:391][432]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.28-11.04.47
+[2017.11.28-11.04.47:392][432]LogWorld: Bringing up level for play took: 0.008243
+[2017.11.28-11.04.47:396][432]LogLoad: Took 0.853507 seconds to LoadMap(/Game/Maps/Puzzle_Island)
+[2017.11.28-11.04.47:421][433]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.078860 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_C_0', movement 'Walking'
+[2017.11.28-11.04.52:036][892]LogPackageName: SearchForPackageOnDisk took   0.145s, but failed to resolve None.umap.
+[2017.11.28-11.04.52:207][893]LogPackageName: SearchForPackageOnDisk took   0.162s, but failed to resolve None.umap.
+[2017.11.28-11.04.52:207][893]LogNet: Browse: /Game/Maps/Puzzle_Island
+[2017.11.28-11.04.52:207][893]LogNet: Warning: Travel Failure: [InvalidURL]: Invalid URL: /Game/Maps/Puzzle_Island
+[2017.11.28-11.04.52:207][893]LogNet: Warning: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/Maps/Puzzle_Island'. Shutting down PIE.
+[2017.11.28-11.04.52:207][893]PIE: Warning: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/Maps/Puzzle_Island'. Shutting down PIE.
+[2017.11.28-11.04.52:207][893]LogNet: Warning: Travel Failure: [ClientTravelFailure]: Invalid URL: /Game/Maps/Puzzle_Island
+[2017.11.28-11.04.52:207][893]LogNet: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/Maps/Puzzle_Island'. Shutting down PIE.
+[2017.11.28-11.04.52:207][893]PIE: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/Maps/Puzzle_Island'. Shutting down PIE.
+[2017.11.28-11.04.52:208][893]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene' with GeneratedClass '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene_C' with ClassGeneratedBy '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene'
+[2017.11.28-11.04.52:243][893]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene' with GeneratedClass '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene_C' with ClassGeneratedBy '/Game/Maps/Jigsaw_Scene.Jigsaw_Scene:PersistentLevel.Jigsaw_Scene'
+[2017.11.28-11.05.17:066][354]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.28-11.05.17:127][354]Cmd: MAP LOAD FILE="D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Maps/Puzzle_Island.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.28-11.05.17:127][354]LightingResults: New page: Lighting Build
+[2017.11.28-11.05.17:128][354]LoadErrors: New page: Loading map: Puzzle_Island.umap
+[2017.11.28-11.05.17:129][354]MapCheck: New page: Map Check
+[2017.11.28-11.05.17:129][354]LightingResults: New page: Lighting Build
+[2017.11.28-11.05.17:324][354]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.28-11.05.17:467][354]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.28-11.05.17:624][354]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 157.091ms to complete.
+[2017.11.28-11.05.17:625][354]LogFileHelpers: Loading map 'Puzzle_Island' took 0.500
+[2017.11.28-11.05.20:255][594]LogEditorViewport: Clicking on Actor (LMB): NPC_BP_C (NPC_BP)
+[2017.11.28-11.05.57:794][646]BlueprintLog: New page: Compile NPC_BP
+[2017.11.28-11.06.01:782][795]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.28-11.06.01:854][795]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.28-11.06.01:854][795]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.28-11.06.01:854][795]PIE: New page: PIE session: Puzzle_Island (28 Nov 2017 11:06:01)
+[2017.11.28-11.06.01:855][795]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.28-11.06.01:878][795]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022929s)
+[2017.11.28-11.06.01:879][795]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.28-11.06.01:879][795]LogPlayLevel: PIE: World Init took: (0.000902s)
+[2017.11.28-11.06.01:879][795]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.024203s)
+[2017.11.28-11.06.01:910][795]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.28-11.06.01:937][795]LogInit: FAudioDevice initialized.
+[2017.11.28-11.06.01:972][795]LogLoad: Game class is '3D_Exploration_GameMode_C'
+[2017.11.28-11.06.01:975][795]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.28-11.06.01
+[2017.11.28-11.06.01:976][795]LogWorld: Bringing up level for play took: 0.003684
+[2017.11.28-11.06.01:979][795]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 0.545
+[2017.11.28-11.06.01:979][795]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.28-11.06.05:433][158]LogNet: Browse: /Game/Maps/Jigsaw_Scene
+[2017.11.28-11.06.05:434][158]LogLoad: LoadMap: /Game/Maps/Jigsaw_Scene
+[2017.11.28-11.06.05:468][158]Cmd: MEM
+[2017.11.28-11.06.05:496][158]LogMemory: Platform Memory Stats for Windows
+[2017.11.28-11.06.05:496][158]LogMemory: Process Physical Memory: 1708.88 MB used, 1765.58 MB peak
+[2017.11.28-11.06.05:496][158]LogMemory: Process Virtual Memory: 2459.93 MB used, 2478.13 MB peak
+[2017.11.28-11.06.05:496][158]LogMemory: Physical Memory: 10227.30 MB used,  22457.12 MB free, 32684.42 MB total
+[2017.11.28-11.06.05:496][158]LogMemory: Virtual Memory: 3338.53 MB used,  22457.12 MB free, 134217728.00 MB total
+[2017.11.28-11.06.05:496][158]LogMemory: 
+[2017.11.28-11.06.05:496][158]Allocator Stats for TBB: (not implemented)
+[2017.11.28-11.06.05:673][158]LogLoad: Game class is '2D_GameMode_C'
+[2017.11.28-11.06.05:681][158]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Jigsaw_Scene.Jigsaw_Scene up for play (max tick rate 0) at 2017.11.28-11.06.05
+[2017.11.28-11.06.05:683][158]LogWorld: Bringing up level for play took: 0.008654
+[2017.11.28-11.06.05:686][158]LogLoad: Took 0.252461 seconds to LoadMap(/Game/Maps/Jigsaw_Scene)
+[2017.11.28-11.06.08:175][407]LogBlueprintUserMessages: [Jigsaw_Piece_BP_1] AlreadyInCorrectPosition
+[2017.11.28-11.06.08:185][408]LogBlueprintUserMessages: [Jigsaw_Piece_BP_1] AlreadyInCorrectPosition
+[2017.11.28-11.06.08:198][409]LogBlueprintUserMessages: [Jigsaw_Piece_BP_1] AlreadyInCorrectPosition
+[2017.11.28-11.06.08:208][410]LogBlueprintUserMessages: [Jigsaw_Piece_BP_1] AlreadyInCorrectPosition
+[2017.11.28-11.06.08:218][411]LogBlueprintUserMessages: [Jigsaw_Piece_BP_1] AlreadyInCorrectPosition
+[2017.11.28-11.06.08:228][412]LogBlueprintUserMessages: [Jigsaw_Piece_BP_1] AlreadyInCorrectPosition
+[2017.11.28-11.06.08:237][413]LogBlueprintUserMessages: [Jigsaw_Piece_BP_1] AlreadyInCorrectPosition
+[2017.11.28-11.06.08:250][414]LogBlueprintUserMessages: [Jigsaw_Piece_BP_1] AlreadyInCorrectPosition
+[2017.11.28-11.06.08:259][415]LogBlueprintUserMessages: [Jigsaw_Piece_BP_1] AlreadyInCorrectPosition
+[2017.11.28-11.06.08:269][416]LogBlueprintUserMessages: [Jigsaw_Piece_BP_1] AlreadyInCorrectPosition
+[2017.11.28-11.06.08:280][417]LogBlueprintUserMessages: [Jigsaw_Piece_BP_1] AlreadyInCorrectPosition
+[2017.11.28-11.06.08:290][418]LogBlueprintUserMessages: [Jigsaw_Piece_BP_1] AlreadyInCorrectPosition
+[2017.11.28-11.06.08:300][419]LogBlueprintUserMessages: [Jigsaw_Piece_BP_1] AlreadyInCorrectPosition
+[2017.11.28-11.06.08:309][420]LogBlueprintUserMessages: [Jigsaw_Piece_BP_1] AlreadyInCorrectPosition
+[2017.11.28-11.06.08:317][421]LogBlueprintUserMessages: [Jigsaw_Piece_BP_1] AlreadyInCorrectPosition
+[2017.11.28-11.06.08:327][422]LogBlueprintUserMessages: [Jigsaw_Piece_BP_1] AlreadyInCorrectPosition
+[2017.11.28-11.06.08:336][423]LogBlueprintUserMessages: [Jigsaw_Piece_BP_1] AlreadyInCorrectPosition
+[2017.11.28-11.06.08:347][424]LogBlueprintUserMessages: [Jigsaw_Piece_BP_1] AlreadyInCorrectPosition
+[2017.11.28-11.06.08:357][425]LogBlueprintUserMessages: [Jigsaw_Piece_BP_1] AlreadyInCorrectPosition
+[2017.11.28-11.06.08:366][426]LogBlueprintUserMessages: [Jigsaw_Piece_BP_1] AlreadyInCorrectPosition
+[2017.11.28-11.06.08:377][427]LogBlueprintUserMessages: [Jigsaw_Piece_BP_1] AlreadyInCorrectPosition
+[2017.11.28-11.06.08:386][428]LogBlueprintUserMessages: [Jigsaw_Piece_BP_1] AlreadyInCorrectPosition
+[2017.11.28-11.06.08:396][429]LogBlueprintUserMessages: [Jigsaw_Piece_BP_1] AlreadyInCorrectPosition
+[2017.11.28-11.06.08:404][430]LogBlueprintUserMessages: [Jigsaw_Piece_BP_1] AlreadyInCorrectPosition
+[2017.11.28-11.06.08:413][431]LogBlueprintUserMessages: [Jigsaw_Piece_BP_1] AlreadyInCorrectPosition
+[2017.11.28-11.06.08:422][432]LogBlueprintUserMessages: [Jigsaw_Piece_BP_1] AlreadyInCorrectPosition
+[2017.11.28-11.06.08:433][433]LogBlueprintUserMessages: [Jigsaw_Piece_BP_1] AlreadyInCorrectPosition
+[2017.11.28-11.06.08:443][434]LogBlueprintUserMessages: [Jigsaw_Piece_BP_1] AlreadyInCorrectPosition
+[2017.11.28-11.06.08:454][435]LogBlueprintUserMessages: [Jigsaw_Piece_BP_1] AlreadyInCorrectPosition
+[2017.11.28-11.06.08:465][436]LogBlueprintUserMessages: [Jigsaw_Piece_BP_1] AlreadyInCorrectPosition
+[2017.11.28-11.06.08:475][437]LogBlueprintUserMessages: [Jigsaw_Piece_BP_1] AlreadyInCorrectPosition
+[2017.11.28-11.06.08:484][438]LogBlueprintUserMessages: [Jigsaw_Piece_BP_1] AlreadyInCorrectPosition
+[2017.11.28-11.06.08:493][439]LogBlueprintUserMessages: [Jigsaw_Piece_BP_1] AlreadyInCorrectPosition
+[2017.11.28-11.06.08:502][440]LogBlueprintUserMessages: [Jigsaw_Piece_BP_1] AlreadyInCorrectPosition
+[2017.11.28-11.06.08:513][441]LogBlueprintUserMessages: [Jigsaw_Piece_BP_1] AlreadyInCorrectPosition
+[2017.11.28-11.06.08:523][442]LogBlueprintUserMessages: [Jigsaw_Piece_BP_1] AlreadyInCorrectPosition
+[2017.11.28-11.06.08:532][443]LogBlueprintUserMessages: [Jigsaw_Piece_BP_1] AlreadyInCorrectPosition
+[2017.11.28-11.06.08:543][444]LogBlueprintUserMessages: [Jigsaw_Piece_BP_1] AlreadyInCorrectPosition
+[2017.11.28-11.06.08:552][445]LogBlueprintUserMessages: [Jigsaw_Piece_BP_1] AlreadyInCorrectPosition
+[2017.11.28-11.06.10:092][582]LogBlueprintUserMessages: [Jigsaw_Piece_BP_2] AlreadyInCorrectPosition
+[2017.11.28-11.06.10:104][583]LogBlueprintUserMessages: [Jigsaw_Piece_BP_2] AlreadyInCorrectPosition
+[2017.11.28-11.06.10:115][584]LogBlueprintUserMessages: [Jigsaw_Piece_BP_2] AlreadyInCorrectPosition
+[2017.11.28-11.06.10:126][585]LogBlueprintUserMessages: [Jigsaw_Piece_BP_2] AlreadyInCorrectPosition
+[2017.11.28-11.06.10:135][586]LogBlueprintUserMessages: [Jigsaw_Piece_BP_2] AlreadyInCorrectPosition
+[2017.11.28-11.06.10:146][587]LogBlueprintUserMessages: [Jigsaw_Piece_BP_2] AlreadyInCorrectPosition
+[2017.11.28-11.06.10:155][588]LogBlueprintUserMessages: [Jigsaw_Piece_BP_2] AlreadyInCorrectPosition
+[2017.11.28-11.06.10:167][589]LogBlueprintUserMessages: [Jigsaw_Piece_BP_2] AlreadyInCorrectPosition
+[2017.11.28-11.06.10:177][590]LogBlueprintUserMessages: [Jigsaw_Piece_BP_2] AlreadyInCorrectPosition
+[2017.11.28-11.06.10:188][591]LogBlueprintUserMessages: [Jigsaw_Piece_BP_2] AlreadyInCorrectPosition
+[2017.11.28-11.06.10:199][592]LogBlueprintUserMessages: [Jigsaw_Piece_BP_2] AlreadyInCorrectPosition
+[2017.11.28-11.06.10:210][593]LogBlueprintUserMessages: [Jigsaw_Piece_BP_2] AlreadyInCorrectPosition
+[2017.11.28-11.06.10:224][594]LogBlueprintUserMessages: [Jigsaw_Piece_BP_2] AlreadyInCorrectPosition
+[2017.11.28-11.06.10:233][595]LogBlueprintUserMessages: [Jigsaw_Piece_BP_2] AlreadyInCorrectPosition
+[2017.11.28-11.06.10:244][596]LogBlueprintUserMessages: [Jigsaw_Piece_BP_2] AlreadyInCorrectPosition
+[2017.11.28-11.06.10:252][597]LogBlueprintUserMessages: [Jigsaw_Piece_BP_2] AlreadyInCorrectPosition
+[2017.11.28-11.06.10:263][598]LogBlueprintUserMessages: [Jigsaw_Piece_BP_2] AlreadyInCorrectPosition
+[2017.11.28-11.06.10:273][599]LogBlueprintUserMessages: [Jigsaw_Piece_BP_2] AlreadyInCorrectPosition
+[2017.11.28-11.06.10:283][600]LogBlueprintUserMessages: [Jigsaw_Piece_BP_2] AlreadyInCorrectPosition
+[2017.11.28-11.06.10:294][601]LogBlueprintUserMessages: [Jigsaw_Piece_BP_2] AlreadyInCorrectPosition
+[2017.11.28-11.06.10:303][602]LogBlueprintUserMessages: [Jigsaw_Piece_BP_2] AlreadyInCorrectPosition
+[2017.11.28-11.06.10:313][603]LogBlueprintUserMessages: [Jigsaw_Piece_BP_2] AlreadyInCorrectPosition
+[2017.11.28-11.06.10:322][604]LogBlueprintUserMessages: [Jigsaw_Piece_BP_2] AlreadyInCorrectPosition
+[2017.11.28-11.06.10:331][605]LogBlueprintUserMessages: [Jigsaw_Piece_BP_2] AlreadyInCorrectPosition
+[2017.11.28-11.06.10:341][606]LogBlueprintUserMessages: [Jigsaw_Piece_BP_2] AlreadyInCorrectPosition
+[2017.11.28-11.06.10:351][607]LogBlueprintUserMessages: [Jigsaw_Piece_BP_2] AlreadyInCorrectPosition
+[2017.11.28-11.06.10:361][608]LogBlueprintUserMessages: [Jigsaw_Piece_BP_2] AlreadyInCorrectPosition
+[2017.11.28-11.06.10:372][609]LogBlueprintUserMessages: [Jigsaw_Piece_BP_2] AlreadyInCorrectPosition
+[2017.11.28-11.06.10:384][610]LogBlueprintUserMessages: [Jigsaw_Piece_BP_2] AlreadyInCorrectPosition
+[2017.11.28-11.06.10:398][611]LogBlueprintUserMessages: [Jigsaw_Piece_BP_2] AlreadyInCorrectPosition
+[2017.11.28-11.06.10:412][612]LogBlueprintUserMessages: [Jigsaw_Piece_BP_2] AlreadyInCorrectPosition
+[2017.11.28-11.06.10:425][613]LogBlueprintUserMessages: [Jigsaw_Piece_BP_2] AlreadyInCorrectPosition
+[2017.11.28-11.06.13:575][917]LogBlueprintUserMessages: [Jigsaw_Piece_BP_3] AlreadyInCorrectPosition
+[2017.11.28-11.06.13:584][918]LogBlueprintUserMessages: [Jigsaw_Piece_BP_3] AlreadyInCorrectPosition
+[2017.11.28-11.06.13:593][919]LogBlueprintUserMessages: [Jigsaw_Piece_BP_3] AlreadyInCorrectPosition
+[2017.11.28-11.06.13:601][920]LogBlueprintUserMessages: [Jigsaw_Piece_BP_3] AlreadyInCorrectPosition
+[2017.11.28-11.06.13:612][921]LogBlueprintUserMessages: [Jigsaw_Piece_BP_3] AlreadyInCorrectPosition
+[2017.11.28-11.06.13:620][922]LogBlueprintUserMessages: [Jigsaw_Piece_BP_3] AlreadyInCorrectPosition
+[2017.11.28-11.06.13:630][923]LogBlueprintUserMessages: [Jigsaw_Piece_BP_3] AlreadyInCorrectPosition
+[2017.11.28-11.06.13:638][924]LogBlueprintUserMessages: [Jigsaw_Piece_BP_3] AlreadyInCorrectPosition
+[2017.11.28-11.06.13:647][925]LogBlueprintUserMessages: [Jigsaw_Piece_BP_3] AlreadyInCorrectPosition
+[2017.11.28-11.06.13:655][926]LogBlueprintUserMessages: [Jigsaw_Piece_BP_3] AlreadyInCorrectPosition
+[2017.11.28-11.06.13:665][927]LogBlueprintUserMessages: [Jigsaw_Piece_BP_3] AlreadyInCorrectPosition
+[2017.11.28-11.06.13:678][928]LogBlueprintUserMessages: [Jigsaw_Piece_BP_3] AlreadyInCorrectPosition
+[2017.11.28-11.06.13:689][929]LogBlueprintUserMessages: [Jigsaw_Piece_BP_3] AlreadyInCorrectPosition
+[2017.11.28-11.06.13:701][930]LogBlueprintUserMessages: [Jigsaw_Piece_BP_3] AlreadyInCorrectPosition
+[2017.11.28-11.06.13:712][931]LogBlueprintUserMessages: [Jigsaw_Piece_BP_3] AlreadyInCorrectPosition
+[2017.11.28-11.06.13:722][932]LogBlueprintUserMessages: [Jigsaw_Piece_BP_3] AlreadyInCorrectPosition
+[2017.11.28-11.06.13:731][933]LogBlueprintUserMessages: [Jigsaw_Piece_BP_3] AlreadyInCorrectPosition
+[2017.11.28-11.06.13:741][934]LogBlueprintUserMessages: [Jigsaw_Piece_BP_3] AlreadyInCorrectPosition
+[2017.11.28-11.06.13:749][935]LogBlueprintUserMessages: [Jigsaw_Piece_BP_3] AlreadyInCorrectPosition
+[2017.11.28-11.06.13:761][936]LogBlueprintUserMessages: [Jigsaw_Piece_BP_3] AlreadyInCorrectPosition
+[2017.11.28-11.06.13:769][937]LogBlueprintUserMessages: [Jigsaw_Piece_BP_3] AlreadyInCorrectPosition
+[2017.11.28-11.06.13:779][938]LogBlueprintUserMessages: [Jigsaw_Piece_BP_3] AlreadyInCorrectPosition
+[2017.11.28-11.06.13:789][939]LogBlueprintUserMessages: [Jigsaw_Piece_BP_3] AlreadyInCorrectPosition
+[2017.11.28-11.06.13:800][940]LogBlueprintUserMessages: [Jigsaw_Piece_BP_3] AlreadyInCorrectPosition
+[2017.11.28-11.06.13:809][941]LogBlueprintUserMessages: [Jigsaw_Piece_BP_3] AlreadyInCorrectPosition
+[2017.11.28-11.06.13:817][942]LogBlueprintUserMessages: [Jigsaw_Piece_BP_3] AlreadyInCorrectPosition
+[2017.11.28-11.06.13:828][943]LogBlueprintUserMessages: [Jigsaw_Piece_BP_3] AlreadyInCorrectPosition
+[2017.11.28-11.06.13:837][944]LogBlueprintUserMessages: [Jigsaw_Piece_BP_3] AlreadyInCorrectPosition
+[2017.11.28-11.06.13:847][945]LogBlueprintUserMessages: [Jigsaw_Piece_BP_3] AlreadyInCorrectPosition
+[2017.11.28-11.06.13:858][946]LogBlueprintUserMessages: [Jigsaw_Piece_BP_3] AlreadyInCorrectPosition
+[2017.11.28-11.06.13:867][947]LogBlueprintUserMessages: [Jigsaw_Piece_BP_3] AlreadyInCorrectPosition
+[2017.11.28-11.06.13:878][948]LogBlueprintUserMessages: [Jigsaw_Piece_BP_3] AlreadyInCorrectPosition
+[2017.11.28-11.06.13:888][949]LogBlueprintUserMessages: [Jigsaw_Piece_BP_3] AlreadyInCorrectPosition
+[2017.11.28-11.06.13:899][950]LogBlueprintUserMessages: [Jigsaw_Piece_BP_3] AlreadyInCorrectPosition
+[2017.11.28-11.06.13:911][951]LogBlueprintUserMessages: [Jigsaw_Piece_BP_3] AlreadyInCorrectPosition
+[2017.11.28-11.06.13:921][952]LogBlueprintUserMessages: [Jigsaw_Piece_BP_3] AlreadyInCorrectPosition
+[2017.11.28-11.06.13:933][953]LogBlueprintUserMessages: [Jigsaw_Piece_BP_3] AlreadyInCorrectPosition
+[2017.11.28-11.06.13:944][954]LogBlueprintUserMessages: [Jigsaw_Piece_BP_3] AlreadyInCorrectPosition
+[2017.11.28-11.06.13:954][955]LogBlueprintUserMessages: [Jigsaw_Piece_BP_3] AlreadyInCorrectPosition
+[2017.11.28-11.06.13:964][956]LogBlueprintUserMessages: [Jigsaw_Piece_BP_3] AlreadyInCorrectPosition
+[2017.11.28-11.06.13:974][957]LogBlueprintUserMessages: [Jigsaw_Piece_BP_3] AlreadyInCorrectPosition
+[2017.11.28-11.06.13:984][958]LogBlueprintUserMessages: [Jigsaw_Piece_BP_3] AlreadyInCorrectPosition
+[2017.11.28-11.06.16:026][143]LogBlueprintUserMessages: [Jigsaw_Piece_BP_5] AlreadyInCorrectPosition
+[2017.11.28-11.06.16:035][144]LogBlueprintUserMessages: [Jigsaw_Piece_BP_5] AlreadyInCorrectPosition
+[2017.11.28-11.06.16:046][145]LogBlueprintUserMessages: [Jigsaw_Piece_BP_5] AlreadyInCorrectPosition
+[2017.11.28-11.06.16:056][146]LogBlueprintUserMessages: [Jigsaw_Piece_BP_5] AlreadyInCorrectPosition
+[2017.11.28-11.06.16:066][147]LogBlueprintUserMessages: [Jigsaw_Piece_BP_5] AlreadyInCorrectPosition
+[2017.11.28-11.06.16:075][148]LogBlueprintUserMessages: [Jigsaw_Piece_BP_5] AlreadyInCorrectPosition
+[2017.11.28-11.06.16:084][149]LogBlueprintUserMessages: [Jigsaw_Piece_BP_5] AlreadyInCorrectPosition
+[2017.11.28-11.06.16:093][150]LogBlueprintUserMessages: [Jigsaw_Piece_BP_5] AlreadyInCorrectPosition
+[2017.11.28-11.06.16:102][151]LogBlueprintUserMessages: [Jigsaw_Piece_BP_5] AlreadyInCorrectPosition
+[2017.11.28-11.06.16:112][152]LogBlueprintUserMessages: [Jigsaw_Piece_BP_5] AlreadyInCorrectPosition
+[2017.11.28-11.06.16:121][153]LogBlueprintUserMessages: [Jigsaw_Piece_BP_5] AlreadyInCorrectPosition
+[2017.11.28-11.06.16:130][154]LogBlueprintUserMessages: [Jigsaw_Piece_BP_5] AlreadyInCorrectPosition
+[2017.11.28-11.06.16:138][155]LogBlueprintUserMessages: [Jigsaw_Piece_BP_5] AlreadyInCorrectPosition
+[2017.11.28-11.06.16:147][156]LogBlueprintUserMessages: [Jigsaw_Piece_BP_5] AlreadyInCorrectPosition
+[2017.11.28-11.06.16:156][157]LogBlueprintUserMessages: [Jigsaw_Piece_BP_5] AlreadyInCorrectPosition
+[2017.11.28-11.06.16:165][158]LogBlueprintUserMessages: [Jigsaw_Piece_BP_5] AlreadyInCorrectPosition
+[2017.11.28-11.06.16:174][159]LogBlueprintUserMessages: [Jigsaw_Piece_BP_5] AlreadyInCorrectPosition
+[2017.11.28-11.06.16:183][160]LogBlueprintUserMessages: [Jigsaw_Piece_BP_5] AlreadyInCorrectPosition
+[2017.11.28-11.06.16:193][161]LogBlueprintUserMessages: [Jigsaw_Piece_BP_5] AlreadyInCorrectPosition
+[2017.11.28-11.06.16:204][162]LogBlueprintUserMessages: [Jigsaw_Piece_BP_5] AlreadyInCorrectPosition
+[2017.11.28-11.06.16:213][163]LogBlueprintUserMessages: [Jigsaw_Piece_BP_5] AlreadyInCorrectPosition
+[2017.11.28-11.06.16:221][164]LogBlueprintUserMessages: [Jigsaw_Piece_BP_5] AlreadyInCorrectPosition
+[2017.11.28-11.06.16:230][165]LogBlueprintUserMessages: [Jigsaw_Piece_BP_5] AlreadyInCorrectPosition
+[2017.11.28-11.06.16:239][166]LogBlueprintUserMessages: [Jigsaw_Piece_BP_5] AlreadyInCorrectPosition
+[2017.11.28-11.06.16:248][167]LogBlueprintUserMessages: [Jigsaw_Piece_BP_5] AlreadyInCorrectPosition
+[2017.11.28-11.06.16:259][168]LogBlueprintUserMessages: [Jigsaw_Piece_BP_5] AlreadyInCorrectPosition
+[2017.11.28-11.06.16:270][169]LogBlueprintUserMessages: [Jigsaw_Piece_BP_5] AlreadyInCorrectPosition
+[2017.11.28-11.06.16:281][170]LogBlueprintUserMessages: [Jigsaw_Piece_BP_5] AlreadyInCorrectPosition
+[2017.11.28-11.06.16:293][171]LogBlueprintUserMessages: [Jigsaw_Piece_BP_5] AlreadyInCorrectPosition
+[2017.11.28-11.06.18:724][408]LogBlueprintUserMessages: [Jigsaw_Piece_BP_0] AlreadyInCorrectPosition
+[2017.11.28-11.06.18:734][409]LogBlueprintUserMessages: [Jigsaw_Piece_BP_0] AlreadyInCorrectPosition
+[2017.11.28-11.06.18:746][410]LogBlueprintUserMessages: [Jigsaw_Piece_BP_0] AlreadyInCorrectPosition
+[2017.11.28-11.06.18:756][411]LogBlueprintUserMessages: [Jigsaw_Piece_BP_0] AlreadyInCorrectPosition
+[2017.11.28-11.06.18:766][412]LogBlueprintUserMessages: [Jigsaw_Piece_BP_0] AlreadyInCorrectPosition
+[2017.11.28-11.06.18:777][413]LogBlueprintUserMessages: [Jigsaw_Piece_BP_0] AlreadyInCorrectPosition
+[2017.11.28-11.06.18:785][414]LogBlueprintUserMessages: [Jigsaw_Piece_BP_0] AlreadyInCorrectPosition
+[2017.11.28-11.06.18:796][415]LogBlueprintUserMessages: [Jigsaw_Piece_BP_0] AlreadyInCorrectPosition
+[2017.11.28-11.06.18:805][416]LogBlueprintUserMessages: [Jigsaw_Piece_BP_0] AlreadyInCorrectPosition
+[2017.11.28-11.06.18:816][417]LogBlueprintUserMessages: [Jigsaw_Piece_BP_0] AlreadyInCorrectPosition
+[2017.11.28-11.06.18:827][418]LogBlueprintUserMessages: [Jigsaw_Piece_BP_0] AlreadyInCorrectPosition
+[2017.11.28-11.06.18:835][419]LogBlueprintUserMessages: [Jigsaw_Piece_BP_0] AlreadyInCorrectPosition
+[2017.11.28-11.06.18:845][420]LogBlueprintUserMessages: [Jigsaw_Piece_BP_0] AlreadyInCorrectPosition
+[2017.11.28-11.06.18:853][421]LogBlueprintUserMessages: [Jigsaw_Piece_BP_0] AlreadyInCorrectPosition
+[2017.11.28-11.06.18:862][422]LogBlueprintUserMessages: [Jigsaw_Piece_BP_0] AlreadyInCorrectPosition
+[2017.11.28-11.06.18:871][423]LogBlueprintUserMessages: [Jigsaw_Piece_BP_0] AlreadyInCorrectPosition
+[2017.11.28-11.06.18:881][424]LogBlueprintUserMessages: [Jigsaw_Piece_BP_0] AlreadyInCorrectPosition
+[2017.11.28-11.06.18:891][425]LogBlueprintUserMessages: [Jigsaw_Piece_BP_0] AlreadyInCorrectPosition
+[2017.11.28-11.06.18:901][426]LogBlueprintUserMessages: [Jigsaw_Piece_BP_0] AlreadyInCorrectPosition
+[2017.11.28-11.06.18:912][427]LogBlueprintUserMessages: [Jigsaw_Piece_BP_0] AlreadyInCorrectPosition
+[2017.11.28-11.06.18:922][428]LogBlueprintUserMessages: [Jigsaw_Piece_BP_0] AlreadyInCorrectPosition
+[2017.11.28-11.06.18:932][429]LogBlueprintUserMessages: [Jigsaw_Piece_BP_0] AlreadyInCorrectPosition
+[2017.11.28-11.06.18:941][430]LogBlueprintUserMessages: [Jigsaw_Piece_BP_0] AlreadyInCorrectPosition
+[2017.11.28-11.06.18:950][431]LogBlueprintUserMessages: [Jigsaw_Piece_BP_0] AlreadyInCorrectPosition
+[2017.11.28-11.06.18:960][432]LogBlueprintUserMessages: [Jigsaw_Piece_BP_0] AlreadyInCorrectPosition
+[2017.11.28-11.06.18:969][433]LogBlueprintUserMessages: [Jigsaw_Piece_BP_0] AlreadyInCorrectPosition
+[2017.11.28-11.06.18:979][434]LogBlueprintUserMessages: [Jigsaw_Piece_BP_0] AlreadyInCorrectPosition
+[2017.11.28-11.06.18:989][435]LogBlueprintUserMessages: [Jigsaw_Piece_BP_0] AlreadyInCorrectPosition
+[2017.11.28-11.06.18:997][436]LogBlueprintUserMessages: [Jigsaw_Piece_BP_0] AlreadyInCorrectPosition
+[2017.11.28-11.06.19:007][437]LogBlueprintUserMessages: [Jigsaw_Piece_BP_0] AlreadyInCorrectPosition
+[2017.11.28-11.06.19:016][438]LogBlueprintUserMessages: [Jigsaw_Piece_BP_0] AlreadyInCorrectPosition
+[2017.11.28-11.06.19:030][439]LogBlueprintUserMessages: [Jigsaw_Piece_BP_0] AlreadyInCorrectPosition
+[2017.11.28-11.06.19:042][440]LogBlueprintUserMessages: [Jigsaw_Piece_BP_0] AlreadyInCorrectPosition
+[2017.11.28-11.06.19:051][441]LogBlueprintUserMessages: [Jigsaw_Piece_BP_0] AlreadyInCorrectPosition
+[2017.11.28-11.06.19:061][442]LogBlueprintUserMessages: [Jigsaw_Piece_BP_0] AlreadyInCorrectPosition
+[2017.11.28-11.06.19:070][443]LogBlueprintUserMessages: [Jigsaw_Piece_BP_0] AlreadyInCorrectPosition
+[2017.11.28-11.06.19:080][444]LogBlueprintUserMessages: [Jigsaw_Piece_BP_0] AlreadyInCorrectPosition
+[2017.11.28-11.06.19:090][445]LogBlueprintUserMessages: [Jigsaw_Piece_BP_0] AlreadyInCorrectPosition
+[2017.11.28-11.06.19:099][446]LogBlueprintUserMessages: [Jigsaw_Piece_BP_0] AlreadyInCorrectPosition
+[2017.11.28-11.06.20:737][591]LogBlueprintUserMessages: [Jigsaw_Piece_BP_4] AlreadyInCorrectPosition
+[2017.11.28-11.06.20:748][592]LogNet: Browse: /Game/Maps/Puzzle_Island
+[2017.11.28-11.06.20:748][592]LogLoad: LoadMap: /Game/Maps/Puzzle_Island
+[2017.11.28-11.06.20:782][592]Cmd: MEM
+[2017.11.28-11.06.20:808][592]LogMemory: Platform Memory Stats for Windows
+[2017.11.28-11.06.20:808][592]LogMemory: Process Physical Memory: 1650.75 MB used, 1765.58 MB peak
+[2017.11.28-11.06.20:808][592]LogMemory: Process Virtual Memory: 2311.86 MB used, 2640.36 MB peak
+[2017.11.28-11.06.20:808][592]LogMemory: Physical Memory: 10091.81 MB used,  22592.61 MB free, 32684.42 MB total
+[2017.11.28-11.06.20:808][592]LogMemory: Virtual Memory: 3348.03 MB used,  22592.61 MB free, 134217728.00 MB total
+[2017.11.28-11.06.20:808][592]LogMemory: 
+[2017.11.28-11.06.20:808][592]Allocator Stats for TBB: (not implemented)
+[2017.11.28-11.06.20:808][592]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.28-11.06.20:833][592]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023856s)
+[2017.11.28-11.06.20:834][592]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.28-11.06.20:834][592]LogPlayLevel: PIE: World Init took: (0.001090s)
+[2017.11.28-11.06.20:834][592]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.025334s)
+[2017.11.28-11.06.20:834][592]LogLoad: Game class is '3D_Exploration_GameMode_C'
+[2017.11.28-11.06.20:839][592]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.28-11.06.20
+[2017.11.28-11.06.20:840][592]LogWorld: Bringing up level for play took: 0.004480
+[2017.11.28-11.06.20:844][592]LogLoad: Took 0.094814 seconds to LoadMap(/Game/Maps/UEDPIE_0_Puzzle_Island)
+[2017.11.28-11.06.41:780][761]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.28-11.06.41:825][761]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.28-11.06.43:234][870]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.28-11.06.43:286][870]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.28-11.06.43:286][870]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.28-11.06.43:286][870]PIE: New page: PIE session: Puzzle_Island (28 Nov 2017 11:06:43)
+[2017.11.28-11.06.43:288][870]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.28-11.06.43:306][870]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017607s)
+[2017.11.28-11.06.43:307][870]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.28-11.06.43:307][870]LogPlayLevel: PIE: World Init took: (0.000727s)
+[2017.11.28-11.06.43:307][870]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.018680s)
+[2017.11.28-11.06.43:339][870]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.28-11.06.43:371][870]LogInit: FAudioDevice initialized.
+[2017.11.28-11.06.43:407][870]LogLoad: Game class is '3D_Exploration_GameMode_C'
+[2017.11.28-11.06.43:413][870]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.28-11.06.43
+[2017.11.28-11.06.43:414][870]LogWorld: Bringing up level for play took: 0.006597
+[2017.11.28-11.06.43:418][870]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island -0.016
+[2017.11.28-11.06.43:418][870]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.28-11.06.45:001][ 25]LogBlueprintUserMessages: [NPC_BP2_54] Incorect Level Name
+[2017.11.28-11.06.46:027][133]LogBlueprintUserMessages: [NPC_BP2_54] Incorect Level Name
+[2017.11.28-11.06.46:209][152]LogBlueprintUserMessages: [NPC_BP2_54] Incorect Level Name
+[2017.11.28-11.06.46:357][168]LogBlueprintUserMessages: [NPC_BP2_54] Incorect Level Name
+[2017.11.28-11.06.46:539][187]LogBlueprintUserMessages: [NPC_BP2_54] Incorect Level Name
+[2017.11.28-11.07.04:910][ 57]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.28-11.07.04:962][ 57]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.28-11.08.14:229][429]LogMetaData: Removing '/Game/Maps/Jigsaw_01.Jigsaw_01_C' ref from Metadata '/Game/Maps/Jigsaw_Scene.PackageMetaData'
+[2017.11.28-11.08.14:229][429]LogMetaData: Removing '/Game/Maps/Jigsaw_01.Jigsaw_01:PersistentLevel.Jigsaw_01.EventGraph.K2Node_Event_0' ref from Metadata '/Game/Maps/Jigsaw_Scene.PackageMetaData'
+[2017.11.28-11.08.14:229][429]LogMetaData: Removing '/Game/Maps/Jigsaw_01.Jigsaw_01:PersistentLevel.Jigsaw_01.EventGraph.K2Node_Event_1' ref from Metadata '/Game/Maps/Jigsaw_Scene.PackageMetaData'
+[2017.11.28-11.08.14:229][429]LogMetaData: Removing '/Game/Maps/Jigsaw_01.Jigsaw_01:PersistentLevel.Jigsaw_01.CheckIfPieceIsInCorrectLocation.K2Node_Tunnel_7' ref from Metadata '/Game/Maps/Jigsaw_Scene.PackageMetaData'
+[2017.11.28-11.08.14:229][429]LogMetaData: Removing '/Game/Maps/Jigsaw_01.Jigsaw_01:PersistentLevel.Jigsaw_01.CheckIfPieceIsInCorrectLocation.K2Node_Tunnel_6' ref from Metadata '/Game/Maps/Jigsaw_Scene.PackageMetaData'
+[2017.11.28-11.08.14:229][429]LogMetaData: Removing '/Game/Maps/Jigsaw_01.SKEL_Jigsaw_01_C' ref from Metadata '/Game/Maps/Jigsaw_Scene.PackageMetaData'
+[2017.11.28-11.08.14:489][429]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Jigsaw_01" FILE="D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Maps/Jigsaw_01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.28-11.08.14:792][429]LogSavePackage: Save=252.25ms
+[2017.11.28-11.08.14:793][429]LogSavePackage: Moving 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Jigsaw_01681915D547D08A6761B9D6B35724FD11.tmp' to 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Maps/Jigsaw_01.umap'
+[2017.11.28-11.08.14:801][429]LogSavePackage: Display: Finished SavePackage D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Maps/Jigsaw_01.umap
+[2017.11.28-11.08.14:806][429]LogFileHelpers: Saving map 'Jigsaw_01' took 0.543
+[2017.11.28-11.08.25:494][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Jigsaw_01_BuiltData" FILE="D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Maps/Jigsaw_01_BuiltData.uasset" SILENT=true
+[2017.11.28-11.08.25:505][298]LogSavePackage: Save=6.67ms
+[2017.11.28-11.08.25:505][298]LogSavePackage: Moving 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Jigsaw_01_BuiltData30543E7B42771A025313B584A5DE06D6.tmp' to 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Maps/Jigsaw_01_BuiltData.uasset'
+[2017.11.28-11.08.25:514][298]LogSavePackage: Display: Finished SavePackage D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Maps/Jigsaw_01_BuiltData.uasset
+[2017.11.28-11.08.54:579][691]LogMetaData: Removing '/Game/Maps/Jigsaw_02.Jigsaw_02:PersistentLevel.Jigsaw_02.EventGraph.K2Node_Event_0' ref from Metadata '/Game/Maps/Jigsaw_01.PackageMetaData'
+[2017.11.28-11.08.54:579][691]LogMetaData: Removing '/Game/Maps/Jigsaw_02.Jigsaw_02:PersistentLevel.Jigsaw_02.EventGraph.K2Node_Event_1' ref from Metadata '/Game/Maps/Jigsaw_01.PackageMetaData'
+[2017.11.28-11.08.54:579][691]LogMetaData: Removing '/Game/Maps/Jigsaw_02.Jigsaw_02:PersistentLevel.Jigsaw_02.CheckIfPieceIsInCorrectLocation.K2Node_Tunnel_7' ref from Metadata '/Game/Maps/Jigsaw_01.PackageMetaData'
+[2017.11.28-11.08.54:579][691]LogMetaData: Removing '/Game/Maps/Jigsaw_02.Jigsaw_02:PersistentLevel.Jigsaw_02.CheckIfPieceIsInCorrectLocation.K2Node_Tunnel_6' ref from Metadata '/Game/Maps/Jigsaw_01.PackageMetaData'
+[2017.11.28-11.08.54:579][691]LogMetaData: Removing '/Game/Maps/Jigsaw_02.Jigsaw_02_C' ref from Metadata '/Game/Maps/Jigsaw_01.PackageMetaData'
+[2017.11.28-11.08.54:579][691]LogMetaData: Removing '/Game/Maps/Jigsaw_02.SKEL_Jigsaw_02_C' ref from Metadata '/Game/Maps/Jigsaw_01.PackageMetaData'
+[2017.11.28-11.08.54:796][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Jigsaw_02" FILE="D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Maps/Jigsaw_02.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.28-11.08.55:113][691]LogSavePackage: Save=268.94ms
+[2017.11.28-11.08.55:113][691]LogSavePackage: Moving 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Jigsaw_02BE62ADE0446D757CF9B0BCBF936683F2.tmp' to 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Maps/Jigsaw_02.umap'
+[2017.11.28-11.08.55:122][691]LogSavePackage: Display: Finished SavePackage D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Maps/Jigsaw_02.umap
+[2017.11.28-11.08.55:128][691]LogFileHelpers: Saving map 'Jigsaw_02' took 0.520
+[2017.11.28-11.09.38:182][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NPC_BP" FILE="D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Blueprints/NPC_BP.uasset" SILENT=true
+[2017.11.28-11.09.38:318][339]LogSavePackage: Save=127.50ms
+[2017.11.28-11.09.38:318][339]LogSavePackage: Moving 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/NPC_BP9DD80D4948FF2064C55B95A116B866E1.tmp' to 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Blueprints/NPC_BP.uasset'
+[2017.11.28-11.09.38:327][339]LogSavePackage: Display: Finished SavePackage D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Blueprints/NPC_BP.uasset
+[2017.11.28-11.09.38:669][339]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.28-11.09.38:965][340]Cmd: QUIT_EDITOR
+[2017.11.28-11.09.39:171][340]LogExit: Preparing to exit.
+[2017.11.28-11.09.39:794][340]LogExit: Editor shut down
+[2017.11.28-11.09.39:802][340]LogExit: Transaction tracking system shut down
+[2017.11.28-11.09.40:511][340]LogFileManager: Warning: DeleteFile was unable to delete 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Intermediate/CachedAssetRegistry.bin', retrying in .5s...
+[2017.11.28-11.09.40:511][340]LogFileManager: Warning: DeleteFile recovered during retry!
+[2017.11.28-11.09.40:511][340]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.11.28-11.09.40:511][340]LogDirectoryWatcher: A directory notification for 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/' was aborted.
+[2017.11.28-11.09.40:511][340]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.11.28-11.09.40:511][340]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.11.28-11.09.40:511][340]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.11.28-11.09.40:708][340]LogExit: Object subsystem successfully closed.
+[2017.11.28-11.09.40:743][340]LogD3D11RHI: Shutdown
+[2017.11.28-11.09.40:743][340]LogD3D11RHI: CleanupD3DDevice
+[2017.11.28-11.09.40:893][340]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.11.28-11.09.40:941][340]LogModuleManager: Shutting down and abandoning module BlueprintGraph (538)
+[2017.11.28-11.09.40:941][340]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (536)
+[2017.11.28-11.09.40:941][340]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (534)
+[2017.11.28-11.09.40:941][340]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (532)
+[2017.11.28-11.09.40:941][340]LogModuleManager: Shutting down and abandoning module SceneOutliner (530)
+[2017.11.28-11.09.40:941][340]LogModuleManager: Shutting down and abandoning module AddContentDialog (528)
+[2017.11.28-11.09.40:942][340]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.17/FeaturePacks/' was aborted.
+[2017.11.28-11.09.40:943][340]LogModuleManager: Shutting down and abandoning module WidgetCarousel (527)
+[2017.11.28-11.09.40:943][340]LogModuleManager: Shutting down and abandoning module EditorWidgets (524)
+[2017.11.28-11.09.40:943][340]LogModuleManager: Shutting down and abandoning module CollectionManager (522)
+[2017.11.28-11.09.40:943][340]LogDirectoryWatcher: A directory notification for 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Collections/' was aborted.
+[2017.11.28-11.09.40:943][340]LogDirectoryWatcher: A directory notification for 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Developers/Jakub/Collections/' was aborted.
+[2017.11.28-11.09.40:943][340]LogDirectoryWatcher: A directory notification for 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Collections/' was aborted.
+[2017.11.28-11.09.40:943][340]LogModuleManager: Shutting down and abandoning module StatsViewer (520)
+[2017.11.28-11.09.40:943][340]LogModuleManager: Shutting down and abandoning module FoliageEdit (518)
+[2017.11.28-11.09.40:943][340]LogModuleManager: Shutting down and abandoning module LandscapeEditor (516)
+[2017.11.28-11.09.40:944][340]LogModuleManager: Shutting down and abandoning module MeshPaintMode (514)
+[2017.11.28-11.09.40:944][340]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (512)
+[2017.11.28-11.09.40:944][340]LogModuleManager: Shutting down and abandoning module ActorPickerMode (510)
+[2017.11.28-11.09.40:944][340]LogModuleManager: Shutting down and abandoning module GeometryMode (508)
+[2017.11.28-11.09.40:944][340]LogModuleManager: Shutting down and abandoning module TextureAlignMode (506)
+[2017.11.28-11.09.40:944][340]LogModuleManager: Shutting down and abandoning module BspMode (504)
+[2017.11.28-11.09.40:944][340]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (502)
+[2017.11.28-11.09.40:944][340]LogModuleManager: Shutting down and abandoning module HardwareSurvey (500)
+[2017.11.28-11.09.40:944][340]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (498)
+[2017.11.28-11.09.40:944][340]LogModuleManager: Shutting down and abandoning module AutomationWorker (496)
+[2017.11.28-11.09.40:944][340]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (494)
+[2017.11.28-11.09.40:944][340]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (492)
+[2017.11.28-11.09.40:944][340]LogModuleManager: Shutting down and abandoning module PlacementMode (491)
+[2017.11.28-11.09.40:944][340]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (488)
+[2017.11.28-11.09.40:944][340]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (486)
+[2017.11.28-11.09.40:944][340]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (484)
+[2017.11.28-11.09.40:944][340]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (482)
+[2017.11.28-11.09.40:944][340]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (480)
+[2017.11.28-11.09.40:944][340]LogModuleManager: Shutting down and abandoning module Media (479)
+[2017.11.28-11.09.40:944][340]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (476)
+[2017.11.28-11.09.40:944][340]LogModuleManager: Shutting down and abandoning module CharacterAI (474)
+[2017.11.28-11.09.40:944][340]LogModuleManager: Shutting down and abandoning module AudioCapture (472)
+[2017.11.28-11.09.40:944][340]LogModuleManager: Shutting down and abandoning module SequenceRecorder (471)
+[2017.11.28-11.09.40:944][340]LogModuleManager: Shutting down and abandoning module SmartSnapping (468)
+[2017.11.28-11.09.40:944][340]LogModuleManager: Shutting down and abandoning module SessionServices (466)
+[2017.11.28-11.09.40:944][340]LogModuleManager: Shutting down and abandoning module ViewportSnapping (464)
+[2017.11.28-11.09.40:944][340]LogModuleManager: Shutting down and abandoning module ViewportInteraction (462)
+[2017.11.28-11.09.40:944][340]LogModuleManager: Shutting down and abandoning module ClothPainter (460)
+[2017.11.28-11.09.40:945][340]LogModuleManager: Shutting down and abandoning module LogVisualizer (458)
+[2017.11.28-11.09.40:945][340]LogModuleManager: Shutting down and abandoning module IntroTutorials (456)
+[2017.11.28-11.09.40:945][340]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (455)
+[2017.11.28-11.09.40:945][340]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (452)
+[2017.11.28-11.09.40:945][340]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (450)
+[2017.11.28-11.09.40:945][340]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (448)
+[2017.11.28-11.09.40:945][340]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (447)
+[2017.11.28-11.09.41:537][340]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (444)
+[2017.11.28-11.09.41:537][340]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (442)
+[2017.11.28-11.09.41:537][340]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (440)
+[2017.11.28-11.09.41:537][340]LogModuleManager: Shutting down and abandoning module InputBindingEditor (438)
+[2017.11.28-11.09.41:537][340]LogModuleManager: Shutting down and abandoning module MergeActors (436)
+[2017.11.28-11.09.41:538][340]LogModuleManager: Shutting down and abandoning module SizeMap (434)
+[2017.11.28-11.09.41:538][340]LogModuleManager: Shutting down and abandoning module TreeMap (432)
+[2017.11.28-11.09.41:538][340]LogModuleManager: Shutting down and abandoning module ReferenceViewer (430)
+[2017.11.28-11.09.41:538][340]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (428)
+[2017.11.28-11.09.41:538][340]LogModuleManager: Shutting down and abandoning module LocalizationService (427)
+[2017.11.28-11.09.41:538][340]LogModuleManager: Shutting down and abandoning module HardwareTargeting (424)
+[2017.11.28-11.09.41:538][340]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (422)
+[2017.11.28-11.09.41:538][340]LogModuleManager: Shutting down and abandoning module UndoHistory (420)
+[2017.11.28-11.09.41:538][340]LogModuleManager: Shutting down and abandoning module XmlParser (418)
+[2017.11.28-11.09.41:538][340]LogModuleManager: Shutting down and abandoning module Blutility (416)
+[2017.11.28-11.09.41:538][340]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (414)
+[2017.11.28-11.09.41:538][340]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (413)
+[2017.11.28-11.09.41:538][340]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (410)
+[2017.11.28-11.09.41:538][340]LogModuleManager: Shutting down and abandoning module SettingsEditor (408)
+[2017.11.28-11.09.41:538][340]LogModuleManager: Shutting down and abandoning module ProjectLauncher (406)
+[2017.11.28-11.09.41:539][340]LogModuleManager: Shutting down and abandoning module SessionFrontend (404)
+[2017.11.28-11.09.41:539][340]LogModuleManager: Shutting down and abandoning module ProfilerClient (402)
+[2017.11.28-11.09.41:539][340]LogModuleManager: Shutting down and abandoning module DeviceManager (400)
+[2017.11.28-11.09.41:539][340]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (399)
+[2017.11.28-11.09.41:593][340]LogModuleManager: Shutting down and abandoning module AutomationController (396)
+[2017.11.28-11.09.41:593][340]LogModuleManager: Shutting down and abandoning module AutomationWindow (394)
+[2017.11.28-11.09.41:593][340]LogModuleManager: Shutting down and abandoning module Layers (392)
+[2017.11.28-11.09.41:593][340]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (390)
+[2017.11.28-11.09.41:594][340]LogModuleManager: Shutting down and abandoning module DetailCustomizations (388)
+[2017.11.28-11.09.41:594][340]LogModuleManager: Shutting down and abandoning module PackagesDialog (386)
+[2017.11.28-11.09.41:594][340]LogModuleManager: Shutting down and abandoning module Persona (384)
+[2017.11.28-11.09.41:594][340]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (383)
+[2017.11.28-11.09.41:594][340]LogModuleManager: Shutting down and abandoning module AnimGraph (381)
+[2017.11.28-11.09.41:595][340]LogModuleManager: Shutting down and abandoning module Kismet (378)
+[2017.11.28-11.09.41:615][340]LogModuleManager: Shutting down and abandoning module ClassViewer (376)
+[2017.11.28-11.09.41:615][340]LogModuleManager: Shutting down and abandoning module Toolbox (374)
+[2017.11.28-11.09.41:615][340]LogModuleManager: Shutting down and abandoning module ModuleUI (372)
+[2017.11.28-11.09.41:615][340]LogModuleManager: Shutting down and abandoning module MovieSceneTools (370)
+[2017.11.28-11.09.41:615][340]LogModuleManager: Shutting down and abandoning module OutputLog (368)
+[2017.11.28-11.09.41:615][340]LogModuleManager: Shutting down and abandoning module GammaUI (366)
+[2017.11.28-11.09.41:615][340]LogModuleManager: Shutting down and abandoning module Documentation (364)
+[2017.11.28-11.09.41:615][340]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (362)
+[2017.11.28-11.09.41:615][340]LogModuleManager: Shutting down and abandoning module MovieScene (360)
+[2017.11.28-11.09.41:615][340]LogModuleManager: Shutting down and abandoning module Niagara (358)
+[2017.11.28-11.09.41:616][340]LogModuleManager: Shutting down and abandoning module NiagaraEditor (357)
+[2017.11.28-11.09.41:616][340]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (354)
+[2017.11.28-11.09.41:616][340]LogModuleManager: Shutting down and abandoning module LauncherPlatform (352)
+[2017.11.28-11.09.41:616][340]LogModuleManager: Shutting down and abandoning module AnalyticsET (350)
+[2017.11.28-11.09.41:616][340]LogModuleManager: Shutting down and abandoning module PortalServices (348)
+[2017.11.28-11.09.41:616][340]LogModuleManager: Shutting down and abandoning module PortalRpc (346)
+[2017.11.28-11.09.41:616][340]LogModuleManager: Shutting down and abandoning module MessagingRpc (344)
+[2017.11.28-11.09.41:616][340]LogModuleManager: Shutting down and abandoning module AIModule (342)
+[2017.11.28-11.09.41:616][340]LogModuleManager: Shutting down and abandoning module GameplayDebugger (341)
+[2017.11.28-11.09.41:616][340]LogModuleManager: Shutting down and abandoning module AITestSuite (339)
+[2017.11.28-11.09.41:616][340]LogModuleManager: Shutting down and abandoning module ProfilerService (336)
+[2017.11.28-11.09.41:678][340]LogModuleManager: Shutting down and abandoning module TaskGraph (334)
+[2017.11.28-11.09.41:679][340]LogModuleManager: Shutting down and abandoning module SteamVRController (332)
+[2017.11.28-11.09.41:679][340]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (330)
+[2017.11.28-11.09.41:679][340]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (328)
+[2017.11.28-11.09.41:679][340]LogModuleManager: Shutting down and abandoning module OculusInput (326)
+[2017.11.28-11.09.41:679][340]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (324)
+[2017.11.28-11.09.41:679][340]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (322)
+[2017.11.28-11.09.41:679][340]LogModuleManager: Shutting down and abandoning module CableComponent (320)
+[2017.11.28-11.09.41:679][340]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (318)
+[2017.11.28-11.09.41:679][340]LogModuleManager: Shutting down and abandoning module AndroidPermission (316)
+[2017.11.28-11.09.41:679][340]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (312)
+[2017.11.28-11.09.41:679][340]LogModuleManager: Shutting down and abandoning module HTML5Networking (310)
+[2017.11.28-11.09.41:679][340]LogModuleManager: Shutting down and abandoning module AlembicImporter (308)
+[2017.11.28-11.09.41:679][340]LogModuleManager: Shutting down and abandoning module AlembicLibrary (307)
+[2017.11.28-11.09.41:679][340]LogModuleManager: Shutting down and abandoning module GeometryCache (306)
+[2017.11.28-11.09.41:679][340]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (305)
+[2017.11.28-11.09.41:679][340]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (300)
+[2017.11.28-11.09.41:679][340]LogModuleManager: Shutting down and abandoning module PluginBrowser (298)
+[2017.11.28-11.09.41:679][340]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (296)
+[2017.11.28-11.09.41:679][340]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (294)
+[2017.11.28-11.09.41:679][340]LogModuleManager: Shutting down and abandoning module DesktopPlatform (293)
+[2017.11.28-11.09.41:679][340]LogModuleManager: Shutting down and abandoning module UObjectPlugin (290)
+[2017.11.28-11.09.41:679][340]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (288)
+[2017.11.28-11.09.41:679][340]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (286)
+[2017.11.28-11.09.41:679][340]LogModuleManager: Shutting down and abandoning module GitSourceControl (284)
+[2017.11.28-11.09.41:680][340]LogModuleManager: Shutting down and abandoning module SourceControl (283)
+[2017.11.28-11.09.41:680][340]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (280)
+[2017.11.28-11.09.41:680][340]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (278)
+[2017.11.28-11.09.41:680][340]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (276)
+[2017.11.28-11.09.41:680][340]LogModuleManager: Shutting down and abandoning module Paper2DEditor (274)
+[2017.11.28-11.09.41:680][340]LogModuleManager: Shutting down and abandoning module MeshPaint (273)
+[2017.11.28-11.09.41:680][340]LogModuleManager: Shutting down and abandoning module LevelEditor (271)
+[2017.11.28-11.09.41:681][340]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (270)
+[2017.11.28-11.09.41:681][340]LogModuleManager: Shutting down and abandoning module MainFrame (268)
+[2017.11.28-11.09.41:682][340]LogModuleManager: Shutting down and abandoning module HotReload (267)
+[2017.11.28-11.09.41:682][340]LogDirectoryWatcher: A directory notification for 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Binaries/Win64' was aborted.
+[2017.11.28-11.09.41:682][340]LogModuleManager: Shutting down and abandoning module Puzzle_Island (262)
+[2017.11.28-11.09.41:682][340]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2017.11.28-11.09.41:682][340]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2017.11.28-11.09.41:682][340]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2017.11.28-11.09.41:682][340]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2017.11.28-11.09.41:682][340]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2017.11.28-11.09.41:682][340]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2017.11.28-11.09.41:682][340]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2017.11.28-11.09.41:683][340]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2017.11.28-11.09.41:783][340]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2017.11.28-11.09.41:883][340]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2017.11.28-11.09.41:883][340]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2017.11.28-11.09.41:883][340]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2017.11.28-11.09.41:883][340]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2017.11.28-11.09.41:883][340]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2017.11.28-11.09.41:883][340]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2017.11.28-11.09.41:885][340]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2017.11.28-11.09.41:885][340]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2017.11.28-11.09.41:885][340]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2017.11.28-11.09.41:885][340]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2017.11.28-11.09.41:885][340]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2017.11.28-11.09.41:885][340]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2017.11.28-11.09.41:885][340]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2017.11.28-11.09.41:885][340]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2017.11.28-11.09.41:885][340]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2017.11.28-11.09.41:885][340]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2017.11.28-11.09.41:885][340]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2017.11.28-11.09.41:885][340]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2017.11.28-11.09.41:885][340]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2017.11.28-11.09.41:885][340]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2017.11.28-11.09.41:885][340]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2017.11.28-11.09.41:885][340]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2017.11.28-11.09.41:885][340]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2017.11.28-11.09.41:885][340]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2017.11.28-11.09.41:885][340]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2017.11.28-11.09.41:885][340]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2017.11.28-11.09.41:886][340]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2017.11.28-11.09.41:886][340]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2017.11.28-11.09.41:886][340]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2017.11.28-11.09.41:886][340]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2017.11.28-11.09.41:891][340]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2017.11.28-11.09.41:891][340]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2017.11.28-11.09.41:891][340]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2017.11.28-11.09.41:891][340]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2017.11.28-11.09.41:891][340]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2017.11.28-11.09.41:891][340]LogModuleManager: Shutting down and abandoning module Core (168)
+[2017.11.28-11.09.41:891][340]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.11.28-11.09.41:891][340]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2017.11.28-11.09.41:891][340]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2017.11.28-11.09.41:891][340]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2017.11.28-11.09.41:891][340]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2017.11.28-11.09.41:891][340]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2017.11.28-11.09.41:891][340]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2017.11.28-11.09.41:891][340]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2017.11.28-11.09.41:891][340]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2017.11.28-11.09.41:891][340]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2017.11.28-11.09.41:892][340]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2017.11.28-11.09.41:971][340]LogDerivedDataCache: Shutdown
+[2017.11.28-11.09.41:971][340]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2017.11.28-11.09.41:972][340]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2017.11.28-11.09.41:972][340]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2017.11.28-11.09.41:972][340]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2017.11.28-11.09.41:972][340]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2017.11.28-11.09.41:972][340]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2017.11.28-11.09.41:972][340]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2017.11.28-11.09.41:972][340]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2017.11.28-11.09.41:972][340]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2017.11.28-11.09.41:972][340]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2017.11.28-11.09.41:972][340]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2017.11.28-11.09.41:972][340]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2017.11.28-11.09.41:972][340]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2017.11.28-11.09.41:972][340]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2017.11.28-11.09.41:972][340]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2017.11.28-11.09.41:972][340]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2017.11.28-11.09.41:973][340]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2017.11.28-11.09.41:973][340]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2017.11.28-11.09.41:973][340]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2017.11.28-11.09.41:973][340]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2017.11.28-11.09.41:973][340]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2017.11.28-11.09.41:973][340]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2017.11.28-11.09.41:973][340]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2017.11.28-11.09.41:973][340]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2017.11.28-11.09.41:973][340]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2017.11.28-11.09.41:973][340]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2017.11.28-11.09.41:973][340]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2017.11.28-11.09.41:973][340]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2017.11.28-11.09.41:973][340]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2017.11.28-11.09.41:973][340]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2017.11.28-11.09.41:973][340]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2017.11.28-11.09.41:973][340]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2017.11.28-11.09.41:973][340]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2017.11.28-11.09.41:973][340]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2017.11.28-11.09.41:973][340]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2017.11.28-11.09.41:974][340]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2017.11.28-11.09.41:974][340]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2017.11.28-11.09.41:974][340]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2017.11.28-11.09.41:974][340]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2017.11.28-11.09.41:974][340]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2017.11.28-11.09.41:974][340]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2017.11.28-11.09.41:974][340]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2017.11.28-11.09.41:974][340]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2017.11.28-11.09.41:974][340]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2017.11.28-11.09.41:974][340]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2017.11.28-11.09.41:974][340]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2017.11.28-11.09.41:974][340]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2017.11.28-11.09.41:974][340]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.11.28-11.09.41:974][340]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.11.28-11.09.41:974][340]LogOnline: Display: Unloading online subsystem: NULL
+[2017.11.28-11.09.41:974][340]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.11.28-11.09.41:975][340]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.11.28-11.09.41:975][340]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.11.28-11.09.41:975][340]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2C790B76-428F-7EDE-558E-54833F92261A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=57c24bfd4a485b1cce38f19eb7f0e7b6%7C553ac523754045eea9b022c60cfc7b9e%7Cc86b4139-ad29-455a-bdfa-03c0a1a1d1d5&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.11.28-11.09.42:003][340]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.11.28-11.09.42:006][340]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.11.28-11.09.42:006][340]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.11.28-11.09.42:006][340]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.11.28-11.09.42:006][340]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.11.28-11.09.42:006][340]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.11.28-11.09.42:006][340]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.11.28-11.09.42:006][340]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.11.28-11.09.42:007][340]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.11.28-11.09.42:008][340]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.11.28-11.09.42:008][340]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.11.28-11.09.42:008][340]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.11.28-11.09.42:008][340]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.11.28-11.09.42:008][340]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.11.28-11.09.42:008][340]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.11.28-11.09.42:008][340]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.11.28-11.09.42:008][340]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.11.28-11.09.42:008][340]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.11.28-11.09.42:008][340]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.11.28-11.09.42:012][340]LogExit: Exiting.
+[2017.11.28-11.09.42:067][340]Log file closed, 11/28/17 11:09:42
