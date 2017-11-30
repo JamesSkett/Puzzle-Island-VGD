@@ -1,0 +1,961 @@
+﻿Log file open, 11/30/17 13:44:43
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Puzzle_Island
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(817547309) SRandInit(817547309).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.316064
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.11.30-13.44.47:675][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.30-13.44.47:675][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.11.30-13.44.47:693][  0]LogInit: Computer: JAKUBSIEWNIAK
+[2017.11.30-13.44.47:693][  0]LogInit: User: Jakub
+[2017.11.30-13.44.47:693][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.11.30-13.44.47:693][  0]LogInit: High frequency timer resolution =2.435767 MHz
+[2017.11.30-13.44.47:694][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2017.11.30-13.44.47:694][  0]LogMemory: Platform Memory Stats for Windows
+[2017.11.30-13.44.47:694][  0]LogMemory: Process Physical Memory: 282.16 MB used, 282.16 MB peak
+[2017.11.30-13.44.47:694][  0]LogMemory: Process Virtual Memory: 278.57 MB used, 278.57 MB peak
+[2017.11.30-13.44.47:694][  0]LogMemory: Physical Memory: 12337.24 MB used,  20347.18 MB free, 32684.42 MB total
+[2017.11.30-13.44.47:694][  0]LogMemory: Virtual Memory: 663.83 MB used,  20347.18 MB free, 134217728.00 MB total
+[2017.11.30-13.44.49:339][  0]LogInit: Using OS detected language (en-GB).
+[2017.11.30-13.44.49:339][  0]LogInit: Using OS detected locale (en-GB).
+[2017.11.30-13.44.49:350][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2017.11.30-13.44.51:130][  0]LogD3D11RHI: D3D11 adapters:
+[2017.11.30-13.44.51:297][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 880M' (Feature Level 11_0)
+[2017.11.30-13.44.51:297][  0]LogD3D11RHI:       8154/0/16342 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.11.30-13.44.51:306][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2017.11.30-13.44.51:306][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.11.30-13.44.51:308][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.11.30-13.44.51:309][  0]LogD3D11RHI:       0/0/16342 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.11.30-13.44.51:309][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.11.30-13.44.51:319][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.11.30-13.44.51:319][  0]LogD3D11RHI:     GPU DeviceId: 0x1198 (for the marketing name, search the web for "GPU Device Id")
+[2017.11.30-13.44.51:319][  0]LogWindows: EnumDisplayDevices:
+[2017.11.30-13.44.51:319][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2017.11.30-13.44.51:320][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2017.11.30-13.44.51:320][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2017.11.30-13.44.51:320][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.11.30-13.44.51:321][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 880M
+[2017.11.30-13.44.51:321][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.11.30-13.44.51:321][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.11.30-13.44.51:321][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.11.30-13.44.51:374][  0]LogD3D11RHI: Async texture creation enabled
+[2017.11.30-13.44.51:388][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.11.30-13.44.51:389][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Intermediate/Shaders/WorkingDirectory/22324/).
+[2017.11.30-13.44.51:389][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jakub/AppData/Local/Temp/UnrealShaderWorkingDir/BB8BC81442C31431361EDDA8032BD1E4/'.
+[2017.11.30-13.44.51:390][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.11.30-13.44.53:878][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.11.30-13.44.54:029][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.11.30-13.44.54:182][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.11.30-13.44.54:325][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.11.30-13.44.54:464][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.11.30-13.44.54:618][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.11.30-13.44.54:765][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.11.30-13.44.54:912][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.11.30-13.44.55:061][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.11.30-13.44.55:199][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.11.30-13.44.55:348][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.11.30-13.44.55:498][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.11.30-13.44.55:653][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.11.30-13.44.55:806][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.11.30-13.44.55:970][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.11.30-13.44.56:290][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.11.30-13.44.56:290][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.11.30-13.44.56:428][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.11.30-13.44.56:683][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.11.30-13.44.56:773][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.11.30-13.44.56:928][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.11.30-13.44.57:088][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.11.30-13.44.57:233][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.11.30-13.44.57:374][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.11.30-13.44.57:374][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.11.30-13.44.59:005][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.11.30-13.44.59:179][  0]LogDerivedDataCache: Loaded boot cache 0.17s 97MB C:/Users/Jakub/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.11.30-13.44.59:179][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jakub/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.11.30-13.44.59:179][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.11.30-13.44.59:179][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.11.30-13.44.59:179][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.11.30-13.44.59:179][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.11.30-13.44.59:211][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.11.30-13.44.59:225][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jakub/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.11.30-13.44.59:243][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.11.30-13.44.59:244][  0]LogSlate: Using Freetype 2.6.0
+[2017.11.30-13.44.59:245][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.30-13.44.59:245][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.30-13.44.59:769][  0]LogAssetRegistry: FAssetRegistry took 0.0305 seconds to start up
+[2017.11.30-13.45.00:107][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.30-13.45.00:480][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.11.30-13.45.01:544][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.11.30-13.45.01:689][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.11.30-13.45.01:689][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.11.30-13.45.01:689][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.11.30-13.45.01:689][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.11.30-13.45.01:689][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.11.30-13.45.02:804][  0]LogNetVersion: Puzzle_Island , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3939646741)
+[2017.11.30-13.45.03:380][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.092130 seconds
+[2017.11.30-13.45.03:390][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.11.30-13.45.03:390][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2017.11.30-13.45.03:390][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.11.30-13.45.03:589][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.11.30-13.45.12:751][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.11.30-13.45.12:882][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.11.30-13.45.15:440][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.11.30-13.45.16:706][  0]SourceControl: Source control is disabled
+[2017.11.30-13.45.16:706][  0]SourceControl: Source control is disabled
+[2017.11.30-13.45.16:850][  0]SourceControl: Source control is disabled
+[2017.11.30-13.45.16:989][  0]SourceControl: Source control is disabled
+[2017.11.30-13.45.18:998][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.11.30-13.45.19:825][  0]LogOcInput: OculusInput pre-init called
+[2017.11.30-13.45.20:588][  0]LogEngine: Initializing Engine...
+[2017.11.30-13.45.20:592][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.11.30-13.45.20:996][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.11.30-13.45.20:996][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.11.30-13.45.21:449][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.11.30-13.45.21:468][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.30-13.45.21:521][  0]LogInit: FAudioDevice initialized.
+[2017.11.30-13.45.21:673][  0]LogDerivedDataCache: Saved boot cache 0.15s 97MB C:/Users/Jakub/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.11.30-13.45.21:688][  0]LogInit: Texture streaming: Enabled
+[2017.11.30-13.45.22:054][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.11.30-13.45.22:672][  0]LogInit: Transaction tracking system initialized
+[2017.11.30-13.45.23:520][  0]BlueprintLog: New page: Editor Load
+[2017.11.30-13.45.26:021][  0]LocalizationService: Localization service is disabled
+[2017.11.30-13.45.27:983][  0]LogConsoleResponse: Display: 
+[2017.11.30-13.45.28:411][  0]LogAutoReimportManager: Warning: Unable to watch directory D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/ as it will conflict with another watching D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/.
+[2017.11.30-13.45.28:411][  0]LogAutoReimportManager: Warning: Unable to watch directory D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/ as it will conflict with another watching D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/.
+[2017.11.30-13.45.28:411][  0]LogAutoReimportManager: Warning: Unable to watch directory D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/ as it will conflict with another watching D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/.
+[2017.11.30-13.45.28:423][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.11.30-13.45.28:424][  0]LogCook: Display: Mobile HDR setting 1
+[2017.11.30-13.45.28:424][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.11.30-13.45.28:646][  0]LogFileCache: Scanning file cache for directory 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/' took 0.02s
+[2017.11.30-13.45.31:346][  0]SourceControl: Source control is disabled
+[2017.11.30-13.45.31:346][  0]Cmd: MAP LOAD FILE="D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Maps/Puzzle_Island.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.30-13.45.31:347][  0]LightingResults: New page: Lighting Build
+[2017.11.30-13.45.31:449][  0]MapCheck: New page: Map Check
+[2017.11.30-13.45.31:449][  0]LightingResults: New page: Lighting Build
+[2017.11.30-13.45.32:010][  0]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.30-13.45.32:097][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.30-13.45.32:149][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.30-13.45.32:291][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 141.542ms to complete.
+[2017.11.30-13.45.32:291][  0]LogFileHelpers: Loading map 'Puzzle_Island' took 0.945
+[2017.11.30-13.45.32:501][  0]LogCollectionManager: Loaded 0 collections in 0.002855 seconds
+[2017.11.30-13.45.32:649][  0]LogFileCache: Scanning file cache for directory 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Collections/' took 0.01s
+[2017.11.30-13.45.32:649][  0]LogFileCache: Scanning file cache for directory 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Developers/Jakub/Collections/' took 0.01s
+[2017.11.30-13.45.32:649][  0]LogFileCache: Scanning file cache for directory 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Collections/' took 0.01s
+[2017.11.30-13.45.32:649][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.11.30-13.45.32:662][  0]LogContentBrowser: Native class hierarchy populated in 0.0124 seconds. Added 2388 classes and 502 folders.
+[2017.11.30-13.45.32:828][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0029 seconds. Added 0 classes and 0 folders.
+[2017.11.30-13.45.32:919][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0026 seconds. Added 0 classes and 0 folders.
+[2017.11.30-13.45.33:039][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0034 seconds. Added 1 classes and 2 folders.
+[2017.11.30-13.45.33:131][  0]LogSlate: Took 0.000415 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.30-13.45.33:134][  0]LogSlate: Took 0.000327 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.11.30-13.45.33:141][  0]LogSlate: Took 0.000364 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.11.30-13.45.33:305][  0]LogRenderer: Reallocating scene render targets to support 1048x588 Format 10 NumSamples 1 (Frame:1).
+[2017.11.30-13.45.33:617][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0028 seconds. Added 1 classes and 2 folders.
+[2017.11.30-13.45.33:618][  0]LogLoad: (Engine Initialization) Total time: 53.23 seconds
+[2017.11.30-13.45.33:618][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.11.30-13.45.33:618][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.11.30-13.45.33:618][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.11.30-13.45.33:990][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.11.30-13.45.34:071][  0]LogSlate: Took 0.000340 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.30-13.45.34:290][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/' took 0.32s
+[2017.11.30-13.45.34:318][  1]LogAssetRegistry: Asset discovery search completed in 34.5707 seconds
+[2017.11.30-13.45.34:321][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.11.30-13.45.34:321][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000069 seconds (updated 0 objects)
+[2017.11.30-13.45.34:962][  3]LogSlate: Took 0.000408 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.30-13.46.17:966][681]LogSlate: Took 0.000261 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.30-13.51.13:476][701]Cmd: TRANSACTION UNDO
+[2017.11.30-13.51.13:476][701]LogEditorTransaction: Undo Create Actors
+[2017.11.30-13.54.14:011][847]LogSlate: Took 0.000376 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.30-13.54.14:368][847]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0063 seconds. Added 113 classes and 0 folders.
+[2017.11.30-13.54.15:480][847]LogSlate: Took 0.000493 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.11.30-13.54.15:894][849]LogSlate: Took 0.000555 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.11.30-13.54.48:226][999]Cmd: TRANSACTION UNDO
+[2017.11.30-13.54.48:227][999]LogEditorTransaction: Undo Rename Actor
+[2017.11.30-13.54.48:686][ 19]Cmd: TRANSACTION UNDO
+[2017.11.30-13.54.48:686][ 19]LogEditorTransaction: Undo Snap Actors To Floor
+[2017.11.30-13.54.50:674][116]Cmd: TRANSACTION REDO
+[2017.11.30-13.54.50:674][116]LogEditorTransaction: Redo Snap Actors To Floor
+[2017.11.30-13.54.51:660][157]Cmd: TRANSACTION REDO
+[2017.11.30-13.54.51:661][157]LogEditorTransaction: Redo Rename Actor
+[2017.11.30-13.55.52:762][208]Cmd: TRANSACTION UNDO
+[2017.11.30-13.55.52:762][208]LogEditorTransaction: Undo Create Actors
+[2017.11.30-13.56.38:213][505]LogEditorTransaction: Undo Set actor scale
+[2017.11.30-13.56.39:028][505]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.809 s
+[2017.11.30-13.56.39:028][505]LogOutputDevice: Error: === Handled ensure: ===
+[2017.11.30-13.56.39:028][505]LogOutputDevice: Error: 
+[2017.11.30-13.56.39:028][505]LogOutputDevice: Error: Ensure condition failed: !GIsTransacting [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Editor\UnrealEd\Classes\Editor/TransBuffer.h] [Line: 72]
+[2017.11.30-13.56.39:028][505]LogOutputDevice: Error: 
+[2017.11.30-13.56.39:028][505]LogOutputDevice: Error: Stack: 
+[2017.11.30-13.56.39:028][505]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000066CF3E36
+[2017.11.30-13.56.39:028][505]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000066A7C2D2
+[2017.11.30-13.56.39:028][505]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000066A94746
+[2017.11.30-13.56.39:028][505]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x0000000059DF4352
+[2017.11.30-13.56.39:028][505]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x0000000059DA305F
+[2017.11.30-13.56.39:028][505]LogOutputDevice: Error: UE4Editor-DetailCustomizations.dll!0x0000000052897AFE
+[2017.11.30-13.56.39:028][505]LogOutputDevice: Error: UE4Editor-DetailCustomizations.dll!0x0000000052883EF9
+[2017.11.30-13.56.39:028][505]LogOutputDevice: Error: UE4Editor-DetailCustomizations.dll!0x000000005282619B
+[2017.11.30-13.56.39:028][505]LogOutputDevice: Error: UE4Editor-DetailCustomizations.dll!0x000000005282AF77
+[2017.11.30-13.56.39:028][505]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000066579E90
+[2017.11.30-13.56.39:028][505]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000006656EBC1
+[2017.11.30-13.56.39:028][505]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000006653D857
+[2017.11.30-13.56.39:028][505]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000006653FA27
+[2017.11.30-13.56.39:028][505]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000665DA227
+[2017.11.30-13.56.39:028][505]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000663F725A
+[2017.11.30-13.56.39:028][505]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000663F7D7D
+[2017.11.30-13.56.39:028][505]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000066396E74
+[2017.11.30-13.56.39:028][505]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x0000000056FE7D34
+[2017.11.30-13.56.39:028][505]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x0000000056C4B039
+[2017.11.30-13.56.39:028][505]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x0000000056BD8DBC
+[2017.11.30-13.56.39:028][505]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x0000000056BDDABC
+[2017.11.30-13.56.39:028][505]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x0000000056FCFEB9
+[2017.11.30-13.56.39:028][505]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x0000000056F7193B
+[2017.11.30-13.56.39:028][505]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x0000000056F7560A
+[2017.11.30-13.56.39:028][505]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x0000000056F73937
+[2017.11.30-13.56.39:028][505]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x0000000056FD5C3C
+[2017.11.30-13.56.39:028][505]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x0000000056B84400
+[2017.11.30-13.56.39:028][505]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x0000000056C0652D
+[2017.11.30-13.56.39:028][505]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x0000000056C5759D
+[2017.11.30-13.56.39:028][505]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x0000000059DA3D06
+[2017.11.30-13.56.39:028][505]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x0000000059DCA552
+[2017.11.30-13.56.39:028][505]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x0000000059DB2FD9
+[2017.11.30-13.56.39:028][505]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x0000000059DB390B
+[2017.11.30-13.56.39:029][505]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x0000000059E16D6B
+[2017.11.30-13.56.39:029][505]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x0000000059E5DE3F
+[2017.11.30-13.56.39:029][505]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x0000000056BD9451
+[2017.11.30-13.56.39:029][505]LogOutputDevice: Error: UE4Editor-Kismet.dll!0x0000000056BDE1B6
+[2017.11.30-13.56.39:029][505]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000066397DD0
+[2017.11.30-13.56.39:029][505]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000663D6850
+[2017.11.30-13.56.39:029][505]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000005A5F4FAE
+[2017.11.30-13.56.39:029][505]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000005A5E096F
+[2017.11.30-13.56.39:029][505]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000066384761
+[2017.11.30-13.56.39:029][505]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000663560BE
+[2017.11.30-13.56.39:029][505]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000066357CC6
+[2017.11.30-13.56.39:029][505]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000663D80B7
+[2017.11.30-13.56.39:029][505]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000663C9B18
+[2017.11.30-13.56.39:029][505]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000066CCB498
+[2017.11.30-13.56.39:029][505]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000066CB3EE1
+[2017.11.30-13.56.39:029][505]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000066CCD5BB
+[2017.11.30-13.56.39:029][505]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000066CAF042
+[2017.11.30-13.56.39:029][505]LogOutputDevice: Error: USER32.dll!0x00000000B52EBC50
+[2017.11.30-13.56.39:029][505]LogOutputDevice: Error: USER32.dll!0x00000000B52EB5CF
+[2017.11.30-13.56.39:029][505]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000066CCDCC6
+[2017.11.30-13.56.39:029][505]LogOutputDevice: Error: UE4Editor.exe!0x00000000E5D34BE2
+[2017.11.30-13.56.39:029][505]LogOutputDevice: Error: UE4Editor.exe!0x00000000E5D43970
+[2017.11.30-13.56.39:029][505]LogOutputDevice: Error: UE4Editor.exe!0x00000000E5D439EA
+[2017.11.30-13.56.39:029][505]LogOutputDevice: Error: UE4Editor.exe!0x00000000E5D502D9
+[2017.11.30-13.56.39:029][505]LogOutputDevice: Error: UE4Editor.exe!0x00000000E5D51C47
+[2017.11.30-13.56.39:029][505]LogOutputDevice: Error: KERNEL32.DLL!0x00000000B6882774
+[2017.11.30-13.56.39:029][505]LogOutputDevice: Error: ntdll.dll!0x00000000B6BA0D51
+[2017.11.30-13.56.39:029][505]LogOutputDevice: Error: 
+[2017.11.30-13.56.39:039][505]LogStats:                SubmitErrorReport -  0.000 s
+[2017.11.30-13.56.39:712][505]LogStats:                    SendNewReport -  0.673 s
+[2017.11.30-13.56.39:712][505]LogStats:             FDebug::EnsureFailed -  1.494 s
+[2017.11.30-13.56.39:727][505]Cmd: TRANSACTION UNDO
+[2017.11.30-13.56.39:727][505]LogEditorTransaction: Undo Modify Component(s)
+[2017.11.30-13.57.10:561][759]LogEditorTransaction: Undo Modify Component(s)
+[2017.11.30-13.57.10:863][769]LogEditorTransaction: Undo Edit Skeletal Mesh
+[2017.11.30-13.58.23:027][ 52]BlueprintLog: New page: Compile AI_Enemy_BP
+[2017.11.30-13.58.51:419][340]LogSavePackage: Save=550.74ms
+[2017.11.30-13.58.51:419][340]LogSavePackage: Moving 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Puzzle_Island_Auto1AE9A79B04C02656BB8A3F581D0E7BD7D.tmp' to 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Autosaves/Game/Maps/Puzzle_Island_Auto1.umap'
+[2017.11.30-13.58.51:424][340]LogSavePackage: Display: Finished SavePackage D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Autosaves/Game/Maps/Puzzle_Island_Auto1.umap
+[2017.11.30-13.58.51:429][340]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Puzzle_Island' took 0.613
+[2017.11.30-13.58.51:429][340]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.613
+[2017.11.30-13.58.51:433][340]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/AI_Enemy_BP] ([1] browsable assets)...
+[2017.11.30-13.58.51:468][340]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/AI_Enemy_BP.AI_Enemy_BP]
+[2017.11.30-13.58.51:468][340]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI_Enemy_BP]
+[2017.11.30-13.58.51:515][340]LogSavePackage: Save=44.14ms
+[2017.11.30-13.58.51:515][340]LogSavePackage: Moving 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/AI_Enemy_BP_Auto1098D2C6640BB7598F6A5B9A900E74BC6.tmp' to 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Autosaves/Game/Blueprints/AI_Enemy_BP_Auto1.uasset'
+[2017.11.30-13.58.51:518][340]LogSavePackage: Display: Finished SavePackage D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Autosaves/Game/Blueprints/AI_Enemy_BP_Auto1.uasset
+[2017.11.30-13.58.51:518][340]LogFileHelpers: Auto-saving content packages took 0.087
+[2017.11.30-13.58.58:738][662]BlueprintLog: New page: Compile AI_Enemy_BP
+[2017.11.30-14.02.59:649][412]BlueprintLog: New page: Compile AI_Enemy_BP
+[2017.11.30-14.03.05:621][729]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.11.30-14.04.20:870][801]BlueprintLog: New page: Compile AI_Enemy_BP
+[2017.11.30-14.06.22:711][341]BlueprintLog: New page: Compile AI_Enemy_BP
+[2017.11.30-14.06.26:532][555]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.30-14.06.26:624][555]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.06.26:624][555]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.30-14.06.26:625][555]PIE: New page: PIE session: Puzzle_Island (30 Nov 2017 14:06:26)
+[2017.11.30-14.06.26:628][555]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.30-14.06.26:656][555]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027733s)
+[2017.11.30-14.06.26:656][555]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.30-14.06.26:657][555]LogPlayLevel: PIE: World Init took: (0.001007s)
+[2017.11.30-14.06.26:657][555]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.029169s)
+[2017.11.30-14.06.26:691][555]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.30-14.06.26:735][555]LogInit: FAudioDevice initialized.
+[2017.11.30-14.06.26:945][555]LogLoad: Game class is '3D_Exploration_GameMode_C'
+[2017.11.30-14.06.26:954][555]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.30-14.06.26
+[2017.11.30-14.06.26:962][555]LogWorld: Bringing up level for play took: 0.013968
+[2017.11.30-14.06.27:114][555]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0040 seconds. Added 11 classes and 0 folders.
+[2017.11.30-14.06.27:118][555]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 0.23
+[2017.11.30-14.06.27:119][555]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.06.47:511][506]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.06.47:570][506]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.07.04:826][692]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.30-14.07.04:869][692]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.07.04:869][692]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.30-14.07.04:870][692]PIE: New page: PIE session: Puzzle_Island (30 Nov 2017 14:07:04)
+[2017.11.30-14.07.04:871][692]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.30-14.07.04:895][692]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023816s)
+[2017.11.30-14.07.04:896][692]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.30-14.07.04:896][692]LogPlayLevel: PIE: World Init took: (0.000995s)
+[2017.11.30-14.07.04:896][692]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.025282s)
+[2017.11.30-14.07.04:928][692]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.30-14.07.04:961][692]LogInit: FAudioDevice initialized.
+[2017.11.30-14.07.05:000][692]LogLoad: Game class is '3D_Exploration_GameMode_C'
+[2017.11.30-14.07.05:006][692]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.30-14.07.05
+[2017.11.30-14.07.05:007][692]LogWorld: Bringing up level for play took: 0.005707
+[2017.11.30-14.07.05:012][692]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 0.124
+[2017.11.30-14.07.05:012][692]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.07.21:882][834]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.07.21:944][834]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.07.23:575][917]LogEditorViewport: Clicking on Actor (LMB): AI_Enemy_BP_C (AI_Enemy_BP)
+[2017.11.30-14.07.39:034][721]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2017.11.30-14.07.41:167][830]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.30-14.07.46:107][ 81]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.30-14.07.48:385][210]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.30-14.07.51:935][419]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.11.30-14.07.54:441][556]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.30-14.07.54:505][556]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.07.54:505][556]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.30-14.07.54:505][556]PIE: New page: PIE session: Puzzle_Island (30 Nov 2017 14:07:54)
+[2017.11.30-14.07.54:506][556]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.30-14.07.54:530][556]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023614s)
+[2017.11.30-14.07.54:531][556]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.30-14.07.54:531][556]LogPlayLevel: PIE: World Init took: (0.000959s)
+[2017.11.30-14.07.54:531][556]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.025010s)
+[2017.11.30-14.07.54:565][556]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.30-14.07.54:597][556]LogInit: FAudioDevice initialized.
+[2017.11.30-14.07.54:629][556]LogLoad: Game class is '3D_Exploration_GameMode_C'
+[2017.11.30-14.07.54:633][556]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.30-14.07.54
+[2017.11.30-14.07.54:634][556]LogWorld: Bringing up level for play took: 0.004929
+[2017.11.30-14.07.54:638][556]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island -0.25
+[2017.11.30-14.07.54:639][556]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.07.55:892][632]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.07.55:951][632]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.07.58:217][754]Cmd: TRANSACTION UNDO
+[2017.11.30-14.07.58:217][754]LogEditorTransaction: Undo Snap Actors To Floor
+[2017.11.30-14.07.58:905][787]Cmd: TRANSACTION UNDO
+[2017.11.30-14.07.58:906][787]LogEditorTransaction: Undo Move Actors
+[2017.11.30-14.07.59:268][806]Cmd: TRANSACTION UNDO
+[2017.11.30-14.07.59:268][806]LogEditorTransaction: Undo Move Actors
+[2017.11.30-14.07.59:667][828]Cmd: TRANSACTION UNDO
+[2017.11.30-14.07.59:667][828]LogEditorTransaction: Undo Move Actors
+[2017.11.30-14.08.03:191][993]LogEditorViewport: Clicking on Actor (LMB): AI_Enemy_BP_C (AI_Enemy_BP)
+[2017.11.30-14.08.13:213][505]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.30-14.08.13:281][505]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.08.13:281][505]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.30-14.08.13:281][505]PIE: New page: PIE session: Puzzle_Island (30 Nov 2017 14:08:13)
+[2017.11.30-14.08.13:283][505]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.30-14.08.13:309][505]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026165s)
+[2017.11.30-14.08.13:310][505]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.30-14.08.13:310][505]LogPlayLevel: PIE: World Init took: (0.000875s)
+[2017.11.30-14.08.13:310][505]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.027526s)
+[2017.11.30-14.08.13:339][505]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.30-14.08.13:365][505]LogInit: FAudioDevice initialized.
+[2017.11.30-14.08.13:401][505]LogLoad: Game class is '3D_Exploration_GameMode_C'
+[2017.11.30-14.08.13:406][505]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.30-14.08.13
+[2017.11.30-14.08.13:407][505]LogWorld: Bringing up level for play took: 0.005021
+[2017.11.30-14.08.13:410][505]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 0.522
+[2017.11.30-14.08.13:410][505]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.08.30:922][651]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.08.31:024][651]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.08.40:483][177]LogEditorViewport: Clicking on Actor (LMB): AI_Enemy_BP_C (AI_Enemy_BP)
+[2017.11.30-14.08.46:402][503]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.30-14.08.46:459][503]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.08.46:460][503]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.30-14.08.46:460][503]PIE: New page: PIE session: Puzzle_Island (30 Nov 2017 14:08:46)
+[2017.11.30-14.08.46:461][503]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.30-14.08.46:485][503]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023929s)
+[2017.11.30-14.08.46:486][503]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.30-14.08.46:486][503]LogPlayLevel: PIE: World Init took: (0.000948s)
+[2017.11.30-14.08.46:486][503]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.025296s)
+[2017.11.30-14.08.46:518][503]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.30-14.08.46:548][503]LogInit: FAudioDevice initialized.
+[2017.11.30-14.08.46:581][503]LogLoad: Game class is '3D_Exploration_GameMode_C'
+[2017.11.30-14.08.46:586][503]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.30-14.08.46
+[2017.11.30-14.08.46:587][503]LogWorld: Bringing up level for play took: 0.004675
+[2017.11.30-14.08.46:590][503]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island -0.298
+[2017.11.30-14.08.46:591][503]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.08.53:383][947]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.08.53:478][947]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.10.06:518][197]LogSavePackage: Save=689.87ms
+[2017.11.30-14.10.06:518][197]LogSavePackage: Moving 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Puzzle_Island_Auto2E3B612DD40AD1564A03A6AA9476644CA.tmp' to 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Autosaves/Game/Maps/Puzzle_Island_Auto2.umap'
+[2017.11.30-14.10.06:527][197]LogSavePackage: Display: Finished SavePackage D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Autosaves/Game/Maps/Puzzle_Island_Auto2.umap
+[2017.11.30-14.10.06:533][197]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Puzzle_Island' took 0.753
+[2017.11.30-14.10.06:533][197]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.753
+[2017.11.30-14.10.06:538][197]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/AI_Enemy_BP] ([1] browsable assets)...
+[2017.11.30-14.10.06:588][197]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/AI_Enemy_BP.AI_Enemy_BP]
+[2017.11.30-14.10.06:588][197]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI_Enemy_BP]
+[2017.11.30-14.10.06:717][197]LogSavePackage: Save=123.11ms
+[2017.11.30-14.10.06:717][197]LogSavePackage: Moving 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/AI_Enemy_BP_Auto2ABA0CE594A900F8EB86078B535FE9EFB.tmp' to 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Autosaves/Game/Blueprints/AI_Enemy_BP_Auto2.uasset'
+[2017.11.30-14.10.06:724][197]LogSavePackage: Display: Finished SavePackage D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Autosaves/Game/Blueprints/AI_Enemy_BP_Auto2.uasset
+[2017.11.30-14.10.06:724][197]LogFileHelpers: Auto-saving content packages took 0.188
+[2017.11.30-14.12.36:193][284]BlueprintLog: New page: Compile Third
+[2017.11.30-14.14.16:679][827]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.30-14.14.16:744][827]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.14.16:744][827]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.30-14.14.16:744][827]PIE: New page: PIE session: Puzzle_Island (30 Nov 2017 14:14:16)
+[2017.11.30-14.14.16:746][827]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.30-14.14.16:777][827]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031838s)
+[2017.11.30-14.14.16:779][827]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.30-14.14.16:779][827]LogPlayLevel: PIE: World Init took: (0.001367s)
+[2017.11.30-14.14.16:779][827]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.033683s)
+[2017.11.30-14.14.16:825][827]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.30-14.14.16:865][827]LogInit: FAudioDevice initialized.
+[2017.11.30-14.14.16:905][827]LogLoad: Game class is '3D_Exploration_GameMode_C'
+[2017.11.30-14.14.16:910][827]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.30-14.14.16
+[2017.11.30-14.14.16:912][827]LogWorld: Bringing up level for play took: 0.006492
+[2017.11.30-14.14.16:918][827]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 0.03
+[2017.11.30-14.14.16:918][827]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.14.25:990][488]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.14.26:054][488]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.15.42:553][177]Cmd: ACTOR HIDE SELECTED
+[2017.11.30-14.15.43:270][248]Cmd: ACTOR HIDE SELECTED
+[2017.11.30-14.15.44:801][380]Cmd: ACTOR HIDE SELECTED
+[2017.11.30-14.15.45:872][476]Cmd: ACTOR HIDE SELECTED
+[2017.11.30-14.16.26:370][569]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.11.30-14.16.28:745][711]LogEditorViewport: Clicking on Actor (LMB): AI_Enemy_BP_C (AI_Enemy_BP)
+[2017.11.30-14.17.39:576][585]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.11.30-14.17.43:208][794]LogEditorViewport: Clicking on Actor (LMB): AI_Enemy_BP_C (AI_Enemy_BP)
+[2017.11.30-14.19.25:486][637]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.11.30-14.21.27:354][262]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.30-14.21.27:406][262]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.21.27:406][262]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.11.30-14.21.27:410][262]LogPlayLevel: [PlayLevel] Compiling AI_Enemy_BP before play...
+[2017.11.30-14.21.27:970][262]LogPlayLevel: PlayLevel: Blueprint regeneration took 564 ms (1 blueprints)
+[2017.11.30-14.21.27:970][262]PIE: New page: PIE session: Puzzle_Island (30 Nov 2017 14:21:27)
+[2017.11.30-14.21.27:973][262]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.30-14.21.27:997][262]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023595s)
+[2017.11.30-14.21.27:998][262]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.30-14.21.27:998][262]LogPlayLevel: PIE: World Init took: (0.001206s)
+[2017.11.30-14.21.27:999][262]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.025317s)
+[2017.11.30-14.21.28:034][262]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.30-14.21.28:072][262]LogInit: FAudioDevice initialized.
+[2017.11.30-14.21.28:109][262]LogLoad: Game class is '3D_Exploration_GameMode_C'
+[2017.11.30-14.21.28:115][262]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.30-14.21.28
+[2017.11.30-14.21.28:116][262]LogWorld: Bringing up level for play took: 0.006238
+[2017.11.30-14.21.28:120][262]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 1.232
+[2017.11.30-14.21.28:120][262]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.21.31:073][432]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.21.31:165][432]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.21.34:731][598]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.30-14.21.34:782][598]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.21.34:783][598]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.30-14.21.34:783][598]PIE: New page: PIE session: Puzzle_Island (30 Nov 2017 14:21:34)
+[2017.11.30-14.21.34:784][598]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.30-14.21.34:808][598]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024298s)
+[2017.11.30-14.21.34:809][598]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.30-14.21.34:809][598]LogPlayLevel: PIE: World Init took: (0.000955s)
+[2017.11.30-14.21.34:809][598]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.025741s)
+[2017.11.30-14.21.34:846][598]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.30-14.21.34:880][598]LogInit: FAudioDevice initialized.
+[2017.11.30-14.21.34:915][598]LogLoad: Game class is '3D_Exploration_GameMode_C'
+[2017.11.30-14.21.34:920][598]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.30-14.21.34
+[2017.11.30-14.21.34:921][598]LogWorld: Bringing up level for play took: 0.005092
+[2017.11.30-14.21.34:925][598]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 0.037
+[2017.11.30-14.21.34:925][598]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.21.39:958][919]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.21.40:049][919]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.22.06:456][251]LogSavePackage: Save=583.56ms
+[2017.11.30-14.22.06:456][251]LogSavePackage: Moving 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Puzzle_Island_Auto3C2F6C3F240E57E05D646B5B8C5660AD0.tmp' to 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Autosaves/Game/Maps/Puzzle_Island_Auto3.umap'
+[2017.11.30-14.22.06:462][251]LogSavePackage: Display: Finished SavePackage D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Autosaves/Game/Maps/Puzzle_Island_Auto3.umap
+[2017.11.30-14.22.06:470][251]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Puzzle_Island' took 0.651
+[2017.11.30-14.22.06:470][251]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.651
+[2017.11.30-14.22.06:475][251]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/AI_Enemy_BP] ([1] browsable assets)...
+[2017.11.30-14.22.06:527][251]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/AI_Enemy_BP.AI_Enemy_BP]
+[2017.11.30-14.22.06:527][251]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI_Enemy_BP]
+[2017.11.30-14.22.06:599][251]LogSavePackage: Save=67.73ms
+[2017.11.30-14.22.06:599][251]LogSavePackage: Moving 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/AI_Enemy_BP_Auto3AB239AA84705169026767F9F3448ABC6.tmp' to 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Autosaves/Game/Blueprints/AI_Enemy_BP_Auto3.uasset'
+[2017.11.30-14.22.06:605][251]LogSavePackage: Display: Finished SavePackage D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Autosaves/Game/Blueprints/AI_Enemy_BP_Auto3.uasset
+[2017.11.30-14.22.06:605][251]LogFileHelpers: Auto-saving content packages took 0.133
+[2017.11.30-14.22.44:410][599]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.30-14.22.44:454][599]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.22.44:454][599]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.30-14.22.44:454][599]PIE: New page: PIE session: Puzzle_Island (30 Nov 2017 14:22:44)
+[2017.11.30-14.22.44:455][599]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.30-14.22.44:480][599]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024496s)
+[2017.11.30-14.22.44:481][599]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.30-14.22.44:481][599]LogPlayLevel: PIE: World Init took: (0.001020s)
+[2017.11.30-14.22.44:481][599]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.025901s)
+[2017.11.30-14.22.44:514][599]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.30-14.22.44:544][599]LogInit: FAudioDevice initialized.
+[2017.11.30-14.22.44:586][599]LogLoad: Game class is '3D_Exploration_GameMode_C'
+[2017.11.30-14.22.44:591][599]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.30-14.22.44
+[2017.11.30-14.22.44:593][599]LogWorld: Bringing up level for play took: 0.005485
+[2017.11.30-14.22.44:597][599]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island -0.291
+[2017.11.30-14.22.44:597][599]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.22.52:201][ 86]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.22.52:306][ 86]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.23.07:834][951]BlueprintLog: New page: Compile AI_Enemy_BP
+[2017.11.30-14.23.08:992][973]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.30-14.23.09:044][973]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.23.09:044][973]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.30-14.23.09:044][973]PIE: New page: PIE session: Puzzle_Island (30 Nov 2017 14:23:09)
+[2017.11.30-14.23.09:045][973]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.30-14.23.09:066][973]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021269s)
+[2017.11.30-14.23.09:067][973]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.30-14.23.09:067][973]LogPlayLevel: PIE: World Init took: (0.000878s)
+[2017.11.30-14.23.09:068][973]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.022532s)
+[2017.11.30-14.23.09:100][973]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.30-14.23.09:132][973]LogInit: FAudioDevice initialized.
+[2017.11.30-14.23.09:173][973]LogLoad: Game class is '3D_Exploration_GameMode_C'
+[2017.11.30-14.23.09:177][973]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.30-14.23.09
+[2017.11.30-14.23.09:178][973]LogWorld: Bringing up level for play took: 0.004909
+[2017.11.30-14.23.09:182][973]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 0.294
+[2017.11.30-14.23.09:183][973]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.23.19:169][641]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.23.19:257][641]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.24.35:560][812]BlueprintLog: New page: Compile AI_Enemy_BP
+[2017.11.30-14.24.37:494][880]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.30-14.24.37:552][880]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.24.37:552][880]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.30-14.24.37:553][880]PIE: New page: PIE session: Puzzle_Island (30 Nov 2017 14:24:37)
+[2017.11.30-14.24.37:554][880]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.30-14.24.37:576][880]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021925s)
+[2017.11.30-14.24.37:576][880]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.30-14.24.37:576][880]LogPlayLevel: PIE: World Init took: (0.000791s)
+[2017.11.30-14.24.37:577][880]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.023058s)
+[2017.11.30-14.24.37:607][880]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.30-14.24.37:639][880]LogInit: FAudioDevice initialized.
+[2017.11.30-14.24.37:676][880]LogLoad: Game class is '3D_Exploration_GameMode_C'
+[2017.11.30-14.24.37:681][880]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.30-14.24.37
+[2017.11.30-14.24.37:682][880]LogWorld: Bringing up level for play took: 0.004906
+[2017.11.30-14.24.37:685][880]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 0.797
+[2017.11.30-14.24.37:686][880]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.24.46:143][396]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.24.46:238][396]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.25.49:625][511]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.30-14.25.49:690][511]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.25.49:690][511]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.11.30-14.25.49:697][511]LogPlayLevel: [PlayLevel] Compiling AI_Enemy_BP before play...
+[2017.11.30-14.25.50:466][511]LogPlayLevel: PlayLevel: Blueprint regeneration took 776 ms (1 blueprints)
+[2017.11.30-14.25.50:466][511]PIE: New page: PIE session: Puzzle_Island (30 Nov 2017 14:25:50)
+[2017.11.30-14.25.50:468][511]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.30-14.25.50:492][511]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024109s)
+[2017.11.30-14.25.50:493][511]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.30-14.25.50:493][511]LogPlayLevel: PIE: World Init took: (0.001016s)
+[2017.11.30-14.25.50:493][511]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.025517s)
+[2017.11.30-14.25.50:535][511]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.30-14.25.50:573][511]LogInit: FAudioDevice initialized.
+[2017.11.30-14.25.50:613][511]LogLoad: Game class is '3D_Exploration_GameMode_C'
+[2017.11.30-14.25.50:618][511]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.30-14.25.50
+[2017.11.30-14.25.50:619][511]LogWorld: Bringing up level for play took: 0.005688
+[2017.11.30-14.25.50:623][511]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 1.735
+[2017.11.30-14.25.50:623][511]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.25.53:339][713]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.25.53:442][713]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.26.12:472][888]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.30-14.26.12:550][888]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.26.12:550][888]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.30-14.26.12:551][888]PIE: New page: PIE session: Puzzle_Island (30 Nov 2017 14:26:12)
+[2017.11.30-14.26.12:552][888]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.30-14.26.12:586][888]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033026s)
+[2017.11.30-14.26.12:586][888]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.30-14.26.12:587][888]LogPlayLevel: PIE: World Init took: (0.000999s)
+[2017.11.30-14.26.12:587][888]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.034458s)
+[2017.11.30-14.26.12:627][888]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.30-14.26.12:667][888]LogInit: FAudioDevice initialized.
+[2017.11.30-14.26.12:701][888]LogLoad: Game class is '3D_Exploration_GameMode_C'
+[2017.11.30-14.26.12:709][888]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.30-14.26.12
+[2017.11.30-14.26.12:710][888]LogWorld: Bringing up level for play took: 0.008000
+[2017.11.30-14.26.12:714][888]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island -0.174
+[2017.11.30-14.26.12:715][888]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.26.35:183][657]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.26.35:291][657]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.27.14:427][656]LogEditorTransaction: Undo Edit LOSHearing Threshold
+[2017.11.30-14.27.14:435][656]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_9:PersistentLevel.AI_Enemy_BP_C_4.CollisionCylinder) Component already registered.
+[2017.11.30-14.27.14:438][656]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.AI_Enemy_BP_118.Arrow) Component already registered.
+[2017.11.30-14.27.14:438][656]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.AI_Enemy_BP_118.CharMoveComp) Component already registered.
+[2017.11.30-14.27.14:439][656]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.AI_Enemy_BP_118.CharacterMesh0) Component already registered.
+[2017.11.30-14.27.14:439][656]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_9:PersistentLevel.AI_Enemy_BP_C_4.Arrow) Component already registered.
+[2017.11.30-14.27.14:440][656]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_9:PersistentLevel.AI_Enemy_BP_C_4.CharMoveComp) Component already registered.
+[2017.11.30-14.27.30:395][401]LogEditorTransaction: Undo Edit Sensing Interval
+[2017.11.30-14.27.30:402][401]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_9:PersistentLevel.AI_Enemy_BP_C_4.CollisionCylinder) Component already registered.
+[2017.11.30-14.27.30:406][401]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.AI_Enemy_BP_118.Arrow) Component already registered.
+[2017.11.30-14.27.30:407][401]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.AI_Enemy_BP_118.CharMoveComp) Component already registered.
+[2017.11.30-14.27.30:407][401]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.AI_Enemy_BP_118.CharacterMesh0) Component already registered.
+[2017.11.30-14.27.30:408][401]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_9:PersistentLevel.AI_Enemy_BP_C_4.Arrow) Component already registered.
+[2017.11.30-14.27.30:408][401]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_9:PersistentLevel.AI_Enemy_BP_C_4.CharMoveComp) Component already registered.
+[2017.11.30-14.27.57:437][761]BlueprintLog: New page: Compile AI_Enemy_BP
+[2017.11.30-14.27.59:811][853]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.30-14.27.59:864][853]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.27.59:864][853]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.30-14.27.59:864][853]PIE: New page: PIE session: Puzzle_Island (30 Nov 2017 14:27:59)
+[2017.11.30-14.27.59:865][853]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.30-14.27.59:890][853]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024613s)
+[2017.11.30-14.27.59:891][853]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.30-14.27.59:891][853]LogPlayLevel: PIE: World Init took: (0.001230s)
+[2017.11.30-14.27.59:891][853]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.026367s)
+[2017.11.30-14.27.59:928][853]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.30-14.27.59:959][853]LogInit: FAudioDevice initialized.
+[2017.11.30-14.27.59:994][853]LogLoad: Game class is '3D_Exploration_GameMode_C'
+[2017.11.30-14.27.59:999][853]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.30-14.27.59
+[2017.11.30-14.28.00:000][853]LogWorld: Bringing up level for play took: 0.004930
+[2017.11.30-14.28.00:004][853]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 1.116
+[2017.11.30-14.28.00:005][853]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.28.12:149][ 10]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.28.12:244][ 10]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.29.55:659][458]BlueprintLog: New page: Compile AI_Enemy_BP
+[2017.11.30-14.29.55:675][458]LogBlueprint: Error: [Compiler AI_Enemy_BP] The type of  Object  is undetermined.  Connect something to  Cast To ThirdPersonCharacter  to imply a specific type.
+[2017.11.30-14.29.55:676][458]LogBlueprint: Error: [Compiler AI_Enemy_BP] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2017.11.30-14.29.56:262][458]LogBlueprint: Warning: [Compiler AI_Enemy_BP] [2715.88] Compile of AI_Enemy_BP failed. 2 Fatal Issue(s) 0 Warning(s) [in 603 ms] (/Game/Blueprints/AI_Enemy_BP.AI_Enemy_BP)
+[2017.11.30-14.30.33:067][290]BlueprintLog: New page: Compile AI_Enemy_BP
+[2017.11.30-14.31.14:615][313]BlueprintLog: New page: Compile AI_Enemy_BP
+[2017.11.30-14.31.18:220][467]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.30-14.31.18:274][467]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.31.18:275][467]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.30-14.31.18:275][467]PIE: New page: PIE session: Puzzle_Island (30 Nov 2017 14:31:18)
+[2017.11.30-14.31.18:276][467]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.30-14.31.18:301][467]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024567s)
+[2017.11.30-14.31.18:302][467]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.30-14.31.18:302][467]LogPlayLevel: PIE: World Init took: (0.001087s)
+[2017.11.30-14.31.18:302][467]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.026076s)
+[2017.11.30-14.31.18:335][467]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.30-14.31.18:364][467]LogInit: FAudioDevice initialized.
+[2017.11.30-14.31.18:398][467]LogLoad: Game class is '3D_Exploration_GameMode_C'
+[2017.11.30-14.31.18:402][467]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.30-14.31.18
+[2017.11.30-14.31.18:403][467]LogWorld: Bringing up level for play took: 0.004493
+[2017.11.30-14.31.18:406][467]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island -0.481
+[2017.11.30-14.31.18:407][467]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.31.51:099][657]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.31.51:200][657]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.36.33:180][582]LogSavePackage: Save=583.07ms
+[2017.11.30-14.36.33:180][582]LogSavePackage: Moving 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Puzzle_Island_Auto4DEED10B9417A21F4776E01950EB31DAE.tmp' to 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Autosaves/Game/Maps/Puzzle_Island_Auto4.umap'
+[2017.11.30-14.36.33:187][582]LogSavePackage: Display: Finished SavePackage D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Autosaves/Game/Maps/Puzzle_Island_Auto4.umap
+[2017.11.30-14.36.33:192][582]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Puzzle_Island' took 0.648
+[2017.11.30-14.36.33:192][582]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.648
+[2017.11.30-14.36.33:195][582]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/AI_Enemy_BP] ([1] browsable assets)...
+[2017.11.30-14.36.33:233][582]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/AI_Enemy_BP.AI_Enemy_BP]
+[2017.11.30-14.36.33:233][582]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI_Enemy_BP]
+[2017.11.30-14.36.33:321][582]LogSavePackage: Save=83.46ms
+[2017.11.30-14.36.33:321][582]LogSavePackage: Moving 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/AI_Enemy_BP_Auto4F8E653C941644455D7BB67A73C87CC58.tmp' to 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Autosaves/Game/Blueprints/AI_Enemy_BP_Auto4.uasset'
+[2017.11.30-14.36.33:325][582]LogSavePackage: Display: Finished SavePackage D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Autosaves/Game/Blueprints/AI_Enemy_BP_Auto4.uasset
+[2017.11.30-14.36.33:325][582]LogFileHelpers: Auto-saving content packages took 0.132
+[2017.11.30-14.36.49:263][ 40]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'MyBlueprint'
+[2017.11.30-14.37.04:817][664]LogRenderer: Reallocating scene render targets to support 1144x588 Format 10 NumSamples 1 (Frame:3850).
+[2017.11.30-14.37.09:442][840]LogEditorTransaction: Undo Add Variable
+[2017.11.30-14.37.17:449][178]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'MyBlueprint'
+[2017.11.30-14.37.32:319][835]BlueprintLog: New page: Compile AI_Enemy_BP
+[2017.11.30-14.41.15:999][230]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.11.30-14.48.41:851][375]LogSavePackage: Save=540.22ms
+[2017.11.30-14.48.41:851][375]LogSavePackage: Moving 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Puzzle_Island_Auto5AC64CC4E411BCBBD6ECA29BA20668130.tmp' to 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Autosaves/Game/Maps/Puzzle_Island_Auto5.umap'
+[2017.11.30-14.48.41:857][375]LogSavePackage: Display: Finished SavePackage D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Autosaves/Game/Maps/Puzzle_Island_Auto5.umap
+[2017.11.30-14.48.41:863][375]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Puzzle_Island' took 0.610
+[2017.11.30-14.48.41:863][375]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.610
+[2017.11.30-14.48.41:868][375]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/AI_Enemy_BP] ([1] browsable assets)...
+[2017.11.30-14.48.41:902][375]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/AI_Enemy_BP.AI_Enemy_BP]
+[2017.11.30-14.48.41:902][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI_Enemy_BP]
+[2017.11.30-14.48.41:977][375]LogSavePackage: Save=72.01ms
+[2017.11.30-14.48.41:977][375]LogSavePackage: Moving 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/AI_Enemy_BP_Auto5A64670F54B7E9E69C6FA6FBC23CE0614.tmp' to 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Autosaves/Game/Blueprints/AI_Enemy_BP_Auto5.uasset'
+[2017.11.30-14.48.41:981][375]LogSavePackage: Display: Finished SavePackage D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Autosaves/Game/Blueprints/AI_Enemy_BP_Auto5.uasset
+[2017.11.30-14.48.41:981][375]LogFileHelpers: Auto-saving content packages took 0.116
+[2017.11.30-14.49.45:833][557]BlueprintLog: New page: Compile AI_Enemy_BP
+[2017.11.30-14.50.30:251][216]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'MyBlueprint'
+[2017.11.30-14.54.16:858][ 19]BlueprintLog: New page: Compile AI_Enemy_BP
+[2017.11.30-14.54.34:906][889]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.30-14.54.34:971][889]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.54.34:971][889]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.30-14.54.34:971][889]PIE: New page: PIE session: Puzzle_Island (30 Nov 2017 14:54:34)
+[2017.11.30-14.54.34:973][889]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.30-14.54.35:004][889]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031446s)
+[2017.11.30-14.54.35:005][889]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.30-14.54.35:006][889]LogPlayLevel: PIE: World Init took: (0.001284s)
+[2017.11.30-14.54.35:006][889]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.033256s)
+[2017.11.30-14.54.35:045][889]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.30-14.54.35:081][889]LogInit: FAudioDevice initialized.
+[2017.11.30-14.54.35:121][889]LogLoad: Game class is '3D_Exploration_GameMode_C'
+[2017.11.30-14.54.35:127][889]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.30-14.54.35
+[2017.11.30-14.54.35:128][889]LogWorld: Bringing up level for play took: 0.005712
+[2017.11.30-14.54.35:132][889]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 0.244
+[2017.11.30-14.54.35:132][889]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.55.02:346][685]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.55.02:434][685]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.55.54:222][157]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.30-14.55.54:277][157]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.55.54:277][157]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.30-14.55.54:278][157]PIE: New page: PIE session: Puzzle_Island (30 Nov 2017 14:55:54)
+[2017.11.30-14.55.54:279][157]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.30-14.55.54:302][157]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023434s)
+[2017.11.30-14.55.54:303][157]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.30-14.55.54:303][157]LogPlayLevel: PIE: World Init took: (0.000916s)
+[2017.11.30-14.55.54:304][157]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.024768s)
+[2017.11.30-14.55.54:340][157]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.30-14.55.54:381][157]LogInit: FAudioDevice initialized.
+[2017.11.30-14.55.54:422][157]LogLoad: Game class is '3D_Exploration_GameMode_C'
+[2017.11.30-14.55.54:427][157]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.30-14.55.54
+[2017.11.30-14.55.54:428][157]LogWorld: Bringing up level for play took: 0.005217
+[2017.11.30-14.55.54:432][157]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island -0.456
+[2017.11.30-14.55.54:432][157]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.56.04:053][660]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.56.04:161][660]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.56.29:215][122]BlueprintLog: New page: Compile AI_Enemy_BP
+[2017.11.30-14.56.34:276][390]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.30-14.56.34:348][390]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.56.34:348][390]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.30-14.56.34:348][390]PIE: New page: PIE session: Puzzle_Island (30 Nov 2017 14:56:34)
+[2017.11.30-14.56.34:350][390]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.30-14.56.34:374][390]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023782s)
+[2017.11.30-14.56.34:375][390]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.30-14.56.34:375][390]LogPlayLevel: PIE: World Init took: (0.001078s)
+[2017.11.30-14.56.34:375][390]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.025319s)
+[2017.11.30-14.56.34:409][390]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.30-14.56.34:444][390]LogInit: FAudioDevice initialized.
+[2017.11.30-14.56.34:482][390]LogLoad: Game class is '3D_Exploration_GameMode_C'
+[2017.11.30-14.56.34:488][390]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.30-14.56.34
+[2017.11.30-14.56.34:489][390]LogWorld: Bringing up level for play took: 0.005342
+[2017.11.30-14.56.34:493][390]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island -0.395
+[2017.11.30-14.56.34:493][390]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.56.59:707][948]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.56.59:820][948]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.57.31:313][690]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.30-14.57.31:372][690]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.57.31:373][690]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.30-14.57.31:373][690]PIE: New page: PIE session: Puzzle_Island (30 Nov 2017 14:57:31)
+[2017.11.30-14.57.31:374][690]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.30-14.57.31:402][690]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027518s)
+[2017.11.30-14.57.31:403][690]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.30-14.57.31:403][690]LogPlayLevel: PIE: World Init took: (0.001778s)
+[2017.11.30-14.57.31:404][690]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.030005s)
+[2017.11.30-14.57.31:442][690]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.30-14.57.31:479][690]LogInit: FAudioDevice initialized.
+[2017.11.30-14.57.31:521][690]LogLoad: Game class is '3D_Exploration_GameMode_C'
+[2017.11.30-14.57.31:529][690]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.30-14.57.31
+[2017.11.30-14.57.31:530][690]LogWorld: Bringing up level for play took: 0.006876
+[2017.11.30-14.57.31:534][690]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 0.647
+[2017.11.30-14.57.31:535][690]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.57.38:658][ 18]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.57.38:764][ 18]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.58.15:053][414]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.30-14.58.15:119][414]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.58.15:120][414]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.11.30-14.58.15:130][414]LogPlayLevel: [PlayLevel] Compiling AI_Enemy_BP before play...
+[2017.11.30-14.58.15:774][414]LogPlayLevel: PlayLevel: Blueprint regeneration took 654 ms (1 blueprints)
+[2017.11.30-14.58.15:775][414]PIE: New page: PIE session: Puzzle_Island (30 Nov 2017 14:58:15)
+[2017.11.30-14.58.15:776][414]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.30-14.58.15:801][414]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024908s)
+[2017.11.30-14.58.15:801][414]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.30-14.58.15:802][414]LogPlayLevel: PIE: World Init took: (0.000867s)
+[2017.11.30-14.58.15:802][414]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.026160s)
+[2017.11.30-14.58.15:833][414]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.30-14.58.15:866][414]LogInit: FAudioDevice initialized.
+[2017.11.30-14.58.15:905][414]LogLoad: Game class is '3D_Exploration_GameMode_C'
+[2017.11.30-14.58.15:911][414]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.30-14.58.15
+[2017.11.30-14.58.15:912][414]LogWorld: Bringing up level for play took: 0.005804
+[2017.11.30-14.58.15:916][414]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 1.028
+[2017.11.30-14.58.15:916][414]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.58.16:551][455]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.58.16:637][455]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.58.18:238][543]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.30-14.58.18:301][543]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.58.18:301][543]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.30-14.58.18:301][543]PIE: New page: PIE session: Puzzle_Island (30 Nov 2017 14:58:18)
+[2017.11.30-14.58.18:303][543]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.30-14.58.18:325][543]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022115s)
+[2017.11.30-14.58.18:325][543]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.30-14.58.18:326][543]LogPlayLevel: PIE: World Init took: (0.000886s)
+[2017.11.30-14.58.18:326][543]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.023538s)
+[2017.11.30-14.58.18:365][543]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.30-14.58.18:394][543]LogInit: FAudioDevice initialized.
+[2017.11.30-14.58.18:429][543]LogLoad: Game class is '3D_Exploration_GameMode_C'
+[2017.11.30-14.58.18:434][543]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.30-14.58.18
+[2017.11.30-14.58.18:435][543]LogWorld: Bringing up level for play took: 0.005298
+[2017.11.30-14.58.18:439][543]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island -0.449
+[2017.11.30-14.58.18:439][543]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.59.17:360][841]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-14.59.17:463][841]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-15.01.36:042][755]LogSavePackage: Save=493.90ms
+[2017.11.30-15.01.36:042][755]LogSavePackage: Moving 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Puzzle_Island_Auto69741271F454484329FCB66ADFA6FE5A3.tmp' to 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Autosaves/Game/Maps/Puzzle_Island_Auto6.umap'
+[2017.11.30-15.01.36:048][755]LogSavePackage: Display: Finished SavePackage D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Autosaves/Game/Maps/Puzzle_Island_Auto6.umap
+[2017.11.30-15.01.36:052][755]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Puzzle_Island' took 0.538
+[2017.11.30-15.01.36:052][755]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.538
+[2017.11.30-15.01.36:057][755]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/AI_Enemy_BP] ([1] browsable assets)...
+[2017.11.30-15.01.36:092][755]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/AI_Enemy_BP.AI_Enemy_BP]
+[2017.11.30-15.01.36:092][755]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AI_Enemy_BP]
+[2017.11.30-15.01.36:181][755]LogSavePackage: Save=85.90ms
+[2017.11.30-15.01.36:181][755]LogSavePackage: Moving 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/AI_Enemy_BP_Auto6EC9B3EC74B3058848E7F8FA2DFCE4286.tmp' to 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Autosaves/Game/Blueprints/AI_Enemy_BP_Auto6.uasset'
+[2017.11.30-15.01.36:185][755]LogSavePackage: Display: Finished SavePackage D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Autosaves/Game/Blueprints/AI_Enemy_BP_Auto6.uasset
+[2017.11.30-15.01.36:185][755]LogFileHelpers: Auto-saving content packages took 0.131
+[2017.11.30-15.16.25:473][879]LogRenderer: Reallocating scene render targets to support 1144x592 Format 10 NumSamples 1 (Frame:141088).
+[2017.11.30-15.16.25:521][880]LogRenderer: Reallocating scene render targets to support 1144x612 Format 10 NumSamples 1 (Frame:141090).
+[2017.11.30-15.16.25:572][881]LogRenderer: Reallocating scene render targets to support 1144x628 Format 10 NumSamples 1 (Frame:141092).
+[2017.11.30-15.16.25:623][882]LogRenderer: Reallocating scene render targets to support 1144x640 Format 10 NumSamples 1 (Frame:141094).
+[2017.11.30-15.16.25:720][883]LogRenderer: Reallocating scene render targets to support 1144x652 Format 10 NumSamples 1 (Frame:141096).
+[2017.11.30-15.16.25:812][884]LogRenderer: Reallocating scene render targets to support 1144x676 Format 10 NumSamples 1 (Frame:141098).
+[2017.11.30-15.16.25:899][885]LogRenderer: Reallocating scene render targets to support 1144x704 Format 10 NumSamples 1 (Frame:141100).
+[2017.11.30-15.16.25:997][886]LogRenderer: Reallocating scene render targets to support 1144x720 Format 10 NumSamples 1 (Frame:141102).
+[2017.11.30-15.16.26:083][887]LogRenderer: Reallocating scene render targets to support 1144x740 Format 10 NumSamples 1 (Frame:141104).
+[2017.11.30-15.16.26:156][888]LogRenderer: Reallocating scene render targets to support 1144x744 Format 10 NumSamples 1 (Frame:141106).
+[2017.11.30-15.16.26:222][889]LogRenderer: Reallocating scene render targets to support 1144x748 Format 10 NumSamples 1 (Frame:141108).
+[2017.11.30-15.16.28:225][ 46]LogRenderer: Reallocating scene render targets to support 1160x748 Format 10 NumSamples 1 (Frame:141245).
+[2017.11.30-15.16.28:305][ 47]LogRenderer: Reallocating scene render targets to support 1172x748 Format 10 NumSamples 1 (Frame:141247).
+[2017.11.30-15.16.28:354][ 48]LogRenderer: Reallocating scene render targets to support 1192x748 Format 10 NumSamples 1 (Frame:141249).
+[2017.11.30-15.16.28:406][ 49]LogRenderer: Reallocating scene render targets to support 1216x748 Format 10 NumSamples 1 (Frame:141251).
+[2017.11.30-15.16.28:467][ 50]LogRenderer: Reallocating scene render targets to support 1236x748 Format 10 NumSamples 1 (Frame:141253).
+[2017.11.30-15.16.28:542][ 51]LogRenderer: Reallocating scene render targets to support 1248x748 Format 10 NumSamples 1 (Frame:141255).
+[2017.11.30-15.16.28:619][ 52]LogRenderer: Reallocating scene render targets to support 1256x748 Format 10 NumSamples 1 (Frame:141257).
+[2017.11.30-15.16.28:887][ 67]LogRenderer: Reallocating scene render targets to support 1264x748 Format 10 NumSamples 1 (Frame:141261).
+[2017.11.30-15.16.31:163][257]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.30-15.16.31:221][257]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-15.16.31:221][257]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.11.30-15.16.31:229][257]LogPlayLevel: [PlayLevel] Compiling AI_Enemy_BP before play...
+[2017.11.30-15.16.31:928][257]LogPlayLevel: PlayLevel: Blueprint regeneration took 707 ms (1 blueprints)
+[2017.11.30-15.16.31:928][257]PIE: New page: PIE session: Puzzle_Island (30 Nov 2017 15:16:31)
+[2017.11.30-15.16.31:929][257]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.11.30-15.16.31:958][257]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028293s)
+[2017.11.30-15.16.31:959][257]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.11.30-15.16.31:959][257]LogPlayLevel: PIE: World Init took: (0.001040s)
+[2017.11.30-15.16.31:959][257]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.029758s)
+[2017.11.30-15.16.31:988][257]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.30-15.16.32:014][257]LogInit: FAudioDevice initialized.
+[2017.11.30-15.16.32:045][257]LogLoad: Game class is '3D_Exploration_GameMode_C'
+[2017.11.30-15.16.32:050][257]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.11.30-15.16.32
+[2017.11.30-15.16.32:050][257]LogWorld: Bringing up level for play took: 0.004420
+[2017.11.30-15.16.32:054][257]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 1.166
+[2017.11.30-15.16.32:054][257]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.11.30-15.16.56:214][858]LogBlueprintUserMessages: [NPC_BP2_54] Incorect Level Name
+[2017.11.30-15.17.00:226][306]LogNet: Browse: /Game/Maps/Jigsaw_01
+[2017.11.30-15.17.00:226][306]LogLoad: LoadMap: /Game/Maps/Jigsaw_01
+[2017.11.30-15.17.00:260][306]Cmd: MEM
+[2017.11.30-15.17.00:284][306]LogMemory: Platform Memory Stats for Windows
+[2017.11.30-15.17.00:284][306]LogMemory: Process Physical Memory: 2553.91 MB used, 3029.22 MB peak
+[2017.11.30-15.17.00:284][306]LogMemory: Process Virtual Memory: 3382.26 MB used, 4004.25 MB peak
+[2017.11.30-15.17.00:284][306]LogMemory: Physical Memory: 13217.06 MB used,  19467.36 MB free, 32684.42 MB total
+[2017.11.30-15.17.00:284][306]LogMemory: Virtual Memory: 4711.56 MB used,  19467.36 MB free, 134217728.00 MB total
+[2017.11.30-15.17.00:284][306]LogMemory: 
+[2017.11.30-15.17.00:284][306]Allocator Stats for TBB: (not implemented)
+[2017.11.30-15.17.00:691][306]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.076 s
+[2017.11.30-15.17.00:692][306]LogOutputDevice: Error: === Handled ensure: ===
+[2017.11.30-15.17.00:692][306]LogOutputDevice: Error: 
+[2017.11.30-15.17.00:692][306]LogOutputDevice: Error: Ensure condition failed: IsObjectValidForDatabase(AssetObject) [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Editor\BlueprintGraph\Private\BlueprintActionDatabase.cpp] [Line: 1315]
+[2017.11.30-15.17.00:692][306]LogOutputDevice: Error: 
+[2017.11.30-15.17.00:692][306]LogOutputDevice: Error: Stack: 
+[2017.11.30-15.17.00:692][306]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000066CF3E36
+[2017.11.30-15.17.00:692][306]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000066A7C2D2
+[2017.11.30-15.17.00:692][306]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000066A94746
+[2017.11.30-15.17.00:692][306]LogOutputDevice: Error: UE4Editor-BlueprintGraph.dll!0x00000000559BD5D9
+[2017.11.30-15.17.00:692][306]LogOutputDevice: Error: UE4Editor-BlueprintGraph.dll!0x000000005598C90D
+[2017.11.30-15.17.00:692][306]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x000000006D4B0F67
+[2017.11.30-15.17.00:692][306]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x000000006D7BB666
+[2017.11.30-15.17.00:692][306]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x000000006D7D1766
+[2017.11.30-15.17.00:692][306]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x000000006D7D0CB2
+[2017.11.30-15.17.00:692][306]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000607FE10B
+[2017.11.30-15.17.00:692][306]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000607B6AE8
+[2017.11.30-15.17.00:692][306]LogOutputDevice: Error: UE4Editor-Engine.dll!0x000000006081D89D
+[2017.11.30-15.17.00:692][306]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x0000000059D7BF80
+[2017.11.30-15.17.00:692][306]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000005A60D646
+[2017.11.30-15.17.00:692][306]LogOutputDevice: Error: UE4Editor.exe!0x00000000E5D3534A
+[2017.11.30-15.17.00:692][306]LogOutputDevice: Error: UE4Editor.exe!0x00000000E5D43970
+[2017.11.30-15.17.00:692][306]LogOutputDevice: Error: UE4Editor.exe!0x00000000E5D439EA
+[2017.11.30-15.17.00:692][306]LogOutputDevice: Error: UE4Editor.exe!0x00000000E5D502D9
+[2017.11.30-15.17.00:692][306]LogOutputDevice: Error: UE4Editor.exe!0x00000000E5D51C47
+[2017.11.30-15.17.00:692][306]LogOutputDevice: Error: KERNEL32.DLL!0x00000000B6882774
+[2017.11.30-15.17.00:692][306]LogOutputDevice: Error: ntdll.dll!0x00000000B6BA0D51
+[2017.11.30-15.17.00:692][306]LogOutputDevice: Error: 
+[2017.11.30-15.17.00:697][306]LogStats:                SubmitErrorReport -  0.000 s
