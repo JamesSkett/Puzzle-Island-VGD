@@ -1,9 +1,9 @@
 ------------------
 System Information
 ------------------
-      Time of this report: 11/30/2017, 11:09:46
-             Machine name: W65146
-               Machine Id: {802C5285-535B-42B9-AA44-76535F00D55A}
+      Time of this report: 12/1/2017, 12:20:03
+             Machine name: W65160
+               Machine Id: {3F3D9FA8-3F3D-4693-979F-FD07D6264234}
          Operating System: Windows 10 Education 64-bit (10.0, Build 15063) (15063.rs2_release.170317-1834)
                  Language: English (Regional Setting: English)
       System Manufacturer: Alienware
@@ -12,7 +12,7 @@ System Information
                 Processor: Intel(R) Core(TM) i7-4820K CPU @ 3.70GHz (8 CPUs), ~3.7GHz
                    Memory: 16384MB RAM
       Available OS Memory: 16302MB RAM
-                Page File: 7604MB used, 11130MB available
+                Page File: 7573MB used, 11161MB available
               Windows Dir: C:\windows
           DirectX Version: DirectX 12
       DX Setup Parameters: Not found
@@ -84,7 +84,7 @@ Hybrid Graphics GPU: Not Supported
           Device ID: 0x1184
           SubSys ID: 0x103310DE
         Revision ID: 0x00A1
- Driver Strong Name: oem66.inf:0f066de38af44490:Section004:23.21.13.8813:pci\ven_10de&dev_1184&subsys_103310de
+ Driver Strong Name: oem67.inf:0f066de38af44490:Section004:23.21.13.8813:pci\ven_10de&dev_1184&subsys_103310de
      Rank Of Driver: 00D10001
         Video Accel: ModeMPEG2_A ModeMPEG2_C ModeVC1_C ModeWMV9_C 
         DXVA2 Modes: DXVA2_ModeMPEG2_VLD  DXVA2_ModeMPEG2_IDCT  DXVA2_ModeVC1_D2010  DXVA2_ModeVC1_VLD  DXVA2_ModeVC1_IDCT  DXVA2_ModeWMV9_IDCT  DXVA2_ModeH264_VLD_Stereo_Progressive_NoFGT  DXVA2_ModeH264_VLD_Stereo_NoFGT  DXVA2_ModeH264_VLD_NoFGT  DXVA2_ModeHEVC_VLD_Main  DXVA2_ModeMPEG4pt2_VLD_Simple  DXVA2_ModeMPEG4pt2_VLD_AdvSimple_NoGMC  
@@ -152,8 +152,8 @@ Driver Problem Code: Unknown
       Shared Memory: 8151 MB
        Current Mode: 1920 x 1200 (32 bit) (59Hz)
        Monitor Name: Generic PnP Monitor
-      Monitor Model: HP LP2465
-         Monitor Id: HWP2676
+      Monitor Model: DELL U2412M
+         Monitor Id: DELA07A
         Native Mode: 1920 x 1200(p) (59.950Hz)
         Output Type: DVI
         Driver Name: C:\windows\System32\DriverStore\FileRepository\nv_desktop_ref4wu.inf_amd64_0109a19b5125cb43\nvldumdx.dll,C:\windows\System32\DriverStore\FileRepository\nv_desktop_ref4wu.inf_amd64_0109a19b5125cb43\nvldumdx.dll,C:\windows\System32\DriverStore\FileRepository\nv_desktop_ref4wu.inf_amd64_0109a19b5125cb43\nvldumdx.dll,C:\windows\System32\DriverStore\FileRepository\nv_desktop_ref4wu.inf_amd64_0109a19b5125cb43\nvldumdx.dll
@@ -176,7 +176,7 @@ Hybrid Graphics GPU: Not Supported
           Device ID: 0x1184
           SubSys ID: 0x103310DE
         Revision ID: 0x00A1
- Driver Strong Name: oem66.inf:0f066de38af44490:Section004:23.21.13.8813:pci\ven_10de&dev_1184&subsys_103310de
+ Driver Strong Name: oem67.inf:0f066de38af44490:Section004:23.21.13.8813:pci\ven_10de&dev_1184&subsys_103310de
      Rank Of Driver: 00D10001
         Video Accel: ModeMPEG2_A ModeMPEG2_C ModeVC1_C ModeWMV9_C 
         DXVA2 Modes: DXVA2_ModeMPEG2_VLD  DXVA2_ModeMPEG2_IDCT  DXVA2_ModeVC1_D2010  DXVA2_ModeVC1_VLD  DXVA2_ModeVC1_IDCT  DXVA2_ModeWMV9_IDCT  DXVA2_ModeH264_VLD_Stereo_Progressive_NoFGT  DXVA2_ModeH264_VLD_Stereo_NoFGT  DXVA2_ModeH264_VLD_NoFGT  DXVA2_ModeHEVC_VLD_Main  DXVA2_ModeMPEG4pt2_VLD_Simple  DXVA2_ModeMPEG4pt2_VLD_AdvSimple_NoGMC  
@@ -305,6 +305,12 @@ Vendor/Product ID: n/a
 Vendor/Product ID: n/a
         FF Driver: n/a
 
+      Device Name: Controller (XBOX 360 For Windows)
+         Attached: 1
+    Controller ID: 0x0
+Vendor/Product ID: 0x045E, 0x028E
+        FF Driver: n/a
+
       Device Name: USB Multimedia Keyboard
          Attached: 1
     Controller ID: 0x0
@@ -394,7 +400,7 @@ PS/2 Devices
 Disk & DVD/CD-ROM Drives
 ------------------------
       Drive: C:
- Free Space: 684.0 GB
+ Free Space: 710.4 GB
 Total Space: 943.8 GB
 File System: NTFS
       Model: ST1000DX001-1NS162
@@ -846,8 +852,8 @@ Audio Renderers:
 T24B350-4 (NVIDIA High Definition Audio),0x00200000,1,0,quartz.dll,10.00.15063.0674
 Default DirectSound Device,0x00800000,1,0,quartz.dll,10.00.15063.0674
 Default WaveOut Device,0x00200000,1,0,quartz.dll,10.00.15063.0674
-DirectSound: T24B350-4 (NVIDIA High Definition Audio),0x00200000,1,0,quartz.dll,10.00.15063.0674
 DirectSound: Realtek Digital Output (Realtek High Definition Audio),0x00200000,1,0,quartz.dll,10.00.15063.0674
+DirectSound: T24B350-4 (NVIDIA High Definition Audio),0x00200000,1,0,quartz.dll,10.00.15063.0674
 Realtek Digital Output (Realtek High Definition Audio),0x00200000,1,0,quartz.dll,10.00.15063.0674
 
 
@@ -1249,120 +1255,6 @@ Diagnostics
 
 Windows Error Reporting:
 +++ WER0 +++:
-Fault bucket 120810916837, type 4
-Event Name: APPCRASH
-Response: Not available
-Cab Id: 0
-
-Problem signature:
-P1: LogonUI.exe
-P2: 10.0.15063.0
-P3: ccf07184
-P4: StackHash12_8fa
-P5: 0.0.0.0
-P6: 00000000
-P7: 8007000e
-P8: 0
-P9: 
-P10: 
-
-
-+++ WER1 +++:
-Fault bucket , type 0
-Event Name: APPCRASH
-Response: Not available
-Cab Id: 0
-
-Problem signature:
-P1: LogonUI.exe
-P2: 10.0.15063.0
-P3: ccf07184
-P4: StackHash12_8fa
-P5: 0.0.0.0
-P6: 00000000
-P7: 8007000e
-P8: 0
-P9: 
-P10: 
-
-
-+++ WER2 +++:
-Fault bucket 127930299139, type 5
-Event Name: MpTelemetry
-Response: Not available
-Cab Id: 0
-
-Problem signature:
-P1: unspecified
-P2: HardeningTelemetry
-P3: HardeningTelemetryDisableAS
-P4: 4.11.15063.447
-P5: unspecified
-P6: unspecified
-P7: unspecified
-P8: 
-P9: 
-P10: 
-
-
-+++ WER3 +++:
-Fault bucket 127930299099, type 5
-Event Name: MpTelemetry
-Response: Not available
-Cab Id: 0
-
-Problem signature:
-P1: unspecified
-P2: HardeningTelemetry
-P3: HardeningTelemetryDisableAV
-P4: 4.11.15063.447
-P5: unspecified
-P6: unspecified
-P7: unspecified
-P8: 
-P9: 
-P10: 
-
-
-+++ WER4 +++:
-Fault bucket , type 0
-Event Name: MpTelemetry
-Response: Not available
-Cab Id: 0
-
-Problem signature:
-P1: unspecified
-P2: HardeningTelemetry
-P3: HardeningTelemetryDisableAS
-P4: 4.11.15063.447
-P5: unspecified
-P6: unspecified
-P7: unspecified
-P8: 
-P9: 
-P10: 
-
-
-+++ WER5 +++:
-Fault bucket , type 0
-Event Name: MpTelemetry
-Response: Not available
-Cab Id: 0
-
-Problem signature:
-P1: unspecified
-P2: HardeningTelemetry
-P3: HardeningTelemetryDisableAV
-P4: 4.11.15063.447
-P5: unspecified
-P6: unspecified
-P7: unspecified
-P8: 
-P9: 
-P10: 
-
-
-+++ WER6 +++:
 Fault bucket 85952069954, type 4
 Event Name: APPCRASH
 Response: Not available
@@ -1381,7 +1273,7 @@ P9:
 P10: 
 
 
-+++ WER7 +++:
++++ WER1 +++:
 Fault bucket , type 0
 Event Name: APPCRASH
 Response: Not available
@@ -1396,6 +1288,120 @@ P5: 5.3.5.3
 P6: 53f3a0b7
 P7: c0000005
 P8: 0000000000281798
+P9: 
+P10: 
+
+
++++ WER2 +++:
+Fault bucket 120810916837, type 4
+Event Name: APPCRASH
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: LogonUI.exe
+P2: 10.0.15063.0
+P3: ccf07184
+P4: StackHash12_8fa
+P5: 0.0.0.0
+P6: 00000000
+P7: 8007000e
+P8: 0
+P9: 
+P10: 
+
+
++++ WER3 +++:
+Fault bucket , type 0
+Event Name: APPCRASH
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: LogonUI.exe
+P2: 10.0.15063.0
+P3: ccf07184
+P4: StackHash12_8fa
+P5: 0.0.0.0
+P6: 00000000
+P7: 8007000e
+P8: 0
+P9: 
+P10: 
+
+
++++ WER4 +++:
+Fault bucket 127930299139, type 5
+Event Name: MpTelemetry
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: unspecified
+P2: HardeningTelemetry
+P3: HardeningTelemetryDisableAS
+P4: 4.11.15063.447
+P5: unspecified
+P6: unspecified
+P7: unspecified
+P8: 
+P9: 
+P10: 
+
+
++++ WER5 +++:
+Fault bucket 127930299099, type 5
+Event Name: MpTelemetry
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: unspecified
+P2: HardeningTelemetry
+P3: HardeningTelemetryDisableAV
+P4: 4.11.15063.447
+P5: unspecified
+P6: unspecified
+P7: unspecified
+P8: 
+P9: 
+P10: 
+
+
++++ WER6 +++:
+Fault bucket , type 0
+Event Name: MpTelemetry
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: unspecified
+P2: HardeningTelemetry
+P3: HardeningTelemetryDisableAS
+P4: 4.11.15063.447
+P5: unspecified
+P6: unspecified
+P7: unspecified
+P8: 
+P9: 
+P10: 
+
+
++++ WER7 +++:
+Fault bucket , type 0
+Event Name: MpTelemetry
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: unspecified
+P2: HardeningTelemetry
+P3: HardeningTelemetryDisableAV
+P4: 4.11.15063.447
+P5: unspecified
+P6: unspecified
+P7: unspecified
+P8: 
 P9: 
 P10: 
 
