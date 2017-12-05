@@ -1,9 +1,9 @@
 ------------------
 System Information
 ------------------
-      Time of this report: 12/5/2017, 14:34:37
-             Machine name: W65182
-               Machine Id: {9552FFD8-8DF9-4B25-956A-36C1FB473B2B}
+      Time of this report: 12/5/2017, 15:18:35
+             Machine name: W65160
+               Machine Id: {3F3D9FA8-3F3D-4693-979F-FD07D6264234}
          Operating System: Windows 10 Education 64-bit (10.0, Build 15063) (15063.rs2_release.170317-1834)
                  Language: English (Regional Setting: English)
       System Manufacturer: Alienware
@@ -12,7 +12,7 @@ System Information
                 Processor: Intel(R) Core(TM) i7-4820K CPU @ 3.70GHz (8 CPUs), ~3.7GHz
                    Memory: 16384MB RAM
       Available OS Memory: 16302MB RAM
-                Page File: 7819MB used, 10914MB available
+                Page File: 6609MB used, 12124MB available
               Windows Dir: C:\windows
           DirectX Version: DirectX 12
       DX Setup Parameters: Not found
@@ -29,6 +29,7 @@ DxDiag Notes
       Display Tab 1: No problems found.
       Display Tab 2: No problems found.
         Sound Tab 1: No problems found.
+        Sound Tab 2: No problems found.
           Input Tab: No problems found.
 
 --------------------
@@ -57,12 +58,12 @@ Driver Problem Code: Unknown
      Display Memory: 10168 MB
    Dedicated Memory: 2017 MB
       Shared Memory: 8151 MB
-       Current Mode: 1920 x 1200 (32 bit) (59Hz)
+       Current Mode: 1920 x 1080 (32 bit) (60Hz)
        Monitor Name: Generic PnP Monitor
-      Monitor Model: DELL U2412M
-         Monitor Id: DELA07B
-        Native Mode: 1920 x 1200(p) (59.950Hz)
-        Output Type: Displayport External
+      Monitor Model: T24B350
+         Monitor Id: SAM093E
+        Native Mode: 1920 x 1080(p) (60.000Hz)
+        Output Type: HDMI
         Driver Name: C:\windows\System32\DriverStore\FileRepository\nv_desktop_ref4wu.inf_amd64_0109a19b5125cb43\nvldumdx.dll,C:\windows\System32\DriverStore\FileRepository\nv_desktop_ref4wu.inf_amd64_0109a19b5125cb43\nvldumdx.dll,C:\windows\System32\DriverStore\FileRepository\nv_desktop_ref4wu.inf_amd64_0109a19b5125cb43\nvldumdx.dll,C:\windows\System32\DriverStore\FileRepository\nv_desktop_ref4wu.inf_amd64_0109a19b5125cb43\nvldumdx.dll
 Driver File Version: 23.21.0013.8813 (English)
      Driver Version: 23.21.13.8813
@@ -83,7 +84,7 @@ Hybrid Graphics GPU: Not Supported
           Device ID: 0x1184
           SubSys ID: 0x103310DE
         Revision ID: 0x00A1
- Driver Strong Name: oem65.inf:0f066de38af44490:Section004:23.21.13.8813:pci\ven_10de&dev_1184&subsys_103310de
+ Driver Strong Name: oem67.inf:0f066de38af44490:Section004:23.21.13.8813:pci\ven_10de&dev_1184&subsys_103310de
      Rank Of Driver: 00D10001
         Video Accel: ModeMPEG2_A ModeMPEG2_C ModeVC1_C ModeWMV9_C 
         DXVA2 Modes: DXVA2_ModeMPEG2_VLD  DXVA2_ModeMPEG2_IDCT  DXVA2_ModeVC1_D2010  DXVA2_ModeVC1_VLD  DXVA2_ModeVC1_IDCT  DXVA2_ModeWMV9_IDCT  DXVA2_ModeH264_VLD_Stereo_Progressive_NoFGT  DXVA2_ModeH264_VLD_Stereo_NoFGT  DXVA2_ModeH264_VLD_NoFGT  DXVA2_ModeHEVC_VLD_Main  DXVA2_ModeMPEG4pt2_VLD_Simple  DXVA2_ModeMPEG4pt2_VLD_AdvSimple_NoGMC  
@@ -149,12 +150,12 @@ Driver Problem Code: Unknown
      Display Memory: 10168 MB
    Dedicated Memory: 2017 MB
       Shared Memory: 8151 MB
-       Current Mode: 1920 x 1080 (32 bit) (60Hz)
+       Current Mode: 1920 x 1200 (32 bit) (59Hz)
        Monitor Name: Generic PnP Monitor
-      Monitor Model: T24B350
-         Monitor Id: SAM093C
-        Native Mode: 1920 x 1080(p) (60.000Hz)
-        Output Type: HD15
+      Monitor Model: DELL U2412M
+         Monitor Id: DELA07A
+        Native Mode: 1920 x 1200(p) (59.950Hz)
+        Output Type: DVI
         Driver Name: C:\windows\System32\DriverStore\FileRepository\nv_desktop_ref4wu.inf_amd64_0109a19b5125cb43\nvldumdx.dll,C:\windows\System32\DriverStore\FileRepository\nv_desktop_ref4wu.inf_amd64_0109a19b5125cb43\nvldumdx.dll,C:\windows\System32\DriverStore\FileRepository\nv_desktop_ref4wu.inf_amd64_0109a19b5125cb43\nvldumdx.dll,C:\windows\System32\DriverStore\FileRepository\nv_desktop_ref4wu.inf_amd64_0109a19b5125cb43\nvldumdx.dll
 Driver File Version: 23.21.0013.8813 (English)
      Driver Version: 23.21.13.8813
@@ -175,7 +176,7 @@ Hybrid Graphics GPU: Not Supported
           Device ID: 0x1184
           SubSys ID: 0x103310DE
         Revision ID: 0x00A1
- Driver Strong Name: oem65.inf:0f066de38af44490:Section004:23.21.13.8813:pci\ven_10de&dev_1184&subsys_103310de
+ Driver Strong Name: oem67.inf:0f066de38af44490:Section004:23.21.13.8813:pci\ven_10de&dev_1184&subsys_103310de
      Rank Of Driver: 00D10001
         Video Accel: ModeMPEG2_A ModeMPEG2_C ModeVC1_C ModeWMV9_C 
         DXVA2 Modes: DXVA2_ModeMPEG2_VLD  DXVA2_ModeMPEG2_IDCT  DXVA2_ModeVC1_D2010  DXVA2_ModeVC1_VLD  DXVA2_ModeVC1_IDCT  DXVA2_ModeWMV9_IDCT  DXVA2_ModeH264_VLD_Stereo_Progressive_NoFGT  DXVA2_ModeH264_VLD_Stereo_NoFGT  DXVA2_ModeH264_VLD_NoFGT  DXVA2_ModeHEVC_VLD_Main  DXVA2_ModeMPEG4pt2_VLD_Simple  DXVA2_ModeMPEG4pt2_VLD_AdvSimple_NoGMC  
@@ -232,9 +233,34 @@ Hybrid Graphics GPU: Not Supported
 -------------
 Sound Devices
 -------------
-            Description: Realtek Digital Output (Realtek High Definition Audio)
+            Description: T24B350-4 (NVIDIA High Definition Audio)
  Default Sound Playback: Yes
  Default Voice Playback: Yes
+            Hardware ID: HDAUDIO\FUNC_01&VEN_10DE&DEV_0040&SUBSYS_10DE1033&REV_1001
+        Manufacturer ID: 1
+             Product ID: 100
+                   Type: WDM
+            Driver Name: nvhda64v.sys
+         Driver Version: 1.03.0035.0001 (English)
+      Driver Attributes: Final Retail
+            WHQL Logo'd: Yes
+          Date and Size: 27/10/2017 00:00:00, 233904 bytes
+            Other Files: 
+        Driver Provider: NVIDIA Corporation
+         HW Accel Level: Basic
+              Cap Flags: 0xF1F
+    Min/Max Sample Rate: 100, 200000
+Static/Strm HW Mix Bufs: 1, 0
+ Static/Strm HW 3D Bufs: 0, 0
+              HW Memory: 0
+       Voice Management: No
+ EAX(tm) 2.0 Listen/Src: No, No
+   I3DL2(tm) Listen/Src: No, No
+Sensaura(tm) ZoomFX(tm): No
+
+            Description: Realtek Digital Output (Realtek High Definition Audio)
+ Default Sound Playback: No
+ Default Voice Playback: No
             Hardware ID: HDAUDIO\FUNC_01&VEN_10EC&DEV_0892&SUBSYS_10280541&REV_1003
         Manufacturer ID: 1
              Product ID: 100
@@ -374,7 +400,7 @@ PS/2 Devices
 Disk & DVD/CD-ROM Drives
 ------------------------
       Drive: C:
- Free Space: 694.9 GB
+ Free Space: 713.3 GB
 Total Space: 943.8 GB
 File System: NTFS
       Model: ST1000DX001-1NS162
@@ -792,10 +818,12 @@ WDM Streaming Capture Devices:
 Realtek HD Audio Mic input,0x00200000,1,1,ksproxy.ax,10.00.15063.0000
 Realtek HD Audio Line input,0x00200000,1,1,ksproxy.ax,10.00.15063.0000
 Realtek HD Audio Stereo input,0x00200000,1,1,ksproxy.ax,10.00.15063.0000
+,0x00000000,0,0,,
 
 WDM Streaming Rendering Devices:
 Realtek HDA SPDIF Out,0x00200000,1,1,ksproxy.ax,10.00.15063.0000
 Realtek HD Audio output,0x00200000,1,1,ksproxy.ax,10.00.15063.0000
+,0x00000000,0,0,,
 
 BDA Network Providers:
 Microsoft ATSC Network Provider,0x00200000,0,1,MSDvbNP.ax,10.00.15063.0000
@@ -821,10 +849,12 @@ WDM Streaming Communication Transforms:
 Tee/Sink-to-Sink Converter,0x00200000,1,1,ksproxy.ax,10.00.15063.0000
 
 Audio Renderers:
-Realtek Digital Output (Realtek High Definition Audio),0x00200000,1,0,quartz.dll,10.00.15063.0674
+T24B350-4 (NVIDIA High Definition Audio),0x00200000,1,0,quartz.dll,10.00.15063.0674
 Default DirectSound Device,0x00800000,1,0,quartz.dll,10.00.15063.0674
 Default WaveOut Device,0x00200000,1,0,quartz.dll,10.00.15063.0674
 DirectSound: Realtek Digital Output (Realtek High Definition Audio),0x00200000,1,0,quartz.dll,10.00.15063.0674
+DirectSound: T24B350-4 (NVIDIA High Definition Audio),0x00200000,1,0,quartz.dll,10.00.15063.0674
+Realtek Digital Output (Realtek High Definition Audio),0x00200000,1,0,quartz.dll,10.00.15063.0674
 
 
 ----------------------------
@@ -1225,19 +1255,19 @@ Diagnostics
 
 Windows Error Reporting:
 +++ WER0 +++:
-Fault bucket 2103280967874593652, type 5
+Fault bucket 1818844924608051748, type 5
 Event Name: WindowsUpdateFailure3
 Response: Not available
 Cab Id: 0
 
 Problem signature:
 P1: 10.0.15063.726
-P2: 80070643
-P3: CDD323C4-42AF-4A71-B250-D551CAB5495A
+P2: 8024000b
+P3: 409FB934-CA1A-49C8-A59B-3304B8453FB8
 P4: Install
 P5: 200
 P6: 0
-P7: 80509004
+P7: 8024000b
 P8: Windows Defender Antivirus (77BDAF73-B396-481F-9042-AD358843EC24)
 P9: {9482F4B4-E343-43B6-B170-9A65BC822C77}
 P10: 0
@@ -1270,12 +1300,12 @@ Cab Id: 0
 
 Problem signature:
 P1: 10.0.15063.726
-P2: 80070643
-P3: CDD323C4-42AF-4A71-B250-D551CAB5495A
+P2: 8024000b
+P3: 409FB934-CA1A-49C8-A59B-3304B8453FB8
 P4: Install
 P5: 200
 P6: 0
-P7: 80509004
+P7: 8024000b
 P8: Windows Defender Antivirus (77BDAF73-B396-481F-9042-AD358843EC24)
 P9: {9482F4B4-E343-43B6-B170-9A65BC822C77}
 P10: 0
@@ -1289,12 +1319,12 @@ Cab Id: 0
 
 Problem signature:
 P1: 10.0.15063.726
-P2: 80070643
-P3: CDD323C4-42AF-4A71-B250-D551CAB5495A
+P2: 8024000b
+P3: 409FB934-CA1A-49C8-A59B-3304B8453FB8
 P4: Install
 P5: 200
 P6: 0
-P7: 80509004
+P7: 8024000b
 P8: Windows Defender Antivirus (77BDAF73-B396-481F-9042-AD358843EC24)
 P9: {9482F4B4-E343-43B6-B170-9A65BC822C77}
 P10: 0
@@ -1320,25 +1350,6 @@ P10:
 
 
 +++ WER5 +++:
-Fault bucket 1395444934429564400, type 5
-Event Name: MpTelemetry
-Response: Not available
-Cab Id: 0
-
-Problem signature:
-P1: 0x80509004
-P2: ValidateUpdate
-P3: N/A
-P4: 1.1.14406.0
-P5: mpsigstub.exe
-P6: 4.11.15063.447
-P7: Microsoft Windows Defender (RS1+)
-P8: 
-P9: 
-P10: 
-
-
-+++ WER6 +++:
 Fault bucket , type 0
 Event Name: MpTelemetry
 Response: Not available
@@ -1357,7 +1368,7 @@ P9:
 P10: 
 
 
-+++ WER7 +++:
++++ WER6 +++:
 Fault bucket , type 0
 Event Name: MpTelemetry
 Response: Not available
@@ -1376,7 +1387,7 @@ P9:
 P10: 
 
 
-+++ WER8 +++:
++++ WER7 +++:
 Fault bucket 108477669959, type 1
 Event Name: APPCRASH
 Response: Not available
@@ -1395,7 +1406,7 @@ P9:
 P10: 
 
 
-+++ WER9 +++:
++++ WER8 +++:
 Fault bucket 116277855268, type 5
 Event Name: BEX
 Response: Not available
@@ -1411,6 +1422,25 @@ P6: 57b58c80
 P7: 00144353
 P8: c0000409
 P9: 00000015
+P10: 
+
+
++++ WER9 +++:
+Fault bucket , type 0
+Event Name: APPCRASH
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: colw32.exe
+P2: 11.4.3.11
+P3: 57b58c80
+P4: colw32.exe
+P5: 11.4.3.11
+P6: 57b58c80
+P7: c0000005
+P8: 00144353
+P9: 
 P10: 
 
 
