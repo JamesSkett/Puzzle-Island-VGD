@@ -1,18 +1,18 @@
 ------------------
 System Information
 ------------------
-      Time of this report: 12/4/2017, 17:26:03
-             Machine name: W62163
-               Machine Id: {F6E2F218-2D1E-4632-AFCE-B12ADF930FEE}
+      Time of this report: 12/5/2017, 13:32:11
+             Machine name: W65182
+               Machine Id: {9552FFD8-8DF9-4B25-956A-36C1FB473B2B}
          Operating System: Windows 10 Education 64-bit (10.0, Build 15063) (15063.rs2_release.170317-1834)
                  Language: English (Regional Setting: English)
       System Manufacturer: Alienware
              System Model: Aurora-R4
                      BIOS: BIOS Date: 11/26/13 14:42:56 Ver: 04.06.05
-                Processor: Intel(R) Core(TM) i7-3820 CPU @ 3.60GHz (8 CPUs), ~3.6GHz
+                Processor: Intel(R) Core(TM) i7-4820K CPU @ 3.70GHz (8 CPUs), ~3.7GHz
                    Memory: 16384MB RAM
       Available OS Memory: 16302MB RAM
-                Page File: 9777MB used, 16051MB available
+                Page File: 7588MB used, 11145MB available
               Windows Dir: C:\windows
           DirectX Version: DirectX 12
       DX Setup Parameters: Not found
@@ -28,6 +28,7 @@ Microsoft Graphics Hybrid: Not Supported
 DxDiag Notes
 ------------
       Display Tab 1: No problems found.
+      Display Tab 2: No problems found.
         Sound Tab 1: No problems found.
           Input Tab: No problems found.
 
@@ -45,24 +46,24 @@ DirectShow:  0/6 (retail)
 ---------------
 Display Devices
 ---------------
-          Card name: NVIDIA GeForce GTX 660
+          Card name: NVIDIA GeForce GTX 770
        Manufacturer: NVIDIA
-          Chip type: GeForce GTX 660
+          Chip type: GeForce GTX 770
            DAC type: Integrated RAMDAC
         Device Type: Full Device
-         Device Key: Enum\PCI\VEN_10DE&DEV_1185&SUBSYS_098A10DE&REV_A1
+         Device Key: Enum\PCI\VEN_10DE&DEV_1184&SUBSYS_103310DE&REV_A1
       Device Status: 0180200A [DN_DRIVER_LOADED|DN_STARTED|DN_DISABLEABLE|DN_NT_ENUMERATOR|DN_NT_DRIVER] 
 Device Problem Code: No Problem
 Driver Problem Code: Unknown
-     Display Memory: 9657 MB
-   Dedicated Memory: 1506 MB
+     Display Memory: 10168 MB
+   Dedicated Memory: 2017 MB
       Shared Memory: 8151 MB
        Current Mode: 1920 x 1200 (32 bit) (59Hz)
        Monitor Name: Generic PnP Monitor
       Monitor Model: DELL U2412M
-         Monitor Id: DELA07A
+         Monitor Id: DELA07B
         Native Mode: 1920 x 1200(p) (59.950Hz)
-        Output Type: DVI
+        Output Type: Displayport External
         Driver Name: C:\windows\System32\DriverStore\FileRepository\nv_desktop_ref4wu.inf_amd64_0109a19b5125cb43\nvldumdx.dll,C:\windows\System32\DriverStore\FileRepository\nv_desktop_ref4wu.inf_amd64_0109a19b5125cb43\nvldumdx.dll,C:\windows\System32\DriverStore\FileRepository\nv_desktop_ref4wu.inf_amd64_0109a19b5125cb43\nvldumdx.dll,C:\windows\System32\DriverStore\FileRepository\nv_desktop_ref4wu.inf_amd64_0109a19b5125cb43\nvldumdx.dll
 Driver File Version: 23.21.0013.8813 (English)
      Driver Version: 23.21.13.8813
@@ -78,12 +79,104 @@ Hybrid Graphics GPU: Not Supported
    Driver Date/Size: 27/10/2017 00:00:00, 945080 bytes
         WHQL Logo'd: Yes
     WHQL Date Stamp: Unknown
-  Device Identifier: {D7B71E3E-52C5-11CF-0351-87291BC2DA35}
+  Device Identifier: {D7B71E3E-52C4-11CF-0351-3E301BC2DA35}
           Vendor ID: 0x10DE
-          Device ID: 0x1185
-          SubSys ID: 0x098A10DE
+          Device ID: 0x1184
+          SubSys ID: 0x103310DE
         Revision ID: 0x00A1
- Driver Strong Name: oem66.inf:0f066de3385246e2:Section004:23.21.13.8813:pci\ven_10de&dev_1185&subsys_098a10de
+ Driver Strong Name: oem65.inf:0f066de38af44490:Section004:23.21.13.8813:pci\ven_10de&dev_1184&subsys_103310de
+     Rank Of Driver: 00D10001
+        Video Accel: ModeMPEG2_A ModeMPEG2_C ModeVC1_C ModeWMV9_C 
+        DXVA2 Modes: DXVA2_ModeMPEG2_VLD  DXVA2_ModeMPEG2_IDCT  DXVA2_ModeVC1_D2010  DXVA2_ModeVC1_VLD  DXVA2_ModeVC1_IDCT  DXVA2_ModeWMV9_IDCT  DXVA2_ModeH264_VLD_Stereo_Progressive_NoFGT  DXVA2_ModeH264_VLD_Stereo_NoFGT  DXVA2_ModeH264_VLD_NoFGT  DXVA2_ModeHEVC_VLD_Main  DXVA2_ModeMPEG4pt2_VLD_Simple  DXVA2_ModeMPEG4pt2_VLD_AdvSimple_NoGMC  
+   Deinterlace Caps: {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
+                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
+                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(UYVY,UYVY) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
+                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(UYVY,UYVY) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(UYVY,UYVY) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(UYVY,UYVY) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
+                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(YV12,0x32315659) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
+                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(YV12,0x32315659) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(YV12,0x32315659) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(YV12,0x32315659) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
+                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
+                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
+                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(IMC1,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(IMC1,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC1,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(IMC1,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(IMC2,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(IMC2,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC2,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(IMC2,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(IMC3,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(IMC3,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC3,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(IMC3,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(IMC4,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(IMC4,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC4,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(IMC4,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(S340,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(S340,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(S340,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(S340,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(S342,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(S342,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(S342,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(S342,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+       D3D9 Overlay: Supported
+            DXVA-HD: Supported
+       DDraw Status: Enabled
+         D3D Status: Enabled
+         AGP Status: Enabled
+           MPO Caps: Not Supported
+        MPO Stretch: Not Supported
+    MPO Media Hints: Not Supported
+        MPO Formats: Not Supported
+
+          Card name: NVIDIA GeForce GTX 770
+       Manufacturer: NVIDIA
+          Chip type: GeForce GTX 770
+           DAC type: Integrated RAMDAC
+        Device Type: Full Device
+         Device Key: Enum\PCI\VEN_10DE&DEV_1184&SUBSYS_103310DE&REV_A1
+      Device Status: 0180200A [DN_DRIVER_LOADED|DN_STARTED|DN_DISABLEABLE|DN_NT_ENUMERATOR|DN_NT_DRIVER] 
+Device Problem Code: No Problem
+Driver Problem Code: Unknown
+     Display Memory: 10168 MB
+   Dedicated Memory: 2017 MB
+      Shared Memory: 8151 MB
+       Current Mode: 1920 x 1080 (32 bit) (60Hz)
+       Monitor Name: Generic PnP Monitor
+      Monitor Model: T24B350
+         Monitor Id: SAM093C
+        Native Mode: 1920 x 1080(p) (60.000Hz)
+        Output Type: HD15
+        Driver Name: C:\windows\System32\DriverStore\FileRepository\nv_desktop_ref4wu.inf_amd64_0109a19b5125cb43\nvldumdx.dll,C:\windows\System32\DriverStore\FileRepository\nv_desktop_ref4wu.inf_amd64_0109a19b5125cb43\nvldumdx.dll,C:\windows\System32\DriverStore\FileRepository\nv_desktop_ref4wu.inf_amd64_0109a19b5125cb43\nvldumdx.dll,C:\windows\System32\DriverStore\FileRepository\nv_desktop_ref4wu.inf_amd64_0109a19b5125cb43\nvldumdx.dll
+Driver File Version: 23.21.0013.8813 (English)
+     Driver Version: 23.21.13.8813
+        DDI Version: 12
+     Feature Levels: 11_0,10_1,10_0,9_3,9_2,9_1
+       Driver Model: WDDM 2.2
+Graphics Preemption: DMA
+ Compute Preemption: DMA
+           Miracast: Not Supported
+Hybrid Graphics GPU: Not Supported
+     Power P-states: Not Supported
+  Driver Attributes: Final Retail
+   Driver Date/Size: 27/10/2017 00:00:00, 945080 bytes
+        WHQL Logo'd: Yes
+    WHQL Date Stamp: Unknown
+  Device Identifier: {D7B71E3E-52C4-11CF-0351-3E301BC2DA35}
+          Vendor ID: 0x10DE
+          Device ID: 0x1184
+          SubSys ID: 0x103310DE
+        Revision ID: 0x00A1
+ Driver Strong Name: oem65.inf:0f066de38af44490:Section004:23.21.13.8813:pci\ven_10de&dev_1184&subsys_103310de
      Rank Of Driver: 00D10001
         Video Accel: ModeMPEG2_A ModeMPEG2_C ModeVC1_C ModeWMV9_C 
         DXVA2 Modes: DXVA2_ModeMPEG2_VLD  DXVA2_ModeMPEG2_IDCT  DXVA2_ModeVC1_D2010  DXVA2_ModeVC1_VLD  DXVA2_ModeVC1_IDCT  DXVA2_ModeWMV9_IDCT  DXVA2_ModeH264_VLD_Stereo_Progressive_NoFGT  DXVA2_ModeH264_VLD_Stereo_NoFGT  DXVA2_ModeH264_VLD_NoFGT  DXVA2_ModeHEVC_VLD_Main  DXVA2_ModeMPEG4pt2_VLD_Simple  DXVA2_ModeMPEG4pt2_VLD_AdvSimple_NoGMC  
@@ -187,6 +280,12 @@ Vendor/Product ID: n/a
 Vendor/Product ID: n/a
         FF Driver: n/a
 
+      Device Name: Controller (XBOX 360 For Windows)
+         Attached: 1
+    Controller ID: 0x0
+Vendor/Product ID: 0x045E, 0x028E
+        FF Driver: n/a
+
       Device Name: USB Multimedia Keyboard
          Attached: 1
     Controller ID: 0x0
@@ -227,14 +326,14 @@ USB Devices
 | | 
 | +-+ USB Composite Device
 | | | Vendor/Product ID: 0x04CA, 0x0027
-| | | Location: Port_#0004.Hub_#0005
+| | | Location: Port_#0003.Hub_#0005
 | | | Matching Device ID: USB\COMPOSITE
 | | | Service: usbccgp
 | | | Driver: usbccgp.sys, 9/30/2017 05:40:03, 173976 bytes
 | | | 
 | | +-+ USB Input Device
 | | | | Vendor/Product ID: 0x04CA, 0x0027
-| | | | Location: 0000.001d.0000.001.004.000.000.000.000
+| | | | Location: 0000.001d.0000.001.003.000.000.000.000
 | | | | Matching Device ID: USB\Class_03&SubClass_01
 | | | | Service: HidUsb
 | | | | Driver: hidusb.sys, 3/18/2017 20:56:35, 40960 bytes
@@ -250,7 +349,7 @@ USB Devices
 | | | 
 | +-+ USB Input Device
 | | | Vendor/Product ID: 0x0461, 0x4D65
-| | | Location: Port_#0003.Hub_#0005
+| | | Location: Port_#0004.Hub_#0005
 | | | Matching Device ID: USB\Class_03&SubClass_01
 | | | Service: HidUsb
 | | | Driver: hidusb.sys, 3/18/2017 20:56:35, 40960 bytes
@@ -815,192 +914,192 @@ Diagnostics
 
 Windows Error Reporting:
 +++ WER0 +++:
-Fault bucket , type 0
-Event Name: LiveKernelEvent
+Fault bucket 2103280967874593652, type 5
+Event Name: WindowsUpdateFailure3
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: 141
-P2: ffff9c8f413ab4a0
-P3: fffff804f3f36b2c
-P4: 0
-P5: 3de4
-P6: 10_0_15063
-P7: 0_0
-P8: 256_1
-P9: 
-P10: 
+P1: 10.0.15063.726
+P2: 80070643
+P3: CDD323C4-42AF-4A71-B250-D551CAB5495A
+P4: Install
+P5: 200
+P6: 0
+P7: 80509004
+P8: Windows Defender Antivirus (77BDAF73-B396-481F-9042-AD358843EC24)
+P9: {9482F4B4-E343-43B6-B170-9A65BC822C77}
+P10: 0
 
 
 +++ WER1 +++:
-Fault bucket , type 0
-Event Name: LiveKernelEvent
+Fault bucket 127930299139, type 5
+Event Name: MpTelemetry
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: 141
-P2: ffff9c8f413ab4a0
-P3: fffff804f3f36b2c
-P4: 0
-P5: 3de4
-P6: 10_0_15063
-P7: 0_0
-P8: 256_1
+P1: unspecified
+P2: HardeningTelemetry
+P3: HardeningTelemetryDisableAS
+P4: 4.11.15063.447
+P5: unspecified
+P6: unspecified
+P7: unspecified
+P8: 
 P9: 
 P10: 
 
 
 +++ WER2 +++:
-Fault bucket 116470396462, type 5
-Event Name: BEX64
+Fault bucket , type 0
+Event Name: WindowsUpdateFailure3
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: NVDisplay.Container.exe
-P2: 1.2.0.0
-P3: 59f35da7
-P4: nvxdsyncplugin.dll_unloaded
-P5: 8.17.13.8813
-P6: 59f35207
-P7: 000000000006513d
-P8: c0000005
-P9: 0000000000000008
-P10: 
+P1: 10.0.15063.726
+P2: 80070643
+P3: CDD323C4-42AF-4A71-B250-D551CAB5495A
+P4: Install
+P5: 200
+P6: 0
+P7: 80509004
+P8: Windows Defender Antivirus (77BDAF73-B396-481F-9042-AD358843EC24)
+P9: {9482F4B4-E343-43B6-B170-9A65BC822C77}
+P10: 0
 
 
 +++ WER3 +++:
-Fault bucket 116470396462, type 5
-Event Name: BEX64
+Fault bucket , type 0
+Event Name: WindowsUpdateFailure3
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: NVDisplay.Container.exe
-P2: 1.2.0.0
-P3: 59f35da7
-P4: nvxdsyncplugin.dll_unloaded
-P5: 8.17.13.8813
-P6: 59f35207
-P7: 000000000006513d
-P8: c0000005
-P9: 0000000000000008
-P10: 
+P1: 10.0.15063.726
+P2: 80070643
+P3: CDD323C4-42AF-4A71-B250-D551CAB5495A
+P4: Install
+P5: 200
+P6: 0
+P7: 80509004
+P8: Windows Defender Antivirus (77BDAF73-B396-481F-9042-AD358843EC24)
+P9: {9482F4B4-E343-43B6-B170-9A65BC822C77}
+P10: 0
 
 
 +++ WER4 +++:
-Fault bucket , type 0
-Event Name: BEX64
+Fault bucket 127930299099, type 5
+Event Name: MpTelemetry
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: NVDisplay.Container.exe
-P2: 1.2.0.0
-P3: 59f35da7
-P4: nvxdsyncplugin.dll_unloaded
-P5: 8.17.13.8813
-P6: 59f35207
-P7: 000000000006513d
-P8: c0000005
-P9: 0000000000000008
+P1: unspecified
+P2: HardeningTelemetry
+P3: HardeningTelemetryDisableAV
+P4: 4.11.15063.447
+P5: unspecified
+P6: unspecified
+P7: unspecified
+P8: 
+P9: 
 P10: 
 
 
 +++ WER5 +++:
-Fault bucket , type 0
-Event Name: BEX64
+Fault bucket 1395444934429564400, type 5
+Event Name: MpTelemetry
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: NVDisplay.Container.exe
-P2: 1.2.0.0
-P3: 59f35da7
-P4: nvxdsyncplugin.dll_unloaded
-P5: 8.17.13.8813
-P6: 59f35207
-P7: 000000000006513d
-P8: c0000005
-P9: 0000000000000008
+P1: 0x80509004
+P2: ValidateUpdate
+P3: N/A
+P4: 1.1.14406.0
+P5: mpsigstub.exe
+P6: 4.11.15063.447
+P7: Microsoft Windows Defender (RS1+)
+P8: 
+P9: 
 P10: 
 
 
 +++ WER6 +++:
 Fault bucket , type 0
-Event Name: LiveKernelEvent
+Event Name: MpTelemetry
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: 141
-P2: ffff9c8f522264a0
-P3: fffff804f3f36b2c
-P4: 0
-P5: 3004
-P6: 10_0_15063
-P7: 0_0
-P8: 256_1
+P1: unspecified
+P2: HardeningTelemetry
+P3: HardeningTelemetryDisableAS
+P4: 4.11.15063.447
+P5: unspecified
+P6: unspecified
+P7: unspecified
+P8: 
 P9: 
 P10: 
 
 
 +++ WER7 +++:
 Fault bucket , type 0
-Event Name: LiveKernelEvent
+Event Name: MpTelemetry
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: 141
-P2: ffff9c8f522264a0
-P3: fffff804f3f36b2c
-P4: 0
-P5: 3004
-P6: 10_0_15063
-P7: 0_0
-P8: 256_1
+P1: unspecified
+P2: HardeningTelemetry
+P3: HardeningTelemetryDisableAV
+P4: 4.11.15063.447
+P5: unspecified
+P6: unspecified
+P7: unspecified
+P8: 
 P9: 
 P10: 
 
 
 +++ WER8 +++:
-Fault bucket , type 0
-Event Name: LiveKernelEvent
+Fault bucket 108477669959, type 1
+Event Name: APPCRASH
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: 141
-P2: ffff9c8f46a3a3a0
-P3: fffff804f3f36b2c
-P4: 0
-P5: 8c0
-P6: 10_0_15063
-P7: 0_0
-P8: 256_1
+P1: colw32.exe
+P2: 11.4.3.11
+P3: 57b58c80
+P4: colw32.exe
+P5: 11.4.3.11
+P6: 57b58c80
+P7: c0000005
+P8: 00144353
 P9: 
 P10: 
 
 
 +++ WER9 +++:
-Fault bucket , type 0
-Event Name: LiveKernelEvent
+Fault bucket 116277855268, type 5
+Event Name: BEX
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: 141
-P2: ffff9c8f46a3a3a0
-P3: fffff804f3f36b2c
-P4: 0
-P5: 8c0
-P6: 10_0_15063
-P7: 0_0
-P8: 256_1
-P9: 
+P1: colw32.exe
+P2: 11.4.3.11
+P3: 57b58c80
+P4: colw32.exe
+P5: 11.4.3.11
+P6: 57b58c80
+P7: 00144353
+P8: c0000409
+P9: 00000015
 P10: 
 
 
