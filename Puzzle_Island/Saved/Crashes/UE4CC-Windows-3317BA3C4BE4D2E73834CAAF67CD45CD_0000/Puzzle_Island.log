@@ -1,0 +1,600 @@
+﻿Log file open, 12/06/17 16:47:19
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Puzzle_Island
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-486265998) SRandInit(-486265998).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.191624
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.12.06-16.47.21:152][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.06-16.47.21:152][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.12.06-16.47.21:163][  0]LogInit: Computer: JAKUBSIEWNIAK
+[2017.12.06-16.47.21:163][  0]LogInit: User: Jakub
+[2017.12.06-16.47.21:163][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.12.06-16.47.21:163][  0]LogInit: High frequency timer resolution =2.435765 MHz
+[2017.12.06-16.47.21:163][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2017.12.06-16.47.21:163][  0]LogMemory: Platform Memory Stats for Windows
+[2017.12.06-16.47.21:163][  0]LogMemory: Process Physical Memory: 282.48 MB used, 282.48 MB peak
+[2017.12.06-16.47.21:163][  0]LogMemory: Process Virtual Memory: 278.57 MB used, 278.57 MB peak
+[2017.12.06-16.47.21:163][  0]LogMemory: Physical Memory: 6768.63 MB used,  25915.79 MB free, 32684.42 MB total
+[2017.12.06-16.47.21:163][  0]LogMemory: Virtual Memory: 697.17 MB used,  25915.79 MB free, 134217728.00 MB total
+[2017.12.06-16.47.21:969][  0]LogInit: Using OS detected language (en-GB).
+[2017.12.06-16.47.21:969][  0]LogInit: Using OS detected locale (en-GB).
+[2017.12.06-16.47.21:974][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2017.12.06-16.47.23:067][  0]LogD3D11RHI: D3D11 adapters:
+[2017.12.06-16.47.23:137][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 880M' (Feature Level 11_0)
+[2017.12.06-16.47.23:137][  0]LogD3D11RHI:       8154/0/16342 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.12.06-16.47.23:144][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2017.12.06-16.47.23:144][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.12.06-16.47.23:147][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.12.06-16.47.23:147][  0]LogD3D11RHI:       0/0/16342 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.12.06-16.47.23:147][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.12.06-16.47.23:154][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.12.06-16.47.23:154][  0]LogD3D11RHI:     GPU DeviceId: 0x1198 (for the marketing name, search the web for "GPU Device Id")
+[2017.12.06-16.47.23:154][  0]LogWindows: EnumDisplayDevices:
+[2017.12.06-16.47.23:154][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2017.12.06-16.47.23:154][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2017.12.06-16.47.23:154][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2017.12.06-16.47.23:154][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.12.06-16.47.23:154][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 880M
+[2017.12.06-16.47.23:154][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.12.06-16.47.23:154][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.12.06-16.47.23:154][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.12.06-16.47.23:189][  0]LogD3D11RHI: Async texture creation enabled
+[2017.12.06-16.47.23:203][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.12.06-16.47.23:204][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Intermediate/Shaders/WorkingDirectory/10344/).
+[2017.12.06-16.47.23:204][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jakub/AppData/Local/Temp/UnrealShaderWorkingDir/3F33B46A4515E910E9CA2196EFC762A7/'.
+[2017.12.06-16.47.23:204][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.12.06-16.47.24:568][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.12.06-16.47.24:652][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.12.06-16.47.24:735][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.12.06-16.47.24:823][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.12.06-16.47.24:916][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.12.06-16.47.25:009][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.12.06-16.47.25:094][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.12.06-16.47.25:184][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.12.06-16.47.25:261][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.12.06-16.47.25:347][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.12.06-16.47.25:431][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.12.06-16.47.25:535][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.12.06-16.47.25:647][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.12.06-16.47.25:741][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.12.06-16.47.25:831][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.12.06-16.47.25:997][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.12.06-16.47.25:997][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.12.06-16.47.26:079][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.12.06-16.47.26:221][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.12.06-16.47.26:263][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.12.06-16.47.26:347][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.12.06-16.47.26:434][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.12.06-16.47.26:530][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.12.06-16.47.26:668][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.12.06-16.47.26:668][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.12.06-16.47.27:783][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.12.06-16.47.27:887][  0]LogDerivedDataCache: Loaded boot cache 0.10s 99MB C:/Users/Jakub/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.12.06-16.47.27:887][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jakub/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.12.06-16.47.27:887][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.12.06-16.47.27:887][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.12.06-16.47.27:887][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.12.06-16.47.27:887][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.12.06-16.47.27:907][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.12.06-16.47.27:921][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jakub/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.12.06-16.47.27:932][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.12.06-16.47.27:933][  0]LogSlate: Using Freetype 2.6.0
+[2017.12.06-16.47.27:933][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.06-16.47.27:933][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.06-16.47.28:348][  0]LogAssetRegistry: FAssetRegistry took 0.0274 seconds to start up
+[2017.12.06-16.47.28:552][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.06-16.47.28:801][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.12.06-16.47.29:821][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.12.06-16.47.29:982][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.12.06-16.47.29:982][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.12.06-16.47.29:982][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.12.06-16.47.29:982][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.12.06-16.47.29:982][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.12.06-16.47.30:730][  0]LogNetVersion: Puzzle_Island , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3939646741)
+[2017.12.06-16.47.31:317][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.117746 seconds
+[2017.12.06-16.47.31:330][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.12.06-16.47.31:330][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2017.12.06-16.47.31:330][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.12.06-16.47.31:521][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.12.06-16.47.37:815][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.12.06-16.47.37:907][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.12.06-16.47.40:120][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.12.06-16.47.41:282][  0]SourceControl: Source control is disabled
+[2017.12.06-16.47.41:283][  0]SourceControl: Source control is disabled
+[2017.12.06-16.47.41:445][  0]SourceControl: Source control is disabled
+[2017.12.06-16.47.41:602][  0]SourceControl: Source control is disabled
+[2017.12.06-16.47.43:510][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.12.06-16.47.44:370][  0]LogOcInput: OculusInput pre-init called
+[2017.12.06-16.47.45:079][  0]LogEngine: Initializing Engine...
+[2017.12.06-16.47.45:084][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.12.06-16.47.45:433][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.12.06-16.47.45:433][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.12.06-16.47.45:740][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.12.06-16.47.45:756][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.06-16.47.45:811][  0]LogInit: FAudioDevice initialized.
+[2017.12.06-16.47.45:937][  0]LogDerivedDataCache: Saved boot cache 0.12s 99MB C:/Users/Jakub/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.12.06-16.47.45:949][  0]LogInit: Texture streaming: Enabled
+[2017.12.06-16.47.46:201][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.12.06-16.47.46:841][  0]LogInit: Transaction tracking system initialized
+[2017.12.06-16.47.47:718][  0]BlueprintLog: New page: Editor Load
+[2017.12.06-16.47.50:046][  0]LocalizationService: Localization service is disabled
+[2017.12.06-16.47.51:719][  0]LogConsoleResponse: Display: 
+[2017.12.06-16.47.52:093][  0]LogAutoReimportManager: Warning: Unable to watch directory D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/ as it will conflict with another watching D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/.
+[2017.12.06-16.47.52:093][  0]LogAutoReimportManager: Warning: Unable to watch directory D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/ as it will conflict with another watching D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/.
+[2017.12.06-16.47.52:093][  0]LogAutoReimportManager: Warning: Unable to watch directory D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/ as it will conflict with another watching D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/.
+[2017.12.06-16.47.52:105][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.12.06-16.47.52:106][  0]LogCook: Display: Mobile HDR setting 1
+[2017.12.06-16.47.52:106][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.12.06-16.47.52:917][  0]LogFileCache: Scanning file cache for directory 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/' took 0.02s
+[2017.12.06-16.47.55:247][  0]SourceControl: Source control is disabled
+[2017.12.06-16.47.55:248][  0]Cmd: MAP LOAD FILE="D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Maps/Puzzle_Island.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.06-16.47.55:248][  0]LightingResults: New page: Lighting Build
+[2017.12.06-16.47.55:377][  0]MapCheck: New page: Map Check
+[2017.12.06-16.47.55:377][  0]LightingResults: New page: Lighting Build
+[2017.12.06-16.47.56:184][  0]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.12.06-16.47.56:392][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.06-16.47.56:526][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.06-16.47.56:687][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 160.389ms to complete.
+[2017.12.06-16.47.56:687][  0]LogFileHelpers: Loading map 'Puzzle_Island' took 1.439
+[2017.12.06-16.47.56:922][  0]LogCollectionManager: Loaded 0 collections in 0.003970 seconds
+[2017.12.06-16.47.57:083][  0]LogFileCache: Scanning file cache for directory 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Collections/' took 0.01s
+[2017.12.06-16.47.57:083][  0]LogFileCache: Scanning file cache for directory 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Developers/Jakub/Collections/' took 0.01s
+[2017.12.06-16.47.57:083][  0]LogFileCache: Scanning file cache for directory 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Collections/' took 0.01s
+[2017.12.06-16.47.57:083][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.12.06-16.47.57:100][  0]LogContentBrowser: Native class hierarchy populated in 0.0160 seconds. Added 2388 classes and 502 folders.
+[2017.12.06-16.47.57:226][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0035 seconds. Added 0 classes and 0 folders.
+[2017.12.06-16.47.57:347][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0035 seconds. Added 0 classes and 0 folders.
+[2017.12.06-16.47.57:437][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0035 seconds. Added 1 classes and 2 folders.
+[2017.12.06-16.47.57:557][  0]LogSlate: Took 0.000956 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.06-16.47.57:561][  0]LogSlate: Took 0.000487 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.12.06-16.47.57:570][  0]LogSlate: Took 0.000369 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.12.06-16.47.57:751][  0]LogRenderer: Reallocating scene render targets to support 1240x604 Format 10 NumSamples 1 (Frame:1).
+[2017.12.06-16.47.57:993][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0026 seconds. Added 1 classes and 2 folders.
+[2017.12.06-16.47.57:994][  0]LogLoad: (Engine Initialization) Total time: 40.43 seconds
+[2017.12.06-16.47.57:994][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.12.06-16.47.57:994][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.12.06-16.47.57:994][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.12.06-16.47.58:004][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.06-16.47.58:038][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.12.06-16.47.58:150][  0]LogSlate: Took 0.000472 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.06-16.47.58:165][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/' took 0.15s
+[2017.12.06-16.47.58:227][  2]LogAssetRegistry: Asset discovery search completed in 29.9014 seconds
+[2017.12.06-16.47.58:231][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.12.06-16.47.58:231][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000111 seconds (updated 0 objects)
+[2017.12.06-16.48.37:819][126]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.06-16.48.38:375][160]LogEditorViewport: Clicking on Actor (LMB): NPC_BP_C (NPC_BP2)
+[2017.12.06-16.48.42:520][492]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.06-16.48.43:039][533]LogEditorViewport: Clicking on Actor (LMB): NPC_BP_C (NPC_BP)
+[2017.12.06-16.48.48:763][ 25]LogSlate: Took 0.000456 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.12.06-16.49.27:498][945]LogSlate: Took 0.000301 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.06-16.49.28:064][945]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0032 seconds. Added 113 classes and 0 folders.
+[2017.12.06-16.49.28:960][945]LogSlate: Took 0.000287 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.06-16.49.29:089][945]LogSlate: Took 0.000492 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.12.06-16.49.41:307][453]BlueprintLog: New page: Collapse to Macro
+[2017.12.06-16.50.12:005][883]LogEditorTransaction: Undo Add Node
+[2017.12.06-16.50.12:047][883]LogSlate: Took 0.000358 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.06-16.51.22:270][521]LogEditorTransaction: Undo Add Variable
+[2017.12.06-16.51.33:674][ 82]LogTemp: Dropped Lvl_Name_Jigsaw_01 on Category Level Name
+[2017.12.06-16.51.35:570][173]LogTemp: Dropped Lvl_Name_Jigsaw_02 on Category Level Name
+[2017.12.06-16.51.37:226][247]LogTemp: Dropped Lvl_Name_Jigsaw_03 on Category Level Name
+[2017.12.06-16.51.56:956][298]LogEditorTransaction: Undo Rename Category
+[2017.12.06-16.52.04:295][647]LogTemp: Dropped JigsawPuzzle_Wid on Category Widgets
+[2017.12.06-16.52.05:725][710]LogTemp: Dropped JigsawPuzzle02_Wid on Category Widgets
+[2017.12.06-16.52.07:298][782]LogTemp: Dropped JigsawPuzzleWidget3 on Category Widgets
+[2017.12.06-17.00.58:108][998]LogEditorTransaction: Undo Add Variable
+[2017.12.06-17.01.16:171][992]LogTemp: Dropped Ability01_Sprint_Learned on Category Player Var
+[2017.12.06-17.01.45:617][619]BlueprintLog: New page: Compile Puzzle_Island_Instance_BP
+[2017.12.06-17.01.55:382][881]LogSavePackage: Save=1081.46ms
+[2017.12.06-17.01.55:382][881]LogSavePackage: Moving 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Puzzle_Island4CCE599E441BF9ACD04C47B4F54F12BE.tmp' to 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Maps/Puzzle_Island.umap'
+[2017.12.06-17.01.55:392][881]LogSavePackage: Display: Finished SavePackage D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Maps/Puzzle_Island.umap
+[2017.12.06-17.01.55:528][881]LogFileHelpers: Saving map 'Puzzle_Island' took 1.490
+[2017.12.06-17.01.55:571][881]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ThirdPersonCharacter" FILE="D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2017.12.06-17.01.55:921][881]LogSavePackage: Save=337.51ms
+[2017.12.06-17.01.55:921][881]LogSavePackage: Moving 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/ThirdPersonCharacterE63E18BF44BD61958670F5A74E194E45.tmp' to 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Blueprints/ThirdPersonCharacter.uasset'
+[2017.12.06-17.01.55:929][881]LogSavePackage: Display: Finished SavePackage D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Blueprints/ThirdPersonCharacter.uasset
+[2017.12.06-17.01.55:956][881]LogSavePackage: Save=11.77ms
+[2017.12.06-17.01.55:957][881]LogSavePackage: Moving 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Puzzle_Island_Instance_BP5848E01B4DEFE35F0BA9F183DDD8662F.tmp' to 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Blueprints/Puzzle_Island_Instance_BP.uasset'
+[2017.12.06-17.01.55:967][881]LogSavePackage: Display: Finished SavePackage D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Blueprints/Puzzle_Island_Instance_BP.uasset
+[2017.12.06-17.06.48:614][126]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.12.06-17.06.54:323][358]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.06-17.06.54:437][358]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.12.06-17.06.54:437][358]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-17.06.54:438][358]PIE: New page: PIE session: Puzzle_Island (6 Dec 2017 17:06:54)
+[2017.12.06-17.06.54:440][358]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.12.06-17.06.54:483][358]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042142s)
+[2017.12.06-17.06.54:484][358]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.12.06-17.06.54:484][358]LogPlayLevel: PIE: World Init took: (0.001191s)
+[2017.12.06-17.06.54:485][358]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.043741s)
+[2017.12.06-17.06.54:518][358]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.06-17.06.54:549][358]LogInit: FAudioDevice initialized.
+[2017.12.06-17.06.54:670][358]LogLoad: Game class is '3D_Exploration_GameMode_C'
+[2017.12.06-17.06.54:683][358]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.12.06-17.06.54
+[2017.12.06-17.06.54:685][358]LogWorld: Bringing up level for play took: 0.013094
+[2017.12.06-17.06.54:762][358]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0027 seconds. Added 11 classes and 0 folders.
+[2017.12.06-17.06.54:766][358]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island -0.561
+[2017.12.06-17.06.54:766][358]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.12.06-17.07.01:835][952]LogScript: Warning: Accessed None trying to read property GameInstance
+	ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:0CB0
+[2017.12.06-17.07.01:835][952]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property GameInstance from function: 'ExecuteUbergraph_ThirdPersonCharacter' from node: Branch in graph: EventGraph in object: ThirdPersonCharacter with description: Accessed None trying to read property GameInstance
+[2017.12.06-17.07.03:063][ 64]LogScript: Warning: Accessed None trying to read property GameInstance
+	ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:0CB0
+[2017.12.06-17.07.03:063][ 64]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property GameInstance from function: 'ExecuteUbergraph_ThirdPersonCharacter' from node: Branch in graph: EventGraph in object: ThirdPersonCharacter with description: Accessed None trying to read property GameInstance
+[2017.12.06-17.07.03:713][125]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.12.06-17.07.03:766][125]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.12.06-17.07.32:488][471]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.12.06-17.07.36:233][555]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.06-17.07.36:327][555]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.12.06-17.07.36:327][555]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-17.07.36:328][555]PIE: New page: PIE session: Puzzle_Island (6 Dec 2017 17:07:36)
+[2017.12.06-17.07.36:329][555]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.12.06-17.07.36:396][555]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066172s)
+[2017.12.06-17.07.36:396][555]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.12.06-17.07.36:397][555]LogPlayLevel: PIE: World Init took: (0.000927s)
+[2017.12.06-17.07.36:397][555]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.067610s)
+[2017.12.06-17.07.36:436][555]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.06-17.07.36:479][555]LogInit: FAudioDevice initialized.
+[2017.12.06-17.07.36:514][555]LogLoad: Game class is '3D_Exploration_GameMode_C'
+[2017.12.06-17.07.36:524][555]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.12.06-17.07.36
+[2017.12.06-17.07.36:526][555]LogWorld: Bringing up level for play took: 0.010529
+[2017.12.06-17.07.36:531][555]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 1.205
+[2017.12.06-17.07.36:532][555]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.12.06-17.07.36:965][580]LogScript: Warning: Accessed None trying to read property GameInstance
+	ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:0311
+[2017.12.06-17.07.36:965][580]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property GameInstance from function: 'ExecuteUbergraph_ThirdPersonCharacter' from node: Branch in graph: EventGraph in object: ThirdPersonCharacter with description: Accessed None trying to read property GameInstance
+[2017.12.06-17.07.39:478][804]LogScript: Warning: Accessed None trying to read property GameInstance
+	ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:0311
+[2017.12.06-17.07.39:478][804]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property GameInstance from function: 'ExecuteUbergraph_ThirdPersonCharacter' from node: Branch in graph: EventGraph in object: ThirdPersonCharacter with description: Accessed None trying to read property GameInstance
+[2017.12.06-17.07.41:482][988]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.12.06-17.07.41:531][988]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.12.06-17.07.59:073][814]LogEditorTransaction: Undo Create Pin Link
+[2017.12.06-17.10.07:164][ 48]LogTemp: Dropped Ability01_Sprint_Selected on Category Player Abilities
+[2017.12.06-17.10.09:197][162]BlueprintLog: New page: Compile Puzzle_Island_Instance_BP
+[2017.12.06-17.12.10:681][174]BlueprintLog: New page: Compile Puzzle_Island_Instance_BP
+[2017.12.06-17.13.08:170][903]LogEditorTransaction: Undo Move Nodes
+[2017.12.06-17.13.09:146][938]LogEditorTransaction: Undo Paste clipboard contents
+[2017.12.06-17.14.57:032][643]LogSlate: Took 0.000412 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2017.12.06-17.18.37:166][258]LogSavePackage: Save=1119.67ms
+[2017.12.06-17.18.37:167][258]LogSavePackage: Moving 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Puzzle_Island_Auto16EC1A36541E94198118EA390093A2551.tmp' to 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Autosaves/Game/Maps/Puzzle_Island_Auto1.umap'
+[2017.12.06-17.18.37:175][258]LogSavePackage: Display: Finished SavePackage D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Autosaves/Game/Maps/Puzzle_Island_Auto1.umap
+[2017.12.06-17.18.37:184][258]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Puzzle_Island' took 1.231
+[2017.12.06-17.18.37:184][258]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.231
+[2017.12.06-17.18.37:193][258]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2017.12.06-17.18.37:232][258]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2017.12.06-17.18.37:232][258]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/ThirdPersonCharacter]
+[2017.12.06-17.18.37:576][258]LogSavePackage: Save=328.61ms
+[2017.12.06-17.18.37:577][258]LogSavePackage: Moving 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/ThirdPersonCharacter_Auto1EC98B8E74EB5A0BBEB3EFB95DCB1B119.tmp' to 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Autosaves/Game/Blueprints/ThirdPersonCharacter_Auto1.uasset'
+[2017.12.06-17.18.37:584][258]LogSavePackage: Display: Finished SavePackage D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Autosaves/Game/Blueprints/ThirdPersonCharacter_Auto1.uasset
+[2017.12.06-17.18.37:586][258]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Puzzle_Island_Instance_BP] ([1] browsable assets)...
+[2017.12.06-17.18.37:586][258]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Puzzle_Island_Instance_BP]
+[2017.12.06-17.18.37:609][258]LogSavePackage: Save=10.43ms
+[2017.12.06-17.18.37:609][258]LogSavePackage: Moving 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Puzzle_Island_Instance_BP_Auto1DDFCEFFF442997BB8DB7FB9725ABE215.tmp' to 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Autosaves/Game/Blueprints/Puzzle_Island_Instance_BP_Auto1.uasset'
+[2017.12.06-17.18.37:614][258]LogSavePackage: Display: Finished SavePackage D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Autosaves/Game/Blueprints/Puzzle_Island_Instance_BP_Auto1.uasset
+[2017.12.06-17.18.37:614][258]LogFileHelpers: Auto-saving content packages took 0.425
+[2017.12.06-17.21.58:386][161]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.12.06-17.22.08:609][623]BlueprintLog: New page: Compile Puzzle_Island_Instance_BP
+[2017.12.06-17.22.12:024][704]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.06-17.22.12:076][704]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.12.06-17.22.12:076][704]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-17.22.12:076][704]PIE: New page: PIE session: Puzzle_Island (6 Dec 2017 17:22:12)
+[2017.12.06-17.22.12:078][704]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.12.06-17.22.12:119][704]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039865s)
+[2017.12.06-17.22.12:120][704]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.12.06-17.22.12:120][704]LogPlayLevel: PIE: World Init took: (0.001106s)
+[2017.12.06-17.22.12:120][704]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.041346s)
+[2017.12.06-17.22.12:157][704]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.06-17.22.12:189][704]LogInit: FAudioDevice initialized.
+[2017.12.06-17.22.12:224][704]LogLoad: Game class is '3D_Exploration_GameMode_C'
+[2017.12.06-17.22.12:231][704]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.12.06-17.22.12
+[2017.12.06-17.22.12:232][704]LogWorld: Bringing up level for play took: 0.008088
+[2017.12.06-17.22.12:236][704]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 0.91
+[2017.12.06-17.22.12:237][704]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.12.06-17.22.13:519][818]LogScript: Warning: Accessed None trying to read property GameInstance
+	ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:086B
+[2017.12.06-17.22.13:519][818]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property GameInstance from function: 'ExecuteUbergraph_ThirdPersonCharacter' from node: Branch in graph: EventGraph in object: ThirdPersonCharacter with description: Accessed None trying to read property GameInstance
+[2017.12.06-17.22.15:708][ 21]LogScript: Warning: Accessed None trying to read property GameInstance
+	ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:086B
+[2017.12.06-17.22.15:708][ 21]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property GameInstance from function: 'ExecuteUbergraph_ThirdPersonCharacter' from node: Branch in graph: EventGraph in object: ThirdPersonCharacter with description: Accessed None trying to read property GameInstance
+[2017.12.06-17.22.16:651][106]LogScript: Warning: Accessed None trying to read property GameInstance
+	ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:086B
+[2017.12.06-17.22.16:651][106]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property GameInstance from function: 'ExecuteUbergraph_ThirdPersonCharacter' from node: Branch in graph: EventGraph in object: ThirdPersonCharacter with description: Accessed None trying to read property GameInstance
+[2017.12.06-17.22.17:362][175]LogScript: Warning: Accessed None trying to read property GameInstance
+	ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:086B
+[2017.12.06-17.22.17:362][175]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property GameInstance from function: 'ExecuteUbergraph_ThirdPersonCharacter' from node: Branch in graph: EventGraph in object: ThirdPersonCharacter with description: Accessed None trying to read property GameInstance
+[2017.12.06-17.22.17:958][232]LogScript: Warning: Accessed None trying to read property GameInstance
+	ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:086B
+[2017.12.06-17.22.17:958][232]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property GameInstance from function: 'ExecuteUbergraph_ThirdPersonCharacter' from node: Branch in graph: EventGraph in object: ThirdPersonCharacter with description: Accessed None trying to read property GameInstance
+[2017.12.06-17.22.18:263][261]LogScript: Warning: Accessed None trying to read property GameInstance
+	ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:086B
+[2017.12.06-17.22.18:263][261]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property GameInstance from function: 'ExecuteUbergraph_ThirdPersonCharacter' from node: Branch in graph: EventGraph in object: ThirdPersonCharacter with description: Accessed None trying to read property GameInstance
+[2017.12.06-17.22.18:491][280]LogScript: Warning: Accessed None trying to read property GameInstance
+	ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:086B
+[2017.12.06-17.22.18:492][280]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property GameInstance from function: 'ExecuteUbergraph_ThirdPersonCharacter' from node: Branch in graph: EventGraph in object: ThirdPersonCharacter with description: Accessed None trying to read property GameInstance
+[2017.12.06-17.22.18:752][304]LogScript: Warning: Accessed None trying to read property GameInstance
+	ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:086B
+[2017.12.06-17.22.18:752][304]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property GameInstance from function: 'ExecuteUbergraph_ThirdPersonCharacter' from node: Branch in graph: EventGraph in object: ThirdPersonCharacter with description: Accessed None trying to read property GameInstance
+[2017.12.06-17.22.19:026][331]LogScript: Warning: Accessed None trying to read property GameInstance
+	ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:086B
+[2017.12.06-17.22.19:026][331]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property GameInstance from function: 'ExecuteUbergraph_ThirdPersonCharacter' from node: Branch in graph: EventGraph in object: ThirdPersonCharacter with description: Accessed None trying to read property GameInstance
+[2017.12.06-17.22.19:272][354]LogScript: Warning: Accessed None trying to read property GameInstance
+	ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:086B
+[2017.12.06-17.22.19:272][354]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property GameInstance from function: 'ExecuteUbergraph_ThirdPersonCharacter' from node: Branch in graph: EventGraph in object: ThirdPersonCharacter with description: Accessed None trying to read property GameInstance
+[2017.12.06-17.22.20:288][449]LogScript: Warning: Accessed None trying to read property GameInstance
+	ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:0D29
+[2017.12.06-17.22.20:289][449]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property GameInstance from function: 'ExecuteUbergraph_ThirdPersonCharacter' from node: Branch in graph: EventGraph in object: ThirdPersonCharacter with description: Accessed None trying to read property GameInstance
+[2017.12.06-17.22.31:127][ 48]LogScript: Warning: Accessed None trying to read property GameInstance
+	ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:086B
+[2017.12.06-17.22.31:127][ 48]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property GameInstance from function: 'ExecuteUbergraph_ThirdPersonCharacter' from node: Branch in graph: EventGraph in object: ThirdPersonCharacter with description: Accessed None trying to read property GameInstance
+[2017.12.06-17.22.35:508][278]LogScript: Warning: Accessed None trying to read property GameInstance
+	ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:086B
+[2017.12.06-17.22.35:508][278]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property GameInstance from function: 'ExecuteUbergraph_ThirdPersonCharacter' from node: Branch in graph: EventGraph in object: ThirdPersonCharacter with description: Accessed None trying to read property GameInstance
+[2017.12.06-17.22.38:224][418]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.12.06-17.22.38:302][418]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.12.06-17.23.06:754][725]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.12.06-17.23.09:999][807]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.06-17.23.10:063][807]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.12.06-17.23.10:063][807]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-17.23.10:063][807]PIE: New page: PIE session: Puzzle_Island (6 Dec 2017 17:23:10)
+[2017.12.06-17.23.10:065][807]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.12.06-17.23.10:114][807]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049186s)
+[2017.12.06-17.23.10:115][807]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.12.06-17.23.10:115][807]LogPlayLevel: PIE: World Init took: (0.000856s)
+[2017.12.06-17.23.10:115][807]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.050462s)
+[2017.12.06-17.23.10:147][807]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.06-17.23.10:178][807]LogInit: FAudioDevice initialized.
+[2017.12.06-17.23.10:211][807]LogLoad: Game class is '3D_Exploration_GameMode_C'
+[2017.12.06-17.23.10:220][807]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.12.06-17.23.10
+[2017.12.06-17.23.10:221][807]LogWorld: Bringing up level for play took: 0.009019
+[2017.12.06-17.23.10:225][807]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 0.899
+[2017.12.06-17.23.10:226][807]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.12.06-17.23.17:855][495]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.12.06-17.23.17:899][495]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.12.06-17.23.30:326][ 63]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.12.06-17.23.33:350][138]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.06-17.23.33:417][138]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.12.06-17.23.33:417][138]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-17.23.33:417][138]PIE: New page: PIE session: Puzzle_Island (6 Dec 2017 17:23:33)
+[2017.12.06-17.23.33:418][138]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.12.06-17.23.33:469][138]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050694s)
+[2017.12.06-17.23.33:470][138]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.12.06-17.23.33:470][138]LogPlayLevel: PIE: World Init took: (0.001018s)
+[2017.12.06-17.23.33:470][138]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.052217s)
+[2017.12.06-17.23.33:507][138]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.06-17.23.33:539][138]LogInit: FAudioDevice initialized.
+[2017.12.06-17.23.33:574][138]LogLoad: Game class is '3D_Exploration_GameMode_C'
+[2017.12.06-17.23.33:584][138]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.12.06-17.23.33
+[2017.12.06-17.23.33:585][138]LogWorld: Bringing up level for play took: 0.009594
+[2017.12.06-17.23.33:589][138]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 0.262
+[2017.12.06-17.23.33:589][138]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.12.06-17.23.54:724][934]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.12.06-17.23.54:770][934]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.12.06-17.24.01:964][280]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.12.06-17.24.03:514][280]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.12.06-17.24.09:135][427]LogSavePackage: Save=1175.91ms
+[2017.12.06-17.24.09:135][427]LogSavePackage: Moving 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Puzzle_Island9E89F6604798046CA193EE962E293F9C.tmp' to 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Maps/Puzzle_Island.umap'
+[2017.12.06-17.24.09:147][427]LogSavePackage: Display: Finished SavePackage D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Maps/Puzzle_Island.umap
+[2017.12.06-17.24.09:289][427]LogFileHelpers: Saving map 'Puzzle_Island' took 1.554
+[2017.12.06-17.24.09:332][427]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ThirdPersonCharacter" FILE="D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2017.12.06-17.24.09:690][427]LogSavePackage: Save=341.64ms
+[2017.12.06-17.24.09:690][427]LogSavePackage: Moving 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/ThirdPersonCharacter7D47E22C4F0C309F6D8B1DB3E56B8B03.tmp' to 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Blueprints/ThirdPersonCharacter.uasset'
+[2017.12.06-17.24.09:701][427]LogSavePackage: Display: Finished SavePackage D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Blueprints/ThirdPersonCharacter.uasset
+[2017.12.06-17.24.09:732][427]LogSavePackage: Save=12.31ms
+[2017.12.06-17.24.09:732][427]LogSavePackage: Moving 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Saved/Puzzle_Island_Instance_BP4AFB37934836A489C8B5DDBDCBDAE69B.tmp' to 'D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Blueprints/Puzzle_Island_Instance_BP.uasset'
+[2017.12.06-17.24.09:739][427]LogSavePackage: Display: Finished SavePackage D:/Education/Uniwersytet/Year3/VGD/Puzzle-Island-VGD/Puzzle_Island/Content/Blueprints/Puzzle_Island_Instance_BP.uasset
+[2017.12.06-17.24.10:562][473]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.06-17.24.10:639][473]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.12.06-17.24.10:639][473]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-17.24.10:639][473]PIE: New page: PIE session: Puzzle_Island (6 Dec 2017 17:24:10)
+[2017.12.06-17.24.10:642][473]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.12.06-17.24.10:694][473]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052445s)
+[2017.12.06-17.24.10:695][473]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.12.06-17.24.10:695][473]LogPlayLevel: PIE: World Init took: (0.001035s)
+[2017.12.06-17.24.10:696][473]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.053989s)
+[2017.12.06-17.24.10:743][473]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.06-17.24.10:781][473]LogInit: FAudioDevice initialized.
+[2017.12.06-17.24.10:819][473]LogLoad: Game class is '3D_Exploration_GameMode_C'
+[2017.12.06-17.24.10:831][473]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.12.06-17.24.10
+[2017.12.06-17.24.10:832][473]LogWorld: Bringing up level for play took: 0.012785
+[2017.12.06-17.24.10:837][473]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island -0.489
+[2017.12.06-17.24.10:838][473]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.12.06-17.24.23:677][566]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.12.06-17.24.23:726][566]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.12.06-17.24.44:172][460]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.06-17.24.44:246][460]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.12.06-17.24.44:246][460]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-17.24.44:246][460]PIE: New page: PIE session: Puzzle_Island (6 Dec 2017 17:24:44)
+[2017.12.06-17.24.44:247][460]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.12.06-17.24.44:297][460]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049788s)
+[2017.12.06-17.24.44:298][460]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.12.06-17.24.44:298][460]LogPlayLevel: PIE: World Init took: (0.000852s)
+[2017.12.06-17.24.44:298][460]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.051025s)
+[2017.12.06-17.24.44:329][460]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.06-17.24.44:356][460]LogInit: FAudioDevice initialized.
+[2017.12.06-17.24.44:393][460]LogLoad: Game class is '3D_Exploration_GameMode_C'
+[2017.12.06-17.24.44:400][460]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.12.06-17.24.44
+[2017.12.06-17.24.44:401][460]LogWorld: Bringing up level for play took: 0.007488
+[2017.12.06-17.24.44:405][460]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 1.078
+[2017.12.06-17.24.44:405][460]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.12.06-17.24.52:278][862]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.12.06-17.24.52:326][862]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.12.06-17.25.20:967][195]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.12.06-17.25.30:032][533]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.12.06-17.25.59:498][799]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.12.06-17.26.37:079][616]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.06-17.26.37:149][616]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.12.06-17.26.37:150][616]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.06-17.26.37:150][616]PIE: New page: PIE session: Puzzle_Island (6 Dec 2017 17:26:37)
+[2017.12.06-17.26.37:151][616]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.12.06-17.26.37:198][616]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045984s)
+[2017.12.06-17.26.37:198][616]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.12.06-17.26.37:199][616]LogPlayLevel: PIE: World Init took: (0.000886s)
+[2017.12.06-17.26.37:199][616]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.047279s)
+[2017.12.06-17.26.37:239][616]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.06-17.26.37:277][616]LogInit: FAudioDevice initialized.
+[2017.12.06-17.26.37:312][616]LogLoad: Game class is '3D_Exploration_GameMode_C'
+[2017.12.06-17.26.37:321][616]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.12.06-17.26.37
+[2017.12.06-17.26.37:322][616]LogWorld: Bringing up level for play took: 0.008960
+[2017.12.06-17.26.37:326][616]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island -0.001
+[2017.12.06-17.26.37:326][616]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.12.06-17.26.43:798][185]LogNet: Browse: /Game/Maps/Jigsaw_03
+[2017.12.06-17.26.43:799][185]LogLoad: LoadMap: /Game/Maps/Jigsaw_03
+[2017.12.06-17.26.43:833][185]Cmd: MEM
+[2017.12.06-17.26.43:867][185]LogMemory: Platform Memory Stats for Windows
+[2017.12.06-17.26.43:867][185]LogMemory: Process Physical Memory: 2027.31 MB used, 2031.55 MB peak
+[2017.12.06-17.26.43:868][185]LogMemory: Process Virtual Memory: 3057.67 MB used, 3145.00 MB peak
+[2017.12.06-17.26.43:868][185]LogMemory: Physical Memory: 8925.79 MB used,  23758.63 MB free, 32684.42 MB total
+[2017.12.06-17.26.43:868][185]LogMemory: Virtual Memory: 3944.81 MB used,  23758.63 MB free, 134217728.00 MB total
+[2017.12.06-17.26.43:868][185]LogMemory: 
+[2017.12.06-17.26.43:868][185]Allocator Stats for TBB: (not implemented)
+[2017.12.06-17.26.44:567][185]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.453 s
+[2017.12.06-17.26.44:567][185]LogOutputDevice: Error: === Handled ensure: ===
+[2017.12.06-17.26.44:567][185]LogOutputDevice: Error: 
+[2017.12.06-17.26.44:567][185]LogOutputDevice: Error: Ensure condition failed: IsObjectValidForDatabase(AssetObject) [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Editor\BlueprintGraph\Private\BlueprintActionDatabase.cpp] [Line: 1315]
+[2017.12.06-17.26.44:567][185]LogOutputDevice: Error: 
+[2017.12.06-17.26.44:567][185]LogOutputDevice: Error: Stack: 
+[2017.12.06-17.26.44:567][185]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000FB9A3E36
+[2017.12.06-17.26.44:567][185]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000FB72C2D2
+[2017.12.06-17.26.44:567][185]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000FB744746
+[2017.12.06-17.26.44:567][185]LogOutputDevice: Error: UE4Editor-BlueprintGraph.dll!0x00000000F37FD5D9
+[2017.12.06-17.26.44:567][185]LogOutputDevice: Error: UE4Editor-BlueprintGraph.dll!0x00000000F37CC90D
+[2017.12.06-17.26.44:567][185]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x00000000FE9E0F67
+[2017.12.06-17.26.44:567][185]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x00000000FECEB666
+[2017.12.06-17.26.44:567][185]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x00000000FED01766
+[2017.12.06-17.26.44:567][185]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x00000000FED00CB2
+[2017.12.06-17.26.44:567][185]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000F815E10B
+[2017.12.06-17.26.44:567][185]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000F8116AE8
+[2017.12.06-17.26.44:567][185]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000F817D89D
+[2017.12.06-17.26.44:567][185]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000F5ACBF80
+[2017.12.06-17.26.44:567][185]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000F635D646
+[2017.12.06-17.26.44:567][185]LogOutputDevice: Error: UE4Editor.exe!0x00000000C2D2534A
+[2017.12.06-17.26.44:567][185]LogOutputDevice: Error: UE4Editor.exe!0x00000000C2D33970
+[2017.12.06-17.26.44:567][185]LogOutputDevice: Error: UE4Editor.exe!0x00000000C2D339EA
+[2017.12.06-17.26.44:567][185]LogOutputDevice: Error: UE4Editor.exe!0x00000000C2D402D9
+[2017.12.06-17.26.44:567][185]LogOutputDevice: Error: UE4Editor.exe!0x00000000C2D41C47
+[2017.12.06-17.26.44:567][185]LogOutputDevice: Error: KERNEL32.DLL!0x0000000038E51FE4
+[2017.12.06-17.26.44:567][185]LogOutputDevice: Error: ntdll.dll!0x000000003A6AEF91
+[2017.12.06-17.26.44:567][185]LogOutputDevice: Error: 
+[2017.12.06-17.26.44:568][185]LogStats:                SubmitErrorReport -  0.000 s
