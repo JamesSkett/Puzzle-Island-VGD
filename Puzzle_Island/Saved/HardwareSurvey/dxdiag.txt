@@ -1,9 +1,15 @@
 ------------------
 System Information
 ------------------
+<<<<<<< HEAD
       Time of this report: 12/8/2017, 12:18:38
              Machine name: W65175
                Machine Id: {3A9C8BEC-7477-4E2B-B5F2-EC790E6603E5}
+=======
+      Time of this report: 12/8/2017, 12:19:55
+             Machine name: W65173
+               Machine Id: {CE817ACE-274C-4A7E-B67F-41CF2974621E}
+>>>>>>> JamesBranch
          Operating System: Windows 10 Education 64-bit (10.0, Build 15063) (15063.rs2_release.170317-1834)
                  Language: English (Regional Setting: English)
       System Manufacturer: Alienware
@@ -12,7 +18,11 @@ System Information
                 Processor: Intel(R) Core(TM) i7-4820K CPU @ 3.70GHz (8 CPUs), ~3.7GHz
                    Memory: 16384MB RAM
       Available OS Memory: 16302MB RAM
+<<<<<<< HEAD
                 Page File: 7334MB used, 11399MB available
+=======
+                Page File: 9804MB used, 8929MB available
+>>>>>>> JamesBranch
               Windows Dir: C:\windows
           DirectX Version: DirectX 12
       DX Setup Parameters: Not found
@@ -60,10 +70,17 @@ Driver Problem Code: Unknown
       Shared Memory: 8151 MB
        Current Mode: 1920 x 1200 (32 bit) (59Hz)
        Monitor Name: Generic PnP Monitor
+<<<<<<< HEAD
       Monitor Model: DELL U2412M
          Monitor Id: DELA07B
         Native Mode: 1920 x 1200(p) (59.950Hz)
         Output Type: Displayport External
+=======
+      Monitor Model: HP LP2465
+         Monitor Id: HWP2676
+        Native Mode: 1920 x 1200(p) (59.950Hz)
+        Output Type: DVI
+>>>>>>> JamesBranch
         Driver Name: C:\windows\System32\DriverStore\FileRepository\nv_desktop_ref4wu.inf_amd64_0109a19b5125cb43\nvldumdx.dll,C:\windows\System32\DriverStore\FileRepository\nv_desktop_ref4wu.inf_amd64_0109a19b5125cb43\nvldumdx.dll,C:\windows\System32\DriverStore\FileRepository\nv_desktop_ref4wu.inf_amd64_0109a19b5125cb43\nvldumdx.dll,C:\windows\System32\DriverStore\FileRepository\nv_desktop_ref4wu.inf_amd64_0109a19b5125cb43\nvldumdx.dll
 Driver File Version: 23.21.0013.8813 (English)
      Driver Version: 23.21.13.8813
@@ -914,6 +931,7 @@ Diagnostics
 
 Windows Error Reporting:
 +++ WER0 +++:
+<<<<<<< HEAD
 Fault bucket 85952069954, type 4
 Event Name: APPCRASH
 Response: Not available
@@ -992,10 +1010,15 @@ P10:
 +++ WER4 +++:
 Fault bucket 128071868041, type 5
 Event Name: WindowsUpdateFailure3
+=======
+Fault bucket 1244566142381013991, type 1
+Event Name: APPCRASH
+>>>>>>> JamesBranch
 Response: Not available
 Cab Id: 0
 
 Problem signature:
+<<<<<<< HEAD
 P1: 10.0.15063.674
 P2: 8024000b
 P3: 159C14A8-FC33-4B62-869E-0CC576F44DBE
@@ -1009,6 +1032,40 @@ P10: 0
 
 
 +++ WER5 +++:
+=======
+P1: colw32.exe
+P2: 11.4.3.11
+P3: 57b58c80
+P4: RPCRT4.dll
+P5: 10.0.15063.674
+P6: d343d532
+P7: c0000005
+P8: 00076d8d
+P9: 
+P10: 
+
+
++++ WER1 +++:
+Fault bucket , type 0
+Event Name: APPCRASH
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: colw32.exe
+P2: 11.4.3.11
+P3: 57b58c80
+P4: RPCRT4.dll
+P5: 10.0.15063.674
+P6: d343d532
+P7: c0000005
+P8: 00076d8d
+P9: 
+P10: 
+
+
++++ WER2 +++:
+>>>>>>> JamesBranch
 Fault bucket 127930299139, type 5
 Event Name: MpTelemetry
 Response: Not available
@@ -1027,6 +1084,7 @@ P9:
 P10: 
 
 
+<<<<<<< HEAD
 +++ WER6 +++:
 Fault bucket , type 0
 Event Name: WindowsUpdateFailure3
@@ -1063,6 +1121,110 @@ P7: 8024000b
 P8: Windows Defender Antivirus (77BDAF73-B396-481F-9042-AD358843EC24)
 P9: {9482F4B4-E343-43B6-B170-9A65BC822C77}
 P10: 0
+
+
++++ WER8 +++:
+=======
++++ WER3 +++:
+>>>>>>> JamesBranch
+Fault bucket 127930299099, type 5
+Event Name: MpTelemetry
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: unspecified
+P2: HardeningTelemetry
+P3: HardeningTelemetryDisableAV
+P4: 4.11.15063.447
+P5: unspecified
+P6: unspecified
+P7: unspecified
+P8: 
+P9: 
+P10: 
+
+
+<<<<<<< HEAD
++++ WER9 +++:
+=======
++++ WER4 +++:
+>>>>>>> JamesBranch
+Fault bucket , type 0
+Event Name: MpTelemetry
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: unspecified
+P2: HardeningTelemetry
+P3: HardeningTelemetryDisableAS
+P4: 4.11.15063.447
+P5: unspecified
+P6: unspecified
+P7: unspecified
+P8: 
+P9: 
+P10: 
+
+
+<<<<<<< HEAD
+=======
++++ WER5 +++:
+Fault bucket , type 0
+Event Name: MpTelemetry
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: unspecified
+P2: HardeningTelemetry
+P3: HardeningTelemetryDisableAV
+P4: 4.11.15063.447
+P5: unspecified
+P6: unspecified
+P7: unspecified
+P8: 
+P9: 
+P10: 
+
+
++++ WER6 +++:
+Fault bucket , type 0
+Event Name: CLR20r3
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: devenv.exe
+P2: 15.0.26730.16
+P3: 59bdc8d6
+P4: PresentationCore
+P5: 4.7.2117.0
+P6: 59cf595b
+P7: 565c
+P8: 84
+P9: System.InvalidOperationException
+P10: 
+
+
++++ WER7 +++:
+Fault bucket 127930299139, type 5
+Event Name: MpTelemetry
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: unspecified
+P2: HardeningTelemetry
+P3: HardeningTelemetryDisableAS
+P4: 4.11.15063.447
+P5: unspecified
+P6: unspecified
+P7: unspecified
+P8: 
+P9: 
+P10: 
 
 
 +++ WER8 +++:
@@ -1103,3 +1265,4 @@ P9:
 P10: 
 
 
+>>>>>>> JamesBranch
