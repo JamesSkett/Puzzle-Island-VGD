@@ -1,0 +1,614 @@
+﻿Log file open, 12/08/17 12:16:14
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Puzzle_Island
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-2081305082) SRandInit(-2081305082).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 4.017709
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.12.08-12.16.18:814][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.08-12.16.18:815][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.12.08-12.16.18:899][  0]LogInit: Computer: W65175
+[2017.12.08-12.16.18:899][  0]LogInit: User: 2siewj44
+[2017.12.08-12.16.18:899][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.12.08-12.16.18:899][  0]LogInit: High frequency timer resolution =3.613288 MHz
+[2017.12.08-12.16.18:900][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2017.12.08-12.16.18:900][  0]LogMemory: Platform Memory Stats for Windows
+[2017.12.08-12.16.18:900][  0]LogMemory: Process Physical Memory: 286.62 MB used, 286.62 MB peak
+[2017.12.08-12.16.18:900][  0]LogMemory: Process Virtual Memory: 290.30 MB used, 290.30 MB peak
+[2017.12.08-12.16.18:900][  0]LogMemory: Physical Memory: 4648.84 MB used,  11653.32 MB free, 16302.15 MB total
+[2017.12.08-12.16.18:900][  0]LogMemory: Virtual Memory: 672.67 MB used,  11653.32 MB free, 134217728.00 MB total
+[2017.12.08-12.16.20:311][  0]LogInit: Using OS detected language (en-US).
+[2017.12.08-12.16.20:311][  0]LogInit: Using OS detected locale (en-GB).
+[2017.12.08-12.16.20:475][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.12.08-12.16.24:500][  0]LogD3D11RHI: D3D11 adapters:
+[2017.12.08-12.16.24:604][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 770' (Feature Level 11_0)
+[2017.12.08-12.16.24:604][  0]LogD3D11RHI:       2017/0/8151 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2017.12.08-12.16.24:608][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.12.08-12.16.24:608][  0]LogD3D11RHI:       0/0/8151 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.12.08-12.16.24:608][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.12.08-12.16.24:627][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.12.08-12.16.24:627][  0]LogD3D11RHI:     GPU DeviceId: 0x1184 (for the marketing name, search the web for "GPU Device Id")
+[2017.12.08-12.16.24:628][  0]LogWindows: EnumDisplayDevices:
+[2017.12.08-12.16.24:628][  0]LogWindows:    0. 'NVIDIA GeForce GTX 770' (P:1 D:1)
+[2017.12.08-12.16.24:628][  0]LogWindows:    1. 'NVIDIA GeForce GTX 770' (P:0 D:1)
+[2017.12.08-12.16.24:629][  0]LogWindows:    2. 'NVIDIA GeForce GTX 770' (P:0 D:0)
+[2017.12.08-12.16.24:629][  0]LogWindows:    3. 'NVIDIA GeForce GTX 770' (P:0 D:0)
+[2017.12.08-12.16.24:629][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.12.08-12.16.24:629][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 770
+[2017.12.08-12.16.24:629][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2017.12.08-12.16.24:629][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2017.12.08-12.16.24:630][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.12.08-12.16.24:693][  0]LogD3D11RHI: Async texture creation enabled
+[2017.12.08-12.16.24:958][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.12.08-12.16.25:033][  0]LogShaderCompilers: Guid format shader working directory is -23 characters bigger than the processId version (../../../../../../Users/2siewj44/Desktop/Puzzle-Island-VGD/Puzzle_Island/Intermediate/Shaders/WorkingDirectory/4720/).
+[2017.12.08-12.16.25:034][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/2siewj44/AppData/Local/Temp/UnrealShaderWorkingDir/11B9351E4127BAAA6B28E8979727B75F/'.
+[2017.12.08-12.16.25:042][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.12.08-12.16.28:837][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.12.08-12.16.29:017][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.12.08-12.16.29:196][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.12.08-12.16.29:395][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.12.08-12.16.29:604][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.12.08-12.16.29:783][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.12.08-12.16.29:963][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.12.08-12.16.30:176][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.12.08-12.16.30:350][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.12.08-12.16.30:539][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.12.08-12.16.30:756][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.12.08-12.16.30:975][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.12.08-12.16.31:180][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.12.08-12.16.31:374][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.12.08-12.16.31:589][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.12.08-12.16.32:019][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.12.08-12.16.32:019][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.12.08-12.16.32:197][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.12.08-12.16.32:676][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.12.08-12.16.32:815][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.12.08-12.16.33:001][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.12.08-12.16.33:189][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.12.08-12.16.33:408][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.12.08-12.16.33:604][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.12.08-12.16.33:604][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.12.08-12.16.36:551][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.12.08-12.16.36:551][  0]LogDerivedDataCache: Display: Starting with empty Boot cache
+[2017.12.08-12.16.36:551][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/2siewj44/Desktop/Puzzle-Island-VGD/Puzzle_Island/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.12.08-12.16.36:551][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.12.08-12.16.36:551][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/2siewj44/Desktop/Puzzle-Island-VGD/Puzzle_Island/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.12.08-12.16.36:551][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.12.08-12.16.36:595][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.12.08-12.16.36:623][  0]LogDerivedDataCache: Using Local data cache path C:/Users/2siewj44/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.12.08-12.16.36:711][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.12.08-12.16.36:765][  0]LogSlate: Using Freetype 2.6.0
+[2017.12.08-12.16.36:839][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.08-12.16.36:840][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.08-12.16.42:498][  0]LogAssetRegistry: FAssetRegistry took 0.0426 seconds to start up
+[2017.12.08-12.16.43:903][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.08-12.16.51:196][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.12.08-12.16.51:493][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.12.08-12.16.51:524][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.12.08-12.16.51:524][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.12.08-12.16.51:524][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.12.08-12.16.51:524][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.12.08-12.16.52:564][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.12.08-12.16.58:116][  0]LogNetVersion: Puzzle_Island , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3939646741)
+[2017.12.08-12.17.00:896][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.176253 seconds
+[2017.12.08-12.17.00:930][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.12.08-12.17.00:930][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2017.12.08-12.17.00:931][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.12.08-12.17.01:280][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.12.08-12.17.24:151][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.12.08-12.17.24:289][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.12.08-12.17.26:160][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter'
+[2017.12.08-12.17.26:160][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter'
+[2017.12.08-12.17.26:160][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'
+[2017.12.08-12.17.26:160][  0]Error: CDO Constructor (Puzzle_IslandGameMode): Failed to find /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C
+
+[2017.12.08-12.17.26:160][  0]LogUObjectBase: Warning: -------------- Default Property warnings and errors:
+[2017.12.08-12.17.26:160][  0]LogUObjectBase: Warning: Error: CDO Constructor (Puzzle_IslandGameMode): Failed to find /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C
+
+[2017.12.08-12.17.31:681][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.08-12.17.32:975][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.12.08-12.17.34:672][  0]SourceControl: Source control is disabled
+[2017.12.08-12.17.34:672][  0]SourceControl: Source control is disabled
+[2017.12.08-12.17.34:885][  0]SourceControl: Source control is disabled
+[2017.12.08-12.17.35:092][  0]SourceControl: Source control is disabled
+[2017.12.08-12.17.37:908][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.12.08-12.17.38:959][  0]LogOcInput: OculusInput pre-init called
+[2017.12.08-12.17.40:335][  0]LogEngine: Initializing Engine...
+[2017.12.08-12.17.40:376][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.12.08-12.17.41:111][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.12.08-12.17.41:112][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.12.08-12.17.42:010][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.12.08-12.17.42:140][  0]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.08-12.17.42:253][  0]LogInit: FAudioDevice initialized.
+[2017.12.08-12.17.42:412][  0]LogDerivedDataCache: Saved boot cache 0.16s 93MB C:/Users/2siewj44/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.12.08-12.17.42:443][  0]LogInit: Texture streaming: Enabled
+[2017.12.08-12.17.43:133][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.12.08-12.17.44:630][  0]LogInit: Transaction tracking system initialized
+[2017.12.08-12.17.46:702][  0]BlueprintLog: New page: Editor Load
+[2017.12.08-12.17.54:819][  0]LocalizationService: Localization service is disabled
+[2017.12.08-12.17.59:988][  0]LogConsoleResponse: Display: 
+[2017.12.08-12.18.02:423][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../Users/2siewj44/Desktop/Puzzle-Island-VGD/Puzzle_Island/Content/ as it will conflict with another watching ../../../../../../Users/2siewj44/Desktop/Puzzle-Island-VGD/Puzzle_Island/Content/.
+[2017.12.08-12.18.02:423][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../Users/2siewj44/Desktop/Puzzle-Island-VGD/Puzzle_Island/Content/ as it will conflict with another watching ../../../../../../Users/2siewj44/Desktop/Puzzle-Island-VGD/Puzzle_Island/Content/.
+[2017.12.08-12.18.02:423][  0]LogAutoReimportManager: Warning: Unable to watch directory ../../../../../../Users/2siewj44/Desktop/Puzzle-Island-VGD/Puzzle_Island/Content/ as it will conflict with another watching ../../../../../../Users/2siewj44/Desktop/Puzzle-Island-VGD/Puzzle_Island/Content/.
+[2017.12.08-12.18.02:493][  0]LogFileCache: Scanning file cache for directory 'C:/Users/2siewj44/Desktop/Puzzle-Island-VGD/Puzzle_Island/Content/' took 0.02s
+[2017.12.08-12.18.02:493][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.12.08-12.18.02:493][  0]LogCook: Display: Mobile HDR setting 1
+[2017.12.08-12.18.02:566][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.12.08-12.18.11:933][  0]SourceControl: Source control is disabled
+[2017.12.08-12.18.12:009][  0]Cmd: MAP LOAD FILE="../../../../../../Users/2siewj44/Desktop/Puzzle-Island-VGD/Puzzle_Island/Content/Maps/Puzzle_Island.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.08-12.18.12:040][  0]LightingResults: New page: Lighting Build
+[2017.12.08-12.18.12:439][  0]MapCheck: New page: Map Check
+[2017.12.08-12.18.12:439][  0]LightingResults: New page: Lighting Build
+[2017.12.08-12.18.14:926][  0]LogLinker: Warning: Can't find file '/Game/Maps/Puzzle_Island_BuiltData'
+[2017.12.08-12.18.14:927][  0]LogLinker: Warning: Can't find file for asset '/Game/Maps/Puzzle_Island_BuiltData' while loading ../../../../../../Users/2siewj44/Desktop/Puzzle-Island-VGD/Puzzle_Island/Content/Maps/Puzzle_Island.umap.
+[2017.12.08-12.18.14:927][  0]LoadErrors: Error: /Game/Maps/Puzzle_Island : Can't find file for asset. /Game/Maps/Puzzle_Island_BuiltData
+[2017.12.08-12.18.14:997][  0]LogLinker: Warning: Can't find file '/Game/Maps/Puzzle_Island_BuiltData'
+[2017.12.08-12.18.14:997][  0]LogLinker: Warning: Can't find file for asset '/Game/Maps/Puzzle_Island_BuiltData' while loading ../../../../../../Users/2siewj44/Desktop/Puzzle-Island-VGD/Puzzle_Island/Content/Maps/Puzzle_Island.umap.
+[2017.12.08-12.18.14:997][  0]LoadErrors: Error: /Game/Maps/Puzzle_Island : Can't find file for asset. /Game/Maps/Puzzle_Island_BuiltData
+[2017.12.08-12.18.15:022][  0]LogLinker: Warning: Can't find file '/Game/Maps/Puzzle_Island_BuiltData'
+[2017.12.08-12.18.15:022][  0]LogLinker: Warning: Can't find file for asset '/Game/Maps/Puzzle_Island_BuiltData' while loading NULL.
+[2017.12.08-12.18.15:023][  0]LogLinker: Warning: Can't find file '/Game/Maps/Puzzle_Island_BuiltData'
+[2017.12.08-12.18.15:023][  0]LogLinker: Warning: Can't find file for asset '/Game/Maps/Puzzle_Island_BuiltData' while loading NULL.
+[2017.12.08-12.18.15:273][  0]LogTexture: Display: Building textures: infoTextmg (BGRA8, 478X60)
+[2017.12.08-12.18.15:273][  0]LogTexture: Display: Building textures: Jigsaw01_StarInfo (BGRA8, 454X340)
+[2017.12.08-12.18.15:273][  0]LogTexture: Display: Building textures: Jigsaw02_StarInfo (BGRA8, 454X340)
+[2017.12.08-12.18.15:273][  0]LogTexture: Display: Building textures: NPC_Text_Box (AutoDXT, 1024X400)
+[2017.12.08-12.18.15:273][  0]LogLinker: Warning: Can't find file '/Game/Maps/Puzzle_Island_BuiltData'
+[2017.12.08-12.18.15:273][  0]LoadErrors: Failed to load /Game/Maps/Puzzle_Island_BuiltData.Puzzle_Island_BuiltData Referenced by PersistentLevel
+[2017.12.08-12.18.15:273][  0]LogLinker: Warning: Can't find file for asset '/Game/Maps/Puzzle_Island_BuiltData' while loading NULL.
+[2017.12.08-12.18.15:273][  0]LoadErrors: Failed to load /Game/Maps/Puzzle_Island_BuiltData.Puzzle_Island_BuiltData Referenced by PersistentLevel
+[2017.12.08-12.18.15:707][  0]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 64X64)
+[2017.12.08-12.18.15:707][  0]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 64X64)
+[2017.12.08-12.18.15:707][  0]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 64X64)
+[2017.12.08-12.18.15:707][  0]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 64X64)
+[2017.12.08-12.18.15:707][  0]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 64X64)
+[2017.12.08-12.18.15:707][  0]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 64X64)
+[2017.12.08-12.18.15:707][  0]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 64X64)
+[2017.12.08-12.18.15:707][  0]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 64X64)
+[2017.12.08-12.18.15:707][  0]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 64X64)
+[2017.12.08-12.18.15:707][  0]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 64X64)
+[2017.12.08-12.18.15:707][  0]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 64X64)
+[2017.12.08-12.18.15:707][  0]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 64X64)
+[2017.12.08-12.18.15:707][  0]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 64X64)
+[2017.12.08-12.18.15:707][  0]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 64X64)
+[2017.12.08-12.18.15:707][  0]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 64X64)
+[2017.12.08-12.18.15:707][  0]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 64X64)
+[2017.12.08-12.18.15:707][  0]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 64X64)
+[2017.12.08-12.18.15:707][  0]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 64X64)
+[2017.12.08-12.18.15:707][  0]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 64X64)
+[2017.12.08-12.18.15:707][  0]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 64X64)
+[2017.12.08-12.18.15:707][  0]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 64X64)
+[2017.12.08-12.18.15:707][  0]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2017.12.08-12.18.15:707][  0]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 64X64)
+[2017.12.08-12.18.15:707][  0]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 64X64)
+[2017.12.08-12.18.15:708][  0]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 64X64)
+[2017.12.08-12.18.15:708][  0]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 64X64)
+[2017.12.08-12.18.15:708][  0]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 64X64)
+[2017.12.08-12.18.15:708][  0]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 64X64)
+[2017.12.08-12.18.15:708][  0]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2017.12.08-12.18.15:708][  0]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2017.12.08-12.18.15:708][  0]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 64X64)
+[2017.12.08-12.18.15:708][  0]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 64X64)
+[2017.12.08-12.18.15:708][  0]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 64X64)
+[2017.12.08-12.18.15:708][  0]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 64X64)
+[2017.12.08-12.18.15:708][  0]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 64X64)
+[2017.12.08-12.18.15:708][  0]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 64X64)
+[2017.12.08-12.18.15:708][  0]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 64X64)
+[2017.12.08-12.18.15:708][  0]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 64X64)
+[2017.12.08-12.18.15:708][  0]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 64X64)
+[2017.12.08-12.18.15:708][  0]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 64X64)
+[2017.12.08-12.18.15:708][  0]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 64X64)
+[2017.12.08-12.18.15:708][  0]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2017.12.08-12.18.15:708][  0]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 64X64)
+[2017.12.08-12.18.15:708][  0]LogTexture: Display: Building textures: DirtTest (AutoDXT, 1024X1024)
+[2017.12.08-12.18.15:708][  0]LogTexture: Display: Building textures: Untitled-1 (BGRA8, 1055X1055)
+[2017.12.08-12.18.15:708][  0]LogTexture: Display: Building textures: textbox (AutoDXT, 1000X500)
+[2017.12.08-12.18.15:708][  0]LogTexture: Display: Building textures: Tree2_D (AutoDXT, 1024X1024)
+[2017.12.08-12.18.15:708][  0]LogTexture: Display: Building textures: padlock (AutoDXT, 100X100)
+[2017.12.08-12.18.15:708][  0]LogTexture: Display: Building textures: Tree1_D (AutoDXT, 1024X1024)
+[2017.12.08-12.18.15:708][  0]LogTexture: Display: Building textures: deathscence (AutoDXT, 1000X1000)
+[2017.12.08-12.18.15:708][  0]LogTexture: Display: Building textures: T_Water_Ripple_Directional_Noise (BC5, 128X128)
+[2017.12.08-12.18.15:708][  0]LogTexture: Display: Building textures: StartPlatform_D (AutoDXT, 1024X1024)
+[2017.12.08-12.18.15:708][  0]LogTexture: Display: Building textures: DoorFrame_D_Placeholder (AutoDXT, 256X256)
+[2017.12.08-12.18.15:708][  0]LogStaticMesh: Building static mesh NPC_Placeholder...
+[2017.12.08-12.18.15:813][  0]LogTexture: Display: Building textures: GrassTest (AutoDXT, 1024X1024)
+[2017.12.08-12.18.15:813][  0]LogTexture: Display: Building textures: Door_D (AutoDXT, 1024X1024)
+[2017.12.08-12.18.15:813][  0]LogStaticMesh: Built static mesh [0.17s] /Game/FBX/NPC_Placeholder.NPC_Placeholder
+[2017.12.08-12.18.16:160][  0]LogTexture: Display: Building textures: T_Water_01_N (BC5, 2048X2048)
+[2017.12.08-12.18.16:987][  0]LogMaterial: Missing cached shader map for material LowPoly, compiling. 
+[2017.12.08-12.18.17:162][  0]LogMaterial: Missing cached shader map for material LowPoly, compiling. 
+[2017.12.08-12.18.17:263][  0]LogStaticMesh: Building static mesh LargeDoor...
+[2017.12.08-12.18.17:279][  0]LogStaticMesh: Built static mesh [0.02s] /Game/FBX/LargeDoor.LargeDoor
+[2017.12.08-12.18.17:281][  0]LogStaticMesh: Building static mesh Rock_SM...
+[2017.12.08-12.18.17:282][  0]LogStaticMesh: Built static mesh [0.00s] /Game/FBX/Rock_SM.Rock_SM
+[2017.12.08-12.18.17:283][  0]LogStaticMesh: Building static mesh Tree2...
+[2017.12.08-12.18.17:290][  0]LogStaticMesh: Built static mesh [0.01s] /Game/FBX/Tree2.Tree2
+[2017.12.08-12.18.17:291][  0]LogStaticMesh: Building static mesh Tree1...
+[2017.12.08-12.18.17:303][  0]LogStaticMesh: Built static mesh [0.01s] /Game/FBX/Tree1.Tree1
+[2017.12.08-12.18.17:516][  0]LogMaterial: Missing cached shader map for material Tree2_Mat, compiling. 
+[2017.12.08-12.18.17:538][  0]LogMaterial: Missing cached shader map for material Tree1_Mat, compiling. 
+[2017.12.08-12.18.17:980][  0]LogMaterial: Missing cached shader map for material StartPlatform_Mat, compiling. 
+[2017.12.08-12.18.18:003][  0]LogMaterial: Missing cached shader map for material DoorFrame_Placeholder_Mat, compiling. 
+[2017.12.08-12.18.18:025][  0]LogMaterial: Missing cached shader map for material Door_Mat, compiling. 
+[2017.12.08-12.18.18:049][  0]LogMaterial: Missing cached shader map for material M_Water_Master, compiling. 
+[2017.12.08-12.18.18:319][  0]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.12.08-12.18.21:577][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.08-12.18.21:967][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.08-12.18.22:105][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 138.118ms to complete.
+[2017.12.08-12.18.22:105][  0]LogFileHelpers: Loading map 'Puzzle_Island' took 10.130
+[2017.12.08-12.18.23:403][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.08-12.18.25:920][  0]LogCollectionManager: Loaded 0 collections in 0.003648 seconds
+[2017.12.08-12.18.26:727][  0]LogFileCache: Scanning file cache for directory 'C:/Users/2siewj44/Desktop/Puzzle-Island-VGD/Puzzle_Island/Saved/Collections/' took 0.01s
+[2017.12.08-12.18.26:727][  0]LogFileCache: Scanning file cache for directory 'C:/Users/2siewj44/Desktop/Puzzle-Island-VGD/Puzzle_Island/Content/Developers/2siewj44/Collections/' took 0.01s
+[2017.12.08-12.18.26:727][  0]LogFileCache: Scanning file cache for directory 'C:/Users/2siewj44/Desktop/Puzzle-Island-VGD/Puzzle_Island/Content/Collections/' took 0.01s
+[2017.12.08-12.18.26:727][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2017.12.08-12.18.26:775][  0]LogContentBrowser: Native class hierarchy populated in 0.0350 seconds. Added 2388 classes and 502 folders.
+[2017.12.08-12.18.27:272][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0048 seconds. Added 0 classes and 0 folders.
+[2017.12.08-12.18.30:650][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0047 seconds. Added 0 classes and 0 folders.
+[2017.12.08-12.18.31:073][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0048 seconds. Added 1 classes and 2 folders.
+[2017.12.08-12.18.32:638][  0]LogSlate: Took 0.023910 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.08-12.18.32:677][  0]LogSlate: Took 0.001771 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.12.08-12.18.32:774][  0]LogSlate: Took 0.018508 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.12.08-12.18.33:826][  0]LogRenderer: Reallocating scene render targets to support 1208x652 Format 10 NumSamples 1 (Frame:1).
+[2017.12.08-12.18.37:282][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0048 seconds. Added 1 classes and 2 folders.
+[2017.12.08-12.18.37:282][  0]LogLoad: (Engine Initialization) Total time: 154.41 seconds
+[2017.12.08-12.18.37:282][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.12.08-12.18.37:283][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.12.08-12.18.37:283][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.12.08-12.18.37:590][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.12.08-12.18.37:947][  0]LogSlate: Took 0.030223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.08-12.18.38:066][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/2siewj44/Desktop/Puzzle-Island-VGD/Puzzle_Island/Content/' took 0.66s
+[2017.12.08-12.18.38:774][  3]LogAssetRegistry: Asset discovery search completed in 116.2962 seconds
+[2017.12.08-12.18.38:779][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.12.08-12.18.38:779][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000099 seconds (updated 0 objects)
+[2017.12.08-12.18.38:823][  3]LogSlate: Took 0.000349 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.08-12.18.47:945][453]LogSynthBenchmark: Display: FSynthBenchmark (V0.95):  requested WorkScale=5.00
+[2017.12.08-12.18.47:945][453]LogSynthBenchmark: Display: ===============
+[2017.12.08-12.18.47:945][453]LogSynthBenchmark: Display: Main Processor:
+[2017.12.08-12.18.48:168][453]LogSynthBenchmark: Display:          ... 0.025349 s/Run 'RayIntersect'
+[2017.12.08-12.18.48:168][453]LogSynthBenchmark: Display:          ... 0.019362 s/Run 'Fractal'
+[2017.12.08-12.18.48:168][453]LogSynthBenchmark: Display: 
+[2017.12.08-12.18.48:168][453]LogSynthBenchmark: Display:   CompiledTarget_x_Bits: 64
+[2017.12.08-12.18.48:168][453]LogSynthBenchmark: Display:   UE_BUILD_SHIPPING: 0
+[2017.12.08-12.18.48:168][453]LogSynthBenchmark: Display:   UE_BUILD_TEST: 0
+[2017.12.08-12.18.48:169][453]LogSynthBenchmark: Display:   UE_BUILD_DEBUG: 0
+[2017.12.08-12.18.48:169][453]LogSynthBenchmark: Display:   TotalPhysicalGBRam: 16
+[2017.12.08-12.18.48:169][453]LogSynthBenchmark: Display:   NumberOfCores (physical): 4
+[2017.12.08-12.18.48:169][453]LogSynthBenchmark: Display:   NumberOfCores (logical): 8
+[2017.12.08-12.18.48:169][453]LogSynthBenchmark: Display:   CPU Perf Index 0: 101.0 (weight 1.00)
+[2017.12.08-12.18.48:169][453]LogSynthBenchmark: Display:   CPU Perf Index 1: 147.7 (weight 1.50)
+[2017.12.08-12.18.48:169][453]LogSynthBenchmark: Display:  
+[2017.12.08-12.18.48:169][453]LogSynthBenchmark: Display: Graphics:
+[2017.12.08-12.18.48:169][453]LogSynthBenchmark: Display:   Adapter Name: 'NVIDIA GeForce GTX 770'
+[2017.12.08-12.18.48:169][453]LogSynthBenchmark: Display:   (On Optimus the name might be wrong, memory should be ok)
+[2017.12.08-12.18.48:169][453]LogSynthBenchmark: Display:   Vendor Id: 0x10DE
+[2017.12.08-12.18.48:169][453]LogSynthBenchmark: Display:   Device Id: 0x1184
+[2017.12.08-12.18.48:169][453]LogSynthBenchmark: Display:   Device Revision: 0xA1
+[2017.12.08-12.18.48:169][453]LogSynthBenchmark: Display:   GPU Memory: 2018/0/8152 MB
+[2017.12.08-12.18.48:501][453]LogSynthBenchmark: Display:   GPU first test: 0.02s
+[2017.12.08-12.18.48:502][453]LogSynthBenchmark: Display:          ... 3.747 s/GigaPix, Confidence=100% 'ALUHeavyNoise' (likely to be very inaccurate)
+[2017.12.08-12.18.48:502][453]LogSynthBenchmark: Display:          ... 5.543 s/GigaPix, Confidence=89% 'TexHeavy' (likely to be very inaccurate)
+[2017.12.08-12.18.48:502][453]LogSynthBenchmark: Display:          ... 3.160 s/GigaPix, Confidence=100% 'DepTexHeavy' (likely to be very inaccurate)
+[2017.12.08-12.18.48:502][453]LogSynthBenchmark: Display:          ... 11.438 s/GigaPix, Confidence=100% 'FillOnly' (likely to be very inaccurate)
+[2017.12.08-12.18.48:502][453]LogSynthBenchmark: Display:          ... 0.849 s/GigaPix, Confidence=100% 'Bandwidth' (likely to be very inaccurate)
+[2017.12.08-12.18.48:502][453]LogSynthBenchmark: Display:          ... 2.174 s/GigaVert, Confidence=100% 'VertThroughPut1' (likely to be very inaccurate)
+[2017.12.08-12.18.48:502][453]LogSynthBenchmark: Display:          ... 3.518 s/GigaVert, Confidence=100% 'VertThroughPut2' (likely to be very inaccurate)
+[2017.12.08-12.18.48:740][453]LogSynthBenchmark: Display:   GPU second test: 0.15s
+[2017.12.08-12.18.48:741][453]LogSynthBenchmark: Display:          ... 4.684 s/GigaPix, Confidence=100% 'ALUHeavyNoise' (likely to be inaccurate)
+[2017.12.08-12.18.48:741][453]LogSynthBenchmark: Display:          ... 7.803 s/GigaPix, Confidence=89% 'TexHeavy' (likely to be inaccurate)
+[2017.12.08-12.18.48:741][453]LogSynthBenchmark: Display:          ... 4.098 s/GigaPix, Confidence=100% 'DepTexHeavy' (likely to be inaccurate)
+[2017.12.08-12.18.48:741][453]LogSynthBenchmark: Display:          ... 24.235 s/GigaPix, Confidence=100% 'FillOnly' (likely to be inaccurate)
+[2017.12.08-12.18.48:741][453]LogSynthBenchmark: Display:          ... 1.026 s/GigaPix, Confidence=100% 'Bandwidth' (likely to be inaccurate)
+[2017.12.08-12.18.48:741][453]LogSynthBenchmark: Display:          ... 1.711 s/GigaVert, Confidence=100% 'VertThroughPut1' (likely to be inaccurate)
+[2017.12.08-12.18.48:741][453]LogSynthBenchmark: Display:          ... 3.236 s/GigaVert, Confidence=100% 'VertThroughPut2' (likely to be inaccurate)
+[2017.12.08-12.18.48:741][453]LogSynthBenchmark: Display:   GPU Final Results:
+[2017.12.08-12.18.48:741][453]LogSynthBenchmark: Display:          ... 4.684 s/GigaPix, Confidence=100% 'ALUHeavyNoise'
+[2017.12.08-12.18.48:741][453]LogSynthBenchmark: Display:          ... 7.803 s/GigaPix, Confidence=89% 'TexHeavy'
+[2017.12.08-12.18.48:741][453]LogSynthBenchmark: Display:          ... 4.098 s/GigaPix, Confidence=100% 'DepTexHeavy'
+[2017.12.08-12.18.48:741][453]LogSynthBenchmark: Display:          ... 24.235 s/GigaPix, Confidence=100% 'FillOnly'
+[2017.12.08-12.18.48:741][453]LogSynthBenchmark: Display:          ... 1.026 s/GigaPix, Confidence=100% 'Bandwidth'
+[2017.12.08-12.18.48:741][453]LogSynthBenchmark: Display:          ... 1.711 s/GigaVert, Confidence=100% 'VertThroughPut1'
+[2017.12.08-12.18.48:741][453]LogSynthBenchmark: Display:          ... 3.236 s/GigaVert, Confidence=100% 'VertThroughPut2'
+[2017.12.08-12.18.48:741][453]LogSynthBenchmark: Display: 
+[2017.12.08-12.18.48:741][453]LogSynthBenchmark: Display:   GPU Perf Index 0: 101.8 (weight 1.00)
+[2017.12.08-12.18.48:741][453]LogSynthBenchmark: Display:   GPU Perf Index 1: 104.8 (weight 0.10)
+[2017.12.08-12.18.48:741][453]LogSynthBenchmark: Display:   GPU Perf Index 2: 106.5 (weight 0.10)
+[2017.12.08-12.18.48:741][453]LogSynthBenchmark: Display:   GPU Perf Index 3: 95.2 (weight 3.00)
+[2017.12.08-12.18.48:741][453]LogSynthBenchmark: Display:   GPU Perf Index 4: 95.7 (weight 1.00)
+[2017.12.08-12.18.48:741][453]LogSynthBenchmark: Display:   GPU Perf Index 5: 111.3 (weight 0.00)
+[2017.12.08-12.18.48:741][453]LogSynthBenchmark: Display:   GPU Perf Index 6: 183.1 (weight 0.00)
+[2017.12.08-12.18.48:741][453]LogSynthBenchmark: Display:   CPUIndex: 129.0
+[2017.12.08-12.18.48:741][453]LogSynthBenchmark: Display:   GPUIndex: 97.0
+[2017.12.08-12.18.48:741][453]LogSynthBenchmark: Display: 
+[2017.12.08-12.18.48:741][453]LogSynthBenchmark: Display:          ... Total Time: 0.796943 sec
+[2017.12.08-12.19.02:870][481]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.08-12.19.03:092][481]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.12.08-12.19.03:092][481]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.08-12.19.03:122][481]PIE: New page: PIE session: Puzzle_Island (8 Dec 2017 12:19:03)
+[2017.12.08-12.19.03:123][481]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.12.08-12.19.03:182][481]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058873s)
+[2017.12.08-12.19.03:183][481]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.12.08-12.19.03:183][481]LogPlayLevel: PIE: World Init took: (0.001137s)
+[2017.12.08-12.19.03:184][481]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.060465s)
+[2017.12.08-12.19.03:212][481]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.08-12.19.03:234][481]LogInit: FAudioDevice initialized.
+[2017.12.08-12.19.03:899][481]LogTexture: Display: Building textures: loading (AutoDXT, 1000X1000)
+[2017.12.08-12.19.03:899][481]LogMaterial: Missing cached shader map for material LoadingScreen_Mat, compiling. 
+[2017.12.08-12.19.03:920][481]LogLoad: Game class is '3D_Exploration_GameMode_C'
+[2017.12.08-12.19.03:946][481]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.12.08-12.19.03
+[2017.12.08-12.19.04:006][481]LogWorld: Bringing up level for play took: 0.071937
+[2017.12.08-12.19.04:342][481]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0047 seconds. Added 11 classes and 0 folders.
+[2017.12.08-12.19.04:461][481]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 0.931
+[2017.12.08-12.19.04:462][481]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.12.08-12.19.08:837][842]LogScript: Warning: Accessed None trying to read property AbilityNotLearnedWidget
+	ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:0D55
+[2017.12.08-12.19.08:837][842]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property AbilityNotLearnedWidget from function: 'ExecuteUbergraph_ThirdPersonCharacter' from node: Branch in graph: EventGraph in object: ThirdPersonCharacter with description: Accessed None trying to read property AbilityNotLearnedWidget
+[2017.12.08-12.19.19:961][ 59]LogScript: Warning: Accessed None trying to read property CantUseWidget
+	ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:0A98
+[2017.12.08-12.19.19:961][ 59]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CantUseWidget from function: 'ExecuteUbergraph_ThirdPersonCharacter' from node: Branch in graph: EventGraph in object: ThirdPersonCharacter with description: Accessed None trying to read property CantUseWidget
+[2017.12.08-12.19.53:400][914]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.12.08-12.19.53:474][914]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.12.08-12.19.58:687][397]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2017.12.08-12.20.00:046][404]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2017.12.08-12.20.00:838][467]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2017.12.08-12.20.18:492][ 34]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.08-12.20.19:967][153]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.12.08-12.20.39:301][702]LogSlate: Took 0.000222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.08-12.20.40:260][702]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0034 seconds. Added 113 classes and 0 folders.
+[2017.12.08-12.20.41:316][702]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.08-12.20.41:674][702]LogSlate: Took 0.015209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.12.08-12.20.41:977][703]LogSlate: Took 0.006028 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.12.08-12.23.02:642][613]BlueprintLog: New page: Compile PositionSetCheckpoint_BP
+[2017.12.08-12.30.55:688][900]BlueprintLog: New page: Compile PositionSetCheckpoint_BP
+[2017.12.08-12.31.00:149][ 68]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.08-12.31.00:208][ 68]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.12.08-12.31.00:208][ 68]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.08-12.31.00:208][ 68]PIE: New page: PIE session: Puzzle_Island (8 Dec 2017 12:31:00)
+[2017.12.08-12.31.00:209][ 68]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.12.08-12.31.00:246][ 68]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036860s)
+[2017.12.08-12.31.00:247][ 68]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.12.08-12.31.00:247][ 68]LogPlayLevel: PIE: World Init took: (0.000969s)
+[2017.12.08-12.31.00:248][ 68]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.038149s)
+[2017.12.08-12.31.00:270][ 68]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.08-12.31.00:288][ 68]LogInit: FAudioDevice initialized.
+[2017.12.08-12.31.00:322][ 68]LogLoad: Game class is '3D_Exploration_GameMode_C'
+[2017.12.08-12.31.00:332][ 68]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.12.08-12.31.00
+[2017.12.08-12.31.00:333][ 68]LogWorld: Bringing up level for play took: 0.009636
+[2017.12.08-12.31.00:337][ 68]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 0.793
+[2017.12.08-12.31.00:337][ 68]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.12.08-12.31.10:749][256]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.12.08-12.31.10:800][256]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.12.08-12.31.14:018][492]LogEditorViewport: Clicking on Actor (LMB): PositionSetCheckpoint_BP_C (PositionSetCheckpoint_BP7)
+[2017.12.08-12.31.20:723][ 72]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.08-12.31.20:768][ 72]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.12.08-12.31.20:768][ 72]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.08-12.31.20:768][ 72]PIE: New page: PIE session: Puzzle_Island (8 Dec 2017 12:31:20)
+[2017.12.08-12.31.20:769][ 72]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.12.08-12.31.20:810][ 72]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040329s)
+[2017.12.08-12.31.20:810][ 72]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.12.08-12.31.20:810][ 72]LogPlayLevel: PIE: World Init took: (0.000867s)
+[2017.12.08-12.31.20:811][ 72]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.041506s)
+[2017.12.08-12.31.20:831][ 72]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.08-12.31.20:852][ 72]LogInit: FAudioDevice initialized.
+[2017.12.08-12.31.20:885][ 72]LogLoad: Game class is '3D_Exploration_GameMode_C'
+[2017.12.08-12.31.20:896][ 72]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.12.08-12.31.20
+[2017.12.08-12.31.20:898][ 72]LogWorld: Bringing up level for play took: 0.011615
+[2017.12.08-12.31.20:903][ 72]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island -0.641
+[2017.12.08-12.31.20:903][ 72]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.12.08-12.31.34:419][622]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.12.08-12.31.34:463][622]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.12.08-12.31.51:304][648]BlueprintLog: New page: Compile PositionSetCheckpoint_BP
+[2017.12.08-12.32.16:310][920]LogSavePackage: Save=776.20ms
+[2017.12.08-12.32.16:311][920]LogSavePackage: Moving '../../../../../../Users/2siewj44/Desktop/Puzzle-Island-VGD/Puzzle_Island/Saved/Puzzle_Island_Auto1D6085BD9479F28B73F77209B194DED89.tmp' to '../../../../../../Users/2siewj44/Desktop/Puzzle-Island-VGD/Puzzle_Island/Saved/Autosaves/Game/Maps/Puzzle_Island_Auto1.umap'
+[2017.12.08-12.32.16:321][920]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/2siewj44/Desktop/Puzzle-Island-VGD/Puzzle_Island/Saved/Autosaves/Game/Maps/Puzzle_Island_Auto1.umap
+[2017.12.08-12.32.16:332][920]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Puzzle_Island' took 0.886
+[2017.12.08-12.32.16:332][920]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.886
+[2017.12.08-12.32.16:337][920]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/PositionSetCheckpoint_BP] ([1] browsable assets)...
+[2017.12.08-12.32.16:337][920]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/PositionSetCheckpoint_BP]
+[2017.12.08-12.32.16:391][920]LogSavePackage: Save=35.43ms
+[2017.12.08-12.32.16:391][920]LogSavePackage: Moving '../../../../../../Users/2siewj44/Desktop/Puzzle-Island-VGD/Puzzle_Island/Saved/PositionSetCheckpoint_BP_Auto1F3F5F97244A507BF94E8C2B0C6A64B24.tmp' to '../../../../../../Users/2siewj44/Desktop/Puzzle-Island-VGD/Puzzle_Island/Saved/Autosaves/Game/Blueprints/PositionSetCheckpoint_BP_Auto1.uasset'
+[2017.12.08-12.32.16:395][920]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/2siewj44/Desktop/Puzzle-Island-VGD/Puzzle_Island/Saved/Autosaves/Game/Blueprints/PositionSetCheckpoint_BP_Auto1.uasset
+[2017.12.08-12.32.16:396][920]LogFileHelpers: Auto-saving content packages took 0.060
+[2017.12.08-12.32.34:412][963]BlueprintLog: New page: Compile PositionSetCheckpoint_BP
+[2017.12.08-12.32.37:979][ 79]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.08-12.32.38:030][ 79]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.12.08-12.32.38:030][ 79]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.08-12.32.38:030][ 79]PIE: New page: PIE session: Puzzle_Island (8 Dec 2017 12:32:38)
+[2017.12.08-12.32.38:031][ 79]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.12.08-12.32.38:067][ 79]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036537s)
+[2017.12.08-12.32.38:068][ 79]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.12.08-12.32.38:068][ 79]LogPlayLevel: PIE: World Init took: (0.000918s)
+[2017.12.08-12.32.38:069][ 79]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.037757s)
+[2017.12.08-12.32.38:089][ 79]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.08-12.32.38:106][ 79]LogInit: FAudioDevice initialized.
+[2017.12.08-12.32.38:142][ 79]LogLoad: Game class is '3D_Exploration_GameMode_C'
+[2017.12.08-12.32.38:152][ 79]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.12.08-12.32.38
+[2017.12.08-12.32.38:153][ 79]LogWorld: Bringing up level for play took: 0.009721
+[2017.12.08-12.32.38:157][ 79]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island 0.611
+[2017.12.08-12.32.38:157][ 79]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.12.08-12.32.58:559][421]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.12.08-12.32.58:608][421]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.12.08-12.39.14:314][193]LogSavePackage: Save=782.81ms
+[2017.12.08-12.39.14:314][193]LogSavePackage: Moving '../../../../../../Users/2siewj44/Desktop/Puzzle-Island-VGD/Puzzle_Island/Saved/Puzzle_IslandA71027B34AB6BB34CE3B6AAA5399554F.tmp' to '../../../../../../Users/2siewj44/Desktop/Puzzle-Island-VGD/Puzzle_Island/Content/Maps/Puzzle_Island.umap'
+[2017.12.08-12.39.14:322][193]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/2siewj44/Desktop/Puzzle-Island-VGD/Puzzle_Island/Content/Maps/Puzzle_Island.umap
+[2017.12.08-12.39.14:415][193]LogFileHelpers: Saving map 'Puzzle_Island' took 1.052
+[2017.12.08-12.39.14:478][193]LogSavePackage: Save=37.59ms
+[2017.12.08-12.39.14:478][193]LogSavePackage: Moving '../../../../../../Users/2siewj44/Desktop/Puzzle-Island-VGD/Puzzle_Island/Saved/PositionSetCheckpoint_BP03C78D1A426BCBC2349080B640AAE8C1.tmp' to '../../../../../../Users/2siewj44/Desktop/Puzzle-Island-VGD/Puzzle_Island/Content/Blueprints/PositionSetCheckpoint_BP.uasset'
+[2017.12.08-12.39.14:485][193]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/2siewj44/Desktop/Puzzle-Island-VGD/Puzzle_Island/Content/Blueprints/PositionSetCheckpoint_BP.uasset
+[2017.12.08-12.39.14:491][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/DisplayInfoText_BP" FILE="../../../../../../Users/2siewj44/Desktop/Puzzle-Island-VGD/Puzzle_Island/Content/Blueprints/DisplayInfoText_BP.uasset" SILENT=true
+[2017.12.08-12.39.14:540][193]LogSavePackage: Save=27.56ms
+[2017.12.08-12.39.14:541][193]LogSavePackage: Moving '../../../../../../Users/2siewj44/Desktop/Puzzle-Island-VGD/Puzzle_Island/Saved/DisplayInfoText_BP922C0FA6433BAA6F8B39919C129DE1E7.tmp' to '../../../../../../Users/2siewj44/Desktop/Puzzle-Island-VGD/Puzzle_Island/Content/Blueprints/DisplayInfoText_BP.uasset'
+[2017.12.08-12.39.14:548][193]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/2siewj44/Desktop/Puzzle-Island-VGD/Puzzle_Island/Content/Blueprints/DisplayInfoText_BP.uasset
+[2017.12.08-12.39.16:711][360]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.08-12.39.16:761][360]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.12.08-12.39.16:761][360]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.08-12.39.16:761][360]PIE: New page: PIE session: Puzzle_Island (8 Dec 2017 12:39:16)
+[2017.12.08-12.39.16:762][360]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Puzzle_Island
+[2017.12.08-12.39.16:802][360]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039982s)
+[2017.12.08-12.39.16:803][360]LogAIModule: Creating AISystem for world Puzzle_Island
+[2017.12.08-12.39.16:804][360]LogPlayLevel: PIE: World Init took: (0.001330s)
+[2017.12.08-12.39.16:804][360]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Puzzle_Island.Puzzle_Island to /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island (0.041705s)
+[2017.12.08-12.39.16:828][360]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.12.08-12.39.16:851][360]LogInit: FAudioDevice initialized.
+[2017.12.08-12.39.16:884][360]LogLoad: Game class is '3D_Exploration_GameMode_C'
+[2017.12.08-12.39.16:893][360]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island up for play (max tick rate 0) at 2017.12.08-12.39.16
+[2017.12.08-12.39.16:894][360]LogWorld: Bringing up level for play took: 0.009808
+[2017.12.08-12.39.16:898][360]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Puzzle_Island -0.649
+[2017.12.08-12.39.16:899][360]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island' with GeneratedClass '/Game/Maps/Puzzle_Island.Puzzle_Island_C' with ClassGeneratedBy '/Game/Maps/Puzzle_Island.Puzzle_Island:PersistentLevel.Puzzle_Island'
+[2017.12.08-12.39.37:644][726]LogScript: Warning: Accessed None trying to read property CantUseWidget
+	ThirdPersonCharacter_C /Game/Maps/UEDPIE_0_Puzzle_Island.Puzzle_Island:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:0A98
+[2017.12.08-12.39.37:644][726]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CantUseWidget from function: 'ExecuteUbergraph_ThirdPersonCharacter' from node: Branch in graph: EventGraph in object: ThirdPersonCharacter with description: Accessed None trying to read property CantUseWidget
+[2017.12.08-12.39.57:490][ 24]LogNet: Browse: /Game/Maps/Jigsaw_01
+[2017.12.08-12.39.57:490][ 24]LogLoad: LoadMap: /Game/Maps/Jigsaw_01
+[2017.12.08-12.39.57:514][ 24]Cmd: MEM
+[2017.12.08-12.39.57:692][ 24]LogMemory: Platform Memory Stats for Windows
+[2017.12.08-12.39.57:692][ 24]LogMemory: Process Physical Memory: 1593.79 MB used, 1750.82 MB peak
+[2017.12.08-12.39.57:692][ 24]LogMemory: Process Virtual Memory: 2652.50 MB used, 2678.03 MB peak
+[2017.12.08-12.39.57:692][ 24]LogMemory: Physical Memory: 6198.10 MB used,  10104.05 MB free, 16302.15 MB total
+[2017.12.08-12.39.57:692][ 24]LogMemory: Virtual Memory: 3508.33 MB used,  10104.05 MB free, 134217728.00 MB total
+[2017.12.08-12.39.57:692][ 24]LogMemory: 
+[2017.12.08-12.39.57:692][ 24]Allocator Stats for TBB: (not implemented)
+[2017.12.08-12.39.58:099][ 24]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 64X64)
+[2017.12.08-12.39.58:099][ 24]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 64X64)
+[2017.12.08-12.39.58:099][ 24]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2017.12.08-12.39.58:099][ 24]LogTexture: Display: Building textures: JigsawBoard (BGRA8, 454X340)
+[2017.12.08-12.39.58:099][ 24]LogTexture: Display: Building textures: Jigsaw_01_Pieces (BGRA8, 1866X1080)
+[2017.12.08-12.39.58:099][ 24]LogTexture: Display: Building textures: Full_Img (AutoDXT, 1024X672)
+[2017.12.08-12.39.59:484][ 24]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.197 s
+[2017.12.08-12.39.59:485][ 24]LogOutputDevice: Error: === Handled ensure: ===
+[2017.12.08-12.39.59:485][ 24]LogOutputDevice: Error: 
+[2017.12.08-12.39.59:485][ 24]LogOutputDevice: Error: Ensure condition failed: IsObjectValidForDatabase(AssetObject) [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Editor\BlueprintGraph\Private\BlueprintActionDatabase.cpp] [Line: 1315]
+[2017.12.08-12.39.59:485][ 24]LogOutputDevice: Error: 
+[2017.12.08-12.39.59:485][ 24]LogOutputDevice: Error: Stack: 
+[2017.12.08-12.39.59:485][ 24]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000070C83E36
+[2017.12.08-12.39.59:485][ 24]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000070A0C2D2
+[2017.12.08-12.39.59:485][ 24]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000070A24746
+[2017.12.08-12.39.59:485][ 24]LogOutputDevice: Error: UE4Editor-BlueprintGraph.dll!0x000000006C97D5D9
+[2017.12.08-12.39.59:485][ 24]LogOutputDevice: Error: UE4Editor-BlueprintGraph.dll!0x000000006C94C90D
+[2017.12.08-12.39.59:485][ 24]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x0000000070260F67
+[2017.12.08-12.39.59:485][ 24]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x000000007056B666
+[2017.12.08-12.39.59:485][ 24]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x0000000070581766
+[2017.12.08-12.39.59:485][ 24]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x0000000070580CB2
+[2017.12.08-12.39.59:485][ 24]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000609FE10B
+[2017.12.08-12.39.59:485][ 24]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000609B6AE8
+[2017.12.08-12.39.59:485][ 24]LogOutputDevice: Error: UE4Editor-Engine.dll!0x0000000060A1D89D
+[2017.12.08-12.39.59:485][ 24]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000006E54BF80
+[2017.12.08-12.39.59:485][ 24]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000006EDDD646
+[2017.12.08-12.39.59:485][ 24]LogOutputDevice: Error: UE4Editor.exe!0x0000000076DE534A
+[2017.12.08-12.39.59:485][ 24]LogOutputDevice: Error: UE4Editor.exe!0x0000000076DF3970
+[2017.12.08-12.39.59:485][ 24]LogOutputDevice: Error: UE4Editor.exe!0x0000000076DF39EA
+[2017.12.08-12.39.59:485][ 24]LogOutputDevice: Error: UE4Editor.exe!0x0000000076E002D9
+[2017.12.08-12.39.59:485][ 24]LogOutputDevice: Error: UE4Editor.exe!0x0000000076E01C47
+[2017.12.08-12.39.59:485][ 24]LogOutputDevice: Error: KERNEL32.DLL!0x00000000AC8E2774
+[2017.12.08-12.39.59:485][ 24]LogOutputDevice: Error: ntdll.dll!0x00000000ACA50D51
+[2017.12.08-12.39.59:485][ 24]LogOutputDevice: Error: 
+[2017.12.08-12.39.59:491][ 24]LogStats:                SubmitErrorReport -  0.000 s
